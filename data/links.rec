@@ -2671,3 +2671,11 @@ Link: https://news.ycombinator.com/item?id=32381550
 Body: Increasing the performance by helping the compiler to optimize switch statements.\n\n> @LGB actually in V8 (JS engine used by google chrome) you need to jump through a lot of hoops to get switch case optimized: All the cases must be of same type. All the cases must either be string literals or 31-bit signed integer literals. And there must be less than 128 cases. And even after all those hoops, all you get is what you would have gotten with if-elses anyway (I.E. no jump tables or sth like that)\n
 Category: craftsmanship
 Tags: emulator, calculator, optimization, switch-statement, jump-table, javascript, js, v8, google, opcode, ti-84, imported, hacker-news
+
+Id: 99f879f8-17d6-11ed-9623-0242ac110003
+Date: Thu Jan  1 00:00:00 1970
+Title:
+Link: https://news.ycombinator.com/item?id=6072457098
+Body: An article about Effective Altruism, its founder (MacAskill), other people involved (Bankman-Fried).
+Category: craftsmanship
+Tags: effective-altruism, earn-to-give, charity, altruism, philosophy, imported, hacker-news
