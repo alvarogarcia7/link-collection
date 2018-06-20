@@ -4,5 +4,5 @@ build:
 
 .PHONY: run
 run:
-	docker run --rm -it -v ${PWD}/data:/recs/data derecerca/recutils /bin/bash
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils /bin/bash
 
