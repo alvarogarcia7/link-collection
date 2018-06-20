@@ -1,0 +1,18 @@
+%rec: Link
+%key: Id
+%type: Title line
+%type: Tag line
+%type: Id uuid
+%type: Date date
+%auto: Id Date
+
+Id: 2fe0978c-748b-11e8-9ce0-0242ac110002
+Date: Wed, 20 Jun 2018 13:09:38 +0000
+Title: Hello World!
+Tag: bye
+
+Id: 3654683c-748b-11e8-ad4c-0242ac110002
+Date: Wed, 20 Jun 2018 13:09:49 +0000
+Title: Hello World!
+Tag: hello
+Tag: bye
