@@ -1,0 +1,8 @@
+%rec: Link
+%key: Id
+%type: Title line
+%type: Tag line
+%type: Id uuid
+%type: Date date
+%auto: Id Date
+
