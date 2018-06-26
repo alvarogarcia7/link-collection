@@ -18,10 +18,24 @@ sub read_until_ctrl_d {
 
   return @result; 
 }
-  
-print "Input title (1 line)\n";
-my $title = <STDIN>;
-chomp $title;
+
+sub remove_whitespace {
+  my ($text) = @_;
+  chomp $text;
+  $text =~ s/^\s*//;
+  return $text;
+}
+
+sub read_one_line {
+  my ($prompt) = @_;
+  print $prompt;
+  my $rawResult = <STDIN>;
+  my $result = remove_whitespace($rawResult);
+  return $result;
+}
+
+my $title = read_one_line("Input title (1 line, mandatory)\n");
+my $link =  read_one_line("Input link (1 line, optional)\n");
 
 my $body = join('\n', read_until_ctrl_d("Input body, as is. Ctrl+D to finish inputting\n"));
 
@@ -34,6 +48,7 @@ my @tagsAsFields = map {"-f Tag -v \"$_\""} @tags2;
 ## Prepare command
 my $command="recins -t Link ";
 $command.="-f Title -v \"$title\" ";
+$command.="-f Link -v \"$link\" ";
 $command.="-f Body -v \"$body\" ";
 $command.=join(' ', @tagsAsFields);
 $command.=' data/links.rec';
