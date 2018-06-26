@@ -6,3 +6,15 @@
 %type: Date date
 %auto: Id Date
 
+Id: a1a6925a-7958-11e8-a87f-0242ac110002
+Date: Tue, 26 Jun 2018 15:50:21 +0000
+Title: Don't look, don't tell
+Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.\n\nExplains full disclosure, responsible disclosure and bug bounties.
+Tag: david-bonilla, bonilista, security, full-disclosure, responsible-disclosure, bug-bounty, reporting, hacker, cracker
+
+Id: c72f3522-7958-11e8-935c-0242ac110002
+Date: Tue, 26 Jun 2018 15:51:24 +0000
+Title: La vida de las ideas
+Body: I've read this bonilista by David Bonilla about the value of the ideas and what differentiates a good idea from a good execution from a good outcome
+Tag: david-bonilla, idea, startup, execution, value
+
