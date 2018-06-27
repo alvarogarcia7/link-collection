@@ -259,3 +259,411 @@ Tag: money
 Tag: career
 Tag: career-management
 Tag: fiodar-sazanavets
+
+Id: e5d53f46-7a1e-11e8-9097-0242ac110002
+Date: Wed, 27 Jun 2018 15:29:35 +0000
+Title: What is a "10x" Programmer?
+Link: https://dev.to/nathanepstein/what-is-a-10x-programmer
+Body: I've read this article about makes a good programmer, under the label of the mythical 10x programmer.\n\nThere are two different groups of things in the list: things you are/have (skills) and things you do (actitudes). On the former, writing code (good, business code that is correctly organized, architected, designed), to know a lot. On the latter, ownership for the project (implication, care), teaching and learning from others.\n
+Tag: 10x
+Tag: author
+Tag: productivity
+Tag: skill
+Tag: attitude
+Tag: aptitude
+Tag: attitude-vs-aptitude
+Tag: nathan-epstein
+
+Id: f7f8a73a-7a1e-11e8-836d-0242ac110002
+Date: Wed, 27 Jun 2018 15:30:06 +0000
+Title: Why Podcasts Have Become Popular
+Link: http://www.donnfelker.com/why-podcasts-have-become-popular/
+Body: I've read this article by Donn Felker on the effect that the Internet is having on consumers: they now decide when to consume the resources, instead of passively waiting for the resources to appear.\n\nThis is the suggested explanation for on-demand video vs television, podcasts vs radio
+Tag: podcast
+Tag: on-demand
+Tag: consumer
+Tag: internet
+Tag: donn-felker
+
+Id: 0862fbca-7a1f-11e8-83fb-0242ac110002
+Date: Wed, 27 Jun 2018 15:30:33 +0000
+Title: Don’t Know What You Want? Improve These 7 Universal Skills
+Link: Self-Discipline: Get better at ignoring the negative voice in your head. Get out of your bed. Go to the gym. Don’t listen to “I don’t want to.”
+Body: Personal Effectiveness: Learn how to maximize the results you can get during the 16–18 hours you’re awake. Get more done — effectively.\nCommunication: We think we’re all master communicators. But the truth is that we suck. Communication is both art and science. And our ability to work with others depends on it.\nNegotiation: You negotiate all the time. With your spouse, kids, parents, teachers, friends, co-workers, managers, etc. Learn to get the best deal for all parties.\nPersuasion: Learn how to get what you want in an ethical way.\nPhysical Strength & Stamina: Getting stronger is a skill. Pull your own weight. It’s something every human should be able to do.\nFlexibility: Sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves — the most common weak points of desk workers.
+
+Id: 14f5e064-7a1f-11e8-be86-0242ac110002
+Date: Wed, 27 Jun 2018 15:30:54 +0000
+Title: Your Concentration Training Program: 11 Exercises That Will Strengthen Your Attention
+Link: https://www.artofmanliness.com/2014/01/30/your-concentration-training-program-11-exercises-that-will-strengthen-your-attention/
+Body: I've read this article by Brett & Kate McKay on exercises for training the attention
+Tag: brett-mckay
+Tag: kate-mckay
+Tag: training
+Tag: concentration
+Tag: exercise
+Tag: focus
+Tag: attention
+
+Id: 3f41e6ec-7a1f-11e8-85fc-0242ac110002
+Date: Wed, 27 Jun 2018 15:32:05 +0000
+Title: The Great Attention Heist
+Link: https://lareviewofbooks.org/article/the-great-attention-heist/
+Body: I've read this article by John Bell, John Zada on the current war for attention, what they call the 'attention heist': publishers fight for your attention, selling it to third parties. The more they can lure you to spend your (finite) attention with them, the higher the profits.\n\nThey talk about two kinds of attention: short span and long span. Reading news is the first while reading a book or a long article is the second one.\n\nThey mention unplugging (i.e., a "digital sabbath") to help improving the level of concentration\n\n(this was a book review, of 'The attention merchants', by Tim Wu)
+Tag: john-bell
+Tag: john-zada
+Tag: attention-heist
+Tag: attention
+Tag: app
+Tag: smartphone
+Tag: book-review
+Tag: tim-wu
+Tag: book
+Tag: sabbath
+Tag: digital-sabbath
+Tag: long-article
+
+Id: c451a048-7a1f-11e8-82f7-0242ac110002
+Date: Wed, 27 Jun 2018 15:35:49 +0000
+Title: How to read more books
+Link: http://verraes.net/2012/12/2012-12-23-how-to-read-more-books/
+Body:
+Tag: mathias-verraes
+Tag: reading
+Tag: tips-and-tricks
+Tag: self-study
+Tag: training
+
+Id: dc8f92dc-7a1f-11e8-818a-0242ac110002
+Date: Wed, 27 Jun 2018 15:36:29 +0000
+Title: Serving 100 Gbps from an Open Connect Appliance
+Link: https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99
+Body: I've read this article on how Netflix has optimized their servers to be able to send TLS content at 100 Gbps, using openbsd.
+Tag: netflix
+Tag: openbsd
+Tag: performance
+Tag: optimization
+Tag: drew-gallatin
+
+Id: 1c603222-7a20-11e8-8f75-0242ac110002
+Date: Wed, 27 Jun 2018 15:38:16 +0000
+Title: RebelLabs Developer Productivity Report 2017: Why do you use the Java tools you use?
+Link: https://zeroturnaround.com/rebellabs/developer-productivity-report-2017-why-do-you-use-java-tools-you-use/
+Body:
+Tag: java-ee
+Tag: spring
+Tag: kotlin
+Tag: java
+Tag: jvm
+Tag: scala
+Tag: clojure
+Tag: productivity
+Tag: rebel-labs
+Tag: oleg-shelajev
+Tag: zero-turnaround
+Tag: 2017
+Tag: report
+Tag: comparison
+
+Id: 2ac58bdc-7a20-11e8-a82d-0242ac110002
+Date: Wed, 27 Jun 2018 15:38:40 +0000
+Title: Why paper is the real 'killer app'
+Link: http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app
+Body: I've read this article by Alison Birrane on how working on a low-tech device is different than on a high-tech device (e.g., taking notes on a paper sheet vs on a laptop). On how it stimulates different parts of the brain. The multiple uses of the paper as compared to the narrowness of the apps.
+Tag: alison-birrane
+Tag: killer-app
+Tag: comparison
+Tag: media
+Tag: social-media
+Tag: gadget
+Tag: low-tech
+Tag: technology
+Tag: smartphone
+
+Id: 388125f6-7a20-11e8-aae6-0242ac110002
+Date: Wed, 27 Jun 2018 15:39:04 +0000
+Title: Self-Study Guide to Machine Learning
+Link: https://machinelearningmastery.com/self-study-guide-to-machine-learning/
+Body:
+Tag: self-study
+Tag: machine-learning
+Tag: jason-brownlee
+
+Id: 457003ea-7a20-11e8-a3ff-0242ac110002
+Date: Wed, 27 Jun 2018 15:39:25 +0000
+Title: Breaking Up the Behemoth
+Link:
+Body: I've read this article by Sandi Metz explaining how applications evolve, and what we might do if we're unhappy with the results using:  Design Stamina Hypothesis (Fowler), Procedural vs Object-Oriented Code and X.
+Tag: ood
+Tag: object-orientation
+Tag: sandi-metz
+Tag: martin-fowler
+Tag: design-stamina
+Tag: quality
+Tag: behemoth
+Tag: monolith
+
+Id: 53a89846-7a20-11e8-abd1-0242ac110002
+Date: Wed, 27 Jun 2018 15:39:49 +0000
+Title: 10 Hard Things to Start Doing for Yourself
+Link: http://www.marcandangel.com/2017/09/24/10-hard-things-to-start-doing-for-yourself/
+Body: I've read this self-help article on how to help yourself by doing hard things:\n\n> Start letting go of unnecessary ideals\n> Start putting your heart and soul into the things you do\n> Start stretching yourself just beyond the edge of comfort\n> Start taking more deep breaths, so you can mindfully collect more lessons for the long run\n> Start side-stepping senseless drama\n> Start staying true to your values and convictions\n> Start looking for silver linings\n> Start focusing inward more often\n> Start embracing your humanness and giving yourself more credit\n> Start taking the next small, insignificant step (one at a time, every day). \n\n\nBy Marc Chernoff
+Tag: marc-chernoff
+Tag: self-help
+Tag: meditation
+Tag: breathing
+Tag: comfort-zone
+Tag: help
+
+Id: 9737002a-7a20-11e8-a864-0242ac110002
+Date: Wed, 27 Jun 2018 15:41:42 +0000
+Title: Happiness is overrated — finding deep meaning in life comes down to 4 'pillars'
+Link: http://www.businessinsider.com/emily-esfehani-smith-finding-meaning-life-4-pillars-2017-9
+Body: I've read this article about what life is about: not happiness but four pillars: belonging and purpose, transcendence and storytelling\nstorytelling helps people create meaning because it allows people to create, edit, and transform the story of their lives
+Tag: happiness
+Tag: life
+Tag: fulfillment
+Tag: pillar
+Tag: belonging
+Tag: purpose
+Tag: flow
+Tag: transcendence
+Tag: storytelling
+Tag:
+Tag: chris-weller
+
+Id: a3e1c936-7a20-11e8-8fbe-0242ac110002
+Date: Wed, 27 Jun 2018 15:42:04 +0000
+Title: It’s time to kill the web
+Link: https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89
+Body: I've read this article that explains the background of the web and how it wasn't designed to support applications but documents. Explains the downsides and security profile of a webapp as compared to a desktop/native application. By Mike Hearn
+Tag: comparison
+Tag: web-app
+Tag: application
+Tag: app
+Tag: desktop-app
+Tag: native-app
+Tag: mike-hearn
+Tag: security
+Tag: html
+Tag: html5
+Tag: javascript
+Tag: web
+
+Id: b2ddd326-7a20-11e8-9af5-0242ac110002
+Date: Wed, 27 Jun 2018 15:42:29 +0000
+Title: How to Stay Focused When You’re Working from Home
+Link: https://hbr.org/2017/09/how-to-stay-focused-when-youre-working-from-home&formCheck=bc3e82f422e9567c25d37e403ee877e6
+Body: I've read this article on structuring your workday while being at home (remote work).\n\nSome tips:\n\n1. Structure for success\n1. Schedule your day: when it's work-related time and when not\n1. Set boundaries\n\nBy Elizabeth Grace Saunders
+Tag: remote
+Tag: remote-work
+Tag: hbr
+Tag: harvard-business-review
+Tag: elizabeth-saunders
+
+Id: c8742b18-7a20-11e8-b36f-0242ac110002
+Date: Wed, 27 Jun 2018 15:43:05 +0000
+Title: Cognitive Biases in Programming
+Link: https://hackernoon.com/cognitive-biases-in-programming-5e937707c27b
+Body: I've read this article that explains some cognitive biases (prejudices of our mind) while programming:\n\n1. Hyperbolic Discounting: Going for an immediate payoff instead of a delayed larger one\n1. IKEA Effect:Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions. Also called the "Not-Invented-Here (NIH) Syndrome"\n1. Premature Optimization: Optimizing before you know that you need to.\n1. Planning Fallacy: Optimistically underestimating the time required to complete a task\n1. Recency Bias: Placing higher value on recent events than ones that occurred further in the past\n\n> We can never completely eliminate our biases, by being aware of how it is affecting us, we can somewhat mitigate the problems it causes.\n\nBy Yash Ranadive\n
+Tag: yash-ranadive
+Tag: bias
+Tag: programming
+Tag: mind
+
+Id: dcd43756-7a20-11e8-b0ee-0242ac110002
+Date: Wed, 27 Jun 2018 15:43:39 +0000
+Title: Keybase launches encrypted git
+Link: https://keybase.io/blog/encrypted-git-for-everyone
+Body: I've read how to encrypt git repositories using keybase
+Tag: keybase
+Tag: git
+Tag: encryption
+Tag: security
+Tag: private-key
+Tag: public-key
+Tag: storage
+Tag: archive
+
+Id: f611b626-7a20-11e8-8172-0242ac110002
+Date: Wed, 27 Jun 2018 15:44:22 +0000
+Title: General and Surprising
+Link: http://paulgraham.com/sun.html
+Body: I've read this article about how information can be classified as general vs specific and surprising vs unsurprising. How it's best to find a small surprising general thing.\n
+Tag: paul-graham
+Tag: surprising
+Tag: general
+Tag: information
+Tag: classification
+
+Id: 25b1e5d6-7a21-11e8-a838-0242ac110002
+Date: Wed, 27 Jun 2018 15:45:41 +0000
+Title: I built a server-less Telegram bot over a weekend and here’s what I learned
+Link: https://medium.com/@moses.soh/how-to-build-a-server-less-telegram-bot-227f842f4706
+Body: I've read this article on creating a telegram chatbot for a specific purpose. Connects two people (first one subscribes, then the other asks for help and the first is contacted) so the first helps the second. By Moses Soh
+Tag: telegram
+Tag: chatbot
+Tag: app
+Tag: moses-soh
+Tag: side-project
+Tag: pet-project
+Tag: project
+
+Id: 5d73322c-7a21-11e8-8e1a-0242ac110002
+Date: Wed, 27 Jun 2018 15:47:15 +0000
+Title: Reviewing Ethereum Smart Contracts
+Link: https://blog.gdssecurity.com/labs/2017/9/27/reviewing-ethereum-smart-contracts.html
+Body: I've read this article about how to review ethereum contracts and a concrete example of an attack to a smart contract
+Tag: ethereum
+Tag: smart-contract
+Tag: crypto-currency
+Tag: ico
+Tag: trustless
+Tag: security
+Tag: code-review
+
+Id: ea81381c-7a21-11e8-b418-0242ac110002
+Date: Wed, 27 Jun 2018 15:51:12 +0000
+Title: Keep Calm and Carry On - Scaling Your Org with Microservices
+Link: https://bridgetkromhout.com/speaking/2017/srecon/
+Body: I've read the slides of this presentation by Bridget Kromhout and Charity Majors about organizations and microservices: the main problem is the communication
+Tag: charity-majors
+Tag: bridget-kromhout
+Tag: microservice
+Tag: organization
+Tag: communication
+Tag: devops
+
+Id: f6c70a98-7a21-11e8-a896-0242ac110002
+Date: Wed, 27 Jun 2018 15:51:32 +0000
+Title: Guía al movimiento #NoEstimates
+Link: https://jeronimopalacios.com/2016/09/guia-al-movimiento-noestimates/
+Body: I've read this article by Jeronimo Palacios, giving an overview of the no estimates movement.
+Tag: no-estimates
+Tag: jeronimo-palacios
+Tag: agile
+Tag: scrum
+Tag: estimate
+Tag: forecast
+Tag: management
+
+Id: 01a58660-7a22-11e8-b4f8-0242ac110002
+Date: Wed, 27 Jun 2018 15:51:50 +0000
+Title: Core competence
+Link: http://www.economist.com/node/12231124
+Body: I've read this article describing what a core competence is and how can we find out if a competence is considered core or not.
+Tag: economy
+Tag: definition
+Tag: core-competence
+Tag: core-business
+Tag: management
+Tag: prahalad
+Tag: gary-hamel
+
+Id: 0e85e3f2-7a22-11e8-b818-0242ac110002
+Date: Wed, 27 Jun 2018 15:52:12 +0000
+Title: How I stopped procrastinating, learned to code, and launched my first product
+Link: https://dev.to/lynnetye/how-i-stopped-procrastinating-learned-to-code-and-launched-my-first-product-2i1
+Body: I've read this article explaining some tips and tricks to launch a side project. By Lynne Tye
+Tag: lynne-tye
+Tag: tips-and-tricks
+Tag: product
+Tag: side-project
+Tag: launch
+Tag: business
+Tag: lean
+Tag: startup
+Tag: product-management
+
+Id: 18bc20c0-7a22-11e8-9209-0242ac110002
+Date: Wed, 27 Jun 2018 15:52:29 +0000
+Title: When are Citi Bikes Faster than Taxis in New York City?
+Link: http://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/
+Body: I've read this article by Todd Schneider analysing how city bikes compare to taxis in New York city.\n\nGood analysis, using a Monte Carlo simulation, written in R. Good data visualization.
+Tag: todd-schneider
+Tag: data-visualization
+Tag: map
+Tag: city-bike
+Tag: taxi
+Tag: cab
+Tag: new-york
+Tag: new-york-city
+Tag: comparison
+Tag: data
+Tag: data-analytics
+Tag: monte-carlo
+Tag: simulation
+Tag: r
+
+Id: 23b8350e-7a22-11e8-a9f3-0242ac110002
+Date: Wed, 27 Jun 2018 15:52:48 +0000
+Title: Java 9 and IntelliJ IDEA
+Link: https://blog.jetbrains.com/idea/2017/09/java-9-and-intellij-idea/
+Body: I've read this article by Trisha Gee about upcoming features to IntelliJ Idea 2017.3, centered around java 9 features
+Tag: trisha-gee
+Tag: java-9
+Tag: jdk-9
+Tag: java
+Tag: jdk
+Tag: intellij-idea
+Tag: ide
+Tag: ide-support
+Tag: jetbrains
+
+Id: 2e36336e-7a22-11e8-9424-0242ac110002
+Date: Wed, 27 Jun 2018 15:53:05 +0000
+Title: Learn from your attackers - SSH HoneyPot
+Link: https://www.robertputt.co.uk/learn-from-your-attackers-ssh-honeypot.html
+Body: I've read this article on how to setup a honey pot machine using honssh. By Robert Putt
+Tag: robert-putt
+Tag: honey-pot
+Tag: security
+Tag: honeypot
+Tag: honssh
+Tag: attacker
+
+Id: 398cc606-7a22-11e8-b33c-0242ac110002
+Date: Wed, 27 Jun 2018 15:53:24 +0000
+Title: To type or not to type: quantifying detectable bugs in JavaScript
+Link: https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
+Body: I've read this paper commentary by Adrian Colyer (on a paper by Zheng Gao, Christian Bird, Earl T. Barr) on a study that tries to reproduce fixes for defects based on the dynamic to static typing system. \n\n>  both Flow and TypeScript are pretty good, and conservatively either of them can prevent about 15% of the bugs that end up in committed code.\n\nIt's interesting to see these effects quantified: \n\n> Running the binomial test on the results shows that, at the confidence level of 95%, the true percentage of detectable bugs for Flow and TypeScript falls into [11.5%, 18.5%] with mean 15%.\n\nAlso, some recommendations for the future: for typescript and flow to be compatible for more gains.\n\nOriginal paper: http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf
+Tag: zheng-gao
+Tag: christian-bird
+Tag: earl-barr
+Tag: typescript
+Tag: javascript
+Tag: flow
+Tag: bug
+Tag: defect
+Tag: type-system
+Tag: dynamic-typing
+Tag: static-typing
+
+Id: 44fe19ae-7a22-11e8-8e06-0242ac110002
+Date: Wed, 27 Jun 2018 15:53:43 +0000
+Title: How Artificial Intelligence Can Be Used For Password Guessing
+Link: https://medium.com/@heyfebin/how-artificial-intelligence-can-be-used-for-password-guessing-cf4fd4184a46
+Body: I've read this article by Febin John James on how neural networks can learn from the leaked passwords and try to guess passwords for existing users
+Tag: febin-james
+Tag: ai
+Tag: artificial-intelligence
+Tag: generative-adversarial-neural-network
+Tag: gann
+Tag: gan
+Tag: nn
+Tag: neural-network
+Tag: guessing
+Tag: password
+
+Id: 509c472c-7a22-11e8-81d7-0242ac110002
+Date: Wed, 27 Jun 2018 15:54:03 +0000
+Title: Chrome to force .dev domains to HTTPS via preloaded HSTS
+Link: https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
+Body: I've read this article by Mattias Geniar explaining the having the new Chrome redirecting .dev domains to https means that people using said .dev for local development will have to either provide a https server on their machines or change to another domain
+Tag: mattias-geniar
+Tag: chrome
+Tag: http
+Tag: https
+Tag: server
+Tag: development
+Tag: test
+Tag: machine

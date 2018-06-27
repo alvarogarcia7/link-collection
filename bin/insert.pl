@@ -37,6 +37,7 @@ sub read_one_line {
 }
 
 my $title = read_one_line("Input title (1 line, mandatory)\n");
+$title =~ s/"/\\"/g;
 my $link =  read_one_line("Input link (1 line, optional)\n");
 
 ## If link in Markdown format
