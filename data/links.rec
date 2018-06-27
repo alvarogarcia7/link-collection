@@ -667,3 +667,226 @@ Tag: server
 Tag: development
 Tag: test
 Tag: machine
+
+Id: 6866497a-7a22-11e8-af91-0242ac110002
+Date: Wed, 27 Jun 2018 15:54:43 +0000
+Title: Six Ways to Functional FizzBuzz with Vavr
+Link: https://www.sitepoint.com/functional-fizzbuzz-with-vavr/
+Body: I've read this article by Gregor Trefs about solving the fizzbuzz kata using vavr, importing some concepts from functional programming
+Tag: functional-programming
+Tag: gregor-trefs
+Tag: vavr
+Tag: case-statement
+Tag: pattern-matching
+Tag: functional
+Tag: kata
+Tag: fizzbuzz
+
+Id: 74f60720-7a22-11e8-a9a3-0242ac110002
+Date: Wed, 27 Jun 2018 15:55:04 +0000
+Title: More Women Take on Role of CFO — at Home
+Link: https://paidpost.nytimes.com/northern-trust/more-women-take-on-role-of-cfo-at-home.html
+Body: I've read this article on how women act as CFO of their houses (managing 30% of the world's wealth), how they teach money and meaning to their children.
+Tag: money-management
+Tag: cfo
+Tag: women
+Tag: gender
+Tag: home
+Tag: house
+
+Id: 80c233ee-7a22-11e8-8743-0242ac110002
+Date: Wed, 27 Jun 2018 15:55:24 +0000
+Title: The Internet of Things is sending us back to the Middle Ages
+Link: https://thenextweb.com/lifestyle/2017/09/13/internet-things-sending-us-back-middle-ages/
+Body: I've read this article by JOSHUA A.T. FAIRFIELD on the right-to-own, right-to-repair and property. \n\nOn the difference in the real property of a smartphone vs a car. On the imaginary, they are the same, but in contractual terms, there is a big difference.
+Tag: joshua-fairfield
+Tag: right-to-repair
+Tag: bill
+Tag: law
+Tag: property
+Tag: smartphone
+Tag: eula
+Tag: license
+Tag: clause
+Tag: imaginary
+
+Id: 92c637d4-7a22-11e8-baba-0242ac110002
+Date: Wed, 27 Jun 2018 15:55:54 +0000
+Title: An In-Depth Guide to Personal Cybersecurity
+Link: https://medium.com/@nickrosener/an-in-depth-guide-to-personal-cybersecurity-be98ba47c968
+Body: I've read this guide to personal security in the net, by Nick Rosener. Examples include 2fa, password management, app security, phone security, etc
+Tag: nick-rosener
+Tag: 2fa
+Tag: mfa
+Tag: password
+Tag: security
+Tag: phone
+
+Id: a0be3cd8-7a22-11e8-a5aa-0242ac110002
+Date: Wed, 27 Jun 2018 15:56:17 +0000
+Title: Como generar "fake data" en nuestros tests de aceptación
+Link: http://programmeratwork.com/2017/09/06/Como-generar-fake-data-en-nuestros-tests-de-aceptacion/
+Body: I've read this article (in Spanish) by Ricardo Borillo on using and generating fake data for our tests
+Tag: ricardo-borillo
+Tag: borillo
+Tag: fake-data
+Tag: npm
+Tag: npm-module
+Tag: acceptance-testing
+Tag: test
+Tag: test-data
+Tag: spanish
+
+Id: 46ffc936-7a23-11e8-882f-0242ac110002
+Date: Wed, 27 Jun 2018 16:00:56 +0000
+Title: Making Crash Bandicoot – GOOL – part 9
+Link: http://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/
+Body: I've read this article by Andy Gavin on making a lisp for games, an embedded language inside another language.\n\nGOOL prefers the power and maintainability of a lisp rather than the raw power of a lower-level programming language
+Tag: andy-gavin
+Tag: lisp
+Tag: gool
+Tag: crash-bandicoot
+Tag: game
+Tag: game-development
+
+Id: 5174beda-7a23-11e8-bf1e-0242ac110002
+Date: Wed, 27 Jun 2018 16:01:14 +0000
+Title: History of Symbolics lisp machines - Rebuttal to Stallman’s Story About The Formation of Symbolics and LMI
+Link: https://danluu.com/symbolics-lisp-machines/
+Body: I've read this article by Dan Weinreb on the history of lisp machines, the AI winter and the rebuttal of some stories by Richard M. Stallman
+Tag: dan-weinreb
+Tag: lisp
+Tag: symbolics
+Tag: rms
+Tag: richard-stallman
+Tag: lisp-machine
+Tag: lmi
+Tag: dan-luu
+Tag: ai-winter
+Tag: ai
+
+Id: 5bd0ece6-7a23-11e8-8014-0242ac110002
+Date: Wed, 27 Jun 2018 16:01:31 +0000
+Title: free-for-dev
+Link: https://github.com/ripienaar/free-for-dev/blob/master/README.md
+Body: I've read this list of (free) resources for programmers
+Tag: free-resource
+Tag: resource
+Tag: service
+Tag: amazon
+Tag: aws
+Tag: free-tier
+Tag: free-trial
+Tag: github
+
+Id: 67c8032c-7a23-11e8-9ab7-0242ac110002
+Date: Wed, 27 Jun 2018 16:01:51 +0000
+Title: Every Programmer Should Know
+Link: https://github.com/mr-mig/every-programmer-should-know
+Body: I've read this page on things a programmer should know
+Tag: github
+Tag: programmer
+Tag: knowledge
+
+Id: 72b999a8-7a23-11e8-b831-0242ac110002
+Date: Wed, 27 Jun 2018 16:02:10 +0000
+Title: Haste Makes Waste When You Over-Staff to Achieve Schedule Compression
+Link: http://www.qsm.com/risk_02.html
+Body: I've read this article by Quantitative Software Management (QSM) on how software projects are affected by the size of the team producing it, with charts and based on previous investigation
+Tag: research
+Tag: meta-research
+Tag: quality
+Tag: software
+Tag: software-quality
+Tag: qsm
+Tag: quantitative-software-management
+
+Id: 7d3d216a-7a23-11e8-8d31-0242ac110002
+Date: Wed, 27 Jun 2018 16:02:27 +0000
+Title: Hacking back considered harmful?
+Link: https://blog.0day.rocks/hacking-back-considered-harmful-1ea38f882e8f
+Body: I've read this article by x0rz, a security researcher, on hacking back\n\n> active countermeasure that result in limiting the attacker capabilities\n\nAnd whether it is ethical to do it, even if it were illegal\n\n> Ethics is knowing the difference between what you have a right to do and what is right to do. — Potter Stewart
+Tag: x0rz
+Tag: security
+Tag: hacking
+Tag: hacking-back
+Tag: ethic
+Tag: legality
+Tag: law
+Tag: quote
+Tag: potter-stewart
+Tag: countermeasure
+Tag: attacker
+
+Id: 8bda1c3c-7a23-11e8-b1cb-0242ac110002
+Date: Wed, 27 Jun 2018 16:02:52 +0000
+Title: Kurt Gödel—Separating Truth from Proof in Mathematics
+Link: http://science.sciencemag.org/content/sci/298/5600/1899.full.pdf?sid=c031062c-8030-4e2c-8716-04409d7abefb
+Body: I've read this article by Keith Devlin on Goedel's work, especially on the Incompleteness theorem 
+Tag: kurt-godel
+Tag: kurt-goedel
+Tag: incompleteness-theorem
+Tag: bertrand-russell
+Tag: alfred-north
+Tag: principia-mathematica
+Tag: david-hilbert
+Tag: mathematics
+Tag: theorem
+Tag: computability
+Tag: philosophy
+
+Id: 97e67a7a-7a23-11e8-bc72-0242ac110002
+Date: Wed, 27 Jun 2018 16:03:12 +0000
+Title: ML for the working programmer, 2nd edition - chapter 5
+Link: https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter5.pdf
+Body: I've read this chapter, to better understand finite and infinite data structures. Talks about streams (called sequences in ML), HOFs, lambda calculus. The book is by Lawrence Paulson\n\nSome of my examples are in \n\n * https://github.com/alvarogarcia7/haskell-simple-sessions/blob/master/trees/src/Trees.hs\n * https://github.com/alvarogarcia7/javascript-simple-sessions/tree/master/streams
+Tag: book
+Tag: chapter
+Tag: lawrence-paulson
+Tag: ml
+Tag: sequence
+Tag: hof
+Tag: lambda-calculus
+Tag: combinator
+Tag: stream
+Tag: lazy-list
+Tag: data-structure
+Tag: infinite-list
+Tag: higher-order-function
+Tag: function-composition
+
+Id: a4263c08-7a23-11e8-86c0-0242ac110002
+Date: Wed, 27 Jun 2018 16:03:33 +0000
+Title: how to hack the uk tax system, i guess
+Link: https://medium.com/@Zemnmez/how-to-hack-the-uk-tax-system-i-guess-3e84b70f8b
+Body: I've read this investigation of how a security investigator found a security defect in the UK tax system page and the process of reporting it and seeing it fixed
+Tag: zemnmez
+Tag: open-source
+Tag: uk
+Tag: hmrc
+Tag: responsible-disclosure
+
+Id: b0788d3a-7a23-11e8-82df-0242ac110002
+Date: Wed, 27 Jun 2018 16:03:53 +0000
+Title: Indirect Sale-Value Models
+Link: http://www.catb.org/esr/writings/magic-cauldron/magic-cauldron-9.html
+Body: I've read this article on models for selling/monetising open source. By Eric S. Raymond
+Tag: eric-raymond
+Tag: open-source
+Tag: monetization
+
+Id: bc93aaf0-7a23-11e8-8ffe-0242ac110002
+Date: Wed, 27 Jun 2018 16:04:14 +0000
+Title: I’ll never bring my phone on an international flight again. Neither should you
+Link: https://medium.freecodecamp.org/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f
+Body: I've read this article by Quincy Larson on what happens when you bring your phone over to the US
+Tag: us
+Tag: phone
+Tag: privacy
+Tag: quincy-larson
+Tag: international-flight
+Tag: cross-border-flight
+Tag: flight
+Tag: device
+Tag: laptop
+Tag: burner-phone
