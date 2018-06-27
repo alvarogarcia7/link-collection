@@ -45,6 +45,7 @@ if ($title =~ m/\[.*\]\(.*\)/) {
 }
 
 my $body = join('\n', read_until_ctrl_d("Input body, as is. Ctrl+D to finish inputting\n"));
+$body =~ s/"/\\"/g;
 
 ##Fake
 #my $title = "title";
