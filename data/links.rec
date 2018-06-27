@@ -97,3 +97,165 @@ Tag: artificial-intelligence
 Tag: deep-learning
 Tag: monte-carlo
 Tag: monte-carlo-tree-search
+
+Id: 6735c620-7a1d-11e8-a2e9-0242ac110002
+Date: Wed, 27 Jun 2018 15:18:53 +0000
+Title: La tienda
+Link:
+Body: I've read this bonilista by David Bonilla on how more and more investors are deciding to do it only on profitable startups rather than a more global strategy\n
+Tag: david-bonilla
+Tag: bonilista
+Tag: investor
+Tag: startup
+
+Id: 7e2fbffc-7a1d-11e8-bbd2-0242ac110002
+Date: Wed, 27 Jun 2018 15:19:32 +0000
+Title: I’m not a woman in tech
+Link: https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/
+Body: I've read this article by Maria Scrivener on how she does not consider herself a woman in tech. She prefers to lose the labels and just be considered her, herself. Advocates for being inclusive rather than exclusive\n
+Tag: feminism
+Tag: women-in-tech
+Tag: maria-scrivener
+Tag: women
+Tag: label
+Tag: equality
+
+Id: 97212f3c-7a1d-11e8-bdcd-0242ac110002
+Date: Wed, 27 Jun 2018 15:20:14 +0000
+Title: PASSWORD SECURITY ALERT
+Link: https://blog.8tracks.com/2017/06/27/password-security-alert/
+Body: I've read this article by David Porter in which they alert their users that their database has been leaked, therefore some passwords are at risk.\n\nThe passwords were hashed and salted, not stored in plain text, but those who share a password across services could be at risk.\n\nThe attack has been successful given that a developer didn't have two-factor authentication (2FA) on their github account and the company was using GitHub LFS (git large file system) to store database backups
+Tag: david-porter
+Tag: backup
+Tag: storage
+Tag: configuration
+Tag: github
+Tag: 2fa
+Tag: plain-text
+Tag: password
+Tag: security
+Tag: security-alert
+Tag: lfs
+Tag: git-lfs
+Tag: github-lfs
+
+Id: a942bf96-7a1d-11e8-b122-0242ac110002
+Date: Wed, 27 Jun 2018 15:20:44 +0000
+Title: Matthew Green
+Link: https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/
+Body: I've read this article by Matthew Green on the ideas presented by Shamir in 1984: Identity Based Cryptography (IBE), Attribute Based Cryptography (ABE)\n\n
+Tag: rsa
+Tag: matthew-green
+Tag: cryptography
+Tag: identity-based-cryptography
+Tag: attribute-based-cryptography
+Tag: shamir
+Tag: public-key
+Tag: encryption
+Tag: private-key
+
+Id: b3ffb61e-7a1d-11e8-a08c-0242ac110002
+Date: Wed, 27 Jun 2018 15:21:02 +0000
+Title: Starbucks should really make their APIs public
+Link: https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
+Body: I've read this article by Nick Lee in which he explains how he has reverse-engineered the Starbucks API so you can connect to it from another device (not only phones, with the app installed)\n
+Tag: certificate-pinning
+Tag: tendigi
+Tag: nick-lee
+Tag: security
+Tag: man-in-the-middle
+Tag: proxy
+Tag: api
+Tag: attribute-fingerprinting
+Tag: open-api
+Tag: starbucks
+
+Id: dbb1ff46-7a1d-11e8-b40e-0242ac110002
+Date: Wed, 27 Jun 2018 15:22:09 +0000
+Title: Feature Toggles are one of the Worst kinds of Technical Debt
+Link: https://dzone.com/articles/feature-toggles-are-one-worst
+Body: I've read this article on the ups and downs of using feature toggles.\n\nEspecially with long lived branches and feature by abstraction
+Tag: feature-by-abstraction
+Tag: feature-toggle
+Tag: canary-test
+Tag: jim-bird
+Tag: technical-debt
+
+Id: f13f63bc-7a1d-11e8-a6a2-0242ac110002
+Date: Wed, 27 Jun 2018 15:22:45 +0000
+Title: TestContainers: making Java integration tests easy
+Link: https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
+Body: I've read this article on how to start a new docker container from Java code (using a junit @rule).\n\nUsing the library TestContainers
+Tag: testcontainers
+Tag: rebel-labs
+Tag: anton-arhipov
+Tag: test
+Tag: docker
+Tag: image
+Tag: integration-test
+Tag: testing
+
+Id: 15740b0c-7a1e-11e8-9169-0242ac110002
+Date: Wed, 27 Jun 2018 15:23:46 +0000
+Title: Code Health: To Comment or Not to Comment?
+Link: http://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html
+Body: I've read this article about comments in code: where to use them and when not to
+Tag: dori-reuveni
+Tag: kevin-bourrillion
+Tag: comment
+Tag: clean-code
+
+Id: 5228464e-7a1e-11e8-9125-0242ac110002
+Date: Wed, 27 Jun 2018 15:25:28 +0000
+Title: Saints and Traders: The John Henry Fable Reconsidered
+Link: https://www.ribbonfarm.com/2014/06/04/saints-and-traders-the-john-henry-fable-reconsidered/
+Body: I've read this article on the guardian syndrome and the Saint syndrome.\n\nExplains the story of John Henry, who died right after winning a drilling contest with a machine.\n\nExplains the finite game and the infinite game.
+Tag: finite-game
+Tag: infinite-game
+Tag: saint-syndrome
+Tag: guardian-syndrome
+Tag: comparison
+Tag: philosophy
+Tag: venkatesh-rao
+Tag: john-henry
+
+Id: 6e3df860-7a1e-11e8-ba6a-0242ac110002
+Date: Wed, 27 Jun 2018 15:26:15 +0000
+Title: Stacked Pull Requests: Keeping GitHub Diffs Small
+Link: https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/
+Body: I've read this article on using a technique (stacked pull requests) to keep pull requests small and get more feedback, more comments from teammates, therefore reducing the code review fatigue. By Grayson Koonce
+Tag: grayson-koonce
+Tag: fatigue
+Tag: code-fatigue
+Tag: pull-request
+Tag: pull-request-fatigue
+Tag: stacked-pull-request
+Tag: technique
+Tag: comment
+Tag: feedback
+Tag: teammate
+Tag: team
+
+Id: 7ab3fcd4-7a1e-11e8-9590-0242ac110002
+Date: Wed, 27 Jun 2018 15:26:36 +0000
+Title: I hate almost all software
+Link: http://tinyclouds.org/rant.html
+Body: I've read this article by Ryan Dahl on the focus of the software and the inherent complexity of today's software
+Tag: ryan-dahl
+Tag: complexity
+Tag: software
+Tag: rant
+
+Id: a4e26bee-7a1e-11e8-ac68-0242ac110002
+Date: Wed, 27 Jun 2018 15:27:46 +0000
+Title: The Real Reason for Developers’ Salaries Stagnation
+Link: https://simpleprogrammer.com/developers-salaries-stagnation/
+Body: Im this article, the author speaks of developer salaries related to their skills, proficiency, area of interest and role. Also about the real purchasing power stagnation.
+Tag: salary
+Tag: skill
+Tag: role
+Tag: position
+Tag: money
+Tag: career
+Tag: career-management
+Tag: fiodar-sazanavets
