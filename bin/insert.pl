@@ -39,6 +39,11 @@ sub read_one_line {
 my $title = read_one_line("Input title (1 line, mandatory)\n");
 my $link =  read_one_line("Input link (1 line, optional)\n");
 
+## If link in Markdown format
+if ($title =~ m/\[.*\]\(.*\)/) {
+  ($title, $link) = $title =~ m/\[(.*)\]\((.*)\)/;
+}
+
 my $body = join('\n', read_until_ctrl_d("Input body, as is. Ctrl+D to finish inputting\n"));
 
 ##Fake
