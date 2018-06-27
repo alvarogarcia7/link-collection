@@ -890,3 +890,349 @@ Tag: flight
 Tag: device
 Tag: laptop
 Tag: burner-phone
+
+Id: cfe1bdfe-7a23-11e8-b024-0242ac110002
+Date: Wed, 27 Jun 2018 16:04:46 +0000
+Title:  Remote Starter Kit
+Link: http://www.remotestarterkit.com
+Body: I've read this page detailing some tools for a remote position
+Tag: remote
+Tag: remote-work
+Tag: remote-tool
+Tag: tool
+Tag: starter-kit
+
+Id: dc842498-7a23-11e8-8b35-0242ac110002
+Date: Wed, 27 Jun 2018 16:05:07 +0000
+Title: Moving Java Forward Faster
+Link: https://mreinhold.org/blog/forward-faster
+Body: I've read this article by Mark Reinhold, explaining his proposal for a faster java release train, changing from every two years to every six months.
+Tag: release
+Tag: mark-reinhold
+Tag: release-management
+Tag: release-train
+Tag: java
+Tag: sun
+Tag: oracle
+Tag: brian-goetz
+Tag: jre
+Tag: jdk
+
+Id: e799c860-7a23-11e8-9f75-0242ac110002
+Date: Wed, 27 Jun 2018 16:05:26 +0000
+Title: Keeping a tidy life
+Link: https://medium.com/@ctrlaltjustine/keeping-a-tidy-life-f01bbe2a9b3e
+Body: I've read this article by Justine Arreche on how she manages her productivity tools: calendar, todo list; for all the activities in her life
+Tag: justine-arreche
+Tag: productivity
+Tag: management
+Tag: calendar
+Tag: todo-list
+Tag: activity
+Tag: time-management
+
+Id: f66efafe-7a23-11e8-ae3d-0242ac110002
+Date: Wed, 27 Jun 2018 16:05:51 +0000
+Title: To Understand Rising Inequality, Consider the Janitors at Two Top Companies, Then and Now
+Link: https://www.nytimes.com/2017/09/03/upshot/to-understand-rising-inequality-consider-the-janitors-at-two-top-companies-then-and-now.html
+Body: I've read this article by Neil Irwin on inequality, explaining the professional career of two janitors at two different companies, in a different period of time.
+Tag: neil-irwin
+Tag: inequality
+Tag: kodak
+Tag: apple
+Tag: janitor
+Tag: mercer
+Tag: drucker
+Tag: management
+Tag: career-management
+Tag: career
+Tag: cto
+Tag: cio
+
+Id: 03cbbfca-7a24-11e8-927a-0242ac110002
+Date: Wed, 27 Jun 2018 16:06:13 +0000
+Title: Episode 8: Interview with Ryan Dahl, Creator of Node.js
+Link: https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs
+Body: I've read [the transcription of] this interview, to Ryan Dahl.\n\nIn it, he describes his view of Node.js and how it is not well-suited for building massive web servers, but could be appropriate for web applications
+Tag: ryan-dahl
+Tag: go
+Tag: microservice
+Tag: web-app
+Tag: interview
+Tag: podcast
+Tag: web-server
+Tag: go
+Tag: golang
+
+Id: 0db84e2c-7a24-11e8-ac3c-0242ac110002
+Date: Wed, 27 Jun 2018 16:06:30 +0000
+Title: The Recovering Programmer
+Link: http://prog21.dadgum.com/56.html
+Body: I've read this article by James Hague on the user-centric vision and how he faces the problems related to programming
+Tag: programming
+Tag: user-centric
+Tag: vision
+Tag: game
+Tag: assembler
+Tag: james-hague
+Tag: recovering-programmer
+
+Id: 192eae72-7a24-11e8-bc6c-0242ac110002
+Date: Wed, 27 Jun 2018 16:06:49 +0000
+Title: We Who Value Simplicity Have Built Incomprehensible Machines
+Link: http://prog21.dadgum.com/139.html
+Body: I've read this article by  James Hague on examples of libraries that went wrong. How we should have said 'no' early on instead of accepting it. A blog post about simplicity
+Tag: james-hague
+Tag: simplicity
+Tag: library
+Tag: complexity
+Tag: example
+
+Id: 24c02266-7a24-11e8-bddd-0242ac110002
+Date: Wed, 27 Jun 2018 16:07:08 +0000
+Title: Rapid release at massive scale
+Link: https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/
+Body:
+
+Id: 3136db02-7a24-11e8-b84e-0242ac110002
+Date: Wed, 27 Jun 2018 16:07:29 +0000
+Title: Having a "work wife" or "work husband" is good for your career
+Link: https://www.linkedin.com/pulse/having-work-wife-husband-good-your-career-rebecca-holman
+Body: I've read this article by Rebecca Holman explaining what is a work spouse (i.e., a trusted equal to bounce off ideas, discuss, advance together). Not a mentor, not a trusted boss, not someone reporting to you.\n\nExplains some of the benefits of finding that role.
+Tag: rebecca-holman
+Tag: work-wife
+Tag: work-husband
+Tag: work-spouse
+Tag: team-management
+Tag: work
+Tag: job
+Tag: pairing
+Tag: mentor
+
+Id: 3df70628-7a24-11e8-9c3c-0242ac110002
+Date: Wed, 27 Jun 2018 16:07:51 +0000
+Title: REST APIs are REST-in-Peace APIs. Long Live GraphQL.
+Link: https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
+Body: I've read this article about GraphQL and its comparison to REST APIs
+Tag: graphql
+Tag: rest
+Tag: api
+Tag: data
+Tag: comparison
+Tag: samer-buna
+
+Id: 492eebb4-7a24-11e8-bcec-0242ac110002
+Date: Wed, 27 Jun 2018 16:08:10 +0000
+Title: History of Lisp
+Link: http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+Body: I've read this paper by John McCarthy explaining the history of lisp
+Tag: john-mccarthy
+Tag: lisp
+Tag: invention
+Tag: language
+Tag: list-processing
+Tag: s-expression
+Tag: m-expression
+Tag: data
+Tag: code
+Tag: lisp-dialect
+Tag: fortran
+Tag: ibm
+
+Id: 54e4e076-7a24-11e8-abd6-0242ac110002
+Date: Wed, 27 Jun 2018 16:08:29 +0000
+Title: Software development 450 words per minute
+Link: https://www.vincit.fi/en/blog/software-development-450-words-per-minute/
+Body: I've read this article in which Tuukka Ojala explains how his tools for a (blind) software developer: the screen reader, the browser, the braille reader
+Tag: tuukka-ojala
+Tag: blindness
+Tag: accesibility
+Tag: browser
+Tag: screen-reader
+Tag: braille-reader
+Tag: braille
+Tag: disability
+
+Id: 5eea69ce-7a24-11e8-8842-0242ac110002
+Date: Wed, 27 Jun 2018 16:08:46 +0000
+Title: Compare your efforts: 30 vs 3000 LOC for very simple MEAN app
+Link: http://blog.allcountjs.com/post/128771961651/compare-efforts
+Body: I've read this article that explains the difference between business value and technical value: a feature for the business could be very valuable but technically costly; also the other way around: they are independent variables.\n\nAlso explains that some value in development can be obtained quicker by using a framework, such as the tool that allcountjs provides: 30 lines to generate the equivalent business features to 3000 lines
+Tag: allcountjs
+Tag: mean
+Tag: comparison
+Tag: crud
+Tag: framework
+Tag: javascript
+Tag: frontend
+Tag: productivity
+Tag: business-value
+Tag: technical-value
+Tag: cost
+
+Id: 699d067e-7a24-11e8-9962-0242ac110002
+Date: Wed, 27 Jun 2018 16:09:04 +0000
+Title: GitHub Integration
+Link: https://medium.com/@leanpub/github-integration-6f6d81847230
+Body: I've read this article explaining how to integrate leanpub with github: write your book (e.g., in markdown) and store it in git, then publish automatically to leanpub
+Tag: leanpub
+Tag: github
+Tag: integration
+Tag: self-publishing
+Tag: publishing
+Tag: book
+Tag: tool
+Tag: toolchain
+
+Id: 7b5f342c-7a24-11e8-b858-0242ac110002
+Date: Wed, 27 Jun 2018 16:09:34 +0000
+Title: WYSIWTF
+Link: https://alistapart.com/column/wysiwtf
+Body: I've read this article by Karen McGrane explaining the desktop publishing and the difference between writing and formatting for the web. Also, inline editing
+Tag: karen-mcgrane
+Tag: editing
+Tag: formatting
+Tag: desktop-publishing
+Tag: medium
+Tag: wysiwyg
+
+Id: 866b41b2-7a24-11e8-9c54-0242ac110002
+Date: Wed, 27 Jun 2018 16:09:52 +0000
+Title: What I’m talking about when I talk about TDD
+Link: https://medium.com/@ramtop/what-im-talking-about-when-i-talk-about-tdd-546a383468be
+Body: I've read this article by Uberto Barbini in which he describes his re-discovery of TDD as a tool to design
+Tag: uberto-barbini
+Tag: tdd
+Tag: rediscovery
+Tag: kent-beck
+Tag: test-driven-development
+
+Id: 9c543506-7a24-11e8-8c9b-0242ac110002
+Date: Wed, 27 Jun 2018 16:10:29 +0000
+Title: SE-Radio Episode 273: Steve McConnell on Software Estimation
+Link: http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/
+Body: Sven Johann interviews Steve McConnell about software estimation and planning.\n\nTalks about intrinsic risk management and extrinsic risk management\n\nExplains that you should manage the risk so the most uncertain is tackled in the beginning. At the retro (following the demo), you get risk identification (as root cause analysis based on not delivering as expected)\n\n> The goal of Agile was not to be able to change all the time, but to adapt to change\n\n\n\n> Embrace change
+Tag: cone-of-uncertainty
+Tag: agile
+Tag: project-management
+Tag: risk
+Tag: sven-johann
+Tag: steve-mcconnell
+Tag: iteration
+Tag: scrum
+Tag: risk-identification
+
+Id: a90cf1ac-7a24-11e8-a69e-0242ac110002
+Date: Wed, 27 Jun 2018 16:10:50 +0000
+Title: Software Psychology with Bjorn Freeman Benson
+Link: https://softwareengineeringdaily.com/2017/03/28/software-psychology-with-bjorn-freeman-benson/
+Body: I've listened to this podcast on psychology
+Tag: software-engineering-daily
+Tag: bjorn-benson
+Tag: psychology
+Tag: walled-garden
+
+Id: b2056db6-7a24-11e8-97d3-0242ac110002
+Date: Wed, 27 Jun 2018 16:11:05 +0000
+Title: Using CQRS to Make Controllers Lean with Derek Comartin
+Link: https://softwareengineeringdaily.com/2017/03/10/using-cqrs-to-make-controllers-lean-with-derek-comartin/
+Body: I've listened to this podcast on CQRS
+Tag: cqrs
+Tag: derek-comartin
+Tag: command-query-responsibility-segregation
+Tag: greg-young
+Tag: udi-dahan
+Tag: red-book
+Tag: ddd
+Tag: domain-driven-design
+Tag: podcast
+Tag: software-engineering-daily
+
+Id: bc6e1190-7a24-11e8-b19a-0242ac110002
+Date: Wed, 27 Jun 2018 16:11:23 +0000
+Title: Elm In Production: 25,000 Lines Later
+Link: https://functional.works-hub.com/blog/Elm-In-Production-25-000-Lines-Later
+Body: I've read this article by Christian Charukiewicz explaining how he started a new project and a new feature in Elm. How he explained this new technology to his teammates and how it is going now.\n\nExplains the pros and cons for the language.
+Tag: christian-charukiewicz
+Tag: elm
+Tag: compiler
+Tag: experience-report
+Tag: frontend
+Tag: functional-language
+Tag: functional-programming
+
+Id: c2416c52-7a24-11e8-b692-0242ac110002
+Date: Wed, 27 Jun 2018 16:11:33 +0000
+Title: Growing Up with Alexa
+Link: https://www.technologyreview.com/s/608430/growing-up-with-alexa/
+Body:
+
+Id: cb789e76-7a24-11e8-bdb2-0242ac110002
+Date: Wed, 27 Jun 2018 16:11:48 +0000
+Title: Jony’s Patience
+Link: https://medium.com/@mkruz/jony-s-patience-670d5a3dc128
+Body: I've read this article by Mike Kruzeniski explaining part of John Ive career at Apple and explaining part of the design process the Apple Watch had.
+Tag: ux
+Tag: design
+Tag: apple
+Tag: watch
+Tag: john-ive
+Tag: mike-kruzeniski
+Tag: career
+Tag: career-management
+
+Id: d4b6a596-7a24-11e8-b245-0242ac110002
+Date: Wed, 27 Jun 2018 16:12:04 +0000
+Title: The Four Month Bug: JVM statistics cause garbage collection pauses
+Link: http://www.evanjones.ca/jvm-mmap-pause.html
+Body: I've read this blog post by Evan Jones as an example of unknown unknown
+Tag: evan-jones
+Tag: unknown-unknown
+Tag: java
+Tag: mmap
+Tag: garbage-collector
+Tag: pause
+Tag: unknown
+
+Id: dddee4c6-7a24-11e8-b11f-0242ac110002
+Date: Wed, 27 Jun 2018 16:12:19 +0000
+Title: The pleasure of building big things
+Link: http://rc3.org/2015/03/24/the-pleasure-of-building-big-things/
+Body: I've read this article explaining that big projects take time to be created.\n\nThe temptation is all around us, to accelerate feedback loops, create products more quickly, release earlier. That has the tension of being 'half-baked' products, that have not achieved the minimum level of loveable feature and, thus, not used.
+Tag: time
+Tag: focus
+Tag: rafe-colburn
+Tag: product
+Tag: lean
+
+Id: e91565cc-7a24-11e8-8849-0242ac110002
+Date: Wed, 27 Jun 2018 16:12:38 +0000
+Title: Choose Boring Technology
+Link: http://mcfunley.com/choose-boring-technology/
+Body: I've read this article by Dan McKinley about how choosing boring (i.e., well-proven) technology can help you focus on your company goals and how 'the best tool for the job' is not always the case, as the job depends on who you ask: developers, ops, business.
+Tag: dan-mckinley
+Tag: boring
+Tag: technology
+Tag: proven
+Tag: production-ready
+Tag: development
+Tag: operations
+Tag: focus
+Tag: business
+Tag: goal
+Tag: best-tool-for-the-job
+
+Id: fe723d14-7a24-11e8-ab5c-0242ac110002
+Date: Wed, 27 Jun 2018 16:13:14 +0000
+Title: Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated]
+Link: https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320
+Body: I have read this document
+Tag: google
+Tag: scandal
+Tag: sexism
+
+Id: 172e94e2-7a25-11e8-86cc-0242ac110002
+Date: Wed, 27 Jun 2018 16:13:55 +0000
+Title: Check Your Work
+Link: https://8thlight.com/blog/connor-mendenhall/2013/10/31/check-your-work.html
+Body:
