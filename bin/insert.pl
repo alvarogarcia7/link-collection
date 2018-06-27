@@ -72,7 +72,7 @@ my @tags2 =
 #    .map { my @tags=split(/,/, $_); @tags }
 #    .flat;
 
-print (map {"$_\n"} @tags2);
+#print (map {"$_\n"} @tags2);
 my @tagsAsFields = map {"-f Tag -v \"$_\""} @tags2;
 
 ## Prepare command
@@ -84,6 +84,6 @@ $command.=join(' ', @tagsAsFields);
 $command.=' data/links.rec';
 
 ## Dry run
-#print "$command\n";
+print "$command\n";
 
 `$command`
