@@ -80,3 +80,20 @@ Tag: david-bonilla
 Tag: bonilista
 Tag: net-neutrality
 Tag: internet
+
+Id: 0cb8305c-7a1d-11e8-9823-0242ac110002
+Date: Wed, 27 Jun 2018 15:16:22 +0000
+Title: A machine has figured out Rubik's Cube all by itself
+Link: https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/
+Body: I've read this article explaining how an AI has solved the rubik cube by itself. The team, including McAleer, has used a technique called "autodidactic iteration: a way for the machine to create its own system of rewards.\n
+Tag: rubik
+Tag: rubik-cube
+Tag: ai
+Tag: autodidactic-iteration
+Tag: autodidactic
+Tag: reward
+Tag: mcaleer
+Tag: artificial-intelligence
+Tag: deep-learning
+Tag: monte-carlo
+Tag: monte-carlo-tree-search
