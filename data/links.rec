@@ -1236,3 +1236,75 @@ Date: Wed, 27 Jun 2018 16:13:55 +0000
 Title: Check Your Work
 Link: https://8thlight.com/blog/connor-mendenhall/2013/10/31/check-your-work.html
 Body:
+
+Id: 454f53fc-7dd6-11e8-8208-0242ac110003
+Date: Mon, 02 Jul 2018 08:59:47 +0000
+Title: The Haskell Pyramid
+Link: https://patrickmn.com/software/the-haskell-pyramid/
+Body: I've read this article on how the productivity for Haskell is achieved: not using the topics discussed on social networks (monads, functors, laws, lenses, etc) but using more basic tools
+Tag: haskell
+Tag: productivity
+Tag: lucas-di-cioccio
+Tag: learning
+Tag: development
+Tag: tool
+Tag: monad
+Tag: hype
+Tag: pyramid
+Tag: productive-haskell-bar
+Tag: bar
+
+Id: ef00176e-7ddc-11e8-a33b-0242ac110003
+Date: Mon, 02 Jul 2018 09:47:29 +0000
+Title: El verde más verde
+Link: https://mailchi.mp/bonillaware/verde-mas-verde?e=68e22b460d
+Body: I've read this article on how to structure creative projects (e.g., UX, programming) by professionals, as told by David Bonilla.
+Tag: david-bonilla
+Tag: bonilista
+Tag: project-management
+Tag: slack-time
+Tag: sabbatical
+Tag: vertical-slice
+
+Id: 40d68542-7dff-11e8-89f2-0242ac110003
+Date: Mon, 02 Jul 2018 13:53:09 +0000
+Title: How to Fix Burnout as a Developer
+Link: https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl
+Body: I've read this article on burnout and how to fix it:\nStop working so much.\nPrioritize your health.\nTry something new.\nPatience is key.\nTalk to your loved ones.
+Tag: lewis-menelaws
+Tag: burnout
+Tag: burn-out
+Tag: productivity
+Tag: listicle
+Tag: career
+Tag: psychology
+Tag: management
+Tag: time-management
+Tag: career-management
+Tag: health
+
+Id: 9003a91a-7dff-11e8-a366-0242ac110003
+Date: Mon, 02 Jul 2018 13:55:22 +0000
+Title: Ask HN: What is the first thing you implement at a new company?
+Link: https://news.ycombinator.com/item?id=17353854
+Body: I've read this article on the first things that people do when joining a new client.\nMentions the Chesterton's fence: You don’t want to change something until you understand why it’s there in the first place.
+Tag: chesterton-fence
+Tag: hacker-news
+Tag: contractor
+Tag: client
+Tag: onboarding
+Tag: fix
+
+Id: 736e269e-7e00-11e8-ac4a-0242ac110003
+Date: Mon, 02 Jul 2018 14:01:43 +0000
+Title: The Fallacy Of Chesterton's Fence
+Link: https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence/
+Body: I've read this article on the Chesterton's fence.\n> don’t ever take a fence down until you know the reason why it was put up\n\nThe author explains that the walls (or contracts, or clauses, or practices) were put in place to cover for a specific need. Do not assume that this need does not exist now, before understanding what the need was in the first place.
+Tag: chesterton-fence
+Tag: keith-lee
+Tag: consulting
+Tag: tip
+Tag: analogy
+Tag: discovery
+Tag: process
+Tag: people
