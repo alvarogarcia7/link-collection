@@ -1308,3 +1308,52 @@ Tag: analogy
 Tag: discovery
 Tag: process
 Tag: people
+
+Id: c20e6ac4-8fe5-11e8-b54e-0242ac110003
+Date: Wed, 25 Jul 2018 08:36:00 +0000
+Title: A brief history of the UUID
+Link: https://segment.com/blog/a-brief-history-of-the-uuid/
+Body: A brief history of UUID: of how it was developed, why, and a new library in go called ksuid\nExplains the origins of networked computers (as opposed to personal computers without any networking) in the 1980s.\nAlso explains the origins of the UUID, some algorithms for generating them.
+Tag: ksuid
+Tag: uuid
+Tag: golang
+Tag: go
+Tag: rick-branson
+Tag: history
+
+Id: 962c0c26-8fe6-11e8-bf2c-0242ac110003
+Date: Wed, 25 Jul 2018 08:41:55 +0000
+Title: Delivering billions of messages exactly once
+Link: https://segment.com/blog/exactly-once-delivery/
+Body: Explains how this company (segment) has solved the problem of delivering the messages once and only once (OAOO), using RocksDB, Kafka, UUIDs. Deployed to AWS, lowers the cost of the previous system (memcached-based).\nImpressive numbers: 1.5 TB worth of keys stored on disk in RocksDB\na 4-week window of de-duplication before aging out old keys\napproximately 60B keys stored inside our RocksDB instances\n200B messages passed through the dedupe system\nAlso explains in depth how RocksDB works
+Tag: rocksdb
+Tag: facebook
+Tag: database
+Tag: once-and-only-once
+Tag: oaoo
+Tag: message
+Tag: exactly-once-delivery
+Tag: delivery
+Tag: message-delivery
+Tag: kafka
+Tag: uuid
+Tag: client
+Tag: aws
+Tag: segment
+Tag: topic
+Tag: cloud-scale
+
+Id: f7e738c8-8fe6-11e8-89be-0242ac110003
+Date: Wed, 25 Jul 2018 08:44:39 +0000
+Title: Object Collaboration Stereotypes
+Link: http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html
+Body: This post describes the relationships between two objects:\nDependencies are services that the object needs from its environment so that it can fulfil its responsibilities.\nNotifications are other parts of the system that need to know when the object changes state or performs an action.\nPolicies are objects that tweak or adapt the object's behaviour to the needs of the system.\nParts are components in the implementation that are not controlled from outside the object after being set.
+Tag: dependency
+Tag: notification
+Tag: policy
+Tag: part
+Tag: collaborator
+Tag: relationship
+Tag: steve-freeman
+Tag: goos
+Tag: growing-object-oriented-software
