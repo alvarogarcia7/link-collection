@@ -1357,3 +1357,18 @@ Tag: relationship
 Tag: steve-freeman
 Tag: goos
 Tag: growing-object-oriented-software
+
+Id: ea7281ee-9012-11e8-bd95-0242ac110003
+Date: Wed, 25 Jul 2018 13:59:15 +0000
+Title: Mocks, Fakes, Stubs and Dummies
+Link: http://xunitpatterns.com/Mocks,%20Fakes,%20Stubs%20and%20Dummies.html
+Body: Bibliography for mocks, stubs, fakes, dummies, spies.
+Tag: mock
+Tag: stub
+Tag: test-double
+Tag: dummy
+Tag: xunit
+Tag: xunit-pattern
+Tag: gerard-meszaros
+Tag: xunitpatterns
+
