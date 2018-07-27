@@ -87,4 +87,4 @@ $command.=' data/links.rec';
 ## Dry run
 print "$command\n";
 
-#`$command`
+`$command`
