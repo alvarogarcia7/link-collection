@@ -1,289 +1,156 @@
 %rec: Link
 %key: Id
 %type: Title line
-%type: Tag line
+%type: Tags line
 %type: Id uuid
 %type: Date date
 %auto: Id Date
+
 
 Id: a1a6925a-7958-11e8-a87f-0242ac110002
 Date: Tue, 26 Jun 2018 15:50:21 +0000
 Title: Don't look, don't tell
 Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.\n\nExplains full disclosure, responsible disclosure and bug bounties.
-Tag: david-bonilla
-Tag: bonilista
-Tag: security
-Tag: full-disclosure
-Tag: responsible-disclosure
-Tag: bug-bounty
-Tag: reporting
-Tag: hacker
-Tag: cracker
+Tags: david-bonilla, bonilista, security, full-disclosure, responsible-disclosure, bug-bounty, reporting, hacker, cracker
 
 Id: c72f3522-7958-11e8-935c-0242ac110002
 Date: Tue, 26 Jun 2018 15:51:24 +0000
 Title: La vida de las ideas
 Body: I've read this bonilista by David Bonilla about the value of the ideas and what differentiates a good idea from a good execution from a good outcome
-Tag: david-bonilla
-Tag: idea
-Tag: startup
-Tag: execution
-Tag: value
+Tags: david-bonilla, idea, startup, execution, value
 
 Id: ea43a380-7959-11e8-bd3b-0242ac110002
 Date: Tue, 26 Jun 2018 15:59:32 +0000
 Title: Why re-frame instead of om next
 Link: http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMzY1MTcxNyIsImRlbGl2ZXJ5X2lkIjoiMTE1NTgzOTE5MCIsInVybCI6Imh0dHBzOi8vcHVyZWx5ZnVuY3Rpb25hbC50di9hcnRpY2xlL3doeS1yZS1mcmFtZS1pbnN0ZWFkLW9mLW9tLW5leHQvP19fcz1mOXA2dmRwc2N0YmluaGJxYnE2eiJ9
 Body: I've read this article by Eric Normand on why he chose to write a course on clojure front-end framework\n
-Tag: eric-normand
-Tag: clojure
-Tag: david-nolen
-Tag: frontend
-Tag: framework
-Tag: reframe
-Tag: om-next
-Tag: comparison
-Tag: course
-Tag: mooc
+Tags: eric-normand, clojure, david-nolen, frontend, framework, reframe, om-next, comparison, course, mooc
 
 Id: 1aa20256-795a-11e8-9b39-0242ac110002
 Date: Tue, 26 Jun 2018 16:00:53 +0000
 Title: LexNET: el software que nunca debió existir
 Link:
 Body: I've read this bonilista by David Bonilla on the software called LexNET and the scandal around it\n
-Tag: david-bonilla
-Tag: lexnet
-Tag: bonilista
-Tag: software
-Tag: scandal
-Tag: spain
+Tags: david-bonilla, lexnet, bonilista, software, scandal, spain
 
 Id: 296a433e-795a-11e8-981e-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:18 +0000
 Title: 40
 Link:
 Body: I have read this bonilista by David Bonilla explaining some of the things he has learned from 40 years of experience in life. Explains some of his fears and how he has solved them.\n\n
-Tag: david-bonilla
-Tag: bonilista
-Tag: birthday
-Tag: reflection
-Tag: fear
-Tag: money
-Tag: money-management
+Tags: david-bonilla, bonilista, birthday, reflection, fear, money, money-management
 
 Id: 395a8984-795a-11e8-9102-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:45 +0000
 Title: La lucha por la Red
 Link:
 Body: I've read this bonilista by David Bonilla on the net neutrality in Spain and in the European union.\n
-Tag: david-bonilla
-Tag: bonilista
-Tag: net-neutrality
-Tag: internet
+Tags: david-bonilla, bonilista, net-neutrality, internet
 
 Id: 0cb8305c-7a1d-11e8-9823-0242ac110002
 Date: Wed, 27 Jun 2018 15:16:22 +0000
 Title: A machine has figured out Rubik's Cube all by itself
 Link: https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/
 Body: I've read this article explaining how an AI has solved the rubik cube by itself. The team, including McAleer, has used a technique called "autodidactic iteration: a way for the machine to create its own system of rewards.\n
-Tag: rubik
-Tag: rubik-cube
-Tag: ai
-Tag: autodidactic-iteration
-Tag: autodidactic
-Tag: reward
-Tag: mcaleer
-Tag: artificial-intelligence
-Tag: deep-learning
-Tag: monte-carlo
-Tag: monte-carlo-tree-search
+Tags: rubik, rubik-cube, ai, autodidactic-iteration, autodidactic, reward, mcaleer, artificial-intelligence, deep-learning, monte-carlo, monte-carlo-tree-search
 
 Id: 6735c620-7a1d-11e8-a2e9-0242ac110002
 Date: Wed, 27 Jun 2018 15:18:53 +0000
 Title: La tienda
 Link:
 Body: I've read this bonilista by David Bonilla on how more and more investors are deciding to do it only on profitable startups rather than a more global strategy\n
-Tag: david-bonilla
-Tag: bonilista
-Tag: investor
-Tag: startup
+Tags: david-bonilla, bonilista, investor, startup
 
 Id: 7e2fbffc-7a1d-11e8-bbd2-0242ac110002
 Date: Wed, 27 Jun 2018 15:19:32 +0000
 Title: I’m not a woman in tech
 Link: https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/
 Body: I've read this article by Maria Scrivener on how she does not consider herself a woman in tech. She prefers to lose the labels and just be considered her, herself. Advocates for being inclusive rather than exclusive\n
-Tag: feminism
-Tag: women-in-tech
-Tag: maria-scrivener
-Tag: women
-Tag: label
-Tag: equality
+Tags: feminism, women-in-tech, maria-scrivener, women, label, equality
 
 Id: 97212f3c-7a1d-11e8-bdcd-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:14 +0000
 Title: PASSWORD SECURITY ALERT
 Link: https://blog.8tracks.com/2017/06/27/password-security-alert/
 Body: I've read this article by David Porter in which they alert their users that their database has been leaked, therefore some passwords are at risk.\n\nThe passwords were hashed and salted, not stored in plain text, but those who share a password across services could be at risk.\n\nThe attack has been successful given that a developer didn't have two-factor authentication (2FA) on their github account and the company was using GitHub LFS (git large file system) to store database backups
-Tag: david-porter
-Tag: backup
-Tag: storage
-Tag: configuration
-Tag: github
-Tag: 2fa
-Tag: plain-text
-Tag: password
-Tag: security
-Tag: security-alert
-Tag: lfs
-Tag: git-lfs
-Tag: github-lfs
+Tags: david-porter, backup, storage, configuration, github, 2fa, plain-text, password, security, security-alert, lfs, git-lfs, github-lfs
 
 Id: a942bf96-7a1d-11e8-b122-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:44 +0000
 Title: Matthew Green
 Link: https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/
 Body: I've read this article by Matthew Green on the ideas presented by Shamir in 1984: Identity Based Cryptography (IBE), Attribute Based Cryptography (ABE)\n\n
-Tag: rsa
-Tag: matthew-green
-Tag: cryptography
-Tag: identity-based-cryptography
-Tag: attribute-based-cryptography
-Tag: shamir
-Tag: public-key
-Tag: encryption
-Tag: private-key
+Tags: rsa, matthew-green, cryptography, identity-based-cryptography, attribute-based-cryptography, shamir, public-key, encryption, private-key 
 
 Id: b3ffb61e-7a1d-11e8-a08c-0242ac110002
 Date: Wed, 27 Jun 2018 15:21:02 +0000
 Title: Starbucks should really make their APIs public
 Link: https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
 Body: I've read this article by Nick Lee in which he explains how he has reverse-engineered the Starbucks API so you can connect to it from another device (not only phones, with the app installed)\n
-Tag: certificate-pinning
-Tag: tendigi
-Tag: nick-lee
-Tag: security
-Tag: man-in-the-middle
-Tag: proxy
-Tag: api
-Tag: attribute-fingerprinting
-Tag: open-api
-Tag: starbucks
+Tags: certificate-pinning, tendigi, nick-lee, security, man-in-the-middle, proxy, api, attribute-fingerprinting, open-api, starbucks
 
 Id: dbb1ff46-7a1d-11e8-b40e-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:09 +0000
 Title: Feature Toggles are one of the Worst kinds of Technical Debt
 Link: https://dzone.com/articles/feature-toggles-are-one-worst
 Body: I've read this article on the ups and downs of using feature toggles.\n\nEspecially with long lived branches and feature by abstraction
-Tag: feature-by-abstraction
-Tag: feature-toggle
-Tag: canary-test
-Tag: jim-bird
-Tag: technical-debt
+Tags: feature-by-abstraction, feature-toggle, canary-test, jim-bird, technical-debt
 
 Id: f13f63bc-7a1d-11e8-a6a2-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:45 +0000
 Title: TestContainers: making Java integration tests easy
 Link: https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
 Body: I've read this article on how to start a new docker container from Java code (using a junit @rule).\n\nUsing the library TestContainers
-Tag: testcontainers
-Tag: rebel-labs
-Tag: anton-arhipov
-Tag: test
-Tag: docker
-Tag: image
-Tag: integration-test
-Tag: testing
+Tags: testcontainers, rebel-labs, anton-arhipov, test, docker, image, integration-test, testing
 
 Id: 15740b0c-7a1e-11e8-9169-0242ac110002
 Date: Wed, 27 Jun 2018 15:23:46 +0000
 Title: Code Health: To Comment or Not to Comment?
 Link: http://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html
 Body: I've read this article about comments in code: where to use them and when not to
-Tag: dori-reuveni
-Tag: kevin-bourrillion
-Tag: comment
-Tag: clean-code
+Tags: dori-reuveni, kevin-bourrillion, comment, clean-code
 
 Id: 5228464e-7a1e-11e8-9125-0242ac110002
 Date: Wed, 27 Jun 2018 15:25:28 +0000
 Title: Saints and Traders: The John Henry Fable Reconsidered
 Link: https://www.ribbonfarm.com/2014/06/04/saints-and-traders-the-john-henry-fable-reconsidered/
 Body: I've read this article on the guardian syndrome and the Saint syndrome.\n\nExplains the story of John Henry, who died right after winning a drilling contest with a machine.\n\nExplains the finite game and the infinite game.
-Tag: finite-game
-Tag: infinite-game
-Tag: saint-syndrome
-Tag: guardian-syndrome
-Tag: comparison
-Tag: philosophy
-Tag: venkatesh-rao
-Tag: john-henry
+Tags: finite-game, infinite-game, saint-syndrome, guardian-syndrome, comparison, philosophy, venkatesh-rao, john-henry
 
 Id: 6e3df860-7a1e-11e8-ba6a-0242ac110002
 Date: Wed, 27 Jun 2018 15:26:15 +0000
 Title: Stacked Pull Requests: Keeping GitHub Diffs Small
 Link: https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/
 Body: I've read this article on using a technique (stacked pull requests) to keep pull requests small and get more feedback, more comments from teammates, therefore reducing the code review fatigue. By Grayson Koonce
-Tag: grayson-koonce
-Tag: fatigue
-Tag: code-fatigue
-Tag: pull-request
-Tag: pull-request-fatigue
-Tag: stacked-pull-request
-Tag: technique
-Tag: comment
-Tag: feedback
-Tag: teammate
-Tag: team
+Tags: grayson-koonce, fatigue, code-fatigue, pull-request, pull-request-fatigue, stacked-pull-request, technique, comment, feedback, teammate, team
 
 Id: 7ab3fcd4-7a1e-11e8-9590-0242ac110002
 Date: Wed, 27 Jun 2018 15:26:36 +0000
 Title: I hate almost all software
 Link: http://tinyclouds.org/rant.html
 Body: I've read this article by Ryan Dahl on the focus of the software and the inherent complexity of today's software
-Tag: ryan-dahl
-Tag: complexity
-Tag: software
-Tag: rant
+Tags: ryan-dahl, complexity, software, rant
 
 Id: a4e26bee-7a1e-11e8-ac68-0242ac110002
 Date: Wed, 27 Jun 2018 15:27:46 +0000
 Title: The Real Reason for Developers’ Salaries Stagnation
 Link: https://simpleprogrammer.com/developers-salaries-stagnation/
 Body: Im this article, the author speaks of developer salaries related to their skills, proficiency, area of interest and role. Also about the real purchasing power stagnation.
-Tag: salary
-Tag: skill
-Tag: role
-Tag: position
-Tag: money
-Tag: career
-Tag: career-management
-Tag: fiodar-sazanavets
+Tags: salary, skill, role, position, money, career, career-management, fiodar-sazanavets
 
 Id: e5d53f46-7a1e-11e8-9097-0242ac110002
 Date: Wed, 27 Jun 2018 15:29:35 +0000
 Title: What is a "10x" Programmer?
 Link: https://dev.to/nathanepstein/what-is-a-10x-programmer
 Body: I've read this article about makes a good programmer, under the label of the mythical 10x programmer.\n\nThere are two different groups of things in the list: things you are/have (skills) and things you do (actitudes). On the former, writing code (good, business code that is correctly organized, architected, designed), to know a lot. On the latter, ownership for the project (implication, care), teaching and learning from others.\n
-Tag: 10x
-Tag: author
-Tag: productivity
-Tag: skill
-Tag: attitude
-Tag: aptitude
-Tag: attitude-vs-aptitude
-Tag: nathan-epstein
+Tags: 10x, author, productivity, skill, attitude, aptitude, attitude-vs-aptitude, nathan-epstein
 
 Id: f7f8a73a-7a1e-11e8-836d-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:06 +0000
 Title: Why Podcasts Have Become Popular
 Link: http://www.donnfelker.com/why-podcasts-have-become-popular/
 Body: I've read this article by Donn Felker on the effect that the Internet is having on consumers: they now decide when to consume the resources, instead of passively waiting for the resources to appear.\n\nThis is the suggested explanation for on-demand video vs television, podcasts vs radio
-Tag: podcast
-Tag: on-demand
-Tag: consumer
-Tag: internet
-Tag: donn-felker
+Tags: podcast, on-demand, consumer, internet, donn-felker
 
 Id: 0862fbca-7a1f-11e8-83fb-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:33 +0000
@@ -291,702 +158,356 @@ Title: Don’t Know What You Want? Improve These 7 Universal Skills
 Link: Self-Discipline: Get better at ignoring the negative voice in your head. Get out of your bed. Go to the gym. Don’t listen to “I don’t want to.”
 Body: Personal Effectiveness: Learn how to maximize the results you can get during the 16–18 hours you’re awake. Get more done — effectively.\nCommunication: We think we’re all master communicators. But the truth is that we suck. Communication is both art and science. And our ability to work with others depends on it.\nNegotiation: You negotiate all the time. With your spouse, kids, parents, teachers, friends, co-workers, managers, etc. Learn to get the best deal for all parties.\nPersuasion: Learn how to get what you want in an ethical way.\nPhysical Strength & Stamina: Getting stronger is a skill. Pull your own weight. It’s something every human should be able to do.\nFlexibility: Sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves — the most common weak points of desk workers.
 
+
 Id: 14f5e064-7a1f-11e8-be86-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:54 +0000
 Title: Your Concentration Training Program: 11 Exercises That Will Strengthen Your Attention
 Link: https://www.artofmanliness.com/2014/01/30/your-concentration-training-program-11-exercises-that-will-strengthen-your-attention/
 Body: I've read this article by Brett & Kate McKay on exercises for training the attention
-Tag: brett-mckay
-Tag: kate-mckay
-Tag: training
-Tag: concentration
-Tag: exercise
-Tag: focus
-Tag: attention
+Tags: brett-mckay, kate-mckay, training, concentration, exercise, focus, attention
 
 Id: 3f41e6ec-7a1f-11e8-85fc-0242ac110002
 Date: Wed, 27 Jun 2018 15:32:05 +0000
 Title: The Great Attention Heist
 Link: https://lareviewofbooks.org/article/the-great-attention-heist/
 Body: I've read this article by John Bell, John Zada on the current war for attention, what they call the 'attention heist': publishers fight for your attention, selling it to third parties. The more they can lure you to spend your (finite) attention with them, the higher the profits.\n\nThey talk about two kinds of attention: short span and long span. Reading news is the first while reading a book or a long article is the second one.\n\nThey mention unplugging (i.e., a "digital sabbath") to help improving the level of concentration\n\n(this was a book review, of 'The attention merchants', by Tim Wu)
-Tag: john-bell
-Tag: john-zada
-Tag: attention-heist
-Tag: attention
-Tag: app
-Tag: smartphone
-Tag: book-review
-Tag: tim-wu
-Tag: book
-Tag: sabbath
-Tag: digital-sabbath
-Tag: long-article
+Tags: john-bell, john-zada, attention-heist, attention, app, smartphone, book-review, tim-wu, book, sabbath, digital-sabbath, long-article
 
 Id: c451a048-7a1f-11e8-82f7-0242ac110002
 Date: Wed, 27 Jun 2018 15:35:49 +0000
 Title: How to read more books
 Link: http://verraes.net/2012/12/2012-12-23-how-to-read-more-books/
 Body:
-Tag: mathias-verraes
-Tag: reading
-Tag: tips-and-tricks
-Tag: self-study
-Tag: training
+Tags: mathias-verraes, reading, tips-and-tricks, self-study, training
 
 Id: dc8f92dc-7a1f-11e8-818a-0242ac110002
 Date: Wed, 27 Jun 2018 15:36:29 +0000
 Title: Serving 100 Gbps from an Open Connect Appliance
 Link: https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99
 Body: I've read this article on how Netflix has optimized their servers to be able to send TLS content at 100 Gbps, using openbsd.
-Tag: netflix
-Tag: openbsd
-Tag: performance
-Tag: optimization
-Tag: drew-gallatin
+Tags: netflix, openbsd, performance, optimization, drew-gallatin
 
 Id: 1c603222-7a20-11e8-8f75-0242ac110002
 Date: Wed, 27 Jun 2018 15:38:16 +0000
 Title: RebelLabs Developer Productivity Report 2017: Why do you use the Java tools you use?
 Link: https://zeroturnaround.com/rebellabs/developer-productivity-report-2017-why-do-you-use-java-tools-you-use/
 Body:
-Tag: java-ee
-Tag: spring
-Tag: kotlin
-Tag: java
-Tag: jvm
-Tag: scala
-Tag: clojure
-Tag: productivity
-Tag: rebel-labs
-Tag: oleg-shelajev
-Tag: zero-turnaround
-Tag: 2017
-Tag: report
-Tag: comparison
+Tags: java-ee, spring, kotlin, java, jvm, scala, clojure, productivity, rebel-labs, oleg-shelajev, zero-turnaround, 2017, report, comparison
 
 Id: 2ac58bdc-7a20-11e8-a82d-0242ac110002
 Date: Wed, 27 Jun 2018 15:38:40 +0000
 Title: Why paper is the real 'killer app'
 Link: http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app
 Body: I've read this article by Alison Birrane on how working on a low-tech device is different than on a high-tech device (e.g., taking notes on a paper sheet vs on a laptop). On how it stimulates different parts of the brain. The multiple uses of the paper as compared to the narrowness of the apps.
-Tag: alison-birrane
-Tag: killer-app
-Tag: comparison
-Tag: media
-Tag: social-media
-Tag: gadget
-Tag: low-tech
-Tag: technology
-Tag: smartphone
+Tags: alison-birrane, killer-app, comparison, media, social-media, gadget, low-tech, technology, smartphone
 
 Id: 388125f6-7a20-11e8-aae6-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:04 +0000
 Title: Self-Study Guide to Machine Learning
 Link: https://machinelearningmastery.com/self-study-guide-to-machine-learning/
 Body:
-Tag: self-study
-Tag: machine-learning
-Tag: jason-brownlee
+Tags: self-study, machine-learning, jason-brownlee
 
 Id: 457003ea-7a20-11e8-a3ff-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:25 +0000
 Title: Breaking Up the Behemoth
 Link:
 Body: I've read this article by Sandi Metz explaining how applications evolve, and what we might do if we're unhappy with the results using:  Design Stamina Hypothesis (Fowler), Procedural vs Object-Oriented Code and X.
-Tag: ood
-Tag: object-orientation
-Tag: sandi-metz
-Tag: martin-fowler
-Tag: design-stamina
-Tag: quality
-Tag: behemoth
-Tag: monolith
+Tags: ood, object-orientation, sandi-metz, martin-fowler, design-stamina, quality, behemoth, monolith
 
 Id: 53a89846-7a20-11e8-abd1-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:49 +0000
 Title: 10 Hard Things to Start Doing for Yourself
 Link: http://www.marcandangel.com/2017/09/24/10-hard-things-to-start-doing-for-yourself/
 Body: I've read this self-help article on how to help yourself by doing hard things:\n\n> Start letting go of unnecessary ideals\n> Start putting your heart and soul into the things you do\n> Start stretching yourself just beyond the edge of comfort\n> Start taking more deep breaths, so you can mindfully collect more lessons for the long run\n> Start side-stepping senseless drama\n> Start staying true to your values and convictions\n> Start looking for silver linings\n> Start focusing inward more often\n> Start embracing your humanness and giving yourself more credit\n> Start taking the next small, insignificant step (one at a time, every day). \n\n\nBy Marc Chernoff
-Tag: marc-chernoff
-Tag: self-help
-Tag: meditation
-Tag: breathing
-Tag: comfort-zone
-Tag: help
+Tags: marc-chernoff, self-help, meditation, breathing, comfort-zone, help
 
 Id: 9737002a-7a20-11e8-a864-0242ac110002
 Date: Wed, 27 Jun 2018 15:41:42 +0000
 Title: Happiness is overrated — finding deep meaning in life comes down to 4 'pillars'
 Link: http://www.businessinsider.com/emily-esfehani-smith-finding-meaning-life-4-pillars-2017-9
 Body: I've read this article about what life is about: not happiness but four pillars: belonging and purpose, transcendence and storytelling\nstorytelling helps people create meaning because it allows people to create, edit, and transform the story of their lives
-Tag: happiness
-Tag: life
-Tag: fulfillment
-Tag: pillar
-Tag: belonging
-Tag: purpose
-Tag: flow
-Tag: transcendence
-Tag: storytelling
-Tag:
-Tag: chris-weller
+Tags: happiness, life, fulfillment, pillar, belonging, purpose, flow, transcendence, storytelling,, chris-weller
 
 Id: a3e1c936-7a20-11e8-8fbe-0242ac110002
 Date: Wed, 27 Jun 2018 15:42:04 +0000
 Title: It’s time to kill the web
 Link: https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89
 Body: I've read this article that explains the background of the web and how it wasn't designed to support applications but documents. Explains the downsides and security profile of a webapp as compared to a desktop/native application. By Mike Hearn
-Tag: comparison
-Tag: web-app
-Tag: application
-Tag: app
-Tag: desktop-app
-Tag: native-app
-Tag: mike-hearn
-Tag: security
-Tag: html
-Tag: html5
-Tag: javascript
-Tag: web
+Tags: comparison, web-app, application, app, desktop-app, native-app, mike-hearn, security, html, html5, javascript, web
 
 Id: b2ddd326-7a20-11e8-9af5-0242ac110002
 Date: Wed, 27 Jun 2018 15:42:29 +0000
 Title: How to Stay Focused When You’re Working from Home
 Link: https://hbr.org/2017/09/how-to-stay-focused-when-youre-working-from-home&formCheck=bc3e82f422e9567c25d37e403ee877e6
 Body: I've read this article on structuring your workday while being at home (remote work).\n\nSome tips:\n\n1. Structure for success\n1. Schedule your day: when it's work-related time and when not\n1. Set boundaries\n\nBy Elizabeth Grace Saunders
-Tag: remote
-Tag: remote-work
-Tag: hbr
-Tag: harvard-business-review
-Tag: elizabeth-saunders
+Tags: remote, remote-work, hbr, harvard-business-review, elizabeth-saunders
 
 Id: c8742b18-7a20-11e8-b36f-0242ac110002
 Date: Wed, 27 Jun 2018 15:43:05 +0000
 Title: Cognitive Biases in Programming
 Link: https://hackernoon.com/cognitive-biases-in-programming-5e937707c27b
 Body: I've read this article that explains some cognitive biases (prejudices of our mind) while programming:\n\n1. Hyperbolic Discounting: Going for an immediate payoff instead of a delayed larger one\n1. IKEA Effect:Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions. Also called the "Not-Invented-Here (NIH) Syndrome"\n1. Premature Optimization: Optimizing before you know that you need to.\n1. Planning Fallacy: Optimistically underestimating the time required to complete a task\n1. Recency Bias: Placing higher value on recent events than ones that occurred further in the past\n\n> We can never completely eliminate our biases, by being aware of how it is affecting us, we can somewhat mitigate the problems it causes.\n\nBy Yash Ranadive\n
-Tag: yash-ranadive
-Tag: bias
-Tag: programming
-Tag: mind
+Tags: yash-ranadive, bias, programming, mind
 
 Id: dcd43756-7a20-11e8-b0ee-0242ac110002
 Date: Wed, 27 Jun 2018 15:43:39 +0000
 Title: Keybase launches encrypted git
 Link: https://keybase.io/blog/encrypted-git-for-everyone
 Body: I've read how to encrypt git repositories using keybase
-Tag: keybase
-Tag: git
-Tag: encryption
-Tag: security
-Tag: private-key
-Tag: public-key
-Tag: storage
-Tag: archive
+Tags: keybase, git, encryption, security, private-key, public-key, storage, archive
 
 Id: f611b626-7a20-11e8-8172-0242ac110002
 Date: Wed, 27 Jun 2018 15:44:22 +0000
 Title: General and Surprising
 Link: http://paulgraham.com/sun.html
 Body: I've read this article about how information can be classified as general vs specific and surprising vs unsurprising. How it's best to find a small surprising general thing.\n
-Tag: paul-graham
-Tag: surprising
-Tag: general
-Tag: information
-Tag: classification
+Tags: paul-graham, surprising, general, information, classification
 
 Id: 25b1e5d6-7a21-11e8-a838-0242ac110002
 Date: Wed, 27 Jun 2018 15:45:41 +0000
 Title: I built a server-less Telegram bot over a weekend and here’s what I learned
 Link: https://medium.com/@moses.soh/how-to-build-a-server-less-telegram-bot-227f842f4706
 Body: I've read this article on creating a telegram chatbot for a specific purpose. Connects two people (first one subscribes, then the other asks for help and the first is contacted) so the first helps the second. By Moses Soh
-Tag: telegram
-Tag: chatbot
-Tag: app
-Tag: moses-soh
-Tag: side-project
-Tag: pet-project
-Tag: project
+Tags: telegram, chatbot, app, moses-soh, side-project, pet-project, project
 
 Id: 5d73322c-7a21-11e8-8e1a-0242ac110002
 Date: Wed, 27 Jun 2018 15:47:15 +0000
 Title: Reviewing Ethereum Smart Contracts
 Link: https://blog.gdssecurity.com/labs/2017/9/27/reviewing-ethereum-smart-contracts.html
 Body: I've read this article about how to review ethereum contracts and a concrete example of an attack to a smart contract
-Tag: ethereum
-Tag: smart-contract
-Tag: crypto-currency
-Tag: ico
-Tag: trustless
-Tag: security
-Tag: code-review
+Tags: ethereum, smart-contract, crypto-currency, ico, trustless, security, code-review
 
 Id: ea81381c-7a21-11e8-b418-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:12 +0000
 Title: Keep Calm and Carry On - Scaling Your Org with Microservices
 Link: https://bridgetkromhout.com/speaking/2017/srecon/
 Body: I've read the slides of this presentation by Bridget Kromhout and Charity Majors about organizations and microservices: the main problem is the communication
-Tag: charity-majors
-Tag: bridget-kromhout
-Tag: microservice
-Tag: organization
-Tag: communication
-Tag: devops
+Tags: charity-majors, bridget-kromhout, microservice, organization, communication, devops
 
 Id: f6c70a98-7a21-11e8-a896-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:32 +0000
 Title: Guía al movimiento #NoEstimates
 Link: https://jeronimopalacios.com/2016/09/guia-al-movimiento-noestimates/
 Body: I've read this article by Jeronimo Palacios, giving an overview of the no estimates movement.
-Tag: no-estimates
-Tag: jeronimo-palacios
-Tag: agile
-Tag: scrum
-Tag: estimate
-Tag: forecast
-Tag: management
+Tags: no-estimates, jeronimo-palacios, agile, scrum, estimate, forecast, management
 
 Id: 01a58660-7a22-11e8-b4f8-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:50 +0000
 Title: Core competence
 Link: http://www.economist.com/node/12231124
 Body: I've read this article describing what a core competence is and how can we find out if a competence is considered core or not.
-Tag: economy
-Tag: definition
-Tag: core-competence
-Tag: core-business
-Tag: management
-Tag: prahalad
-Tag: gary-hamel
+Tags: economy, definition, core-competence, core-business, management, prahalad, gary-hamel
 
 Id: 0e85e3f2-7a22-11e8-b818-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:12 +0000
 Title: How I stopped procrastinating, learned to code, and launched my first product
 Link: https://dev.to/lynnetye/how-i-stopped-procrastinating-learned-to-code-and-launched-my-first-product-2i1
 Body: I've read this article explaining some tips and tricks to launch a side project. By Lynne Tye
-Tag: lynne-tye
-Tag: tips-and-tricks
-Tag: product
-Tag: side-project
-Tag: launch
-Tag: business
-Tag: lean
-Tag: startup
-Tag: product-management
+Tags: lynne-tye, tips-and-tricks, product, side-project, launch, business, lean, startup, product-management
 
 Id: 18bc20c0-7a22-11e8-9209-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:29 +0000
 Title: When are Citi Bikes Faster than Taxis in New York City?
 Link: http://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/
 Body: I've read this article by Todd Schneider analysing how city bikes compare to taxis in New York city.\n\nGood analysis, using a Monte Carlo simulation, written in R. Good data visualization.
-Tag: todd-schneider
-Tag: data-visualization
-Tag: map
-Tag: city-bike
-Tag: taxi
-Tag: cab
-Tag: new-york
-Tag: new-york-city
-Tag: comparison
-Tag: data
-Tag: data-analytics
-Tag: monte-carlo
-Tag: simulation
-Tag: r
+Tags: todd-schneider, data-visualization, map, city-bike, taxi, cab, new-york, new-york-city, comparison, data, data-analytics, monte-carlo, simulation, r
 
 Id: 23b8350e-7a22-11e8-a9f3-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:48 +0000
 Title: Java 9 and IntelliJ IDEA
 Link: https://blog.jetbrains.com/idea/2017/09/java-9-and-intellij-idea/
 Body: I've read this article by Trisha Gee about upcoming features to IntelliJ Idea 2017.3, centered around java 9 features
-Tag: trisha-gee
-Tag: java-9
-Tag: jdk-9
-Tag: java
-Tag: jdk
-Tag: intellij-idea
-Tag: ide
-Tag: ide-support
-Tag: jetbrains
+Tags: trisha-gee, java-9, jdk-9, java, jdk, intellij-idea, ide, ide-support, jetbrains
 
 Id: 2e36336e-7a22-11e8-9424-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:05 +0000
 Title: Learn from your attackers - SSH HoneyPot
 Link: https://www.robertputt.co.uk/learn-from-your-attackers-ssh-honeypot.html
 Body: I've read this article on how to setup a honey pot machine using honssh. By Robert Putt
-Tag: robert-putt
-Tag: honey-pot
-Tag: security
-Tag: honeypot
-Tag: honssh
-Tag: attacker
+Tags: robert-putt, honey-pot, security, honeypot, honssh, attacker
 
 Id: 398cc606-7a22-11e8-b33c-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:24 +0000
 Title: To type or not to type: quantifying detectable bugs in JavaScript
 Link: https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
 Body: I've read this paper commentary by Adrian Colyer (on a paper by Zheng Gao, Christian Bird, Earl T. Barr) on a study that tries to reproduce fixes for defects based on the dynamic to static typing system. \n\n>  both Flow and TypeScript are pretty good, and conservatively either of them can prevent about 15% of the bugs that end up in committed code.\n\nIt's interesting to see these effects quantified: \n\n> Running the binomial test on the results shows that, at the confidence level of 95%, the true percentage of detectable bugs for Flow and TypeScript falls into [11.5%, 18.5%] with mean 15%.\n\nAlso, some recommendations for the future: for typescript and flow to be compatible for more gains.\n\nOriginal paper: http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf
-Tag: zheng-gao
-Tag: christian-bird
-Tag: earl-barr
-Tag: typescript
-Tag: javascript
-Tag: flow
-Tag: bug
-Tag: defect
-Tag: type-system
-Tag: dynamic-typing
-Tag: static-typing
+Tags: zheng-gao, christian-bird, earl-barr, typescript, javascript, flow, bug, defect, type-system, dynamic-typing, static-typing
 
 Id: 44fe19ae-7a22-11e8-8e06-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:43 +0000
 Title: How Artificial Intelligence Can Be Used For Password Guessing
 Link: https://medium.com/@heyfebin/how-artificial-intelligence-can-be-used-for-password-guessing-cf4fd4184a46
 Body: I've read this article by Febin John James on how neural networks can learn from the leaked passwords and try to guess passwords for existing users
-Tag: febin-james
-Tag: ai
-Tag: artificial-intelligence
-Tag: generative-adversarial-neural-network
-Tag: gann
-Tag: gan
-Tag: nn
-Tag: neural-network
-Tag: guessing
-Tag: password
+Tags: febin-james, ai, artificial-intelligence, generative-adversarial-neural-network, gann, gan, nn, neural-network, guessing, password
 
 Id: 509c472c-7a22-11e8-81d7-0242ac110002
 Date: Wed, 27 Jun 2018 15:54:03 +0000
 Title: Chrome to force .dev domains to HTTPS via preloaded HSTS
 Link: https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
 Body: I've read this article by Mattias Geniar explaining the having the new Chrome redirecting .dev domains to https means that people using said .dev for local development will have to either provide a https server on their machines or change to another domain
-Tag: mattias-geniar
-Tag: chrome
-Tag: http
-Tag: https
-Tag: server
-Tag: development
-Tag: test
-Tag: machine
+Tags: mattias-geniar, chrome, http, https, server, development, test, machine
 
 Id: 6866497a-7a22-11e8-af91-0242ac110002
 Date: Wed, 27 Jun 2018 15:54:43 +0000
 Title: Six Ways to Functional FizzBuzz with Vavr
 Link: https://www.sitepoint.com/functional-fizzbuzz-with-vavr/
 Body: I've read this article by Gregor Trefs about solving the fizzbuzz kata using vavr, importing some concepts from functional programming
-Tag: functional-programming
-Tag: gregor-trefs
-Tag: vavr
-Tag: case-statement
-Tag: pattern-matching
-Tag: functional
-Tag: kata
-Tag: fizzbuzz
+Tags: functional-programming, gregor-trefs, vavr, case-statement, pattern-matching, functional, kata, fizzbuzz
 
 Id: 74f60720-7a22-11e8-a9a3-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:04 +0000
 Title: More Women Take on Role of CFO — at Home
 Link: https://paidpost.nytimes.com/northern-trust/more-women-take-on-role-of-cfo-at-home.html
 Body: I've read this article on how women act as CFO of their houses (managing 30% of the world's wealth), how they teach money and meaning to their children.
-Tag: money-management
-Tag: cfo
-Tag: women
-Tag: gender
-Tag: home
-Tag: house
+Tags: money-management, cfo, women, gender, home, house
 
 Id: 80c233ee-7a22-11e8-8743-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:24 +0000
 Title: The Internet of Things is sending us back to the Middle Ages
 Link: https://thenextweb.com/lifestyle/2017/09/13/internet-things-sending-us-back-middle-ages/
 Body: I've read this article by JOSHUA A.T. FAIRFIELD on the right-to-own, right-to-repair and property. \n\nOn the difference in the real property of a smartphone vs a car. On the imaginary, they are the same, but in contractual terms, there is a big difference.
-Tag: joshua-fairfield
-Tag: right-to-repair
-Tag: bill
-Tag: law
-Tag: property
-Tag: smartphone
-Tag: eula
-Tag: license
-Tag: clause
-Tag: imaginary
+Tags: joshua-fairfield, right-to-repair, bill, law, property, smartphone, eula, license, clause, imaginary
 
 Id: 92c637d4-7a22-11e8-baba-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:54 +0000
 Title: An In-Depth Guide to Personal Cybersecurity
 Link: https://medium.com/@nickrosener/an-in-depth-guide-to-personal-cybersecurity-be98ba47c968
 Body: I've read this guide to personal security in the net, by Nick Rosener. Examples include 2fa, password management, app security, phone security, etc
-Tag: nick-rosener
-Tag: 2fa
-Tag: mfa
-Tag: password
-Tag: security
-Tag: phone
+Tags: nick-rosener, 2fa, mfa, password, security, phone
 
 Id: a0be3cd8-7a22-11e8-a5aa-0242ac110002
 Date: Wed, 27 Jun 2018 15:56:17 +0000
 Title: Como generar "fake data" en nuestros tests de aceptación
 Link: http://programmeratwork.com/2017/09/06/Como-generar-fake-data-en-nuestros-tests-de-aceptacion/
 Body: I've read this article (in Spanish) by Ricardo Borillo on using and generating fake data for our tests
-Tag: ricardo-borillo
-Tag: borillo
-Tag: fake-data
-Tag: npm
-Tag: npm-module
-Tag: acceptance-testing
-Tag: test
-Tag: test-data
-Tag: spanish
+Tags: ricardo-borillo, borillo, fake-data, npm, npm-module, acceptance-testing, test, test-data, spanish
 
 Id: 46ffc936-7a23-11e8-882f-0242ac110002
 Date: Wed, 27 Jun 2018 16:00:56 +0000
 Title: Making Crash Bandicoot – GOOL – part 9
 Link: http://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/
 Body: I've read this article by Andy Gavin on making a lisp for games, an embedded language inside another language.\n\nGOOL prefers the power and maintainability of a lisp rather than the raw power of a lower-level programming language
-Tag: andy-gavin
-Tag: lisp
-Tag: gool
-Tag: crash-bandicoot
-Tag: game
-Tag: game-development
+Tags: andy-gavin, lisp, gool, crash-bandicoot, game, game-development
 
 Id: 5174beda-7a23-11e8-bf1e-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:14 +0000
 Title: History of Symbolics lisp machines - Rebuttal to Stallman’s Story About The Formation of Symbolics and LMI
 Link: https://danluu.com/symbolics-lisp-machines/
 Body: I've read this article by Dan Weinreb on the history of lisp machines, the AI winter and the rebuttal of some stories by Richard M. Stallman
-Tag: dan-weinreb
-Tag: lisp
-Tag: symbolics
-Tag: rms
-Tag: richard-stallman
-Tag: lisp-machine
-Tag: lmi
-Tag: dan-luu
-Tag: ai-winter
-Tag: ai
+Tags: dan-weinreb, lisp, symbolics, rms, richard-stallman, lisp-machine, lmi, dan-luu, ai-winter, ai
 
 Id: 5bd0ece6-7a23-11e8-8014-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:31 +0000
 Title: free-for-dev
 Link: https://github.com/ripienaar/free-for-dev/blob/master/README.md
 Body: I've read this list of (free) resources for programmers
-Tag: free-resource
-Tag: resource
-Tag: service
-Tag: amazon
-Tag: aws
-Tag: free-tier
-Tag: free-trial
-Tag: github
+Tags: free-resource, resource, service, amazon, aws, free-tier, free-trial, github
 
 Id: 67c8032c-7a23-11e8-9ab7-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:51 +0000
 Title: Every Programmer Should Know
 Link: https://github.com/mr-mig/every-programmer-should-know
 Body: I've read this page on things a programmer should know
-Tag: github
-Tag: programmer
-Tag: knowledge
+Tags: github, programmer, knowledge
 
 Id: 72b999a8-7a23-11e8-b831-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:10 +0000
 Title: Haste Makes Waste When You Over-Staff to Achieve Schedule Compression
 Link: http://www.qsm.com/risk_02.html
 Body: I've read this article by Quantitative Software Management (QSM) on how software projects are affected by the size of the team producing it, with charts and based on previous investigation
-Tag: research
-Tag: meta-research
-Tag: quality
-Tag: software
-Tag: software-quality
-Tag: qsm
-Tag: quantitative-software-management
+Tags: research, meta-research, quality, software, software-quality, qsm, quantitative-software-management
 
 Id: 7d3d216a-7a23-11e8-8d31-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:27 +0000
 Title: Hacking back considered harmful?
 Link: https://blog.0day.rocks/hacking-back-considered-harmful-1ea38f882e8f
 Body: I've read this article by x0rz, a security researcher, on hacking back\n\n> active countermeasure that result in limiting the attacker capabilities\n\nAnd whether it is ethical to do it, even if it were illegal\n\n> Ethics is knowing the difference between what you have a right to do and what is right to do. — Potter Stewart
-Tag: x0rz
-Tag: security
-Tag: hacking
-Tag: hacking-back
-Tag: ethic
-Tag: legality
-Tag: law
-Tag: quote
-Tag: potter-stewart
-Tag: countermeasure
-Tag: attacker
+Tags: x0rz, security, hacking, hacking-back, ethic, legality, law, quote, potter-stewart, countermeasure, attacker
 
 Id: 8bda1c3c-7a23-11e8-b1cb-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:52 +0000
 Title: Kurt Gödel—Separating Truth from Proof in Mathematics
 Link: http://science.sciencemag.org/content/sci/298/5600/1899.full.pdf?sid=c031062c-8030-4e2c-8716-04409d7abefb
-Body: I've read this article by Keith Devlin on Goedel's work, especially on the Incompleteness theorem 
-Tag: kurt-godel
-Tag: kurt-goedel
-Tag: incompleteness-theorem
-Tag: bertrand-russell
-Tag: alfred-north
-Tag: principia-mathematica
-Tag: david-hilbert
-Tag: mathematics
-Tag: theorem
-Tag: computability
-Tag: philosophy
+Body: I've read this article by Keith Devlin on Goedel's work, especially on the Incompleteness theorem
+Tags: kurt-godel, kurt-goedel, incompleteness-theorem, bertrand-russell, alfred-north, principia-mathematica, david-hilbert, mathematics, theorem, computability, philosophy
 
 Id: 97e67a7a-7a23-11e8-bc72-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:12 +0000
 Title: ML for the working programmer, 2nd edition - chapter 5
 Link: https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter5.pdf
 Body: I've read this chapter, to better understand finite and infinite data structures. Talks about streams (called sequences in ML), HOFs, lambda calculus. The book is by Lawrence Paulson\n\nSome of my examples are in \n\n * https://github.com/alvarogarcia7/haskell-simple-sessions/blob/master/trees/src/Trees.hs\n * https://github.com/alvarogarcia7/javascript-simple-sessions/tree/master/streams
-Tag: book
-Tag: chapter
-Tag: lawrence-paulson
-Tag: ml
-Tag: sequence
-Tag: hof
-Tag: lambda-calculus
-Tag: combinator
-Tag: stream
-Tag: lazy-list
-Tag: data-structure
-Tag: infinite-list
-Tag: higher-order-function
-Tag: function-composition
+Tags: book, chapter, lawrence-paulson, ml, sequence, hof, lambda-calculus, combinator, stream, lazy-list, data-structure, infinite-list, higher-order-function, function-composition
 
 Id: a4263c08-7a23-11e8-86c0-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:33 +0000
 Title: how to hack the uk tax system, i guess
 Link: https://medium.com/@Zemnmez/how-to-hack-the-uk-tax-system-i-guess-3e84b70f8b
 Body: I've read this investigation of how a security investigator found a security defect in the UK tax system page and the process of reporting it and seeing it fixed
-Tag: zemnmez
-Tag: open-source
-Tag: uk
-Tag: hmrc
-Tag: responsible-disclosure
+Tags: zemnmez, open-source, uk, hmrc, responsible-disclosure
 
 Id: b0788d3a-7a23-11e8-82df-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:53 +0000
 Title: Indirect Sale-Value Models
 Link: http://www.catb.org/esr/writings/magic-cauldron/magic-cauldron-9.html
 Body: I've read this article on models for selling/monetising open source. By Eric S. Raymond
-Tag: eric-raymond
-Tag: open-source
-Tag: monetization
+Tags: eric-raymond, open-source, monetization
 
 Id: bc93aaf0-7a23-11e8-8ffe-0242ac110002
 Date: Wed, 27 Jun 2018 16:04:14 +0000
 Title: I’ll never bring my phone on an international flight again. Neither should you
 Link: https://medium.freecodecamp.org/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f
 Body: I've read this article by Quincy Larson on what happens when you bring your phone over to the US
-Tag: us
-Tag: phone
-Tag: privacy
-Tag: quincy-larson
-Tag: international-flight
-Tag: cross-border-flight
-Tag: flight
-Tag: device
-Tag: laptop
-Tag: burner-phone
+Tags: us, phone, privacy, quincy-larson, international-flight, cross-border-flight, flight, device, laptop, burner-phone
 
 Id: cfe1bdfe-7a23-11e8-b024-0242ac110002
 Date: Wed, 27 Jun 2018 16:04:46 +0000
 Title:  Remote Starter Kit
 Link: http://www.remotestarterkit.com
 Body: I've read this page detailing some tools for a remote position
-Tag: remote
-Tag: remote-work
-Tag: remote-tool
-Tag: tool
-Tag: starter-kit
+Tags: remote, remote-work, remote-tool, tool, starter-kit
 
 Id: dc842498-7a23-11e8-8b35-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:07 +0000
 Title: Moving Java Forward Faster
 Link: https://mreinhold.org/blog/forward-faster
 Body: I've read this article by Mark Reinhold, explaining his proposal for a faster java release train, changing from every two years to every six months.
-Tag: release
-Tag: mark-reinhold
-Tag: release-management
-Tag: release-train
-Tag: java
-Tag: sun
-Tag: oracle
-Tag: brian-goetz
-Tag: jre
-Tag: jdk
+Tags: release, mark-reinhold, release-management, release-train, java, sun, oracle, brian-goetz, jre, jdk
 
 Id: e799c860-7a23-11e8-9f75-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:26 +0000
 Title: Keeping a tidy life
 Link: https://medium.com/@ctrlaltjustine/keeping-a-tidy-life-f01bbe2a9b3e
 Body: I've read this article by Justine Arreche on how she manages her productivity tools: calendar, todo list; for all the activities in her life
-Tag: justine-arreche
-Tag: productivity
-Tag: management
-Tag: calendar
-Tag: todo-list
-Tag: activity
-Tag: time-management
+Tags: justine-arreche, productivity, management, calendar, todo-list, activity, time-management
 
 Id: f66efafe-7a23-11e8-ae3d-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:51 +0000
 Title: To Understand Rising Inequality, Consider the Janitors at Two Top Companies, Then and Now
 Link: https://www.nytimes.com/2017/09/03/upshot/to-understand-rising-inequality-consider-the-janitors-at-two-top-companies-then-and-now.html
 Body: I've read this article by Neil Irwin on inequality, explaining the professional career of two janitors at two different companies, in a different period of time.
-Tag: neil-irwin
-Tag: inequality
-Tag: kodak
-Tag: apple
-Tag: janitor
-Tag: mercer
-Tag: drucker
-Tag: management
-Tag: career-management
-Tag: career
-Tag: cto
-Tag: cio
+Tags: neil-irwin, inequality, kodak, apple, janitor, mercer, drucker, management, career-management, career, cto, cio
 
 Id: 03cbbfca-7a24-11e8-927a-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:13 +0000
 Title: Episode 8: Interview with Ryan Dahl, Creator of Node.js
 Link: https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs
 Body: I've read [the transcription of] this interview, to Ryan Dahl.\n\nIn it, he describes his view of Node.js and how it is not well-suited for building massive web servers, but could be appropriate for web applications
-Tag: ryan-dahl
-Tag: go
-Tag: microservice
-Tag: web-app
-Tag: interview
-Tag: podcast
-Tag: web-server
-Tag: go
-Tag: golang
+Tags: ryan-dahl, go, microservice, web-app, interview, podcast, web-server, go, golang
 
 Id: 0db84e2c-7a24-11e8-ac3c-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:30 +0000
 Title: The Recovering Programmer
 Link: http://prog21.dadgum.com/56.html
 Body: I've read this article by James Hague on the user-centric vision and how he faces the problems related to programming
-Tag: programming
-Tag: user-centric
-Tag: vision
-Tag: game
-Tag: assembler
-Tag: james-hague
-Tag: recovering-programmer
+Tags: programming, user-centric, vision, game, assembler, james-hague, recovering-programmer
 
 Id: 192eae72-7a24-11e8-bc6c-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:49 +0000
 Title: We Who Value Simplicity Have Built Incomprehensible Machines
 Link: http://prog21.dadgum.com/139.html
 Body: I've read this article by  James Hague on examples of libraries that went wrong. How we should have said 'no' early on instead of accepting it. A blog post about simplicity
-Tag: james-hague
-Tag: simplicity
-Tag: library
-Tag: complexity
-Tag: example
+Tags: james-hague, simplicity, library, complexity, example
 
 Id: 24c02266-7a24-11e8-bddd-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:08 +0000
@@ -999,167 +520,84 @@ Date: Wed, 27 Jun 2018 16:07:29 +0000
 Title: Having a "work wife" or "work husband" is good for your career
 Link: https://www.linkedin.com/pulse/having-work-wife-husband-good-your-career-rebecca-holman
 Body: I've read this article by Rebecca Holman explaining what is a work spouse (i.e., a trusted equal to bounce off ideas, discuss, advance together). Not a mentor, not a trusted boss, not someone reporting to you.\n\nExplains some of the benefits of finding that role.
-Tag: rebecca-holman
-Tag: work-wife
-Tag: work-husband
-Tag: work-spouse
-Tag: team-management
-Tag: work
-Tag: job
-Tag: pairing
-Tag: mentor
+Tags: rebecca-holman, work-wife, work-husband, work-spouse, team-management, work, job, pairing, mentor
 
 Id: 3df70628-7a24-11e8-9c3c-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:51 +0000
 Title: REST APIs are REST-in-Peace APIs. Long Live GraphQL.
 Link: https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
 Body: I've read this article about GraphQL and its comparison to REST APIs
-Tag: graphql
-Tag: rest
-Tag: api
-Tag: data
-Tag: comparison
-Tag: samer-buna
+Tags: graphql, rest, api, data, comparison, samer-buna
 
 Id: 492eebb4-7a24-11e8-bcec-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:10 +0000
 Title: History of Lisp
 Link: http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
 Body: I've read this paper by John McCarthy explaining the history of lisp
-Tag: john-mccarthy
-Tag: lisp
-Tag: invention
-Tag: language
-Tag: list-processing
-Tag: s-expression
-Tag: m-expression
-Tag: data
-Tag: code
-Tag: lisp-dialect
-Tag: fortran
-Tag: ibm
+Tags: john-mccarthy, lisp, invention, language, list-processing, s-expression, m-expression, data, code, lisp-dialect, fortran, ibm
 
 Id: 54e4e076-7a24-11e8-abd6-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:29 +0000
 Title: Software development 450 words per minute
 Link: https://www.vincit.fi/en/blog/software-development-450-words-per-minute/
 Body: I've read this article in which Tuukka Ojala explains how his tools for a (blind) software developer: the screen reader, the browser, the braille reader
-Tag: tuukka-ojala
-Tag: blindness
-Tag: accesibility
-Tag: browser
-Tag: screen-reader
-Tag: braille-reader
-Tag: braille
-Tag: disability
+Tags: tuukka-ojala, blindness, accesibility, browser, screen-reader, braille-reader, braille, disability
 
 Id: 5eea69ce-7a24-11e8-8842-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:46 +0000
 Title: Compare your efforts: 30 vs 3000 LOC for very simple MEAN app
 Link: http://blog.allcountjs.com/post/128771961651/compare-efforts
 Body: I've read this article that explains the difference between business value and technical value: a feature for the business could be very valuable but technically costly; also the other way around: they are independent variables.\n\nAlso explains that some value in development can be obtained quicker by using a framework, such as the tool that allcountjs provides: 30 lines to generate the equivalent business features to 3000 lines
-Tag: allcountjs
-Tag: mean
-Tag: comparison
-Tag: crud
-Tag: framework
-Tag: javascript
-Tag: frontend
-Tag: productivity
-Tag: business-value
-Tag: technical-value
-Tag: cost
+Tags: allcountjs, mean, comparison, crud, framework, javascript, frontend, productivity, business-value, technical-value, cost
 
 Id: 699d067e-7a24-11e8-9962-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:04 +0000
 Title: GitHub Integration
 Link: https://medium.com/@leanpub/github-integration-6f6d81847230
 Body: I've read this article explaining how to integrate leanpub with github: write your book (e.g., in markdown) and store it in git, then publish automatically to leanpub
-Tag: leanpub
-Tag: github
-Tag: integration
-Tag: self-publishing
-Tag: publishing
-Tag: book
-Tag: tool
-Tag: toolchain
+Tags: leanpub, github, integration, self-publishing, publishing, book, tool, toolchain
 
 Id: 7b5f342c-7a24-11e8-b858-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:34 +0000
 Title: WYSIWTF
 Link: https://alistapart.com/column/wysiwtf
 Body: I've read this article by Karen McGrane explaining the desktop publishing and the difference between writing and formatting for the web. Also, inline editing
-Tag: karen-mcgrane
-Tag: editing
-Tag: formatting
-Tag: desktop-publishing
-Tag: medium
-Tag: wysiwyg
+Tags: karen-mcgrane, editing, formatting, desktop-publishing, medium, wysiwyg
 
 Id: 866b41b2-7a24-11e8-9c54-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:52 +0000
 Title: What I’m talking about when I talk about TDD
 Link: https://medium.com/@ramtop/what-im-talking-about-when-i-talk-about-tdd-546a383468be
 Body: I've read this article by Uberto Barbini in which he describes his re-discovery of TDD as a tool to design
-Tag: uberto-barbini
-Tag: tdd
-Tag: rediscovery
-Tag: kent-beck
-Tag: test-driven-development
+Tags: uberto-barbini, tdd, rediscovery, kent-beck, test-driven-development
 
 Id: 9c543506-7a24-11e8-8c9b-0242ac110002
 Date: Wed, 27 Jun 2018 16:10:29 +0000
 Title: SE-Radio Episode 273: Steve McConnell on Software Estimation
 Link: http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/
 Body: Sven Johann interviews Steve McConnell about software estimation and planning.\n\nTalks about intrinsic risk management and extrinsic risk management\n\nExplains that you should manage the risk so the most uncertain is tackled in the beginning. At the retro (following the demo), you get risk identification (as root cause analysis based on not delivering as expected)\n\n> The goal of Agile was not to be able to change all the time, but to adapt to change\n\n\n\n> Embrace change
-Tag: cone-of-uncertainty
-Tag: agile
-Tag: project-management
-Tag: risk
-Tag: sven-johann
-Tag: steve-mcconnell
-Tag: iteration
-Tag: scrum
-Tag: risk-identification
+Tags: cone-of-uncertainty, agile, project-management, risk, sven-johann, steve-mcconnell, iteration, scrum, risk-identification
 
 Id: a90cf1ac-7a24-11e8-a69e-0242ac110002
 Date: Wed, 27 Jun 2018 16:10:50 +0000
 Title: Software Psychology with Bjorn Freeman Benson
 Link: https://softwareengineeringdaily.com/2017/03/28/software-psychology-with-bjorn-freeman-benson/
 Body: I've listened to this podcast on psychology
-Tag: software-engineering-daily
-Tag: bjorn-benson
-Tag: psychology
-Tag: walled-garden
+Tags: software-engineering-daily, bjorn-benson, psychology, walled-garden
 
 Id: b2056db6-7a24-11e8-97d3-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:05 +0000
 Title: Using CQRS to Make Controllers Lean with Derek Comartin
 Link: https://softwareengineeringdaily.com/2017/03/10/using-cqrs-to-make-controllers-lean-with-derek-comartin/
 Body: I've listened to this podcast on CQRS
-Tag: cqrs
-Tag: derek-comartin
-Tag: command-query-responsibility-segregation
-Tag: greg-young
-Tag: udi-dahan
-Tag: red-book
-Tag: ddd
-Tag: domain-driven-design
-Tag: podcast
-Tag: software-engineering-daily
+Tags: cqrs, derek-comartin, command-query-responsibility-segregation, greg-young, udi-dahan, red-book, ddd, domain-driven-design, podcast, software-engineering-daily
 
 Id: bc6e1190-7a24-11e8-b19a-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:23 +0000
 Title: Elm In Production: 25,000 Lines Later
 Link: https://functional.works-hub.com/blog/Elm-In-Production-25-000-Lines-Later
 Body: I've read this article by Christian Charukiewicz explaining how he started a new project and a new feature in Elm. How he explained this new technology to his teammates and how it is going now.\n\nExplains the pros and cons for the language.
-Tag: christian-charukiewicz
-Tag: elm
-Tag: compiler
-Tag: experience-report
-Tag: frontend
-Tag: functional-language
-Tag: functional-programming
+Tags: christian-charukiewicz, elm, compiler, experience-report, frontend, functional-language, functional-programming
 
 Id: c2416c52-7a24-11e8-b692-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:33 +0000
@@ -1167,69 +605,42 @@ Title: Growing Up with Alexa
 Link: https://www.technologyreview.com/s/608430/growing-up-with-alexa/
 Body:
 
+
 Id: cb789e76-7a24-11e8-bdb2-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:48 +0000
 Title: Jony’s Patience
 Link: https://medium.com/@mkruz/jony-s-patience-670d5a3dc128
 Body: I've read this article by Mike Kruzeniski explaining part of John Ive career at Apple and explaining part of the design process the Apple Watch had.
-Tag: ux
-Tag: design
-Tag: apple
-Tag: watch
-Tag: john-ive
-Tag: mike-kruzeniski
-Tag: career
-Tag: career-management
+Tags: ux, design, apple, watch, john-ive, mike-kruzeniski, career, career-management
 
 Id: d4b6a596-7a24-11e8-b245-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:04 +0000
 Title: The Four Month Bug: JVM statistics cause garbage collection pauses
 Link: http://www.evanjones.ca/jvm-mmap-pause.html
 Body: I've read this blog post by Evan Jones as an example of unknown unknown
-Tag: evan-jones
-Tag: unknown-unknown
-Tag: java
-Tag: mmap
-Tag: garbage-collector
-Tag: pause
-Tag: unknown
+Tags: evan-jones, unknown-unknown, java, mmap, garbage-collector, pause, unknown
 
 Id: dddee4c6-7a24-11e8-b11f-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:19 +0000
 Title: The pleasure of building big things
 Link: http://rc3.org/2015/03/24/the-pleasure-of-building-big-things/
 Body: I've read this article explaining that big projects take time to be created.\n\nThe temptation is all around us, to accelerate feedback loops, create products more quickly, release earlier. That has the tension of being 'half-baked' products, that have not achieved the minimum level of loveable feature and, thus, not used.
-Tag: time
-Tag: focus
-Tag: rafe-colburn
-Tag: product
-Tag: lean
+Tags: time, focus, rafe-colburn, product, lean
 
 Id: e91565cc-7a24-11e8-8849-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:38 +0000
 Title: Choose Boring Technology
 Link: http://mcfunley.com/choose-boring-technology/
 Body: I've read this article by Dan McKinley about how choosing boring (i.e., well-proven) technology can help you focus on your company goals and how 'the best tool for the job' is not always the case, as the job depends on who you ask: developers, ops, business.
-Tag: dan-mckinley
-Tag: boring
-Tag: technology
-Tag: proven
-Tag: production-ready
-Tag: development
-Tag: operations
-Tag: focus
-Tag: business
-Tag: goal
-Tag: best-tool-for-the-job
+Tags: dan-mckinley, boring, technology, proven, production-ready, development, operations, focus, business, goal, best-tool-for-the-job
 
 Id: fe723d14-7a24-11e8-ab5c-0242ac110002
 Date: Wed, 27 Jun 2018 16:13:14 +0000
 Title: Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated]
 Link: https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320
 Body: I have read this document
-Tag: google
-Tag: scandal
-Tag: sexism
+Tags: google, scandal, sexism
+
 
 Id: 172e94e2-7a25-11e8-86cc-0242ac110002
 Date: Wed, 27 Jun 2018 16:13:55 +0000
@@ -1237,138 +648,67 @@ Title: Check Your Work
 Link: https://8thlight.com/blog/connor-mendenhall/2013/10/31/check-your-work.html
 Body:
 
+
 Id: 454f53fc-7dd6-11e8-8208-0242ac110003
 Date: Mon, 02 Jul 2018 08:59:47 +0000
 Title: The Haskell Pyramid
 Link: https://patrickmn.com/software/the-haskell-pyramid/
 Body: I've read this article on how the productivity for Haskell is achieved: not using the topics discussed on social networks (monads, functors, laws, lenses, etc) but using more basic tools
-Tag: haskell
-Tag: productivity
-Tag: lucas-di-cioccio
-Tag: learning
-Tag: development
-Tag: tool
-Tag: monad
-Tag: hype
-Tag: pyramid
-Tag: productive-haskell-bar
-Tag: bar
+Tags: haskell, productivity, lucas-di-cioccio, learning, development, tool, monad, hype, pyramid, productive-haskell-bar, bar
 
 Id: ef00176e-7ddc-11e8-a33b-0242ac110003
 Date: Mon, 02 Jul 2018 09:47:29 +0000
 Title: El verde más verde
 Link: https://mailchi.mp/bonillaware/verde-mas-verde?e=68e22b460d
 Body: I've read this article on how to structure creative projects (e.g., UX, programming) by professionals, as told by David Bonilla.
-Tag: david-bonilla
-Tag: bonilista
-Tag: project-management
-Tag: slack-time
-Tag: sabbatical
-Tag: vertical-slice
+Tags: david-bonilla, bonilista, project-management, slack-time, sabbatical, vertical-slice
 
 Id: 40d68542-7dff-11e8-89f2-0242ac110003
 Date: Mon, 02 Jul 2018 13:53:09 +0000
 Title: How to Fix Burnout as a Developer
 Link: https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl
 Body: I've read this article on burnout and how to fix it:\nStop working so much.\nPrioritize your health.\nTry something new.\nPatience is key.\nTalk to your loved ones.
-Tag: lewis-menelaws
-Tag: burnout
-Tag: burn-out
-Tag: productivity
-Tag: listicle
-Tag: career
-Tag: psychology
-Tag: management
-Tag: time-management
-Tag: career-management
-Tag: health
+Tags: lewis-menelaws, burnout, burn-out, productivity, listicle, career, psychology, management, time-management, career-management, health
 
 Id: 9003a91a-7dff-11e8-a366-0242ac110003
 Date: Mon, 02 Jul 2018 13:55:22 +0000
 Title: Ask HN: What is the first thing you implement at a new company?
 Link: https://news.ycombinator.com/item?id=17353854
 Body: I've read this article on the first things that people do when joining a new client.\nMentions the Chesterton's fence: You don’t want to change something until you understand why it’s there in the first place.
-Tag: chesterton-fence
-Tag: hacker-news
-Tag: contractor
-Tag: client
-Tag: onboarding
-Tag: fix
+Tags: chesterton-fence, hacker-news, contractor, client, onboarding, fix
 
 Id: 736e269e-7e00-11e8-ac4a-0242ac110003
 Date: Mon, 02 Jul 2018 14:01:43 +0000
 Title: The Fallacy Of Chesterton's Fence
 Link: https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence/
 Body: I've read this article on the Chesterton's fence.\n> don’t ever take a fence down until you know the reason why it was put up\n\nThe author explains that the walls (or contracts, or clauses, or practices) were put in place to cover for a specific need. Do not assume that this need does not exist now, before understanding what the need was in the first place.
-Tag: chesterton-fence
-Tag: keith-lee
-Tag: consulting
-Tag: tip
-Tag: analogy
-Tag: discovery
-Tag: process
-Tag: people
+Tags: chesterton-fence, keith-lee, consulting, tip, analogy, discovery, process, people
 
 Id: c20e6ac4-8fe5-11e8-b54e-0242ac110003
 Date: Wed, 25 Jul 2018 08:36:00 +0000
 Title: A brief history of the UUID
 Link: https://segment.com/blog/a-brief-history-of-the-uuid/
 Body: A brief history of UUID: of how it was developed, why, and a new library in go called ksuid\nExplains the origins of networked computers (as opposed to personal computers without any networking) in the 1980s.\nAlso explains the origins of the UUID, some algorithms for generating them.
-Tag: ksuid
-Tag: uuid
-Tag: golang
-Tag: go
-Tag: rick-branson
-Tag: history
+Tags: ksuid, uuid, golang, go, rick-branson, history
 
 Id: 962c0c26-8fe6-11e8-bf2c-0242ac110003
 Date: Wed, 25 Jul 2018 08:41:55 +0000
 Title: Delivering billions of messages exactly once
 Link: https://segment.com/blog/exactly-once-delivery/
 Body: Explains how this company (segment) has solved the problem of delivering the messages once and only once (OAOO), using RocksDB, Kafka, UUIDs. Deployed to AWS, lowers the cost of the previous system (memcached-based).\nImpressive numbers: 1.5 TB worth of keys stored on disk in RocksDB\na 4-week window of de-duplication before aging out old keys\napproximately 60B keys stored inside our RocksDB instances\n200B messages passed through the dedupe system\nAlso explains in depth how RocksDB works
-Tag: rocksdb
-Tag: facebook
-Tag: database
-Tag: once-and-only-once
-Tag: oaoo
-Tag: message
-Tag: exactly-once-delivery
-Tag: delivery
-Tag: message-delivery
-Tag: kafka
-Tag: uuid
-Tag: client
-Tag: aws
-Tag: segment
-Tag: topic
-Tag: cloud-scale
+Tags: rocksdb, facebook, database, once-and-only-once, oaoo, message, exactly-once-delivery, delivery, message-delivery, kafka, uuid, client, aws, segment, topic, cloud-scale
 
 Id: f7e738c8-8fe6-11e8-89be-0242ac110003
 Date: Wed, 25 Jul 2018 08:44:39 +0000
 Title: Object Collaboration Stereotypes
 Link: http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html
 Body: This post describes the relationships between two objects:\nDependencies are services that the object needs from its environment so that it can fulfil its responsibilities.\nNotifications are other parts of the system that need to know when the object changes state or performs an action.\nPolicies are objects that tweak or adapt the object's behaviour to the needs of the system.\nParts are components in the implementation that are not controlled from outside the object after being set.
-Tag: dependency
-Tag: notification
-Tag: policy
-Tag: part
-Tag: collaborator
-Tag: relationship
-Tag: steve-freeman
-Tag: goos
-Tag: growing-object-oriented-software
+Tags: dependency, notification, policy, part, collaborator, relationship, steve-freeman, goos, growing-object-oriented-software
 
 Id: ea7281ee-9012-11e8-bd95-0242ac110003
 Date: Wed, 25 Jul 2018 13:59:15 +0000
 Title: Mocks, Fakes, Stubs and Dummies
 Link: http://xunitpatterns.com/Mocks,%20Fakes,%20Stubs%20and%20Dummies.html
 Body: Bibliography for mocks, stubs, fakes, dummies, spies.
-Tag: mock
-Tag: stub
-Tag: test-double
-Tag: dummy
-Tag: xunit
-Tag: xunit-pattern
-Tag: gerard-meszaros
-Tag: xunitpatterns
+Tags: mock, stub, test-double, dummy, xunit, xunit-pattern, gerard-meszaros, xunitpatterns
 
