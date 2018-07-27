@@ -74,17 +74,17 @@ my @tags2 =
 #    .flat;
 
 #print (map {"$_\n"} @tags2);
-my @tagsAsFields = map {"-f Tag -v \"$_\""} @tags2;
+my $tagsCommaSeparated =  join(', ', @tags2);
 
 ## Prepare command
 my $command="recins -t Link ";
 $command.="-f Title -v \"$title\" ";
 $command.="-f Link -v \"$link\" ";
 $command.="-f Body -v \"$body\" ";
-$command.=join(' ', @tagsAsFields);
+$command.="-f Tags -v \"$tagsCommaSeparated\"";
 $command.=' data/links.rec';
 
 ## Dry run
 print "$command\n";
 
-`$command`
+#`$command`
