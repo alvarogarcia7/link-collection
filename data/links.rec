@@ -10,7 +10,9 @@
 Id: a1a6925a-7958-11e8-a87f-0242ac110002
 Date: Tue, 26 Jun 2018 15:50:21 +0000
 Title: Don't look, don't tell
-Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.\n\nExplains full disclosure, responsible disclosure and bug bounties.
+Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.
++ 
++ Explains full disclosure, responsible disclosure and bug bounties.
 Tags: david-bonilla, bonilista, security, full-disclosure, responsible-disclosure, bug-bounty, reporting, hacker, cracker
 
 Id: c72f3522-7958-11e8-935c-0242ac110002
@@ -23,84 +25,103 @@ Id: ea43a380-7959-11e8-bd3b-0242ac110002
 Date: Tue, 26 Jun 2018 15:59:32 +0000
 Title: Why re-frame instead of om next
 Link: http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMzY1MTcxNyIsImRlbGl2ZXJ5X2lkIjoiMTE1NTgzOTE5MCIsInVybCI6Imh0dHBzOi8vcHVyZWx5ZnVuY3Rpb25hbC50di9hcnRpY2xlL3doeS1yZS1mcmFtZS1pbnN0ZWFkLW9mLW9tLW5leHQvP19fcz1mOXA2dmRwc2N0YmluaGJxYnE2eiJ9
-Body: I've read this article by Eric Normand on why he chose to write a course on clojure front-end framework\n
+Body: I've read this article by Eric Normand on why he chose to write a course on clojure front-end framework
++ 
 Tags: eric-normand, clojure, david-nolen, frontend, framework, reframe, om-next, comparison, course, mooc
 
 Id: 1aa20256-795a-11e8-9b39-0242ac110002
 Date: Tue, 26 Jun 2018 16:00:53 +0000
 Title: LexNET: el software que nunca debió existir
 Link:
-Body: I've read this bonilista by David Bonilla on the software called LexNET and the scandal around it\n
+Body: I've read this bonilista by David Bonilla on the software called LexNET and the scandal around it
++ 
 Tags: david-bonilla, lexnet, bonilista, software, scandal, spain
 
 Id: 296a433e-795a-11e8-981e-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:18 +0000
 Title: 40
 Link:
-Body: I have read this bonilista by David Bonilla explaining some of the things he has learned from 40 years of experience in life. Explains some of his fears and how he has solved them.\n\n
+Body: I have read this bonilista by David Bonilla explaining some of the things he has learned from 40 years of experience in life. Explains some of his fears and how he has solved them.
++ 
++ 
 Tags: david-bonilla, bonilista, birthday, reflection, fear, money, money-management
 
 Id: 395a8984-795a-11e8-9102-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:45 +0000
 Title: La lucha por la Red
 Link:
-Body: I've read this bonilista by David Bonilla on the net neutrality in Spain and in the European union.\n
+Body: I've read this bonilista by David Bonilla on the net neutrality in Spain and in the European union.
++ 
 Tags: david-bonilla, bonilista, net-neutrality, internet
 
 Id: 0cb8305c-7a1d-11e8-9823-0242ac110002
 Date: Wed, 27 Jun 2018 15:16:22 +0000
 Title: A machine has figured out Rubik's Cube all by itself
 Link: https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/
-Body: I've read this article explaining how an AI has solved the rubik cube by itself. The team, including McAleer, has used a technique called "autodidactic iteration: a way for the machine to create its own system of rewards.\n
+Body: I've read this article explaining how an AI has solved the rubik cube by itself. The team, including McAleer, has used a technique called "autodidactic iteration: a way for the machine to create its own system of rewards.
++ 
 Tags: rubik, rubik-cube, ai, autodidactic-iteration, autodidactic, reward, mcaleer, artificial-intelligence, deep-learning, monte-carlo, monte-carlo-tree-search
 
 Id: 6735c620-7a1d-11e8-a2e9-0242ac110002
 Date: Wed, 27 Jun 2018 15:18:53 +0000
 Title: La tienda
 Link:
-Body: I've read this bonilista by David Bonilla on how more and more investors are deciding to do it only on profitable startups rather than a more global strategy\n
+Body: I've read this bonilista by David Bonilla on how more and more investors are deciding to do it only on profitable startups rather than a more global strategy
++ 
 Tags: david-bonilla, bonilista, investor, startup
 
 Id: 7e2fbffc-7a1d-11e8-bbd2-0242ac110002
 Date: Wed, 27 Jun 2018 15:19:32 +0000
 Title: I’m not a woman in tech
 Link: https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/
-Body: I've read this article by Maria Scrivener on how she does not consider herself a woman in tech. She prefers to lose the labels and just be considered her, herself. Advocates for being inclusive rather than exclusive\n
+Body: I've read this article by Maria Scrivener on how she does not consider herself a woman in tech. She prefers to lose the labels and just be considered her, herself. Advocates for being inclusive rather than exclusive
++ 
 Tags: feminism, women-in-tech, maria-scrivener, women, label, equality
 
 Id: 97212f3c-7a1d-11e8-bdcd-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:14 +0000
 Title: PASSWORD SECURITY ALERT
 Link: https://blog.8tracks.com/2017/06/27/password-security-alert/
-Body: I've read this article by David Porter in which they alert their users that their database has been leaked, therefore some passwords are at risk.\n\nThe passwords were hashed and salted, not stored in plain text, but those who share a password across services could be at risk.\n\nThe attack has been successful given that a developer didn't have two-factor authentication (2FA) on their github account and the company was using GitHub LFS (git large file system) to store database backups
+Body: I've read this article by David Porter in which they alert their users that their database has been leaked, therefore some passwords are at risk.
++ 
++ The passwords were hashed and salted, not stored in plain text, but those who share a password across services could be at risk.
++ 
++ The attack has been successful given that a developer didn't have two-factor authentication (2FA) on their github account and the company was using GitHub LFS (git large file system) to store database backups
 Tags: david-porter, backup, storage, configuration, github, 2fa, plain-text, password, security, security-alert, lfs, git-lfs, github-lfs
 
 Id: a942bf96-7a1d-11e8-b122-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:44 +0000
 Title: Matthew Green
 Link: https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/
-Body: I've read this article by Matthew Green on the ideas presented by Shamir in 1984: Identity Based Cryptography (IBE), Attribute Based Cryptography (ABE)\n\n
+Body: I've read this article by Matthew Green on the ideas presented by Shamir in 1984: Identity Based Cryptography (IBE), Attribute Based Cryptography (ABE)
++ 
++ 
 Tags: rsa, matthew-green, cryptography, identity-based-cryptography, attribute-based-cryptography, shamir, public-key, encryption, private-key 
 
 Id: b3ffb61e-7a1d-11e8-a08c-0242ac110002
 Date: Wed, 27 Jun 2018 15:21:02 +0000
 Title: Starbucks should really make their APIs public
 Link: https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
-Body: I've read this article by Nick Lee in which he explains how he has reverse-engineered the Starbucks API so you can connect to it from another device (not only phones, with the app installed)\n
+Body: I've read this article by Nick Lee in which he explains how he has reverse-engineered the Starbucks API so you can connect to it from another device (not only phones, with the app installed)
++ 
 Tags: certificate-pinning, tendigi, nick-lee, security, man-in-the-middle, proxy, api, attribute-fingerprinting, open-api, starbucks
 
 Id: dbb1ff46-7a1d-11e8-b40e-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:09 +0000
 Title: Feature Toggles are one of the Worst kinds of Technical Debt
 Link: https://dzone.com/articles/feature-toggles-are-one-worst
-Body: I've read this article on the ups and downs of using feature toggles.\n\nEspecially with long lived branches and feature by abstraction
+Body: I've read this article on the ups and downs of using feature toggles.
++ 
++ Especially with long lived branches and feature by abstraction
 Tags: feature-by-abstraction, feature-toggle, canary-test, jim-bird, technical-debt
 
 Id: f13f63bc-7a1d-11e8-a6a2-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:45 +0000
 Title: TestContainers: making Java integration tests easy
 Link: https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
-Body: I've read this article on how to start a new docker container from Java code (using a junit @rule).\n\nUsing the library TestContainers
+Body: I've read this article on how to start a new docker container from Java code (using a junit @rule).
++ 
++ Using the library TestContainers
 Tags: testcontainers, rebel-labs, anton-arhipov, test, docker, image, integration-test, testing
 
 Id: 15740b0c-7a1e-11e8-9169-0242ac110002
@@ -114,7 +135,11 @@ Id: 5228464e-7a1e-11e8-9125-0242ac110002
 Date: Wed, 27 Jun 2018 15:25:28 +0000
 Title: Saints and Traders: The John Henry Fable Reconsidered
 Link: https://www.ribbonfarm.com/2014/06/04/saints-and-traders-the-john-henry-fable-reconsidered/
-Body: I've read this article on the guardian syndrome and the Saint syndrome.\n\nExplains the story of John Henry, who died right after winning a drilling contest with a machine.\n\nExplains the finite game and the infinite game.
+Body: I've read this article on the guardian syndrome and the Saint syndrome.
++ 
++ Explains the story of John Henry, who died right after winning a drilling contest with a machine.
++ 
++ Explains the finite game and the infinite game.
 Tags: finite-game, infinite-game, saint-syndrome, guardian-syndrome, comparison, philosophy, venkatesh-rao, john-henry
 
 Id: 6e3df860-7a1e-11e8-ba6a-0242ac110002
@@ -142,21 +167,31 @@ Id: e5d53f46-7a1e-11e8-9097-0242ac110002
 Date: Wed, 27 Jun 2018 15:29:35 +0000
 Title: What is a "10x" Programmer?
 Link: https://dev.to/nathanepstein/what-is-a-10x-programmer
-Body: I've read this article about makes a good programmer, under the label of the mythical 10x programmer.\n\nThere are two different groups of things in the list: things you are/have (skills) and things you do (actitudes). On the former, writing code (good, business code that is correctly organized, architected, designed), to know a lot. On the latter, ownership for the project (implication, care), teaching and learning from others.\n
+Body: I've read this article about makes a good programmer, under the label of the mythical 10x programmer.
++ 
++ There are two different groups of things in the list: things you are/have (skills) and things you do (actitudes). On the former, writing code (good, business code that is correctly organized, architected, designed), to know a lot. On the latter, ownership for the project (implication, care), teaching and learning from others.
++ 
 Tags: 10x, author, productivity, skill, attitude, aptitude, attitude-vs-aptitude, nathan-epstein
 
 Id: f7f8a73a-7a1e-11e8-836d-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:06 +0000
 Title: Why Podcasts Have Become Popular
 Link: http://www.donnfelker.com/why-podcasts-have-become-popular/
-Body: I've read this article by Donn Felker on the effect that the Internet is having on consumers: they now decide when to consume the resources, instead of passively waiting for the resources to appear.\n\nThis is the suggested explanation for on-demand video vs television, podcasts vs radio
+Body: I've read this article by Donn Felker on the effect that the Internet is having on consumers: they now decide when to consume the resources, instead of passively waiting for the resources to appear.
++ 
++ This is the suggested explanation for on-demand video vs television, podcasts vs radio
 Tags: podcast, on-demand, consumer, internet, donn-felker
 
 Id: 0862fbca-7a1f-11e8-83fb-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:33 +0000
 Title: Don’t Know What You Want? Improve These 7 Universal Skills
 Link: Self-Discipline: Get better at ignoring the negative voice in your head. Get out of your bed. Go to the gym. Don’t listen to “I don’t want to.”
-Body: Personal Effectiveness: Learn how to maximize the results you can get during the 16–18 hours you’re awake. Get more done — effectively.\nCommunication: We think we’re all master communicators. But the truth is that we suck. Communication is both art and science. And our ability to work with others depends on it.\nNegotiation: You negotiate all the time. With your spouse, kids, parents, teachers, friends, co-workers, managers, etc. Learn to get the best deal for all parties.\nPersuasion: Learn how to get what you want in an ethical way.\nPhysical Strength & Stamina: Getting stronger is a skill. Pull your own weight. It’s something every human should be able to do.\nFlexibility: Sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves — the most common weak points of desk workers.
+Body: Personal Effectiveness: Learn how to maximize the results you can get during the 16–18 hours you’re awake. Get more done — effectively.
++ Communication: We think we’re all master communicators. But the truth is that we suck. Communication is both art and science. And our ability to work with others depends on it.
++ Negotiation: You negotiate all the time. With your spouse, kids, parents, teachers, friends, co-workers, managers, etc. Learn to get the best deal for all parties.
++ Persuasion: Learn how to get what you want in an ethical way.
++ Physical Strength & Stamina: Getting stronger is a skill. Pull your own weight. It’s something every human should be able to do.
++ Flexibility: Sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves — the most common weak points of desk workers.
 
 
 Id: 14f5e064-7a1f-11e8-be86-0242ac110002
@@ -170,7 +205,13 @@ Id: 3f41e6ec-7a1f-11e8-85fc-0242ac110002
 Date: Wed, 27 Jun 2018 15:32:05 +0000
 Title: The Great Attention Heist
 Link: https://lareviewofbooks.org/article/the-great-attention-heist/
-Body: I've read this article by John Bell, John Zada on the current war for attention, what they call the 'attention heist': publishers fight for your attention, selling it to third parties. The more they can lure you to spend your (finite) attention with them, the higher the profits.\n\nThey talk about two kinds of attention: short span and long span. Reading news is the first while reading a book or a long article is the second one.\n\nThey mention unplugging (i.e., a "digital sabbath") to help improving the level of concentration\n\n(this was a book review, of 'The attention merchants', by Tim Wu)
+Body: I've read this article by John Bell, John Zada on the current war for attention, what they call the 'attention heist': publishers fight for your attention, selling it to third parties. The more they can lure you to spend your (finite) attention with them, the higher the profits.
++ 
++ They talk about two kinds of attention: short span and long span. Reading news is the first while reading a book or a long article is the second one.
++ 
++ They mention unplugging (i.e., a "digital sabbath") to help improving the level of concentration
++ 
++ (this was a book review, of 'The attention merchants', by Tim Wu)
 Tags: john-bell, john-zada, attention-heist, attention, app, smartphone, book-review, tim-wu, book, sabbath, digital-sabbath, long-article
 
 Id: c451a048-7a1f-11e8-82f7-0242ac110002
@@ -219,14 +260,29 @@ Id: 53a89846-7a20-11e8-abd1-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:49 +0000
 Title: 10 Hard Things to Start Doing for Yourself
 Link: http://www.marcandangel.com/2017/09/24/10-hard-things-to-start-doing-for-yourself/
-Body: I've read this self-help article on how to help yourself by doing hard things:\n\n> Start letting go of unnecessary ideals\n> Start putting your heart and soul into the things you do\n> Start stretching yourself just beyond the edge of comfort\n> Start taking more deep breaths, so you can mindfully collect more lessons for the long run\n> Start side-stepping senseless drama\n> Start staying true to your values and convictions\n> Start looking for silver linings\n> Start focusing inward more often\n> Start embracing your humanness and giving yourself more credit\n> Start taking the next small, insignificant step (one at a time, every day). \n\n\nBy Marc Chernoff
+Body: I've read this self-help article on how to help yourself by doing hard things:
++ 
++ > Start letting go of unnecessary ideals
++ > Start putting your heart and soul into the things you do
++ > Start stretching yourself just beyond the edge of comfort
++ > Start taking more deep breaths, so you can mindfully collect more lessons for the long run
++ > Start side-stepping senseless drama
++ > Start staying true to your values and convictions
++ > Start looking for silver linings
++ > Start focusing inward more often
++ > Start embracing your humanness and giving yourself more credit
++ > Start taking the next small, insignificant step (one at a time, every day). 
++ 
++ 
++ By Marc Chernoff
 Tags: marc-chernoff, self-help, meditation, breathing, comfort-zone, help
 
 Id: 9737002a-7a20-11e8-a864-0242ac110002
 Date: Wed, 27 Jun 2018 15:41:42 +0000
 Title: Happiness is overrated — finding deep meaning in life comes down to 4 'pillars'
 Link: http://www.businessinsider.com/emily-esfehani-smith-finding-meaning-life-4-pillars-2017-9
-Body: I've read this article about what life is about: not happiness but four pillars: belonging and purpose, transcendence and storytelling\nstorytelling helps people create meaning because it allows people to create, edit, and transform the story of their lives
+Body: I've read this article about what life is about: not happiness but four pillars: belonging and purpose, transcendence and storytelling
++ storytelling helps people create meaning because it allows people to create, edit, and transform the story of their lives
 Tags: happiness, life, fulfillment, pillar, belonging, purpose, flow, transcendence, storytelling,, chris-weller
 
 Id: a3e1c936-7a20-11e8-8fbe-0242ac110002
@@ -240,14 +296,33 @@ Id: b2ddd326-7a20-11e8-9af5-0242ac110002
 Date: Wed, 27 Jun 2018 15:42:29 +0000
 Title: How to Stay Focused When You’re Working from Home
 Link: https://hbr.org/2017/09/how-to-stay-focused-when-youre-working-from-home&formCheck=bc3e82f422e9567c25d37e403ee877e6
-Body: I've read this article on structuring your workday while being at home (remote work).\n\nSome tips:\n\n1. Structure for success\n1. Schedule your day: when it's work-related time and when not\n1. Set boundaries\n\nBy Elizabeth Grace Saunders
+Body: I've read this article on structuring your workday while being at home (remote work).
++ 
++ Some tips:
++ 
++ 1. Structure for success
++ 1. Schedule your day: when it's work-related time and when not
++ 1. Set boundaries
++ 
++ By Elizabeth Grace Saunders
 Tags: remote, remote-work, hbr, harvard-business-review, elizabeth-saunders
 
 Id: c8742b18-7a20-11e8-b36f-0242ac110002
 Date: Wed, 27 Jun 2018 15:43:05 +0000
 Title: Cognitive Biases in Programming
 Link: https://hackernoon.com/cognitive-biases-in-programming-5e937707c27b
-Body: I've read this article that explains some cognitive biases (prejudices of our mind) while programming:\n\n1. Hyperbolic Discounting: Going for an immediate payoff instead of a delayed larger one\n1. IKEA Effect:Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions. Also called the "Not-Invented-Here (NIH) Syndrome"\n1. Premature Optimization: Optimizing before you know that you need to.\n1. Planning Fallacy: Optimistically underestimating the time required to complete a task\n1. Recency Bias: Placing higher value on recent events than ones that occurred further in the past\n\n> We can never completely eliminate our biases, by being aware of how it is affecting us, we can somewhat mitigate the problems it causes.\n\nBy Yash Ranadive\n
+Body: I've read this article that explains some cognitive biases (prejudices of our mind) while programming:
++ 
++ 1. Hyperbolic Discounting: Going for an immediate payoff instead of a delayed larger one
++ 1. IKEA Effect:Overvaluing your own solutions to a problem, and thus in contrast undervalue other solutions. Also called the "Not-Invented-Here (NIH) Syndrome"
++ 1. Premature Optimization: Optimizing before you know that you need to.
++ 1. Planning Fallacy: Optimistically underestimating the time required to complete a task
++ 1. Recency Bias: Placing higher value on recent events than ones that occurred further in the past
++ 
++ > We can never completely eliminate our biases, by being aware of how it is affecting us, we can somewhat mitigate the problems it causes.
++ 
++ By Yash Ranadive
++ 
 Tags: yash-ranadive, bias, programming, mind
 
 Id: dcd43756-7a20-11e8-b0ee-0242ac110002
@@ -261,7 +336,8 @@ Id: f611b626-7a20-11e8-8172-0242ac110002
 Date: Wed, 27 Jun 2018 15:44:22 +0000
 Title: General and Surprising
 Link: http://paulgraham.com/sun.html
-Body: I've read this article about how information can be classified as general vs specific and surprising vs unsurprising. How it's best to find a small surprising general thing.\n
+Body: I've read this article about how information can be classified as general vs specific and surprising vs unsurprising. How it's best to find a small surprising general thing.
++ 
 Tags: paul-graham, surprising, general, information, classification
 
 Id: 25b1e5d6-7a21-11e8-a838-0242ac110002
@@ -310,7 +386,9 @@ Id: 18bc20c0-7a22-11e8-9209-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:29 +0000
 Title: When are Citi Bikes Faster than Taxis in New York City?
 Link: http://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/
-Body: I've read this article by Todd Schneider analysing how city bikes compare to taxis in New York city.\n\nGood analysis, using a Monte Carlo simulation, written in R. Good data visualization.
+Body: I've read this article by Todd Schneider analysing how city bikes compare to taxis in New York city.
++ 
++ Good analysis, using a Monte Carlo simulation, written in R. Good data visualization.
 Tags: todd-schneider, data-visualization, map, city-bike, taxi, cab, new-york, new-york-city, comparison, data, data-analytics, monte-carlo, simulation, r
 
 Id: 23b8350e-7a22-11e8-a9f3-0242ac110002
@@ -331,7 +409,17 @@ Id: 398cc606-7a22-11e8-b33c-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:24 +0000
 Title: To type or not to type: quantifying detectable bugs in JavaScript
 Link: https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
-Body: I've read this paper commentary by Adrian Colyer (on a paper by Zheng Gao, Christian Bird, Earl T. Barr) on a study that tries to reproduce fixes for defects based on the dynamic to static typing system. \n\n>  both Flow and TypeScript are pretty good, and conservatively either of them can prevent about 15% of the bugs that end up in committed code.\n\nIt's interesting to see these effects quantified: \n\n> Running the binomial test on the results shows that, at the confidence level of 95%, the true percentage of detectable bugs for Flow and TypeScript falls into [11.5%, 18.5%] with mean 15%.\n\nAlso, some recommendations for the future: for typescript and flow to be compatible for more gains.\n\nOriginal paper: http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf
+Body: I've read this paper commentary by Adrian Colyer (on a paper by Zheng Gao, Christian Bird, Earl T. Barr) on a study that tries to reproduce fixes for defects based on the dynamic to static typing system. 
++ 
++ >  both Flow and TypeScript are pretty good, and conservatively either of them can prevent about 15% of the bugs that end up in committed code.
++ 
++ It's interesting to see these effects quantified: 
++ 
++ > Running the binomial test on the results shows that, at the confidence level of 95%, the true percentage of detectable bugs for Flow and TypeScript falls into [11.5%, 18.5%] with mean 15%.
++ 
++ Also, some recommendations for the future: for typescript and flow to be compatible for more gains.
++ 
++ Original paper: http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf
 Tags: zheng-gao, christian-bird, earl-barr, typescript, javascript, flow, bug, defect, type-system, dynamic-typing, static-typing
 
 Id: 44fe19ae-7a22-11e8-8e06-0242ac110002
@@ -366,7 +454,9 @@ Id: 80c233ee-7a22-11e8-8743-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:24 +0000
 Title: The Internet of Things is sending us back to the Middle Ages
 Link: https://thenextweb.com/lifestyle/2017/09/13/internet-things-sending-us-back-middle-ages/
-Body: I've read this article by JOSHUA A.T. FAIRFIELD on the right-to-own, right-to-repair and property. \n\nOn the difference in the real property of a smartphone vs a car. On the imaginary, they are the same, but in contractual terms, there is a big difference.
+Body: I've read this article by JOSHUA A.T. FAIRFIELD on the right-to-own, right-to-repair and property. 
++ 
++ On the difference in the real property of a smartphone vs a car. On the imaginary, they are the same, but in contractual terms, there is a big difference.
 Tags: joshua-fairfield, right-to-repair, bill, law, property, smartphone, eula, license, clause, imaginary
 
 Id: 92c637d4-7a22-11e8-baba-0242ac110002
@@ -387,7 +477,9 @@ Id: 46ffc936-7a23-11e8-882f-0242ac110002
 Date: Wed, 27 Jun 2018 16:00:56 +0000
 Title: Making Crash Bandicoot – GOOL – part 9
 Link: http://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/
-Body: I've read this article by Andy Gavin on making a lisp for games, an embedded language inside another language.\n\nGOOL prefers the power and maintainability of a lisp rather than the raw power of a lower-level programming language
+Body: I've read this article by Andy Gavin on making a lisp for games, an embedded language inside another language.
++ 
++ GOOL prefers the power and maintainability of a lisp rather than the raw power of a lower-level programming language
 Tags: andy-gavin, lisp, gool, crash-bandicoot, game, game-development
 
 Id: 5174beda-7a23-11e8-bf1e-0242ac110002
@@ -422,7 +514,13 @@ Id: 7d3d216a-7a23-11e8-8d31-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:27 +0000
 Title: Hacking back considered harmful?
 Link: https://blog.0day.rocks/hacking-back-considered-harmful-1ea38f882e8f
-Body: I've read this article by x0rz, a security researcher, on hacking back\n\n> active countermeasure that result in limiting the attacker capabilities\n\nAnd whether it is ethical to do it, even if it were illegal\n\n> Ethics is knowing the difference between what you have a right to do and what is right to do. — Potter Stewart
+Body: I've read this article by x0rz, a security researcher, on hacking back
++ 
++ > active countermeasure that result in limiting the attacker capabilities
++ 
++ And whether it is ethical to do it, even if it were illegal
++ 
++ > Ethics is knowing the difference between what you have a right to do and what is right to do. — Potter Stewart
 Tags: x0rz, security, hacking, hacking-back, ethic, legality, law, quote, potter-stewart, countermeasure, attacker
 
 Id: 8bda1c3c-7a23-11e8-b1cb-0242ac110002
@@ -436,7 +534,12 @@ Id: 97e67a7a-7a23-11e8-bc72-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:12 +0000
 Title: ML for the working programmer, 2nd edition - chapter 5
 Link: https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter5.pdf
-Body: I've read this chapter, to better understand finite and infinite data structures. Talks about streams (called sequences in ML), HOFs, lambda calculus. The book is by Lawrence Paulson\n\nSome of my examples are in \n\n * https://github.com/alvarogarcia7/haskell-simple-sessions/blob/master/trees/src/Trees.hs\n * https://github.com/alvarogarcia7/javascript-simple-sessions/tree/master/streams
+Body: I've read this chapter, to better understand finite and infinite data structures. Talks about streams (called sequences in ML), HOFs, lambda calculus. The book is by Lawrence Paulson
++ 
++ Some of my examples are in 
++ 
++  * https://github.com/alvarogarcia7/haskell-simple-sessions/blob/master/trees/src/Trees.hs
++  * https://github.com/alvarogarcia7/javascript-simple-sessions/tree/master/streams
 Tags: book, chapter, lawrence-paulson, ml, sequence, hof, lambda-calculus, combinator, stream, lazy-list, data-structure, infinite-list, higher-order-function, function-composition
 
 Id: a4263c08-7a23-11e8-86c0-0242ac110002
@@ -492,7 +595,9 @@ Id: 03cbbfca-7a24-11e8-927a-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:13 +0000
 Title: Episode 8: Interview with Ryan Dahl, Creator of Node.js
 Link: https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs
-Body: I've read [the transcription of] this interview, to Ryan Dahl.\n\nIn it, he describes his view of Node.js and how it is not well-suited for building massive web servers, but could be appropriate for web applications
+Body: I've read [the transcription of] this interview, to Ryan Dahl.
++ 
++ In it, he describes his view of Node.js and how it is not well-suited for building massive web servers, but could be appropriate for web applications
 Tags: ryan-dahl, go, microservice, web-app, interview, podcast, web-server, go, golang
 
 Id: 0db84e2c-7a24-11e8-ac3c-0242ac110002
@@ -519,7 +624,9 @@ Id: 3136db02-7a24-11e8-b84e-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:29 +0000
 Title: Having a "work wife" or "work husband" is good for your career
 Link: https://www.linkedin.com/pulse/having-work-wife-husband-good-your-career-rebecca-holman
-Body: I've read this article by Rebecca Holman explaining what is a work spouse (i.e., a trusted equal to bounce off ideas, discuss, advance together). Not a mentor, not a trusted boss, not someone reporting to you.\n\nExplains some of the benefits of finding that role.
+Body: I've read this article by Rebecca Holman explaining what is a work spouse (i.e., a trusted equal to bounce off ideas, discuss, advance together). Not a mentor, not a trusted boss, not someone reporting to you.
++ 
++ Explains some of the benefits of finding that role.
 Tags: rebecca-holman, work-wife, work-husband, work-spouse, team-management, work, job, pairing, mentor
 
 Id: 3df70628-7a24-11e8-9c3c-0242ac110002
@@ -547,7 +654,9 @@ Id: 5eea69ce-7a24-11e8-8842-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:46 +0000
 Title: Compare your efforts: 30 vs 3000 LOC for very simple MEAN app
 Link: http://blog.allcountjs.com/post/128771961651/compare-efforts
-Body: I've read this article that explains the difference between business value and technical value: a feature for the business could be very valuable but technically costly; also the other way around: they are independent variables.\n\nAlso explains that some value in development can be obtained quicker by using a framework, such as the tool that allcountjs provides: 30 lines to generate the equivalent business features to 3000 lines
+Body: I've read this article that explains the difference between business value and technical value: a feature for the business could be very valuable but technically costly; also the other way around: they are independent variables.
++ 
++ Also explains that some value in development can be obtained quicker by using a framework, such as the tool that allcountjs provides: 30 lines to generate the equivalent business features to 3000 lines
 Tags: allcountjs, mean, comparison, crud, framework, javascript, frontend, productivity, business-value, technical-value, cost
 
 Id: 699d067e-7a24-11e8-9962-0242ac110002
@@ -575,7 +684,17 @@ Id: 9c543506-7a24-11e8-8c9b-0242ac110002
 Date: Wed, 27 Jun 2018 16:10:29 +0000
 Title: SE-Radio Episode 273: Steve McConnell on Software Estimation
 Link: http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/
-Body: Sven Johann interviews Steve McConnell about software estimation and planning.\n\nTalks about intrinsic risk management and extrinsic risk management\n\nExplains that you should manage the risk so the most uncertain is tackled in the beginning. At the retro (following the demo), you get risk identification (as root cause analysis based on not delivering as expected)\n\n> The goal of Agile was not to be able to change all the time, but to adapt to change\n\n\n\n> Embrace change
+Body: Sven Johann interviews Steve McConnell about software estimation and planning.
++ 
++ Talks about intrinsic risk management and extrinsic risk management
++ 
++ Explains that you should manage the risk so the most uncertain is tackled in the beginning. At the retro (following the demo), you get risk identification (as root cause analysis based on not delivering as expected)
++ 
++ > The goal of Agile was not to be able to change all the time, but to adapt to change
++ 
++ 
++ 
++ > Embrace change
 Tags: cone-of-uncertainty, agile, project-management, risk, sven-johann, steve-mcconnell, iteration, scrum, risk-identification
 
 Id: a90cf1ac-7a24-11e8-a69e-0242ac110002
@@ -596,7 +715,9 @@ Id: bc6e1190-7a24-11e8-b19a-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:23 +0000
 Title: Elm In Production: 25,000 Lines Later
 Link: https://functional.works-hub.com/blog/Elm-In-Production-25-000-Lines-Later
-Body: I've read this article by Christian Charukiewicz explaining how he started a new project and a new feature in Elm. How he explained this new technology to his teammates and how it is going now.\n\nExplains the pros and cons for the language.
+Body: I've read this article by Christian Charukiewicz explaining how he started a new project and a new feature in Elm. How he explained this new technology to his teammates and how it is going now.
++ 
++ Explains the pros and cons for the language.
 Tags: christian-charukiewicz, elm, compiler, experience-report, frontend, functional-language, functional-programming
 
 Id: c2416c52-7a24-11e8-b692-0242ac110002
@@ -624,7 +745,9 @@ Id: dddee4c6-7a24-11e8-b11f-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:19 +0000
 Title: The pleasure of building big things
 Link: http://rc3.org/2015/03/24/the-pleasure-of-building-big-things/
-Body: I've read this article explaining that big projects take time to be created.\n\nThe temptation is all around us, to accelerate feedback loops, create products more quickly, release earlier. That has the tension of being 'half-baked' products, that have not achieved the minimum level of loveable feature and, thus, not used.
+Body: I've read this article explaining that big projects take time to be created.
++ 
++ The temptation is all around us, to accelerate feedback loops, create products more quickly, release earlier. That has the tension of being 'half-baked' products, that have not achieved the minimum level of loveable feature and, thus, not used.
 Tags: time, focus, rafe-colburn, product, lean
 
 Id: e91565cc-7a24-11e8-8849-0242ac110002
@@ -667,42 +790,62 @@ Id: 40d68542-7dff-11e8-89f2-0242ac110003
 Date: Mon, 02 Jul 2018 13:53:09 +0000
 Title: How to Fix Burnout as a Developer
 Link: https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl
-Body: I've read this article on burnout and how to fix it:\nStop working so much.\nPrioritize your health.\nTry something new.\nPatience is key.\nTalk to your loved ones.
+Body: I've read this article on burnout and how to fix it:
++ Stop working so much.
++ Prioritize your health.
++ Try something new.
++ Patience is key.
++ Talk to your loved ones.
 Tags: lewis-menelaws, burnout, burn-out, productivity, listicle, career, psychology, management, time-management, career-management, health
 
 Id: 9003a91a-7dff-11e8-a366-0242ac110003
 Date: Mon, 02 Jul 2018 13:55:22 +0000
 Title: Ask HN: What is the first thing you implement at a new company?
 Link: https://news.ycombinator.com/item?id=17353854
-Body: I've read this article on the first things that people do when joining a new client.\nMentions the Chesterton's fence: You don’t want to change something until you understand why it’s there in the first place.
+Body: I've read this article on the first things that people do when joining a new client.
++ Mentions the Chesterton's fence: You don’t want to change something until you understand why it’s there in the first place.
 Tags: chesterton-fence, hacker-news, contractor, client, onboarding, fix
 
 Id: 736e269e-7e00-11e8-ac4a-0242ac110003
 Date: Mon, 02 Jul 2018 14:01:43 +0000
 Title: The Fallacy Of Chesterton's Fence
 Link: https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence/
-Body: I've read this article on the Chesterton's fence.\n> don’t ever take a fence down until you know the reason why it was put up\n\nThe author explains that the walls (or contracts, or clauses, or practices) were put in place to cover for a specific need. Do not assume that this need does not exist now, before understanding what the need was in the first place.
+Body: I've read this article on the Chesterton's fence.
++ > don’t ever take a fence down until you know the reason why it was put up
++ 
++ The author explains that the walls (or contracts, or clauses, or practices) were put in place to cover for a specific need. Do not assume that this need does not exist now, before understanding what the need was in the first place.
 Tags: chesterton-fence, keith-lee, consulting, tip, analogy, discovery, process, people
 
 Id: c20e6ac4-8fe5-11e8-b54e-0242ac110003
 Date: Wed, 25 Jul 2018 08:36:00 +0000
 Title: A brief history of the UUID
 Link: https://segment.com/blog/a-brief-history-of-the-uuid/
-Body: A brief history of UUID: of how it was developed, why, and a new library in go called ksuid\nExplains the origins of networked computers (as opposed to personal computers without any networking) in the 1980s.\nAlso explains the origins of the UUID, some algorithms for generating them.
+Body: A brief history of UUID: of how it was developed, why, and a new library in go called ksuid
++ Explains the origins of networked computers (as opposed to personal computers without any networking) in the 1980s.
++ Also explains the origins of the UUID, some algorithms for generating them.
 Tags: ksuid, uuid, golang, go, rick-branson, history
 
 Id: 962c0c26-8fe6-11e8-bf2c-0242ac110003
 Date: Wed, 25 Jul 2018 08:41:55 +0000
 Title: Delivering billions of messages exactly once
 Link: https://segment.com/blog/exactly-once-delivery/
-Body: Explains how this company (segment) has solved the problem of delivering the messages once and only once (OAOO), using RocksDB, Kafka, UUIDs. Deployed to AWS, lowers the cost of the previous system (memcached-based).\nImpressive numbers: 1.5 TB worth of keys stored on disk in RocksDB\na 4-week window of de-duplication before aging out old keys\napproximately 60B keys stored inside our RocksDB instances\n200B messages passed through the dedupe system\nAlso explains in depth how RocksDB works
+Body: Explains how this company (segment) has solved the problem of delivering the messages once and only once (OAOO), using RocksDB, Kafka, UUIDs. Deployed to AWS, lowers the cost of the previous system (memcached-based).
++ Impressive numbers: 1.5 TB worth of keys stored on disk in RocksDB
++ a 4-week window of de-duplication before aging out old keys
++ approximately 60B keys stored inside our RocksDB instances
++ 200B messages passed through the dedupe system
++ Also explains in depth how RocksDB works
 Tags: rocksdb, facebook, database, once-and-only-once, oaoo, message, exactly-once-delivery, delivery, message-delivery, kafka, uuid, client, aws, segment, topic, cloud-scale
 
 Id: f7e738c8-8fe6-11e8-89be-0242ac110003
 Date: Wed, 25 Jul 2018 08:44:39 +0000
 Title: Object Collaboration Stereotypes
 Link: http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html
-Body: This post describes the relationships between two objects:\nDependencies are services that the object needs from its environment so that it can fulfil its responsibilities.\nNotifications are other parts of the system that need to know when the object changes state or performs an action.\nPolicies are objects that tweak or adapt the object's behaviour to the needs of the system.\nParts are components in the implementation that are not controlled from outside the object after being set.
+Body: This post describes the relationships between two objects:
++ Dependencies are services that the object needs from its environment so that it can fulfil its responsibilities.
++ Notifications are other parts of the system that need to know when the object changes state or performs an action.
++ Policies are objects that tweak or adapt the object's behaviour to the needs of the system.
++ Parts are components in the implementation that are not controlled from outside the object after being set.
 Tags: dependency, notification, policy, part, collaborator, relationship, steve-freeman, goos, growing-object-oriented-software
 
 Id: ea7281ee-9012-11e8-bd95-0242ac110003
