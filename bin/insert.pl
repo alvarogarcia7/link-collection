@@ -61,7 +61,7 @@ my @tags2 =
   map { my @tags=split(/,/, $_); @tags } #split by comma
   map {my $tag=$_; $tag =~ s/(\w) /$1-/g; $tag} # snake-case
   map {my $tag=$_; $tag=lc($tag); $tag} # lowercase
-  map {my $tag=$_; chomp $tag; $tag =~ s/^\s*//; $tag} # trim both sides
+  map {my $tag=$_; chomp $tag; $tag =~ s/^\s*//; $tag =~ s/\s*$//; $tag} # trim both sides
   map { s/Tags://i; $_ } 
   map { $_ } 
   @tags;
