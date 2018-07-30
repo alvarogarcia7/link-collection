@@ -6,7 +6,6 @@
 %type: Date date
 %auto: Id Date
 
-
 Id: a1a6925a-7958-11e8-a87f-0242ac110002
 Date: Tue, 26 Jun 2018 15:50:21 +0000
 Title: Don't look, don't tell
@@ -192,7 +191,6 @@ Body: Personal Effectiveness: Learn how to maximize the results you can get duri
 + Persuasion: Learn how to get what you want in an ethical way.
 + Physical Strength & Stamina: Getting stronger is a skill. Pull your own weight. It’s something every human should be able to do.
 + Flexibility: Sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves — the most common weak points of desk workers.
-
 
 Id: 14f5e064-7a1f-11e8-be86-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:54 +0000
@@ -726,7 +724,6 @@ Title: Growing Up with Alexa
 Link: https://www.technologyreview.com/s/608430/growing-up-with-alexa/
 Body:
 
-
 Id: cb789e76-7a24-11e8-bdb2-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:48 +0000
 Title: Jony’s Patience
@@ -764,13 +761,11 @@ Link: https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed
 Body: I have read this document
 Tags: google, scandal, sexism
 
-
 Id: 172e94e2-7a25-11e8-86cc-0242ac110002
 Date: Wed, 27 Jun 2018 16:13:55 +0000
 Title: Check Your Work
 Link: https://8thlight.com/blog/connor-mendenhall/2013/10/31/check-your-work.html
 Body:
-
 
 Id: 454f53fc-7dd6-11e8-8208-0242ac110003
 Date: Mon, 02 Jul 2018 08:59:47 +0000
