@@ -19,3 +19,7 @@ convert:
 	echo "make run"
 	echo "recfmt -f data/markdown.templ < data/selection.rec >> data/selection.md"
 
+.PHONY: cleanup
+cleanup:
+	rm -r data/selection.md data/selection.rec
+
