@@ -15,6 +15,7 @@ select:
 
 .PHONY: convert
 convert:
+	echo "This is a manual step"
 	echo "make run"
-	echo "recfmt -f data/markdown.templ < data/selection.rec"
+	echo "recfmt -f data/markdown.templ < data/selection.rec >> data/selection.md"
 
