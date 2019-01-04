@@ -8,7 +8,10 @@ run:
 
 .PHONY: select
 select:
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jul 2018' && Date << '01 Aug 2018'" > data/july.rec 
+	cat data/links.rec|grep "^%" > data/selection.rec
+	echo "" >> data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Aug 2018' && Date << '31 Dec 2018'" >> data/selection.rec 
+	dos2unix data/selection.rec
 
 .PHONY: convert
 convert:
