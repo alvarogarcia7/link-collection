@@ -12,6 +12,7 @@ select:
 	echo "" >> data/selection.rec
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Aug 2018' && Date << '31 Dec 2018'" >> data/selection.rec 
 	dos2unix data/selection.rec
+	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec >> data/tags.txt
 
 .PHONY: convert
 convert:
@@ -21,5 +22,5 @@ convert:
 
 .PHONY: cleanup
 cleanup:
-	rm -r data/selection.md data/selection.rec
+	rm -r data/selection.md data/selection.rec data/tags.txt
 
