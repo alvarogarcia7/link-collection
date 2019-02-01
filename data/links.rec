@@ -905,3 +905,31 @@ Title: World Cat
 Link: https://www.worldcat.org/search
 Body: Site to find books in public libraries
 Tags: book, search, library, ebook
+
+Id: 7fb09cd4-2639-11e9-9377-0242ac110002
+Date: Fri, 01 Feb 2019 15:53:20 +0000
+Title: Amazon DynamoDB Transactions: How it Works
+Link: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html
+Body: Explains how transactions work in DynamoDB
+Tags: dynamodb, aws, help, transaction, serializable
+
+Id: bd7151c6-2639-11e9-a38e-0242ac110002
+Date: Fri, 01 Feb 2019 15:55:04 +0000
+Title: Jepsen: Aerospike
+Link: https://aphyr.com/posts/324-call-me-maybe-aerospike
+Body: I've read this analysis of Aerospike, that explains what kind of database it is, what CAP properties satisfies
+Tags: cap, cap-theorem, jepsen, aphyr, aerospike, database, acid, ap, cp, consistency, availability, partitioning, paxos
+
+Id: 01292b8c-263a-11e9-a7fe-0242ac110002
+Date: Fri, 01 Feb 2019 15:56:58 +0000
+Title: A Critique of ANSI SQL Isolation Levels
+Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf
+Body: I've read this paper that explains the ANSI SQL isolation levels\n
+Tags: non-repeatable, fuzzy-read, dirty-read, phantom, phantom-read, isolation, serializability, consistency, consistency, consistency-level, read-uncommitted, read-committed, repeatable-read, serializable, microsoft
+
+Id: 4a1c6f7a-263a-11e9-8e08-0242ac110002
+Date: Fri, 01 Feb 2019 15:59:00 +0000
+Title: Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions
+Link: http://pmg.csail.mit.edu/papers/adya-phd.pdf
+Body: An extended paper on ACID properties for SQL databases
+Tags: liskov, atul-adya, stronger-serializable, consistency, consistency-level, isolation, database, sql-database, acid, transaction
