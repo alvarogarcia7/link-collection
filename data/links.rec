@@ -933,3 +933,38 @@ Title: Weak Consistency: A Generalized Theory and Optimistic Implementations for
 Link: http://pmg.csail.mit.edu/papers/adya-phd.pdf
 Body: An extended paper on ACID properties for SQL databases
 Tags: liskov, atul-adya, stronger-serializable, consistency, consistency-level, isolation, database, sql-database, acid, transaction
+
+Id: 20d8145e-3a92-11e9-8023-0242ac110003
+Date: Wed, 27 Feb 2019 13:18:10 +0000
+Title: No todo el mundo sabe o debe dar feedback
+Link: https://softwareyotrasdesvirtudes.com/2018/11/26/no-todo-el-mundo-sabe-o-debe-dar-feedback/
+Body: The author explains why some feedback is dangerous: either the way of giving it, or the message, or both.\nIn this case, she's talking about the Commit Conf, but this is applicable to any situation\nPara dar un buen feedback es importante:\n\n  * Primero: agradecer el esfuerzo por la charla.\n  * Segundo: resaltar algo positivo de ella.  Seguro que algo cumple.\n  * Tercero: decir cómo mejorarías un aspecto\n  * Último: volver a dar las gracias o decir una frase buena que motive.\n \nDar un mal feedback es muy fácil:\n\n  * Primero: no leerte la descripción ni el nivel de la charla\n  * Segundo: te cabreas porque no es lo esperado y dudabas entre esa y otra charla\n  * Tercero: dices lo que no te ha gustado sin rodeos.\n  * Cuarto: además asumes cosas que no ha hecho y las escribes. Igual que yo he hecho en el Primero y Segundo.\n  * Quinto: si además dices algo faltoso gana puntos.\n  * Sexto: Utilizas esa tónica destructiva en todos.
+Tags: laura-lacarra, commit, commit-conf, feedback, good-feedback, honest-feedback, spanish
+
+Id: 95554892-3a92-11e9-9bbf-0242ac110003
+Date: Wed, 27 Feb 2019 13:21:25 +0000
+Title: How to Deal with Difficult People on Software Projects
+Link: https://people.neilon.software/
+Body: I've read this guide on dealing with difficult people.\nThere are many (48) personality types, including these types:\n  * Product Managers\n  * Designers\n  * Project Managers\n  * Development Managers\n  * Developers\n  * Quality Assurance
+Tags: people, people-management, personality-type, guide, neil-green
+
+Id: 0078d58a-3a93-11e9-8f23-0242ac110003
+Date: Wed, 27 Feb 2019 13:24:25 +0000
+Title: Software disenchantment
+Link: http://tonsky.me/blog/disenchantment/
+Body: I've read this article about somebody disenchanted with the current state of the art of software: slow, bloated, not better than 10 years ago, or faster.
+Tags: nikita-prokopov, bloat, rant, disenchantment, tonsky, comparison, speed, software
+
+Id: 42cdde80-3a93-11e9-814c-0242ac110003
+Date: Wed, 27 Feb 2019 13:26:16 +0000
+Title: The Values and Principles of Agile Software Development
+Link: https://www.slideshare.net/bradapp/the-values-and-principles-of-agile-software-development
+Body: I've read the slides of this presentation by Brad Appleton, on Values, Principles, and Practices in an Agile environment.\nPlenty of good quotes
+Tags: brad-appleton, slideshare, slide, agile, practice, principle, value, xp, extreme-programming, quote, lean-software, lean
+
+Id: d6a4b78c-3a93-11e9-88d7-0242ac110003
+Date: Wed, 27 Feb 2019 13:30:24 +0000
+Title: Makefiles como dejar de memorizar comandos en docker – Developer Vago
+Link: https://jesuslc.com/2018/04/21/makefiles-como-dejar-de-memorizar-comandos-en-docker-developer-vago/
+Body: I've discovered a new technique for Makefiles:\n\nUsing a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.\n\n```bash\n.PHONY: help\nhelp: ## Print this help.\n  @grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = \":.*?## \"}; {printf \"\033[36m%-20s\033[0m %s\n\", $$1, $$2}'\n```\n\nwhen you run `make help`, then \n\n```\nPrint this help.\n```
+Tags: makefile, jesuslc, documentation, executable-documentation, awk, trick, help
