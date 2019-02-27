@@ -9,16 +9,15 @@ run:
 .PHONY: select
 select:
 	cat data/links.rec|grep "^%" > data/selection.rec
-	echo "" >> data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Aug 2018' && Date << '31 Dec 2018'" >> data/selection.rec 
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '30 Jan 2019' && Date << '01 Mar 2019'" > data/selection.rec 
 	dos2unix data/selection.rec
-	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec >> data/tags.txt
+	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
 
 .PHONY: convert
 convert:
 	echo "This is a manual step"
 	echo "make run"
-	echo "recfmt -f data/markdown.templ < data/selection.rec >> data/selection.md"
+	echo "recfmt -f data/markdown.templ < data/selection.rec > data/selection.md"
 
 .PHONY: cleanup
 cleanup:
