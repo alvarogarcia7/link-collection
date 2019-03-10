@@ -1003,3 +1003,24 @@ Title: Web Design 3.0: When Your Web Design Really Matters
 Link: https://nicepage.com/doc/article/20348/web-design-3-0-when-your-web-design-really-matters
 Body: In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.\n\n> In Chapter 2, we will talk about website builders that are lagging behind the trends and slowing down the Web Design evolution.\n\n> In Chapter 3, you will learn how to create modern web designs quickly and easily in a new way.\n\nHas walk through the different design phases, techniques; both in press (printed) design as in web design.\n\nExplains some web builders.\n\nExplains the concept of the web 3.0:\n\n>  * Free positioning.\n>  * Element overlapping.\n>  * Breaking the limitations of Bootstrap-like Grids.\n\nStates the different needs for webmasters and designers:\n\n> Web Designers need:\n> \n>   * Free positioning\n>   * Removing table constraints\n>   * Layers\n>   * Property Panel for elements\n>   * Support for Windows and Mac OS\n> \n> \n> Webmasters need:\n> \n>   * Clean HTML and CSS\n>   * Mobile device support\n>   * WordPress and Joomla support\n>   * Building websites online\n\nSummary\n\n> Website builders are lagging behind the rapidly changing Web Design world.\n> \n> The history of web design tools has involved several transitions. However, progress has stopped. There are numerous signs that the new transition must happen.\n> \n> There are separate markets for web designers and webmasters. Popular website builders do not support the main features of Web Design 3.0: free positioning, modern grids, and layers.
 Tags: comparison, web-design, print-design, web-builder, creativity, metaphor, grid-layout, bootstrap, flexibility, design, web-3.0, web-design-3.0, web-2.0, progression
+
+Id: e839c82a-4367-11e9-b34d-0242ac110007
+Date: Sun, 10 Mar 2019 19:08:36 +0000
+Title: Gotify – a self-hosted push-notifications service
+Link: https://news.ycombinator.com/item?id=19347848
+Body:
+Tags: gotify, self-hosted, notification, notification-service, android, open-source
+
+Id: 1a478fc8-4368-11e9-b657-0242ac110007
+Date: Sun, 10 Mar 2019 19:10:00 +0000
+Title: Ask HN: How to speak like a leader, not like an engineer?
+Link: https://news.ycombinator.com/item?id=19349676
+Body: Links and resources for speaking like a leader
+Tags: leader, engineer, comparison, change, public-speaking, speak, speaking, career-management, career-change, professional-growth, resource:
+
+Id: 4168161c-436e-11e9-aa0d-0242ac110007
+Date: Sun, 10 Mar 2019 19:54:03 +0000
+Title: ArchiveBox: Open-source self-hosted web archive
+Link: https://news.ycombinator.com/item?id=19346985
+Body: Tools for archiving purposes. Has links to other sites:\n\nhttps://github.com/machawk1/warcreate\nhttps://getpolarized.io/
+Tags: burtonator, web-archive, polarized, warch, warc, personal-knowledge-base
