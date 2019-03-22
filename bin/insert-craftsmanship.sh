@@ -2,4 +2,4 @@
 
 set euxo -pipefail
 
-./bin/insert-generic.sh "craftsmanship.rec"
+./bin/insert-generic.pl "craftsmanship.rec"

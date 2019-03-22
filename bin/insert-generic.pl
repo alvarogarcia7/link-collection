@@ -36,7 +36,7 @@ sub read_one_line {
   return $result;
 }
 
-$file_destination=$ARGV[0];
+my $file_destination=$ARGV[0];
 
 my $title = read_one_line("Input title (1 line, mandatory)\n");
 $title =~ s/"/\\"/g;
@@ -85,6 +85,7 @@ $command.="-f Link -v \"$link\" ";
 $command.="-f Body -v \"$body\" ";
 $command.="-f Tags -v \"$tagsCommaSeparated\"";
 $command.=' ';
+$command.='data/';
 $command.=$file_destination;
 
 ## Dry run
