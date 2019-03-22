@@ -1,0 +1,16 @@
+%rec: Link
+%key: Id
+%type: Title line
+%type: Tags line
+%type: Id uuid
+%type: Date date
+%auto: Id Date
+
+
+Id: b74a6696-4c83-11e9-99bd-0242ac110005
+Date: Fri, 22 Mar 2019 09:20:21 +0000
+Title: Ask HN: As a freelancer, what's the best app to track finances?
+Link: https://news.ycombinator.com/item?id=19450331
+Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
+Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, finance, time-wealth, money-wealth
+
