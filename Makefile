@@ -8,7 +8,7 @@ run:
 
 .PHONY: select
 select:
-	echo "${FILE} is mandatory"
+	echo "Parameter FILE ${FILE} is mandatory. Note make FILE=.... select"
 	cat data/${FILE}.rec|grep "^%" > data/selection.rec
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/${FILE}.rec -e "Date >> '30 Jan 2019' && Date << '01 Mar 2019'" > data/selection.rec 
 	dos2unix data/selection.rec
