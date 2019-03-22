@@ -22,5 +22,5 @@ convert:
 
 .PHONY: cleanup
 cleanup:
-	rm -r data/selection.md data/selection.rec data/tags.txt
+	rm -f data/selection.md data/selection.rec data/tags.txt
 
