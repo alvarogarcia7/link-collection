@@ -8,8 +8,9 @@ run:
 
 .PHONY: select
 select:
-	cat data/links.rec|grep "^%" > data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '30 Jan 2019' && Date << '01 Mar 2019'" > data/selection.rec 
+	echo "${FILE} is mandatory"
+	cat data/${FILE}.rec|grep "^%" > data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/${FILE}.rec -e "Date >> '30 Jan 2019' && Date << '01 Mar 2019'" > data/selection.rec 
 	dos2unix data/selection.rec
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
 
