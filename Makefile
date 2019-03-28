@@ -16,9 +16,9 @@ select:
 
 .PHONY: convert
 convert:
-	echo "This is a manual step"
-	echo "make run"
-	echo "recfmt -f data/markdown.templ < data/selection.rec > data/selection.md"
+	@echo "This is a manual step"
+	@echo "make run"
+	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
 
 .PHONY: cleanup
 cleanup:
