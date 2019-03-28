@@ -1032,3 +1032,23 @@ Link: https://news.ycombinator.com/item?id=19450331
 Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
 Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, finance, time-wealth, money-wealth
 
+Id: f0dee42c-5142-11e9-9444-0242ac110006
+Date: Thu, 28 Mar 2019 10:19:16 +0000
+Title: What I Learned in My First Year as a Solo Founder
+Link: https://tik.dev/lessons-learned
+Body: Learnings by a solo founder.\n\nBenefits of having a side project or side hustle\n
+Tags: side-hustle, side-business, learning, reflection, solo-founder, founder, revenue
+
+Id: d148d774-5144-11e9-94d8-0242ac110006
+Date: Thu, 28 Mar 2019 10:32:42 +0000
+Title: Write tests. Not too many. Mostly integration.
+Link: https://kentcdodds.com/blog/write-tests
+Body: This is a paraphrasing of some advice for healthy eating: 'Eat food, not too much, mostly plants.' (Pollan)\n\n> Write tests.\n\n> Often I find myself saving time when I put time in to write tests\n\n> Not too many: you get diminishing returns on your tests as the coverage increases [...]\n\n> Mostly integration: as you move up the pyramid, the confidence quotient of each form of testing increases\n\n> Integration tests strike a great balance on the trade-offs between confidence and speed/expense
+Tags: unit-test, testing, test-pyramid, healthy-testing, advice, integration-test, quote, kent-c-dodds, analogy
+
+Id: 30ece1fc-5145-11e9-87de-0242ac110006
+Date: Thu, 28 Mar 2019 10:35:22 +0000
+Title: 7 Rules for Eating
+Link: https://www.webmd.com/food-recipes/news/20090323/7-rules-for-eating
+Body: In this reference article, Michael Pollan explains his seven rules for eating:\n\n  1. Don't eat anything your great grandmother wouldn't recognize as food. "When you pick up that box of portable yogurt tubes, or eat something with 15 ingredients you can't pronounce, ask yourself, "What are those things doing there?" Pollan says.\n  1. Don’t eat anything with more than five ingredients, or ingredients you can't pronounce.\n  1. Stay out of the middle of the supermarket; shop on the perimeter of the store. Real food tends to be on the outer edge of the store near the loading docks, where it can be replaced with fresh foods when it goes bad.\n  1. Don't eat anything that won't eventually rot. "There are exceptions -- honey -- but as a rule, things like Twinkies that never go bad aren't food," Pollan says.\n  1. It is not just what you eat but how you eat. "Always leave the table a little hungry," Pollan says. "Many cultures have rules that you stop eating before you are full. In Japan, they say eat until you are four-fifths full. Islamic culture has a similar rule, and in German culture they say, 'Tie off the sack before it's full.'"\n  1. Families traditionally ate together, around a table and not a TV, at regular meal times. It's a good tradition. Enjoy meals with the people you love. "Remember when eating between meals felt wrong?" Pollan asks.\n  1. Don't buy food where you buy your gasoline. In the U.S., 20% of food is eaten in the car.\n\n\nAlso, four myths:\n\n  1. Food is a delivery vehicle for nutrients. What really matters isn't broccoli but its fiber and antioxidants. If we get that right, we get our diet right. Foods kind of get in the way.\n  1. We need experts to tell us how to eat. Nutrients are invisible and mysterious. "It is a little like religion," Pollan said. "If a powerful entity is invisible, you need a priesthood to mediate your relation with food."\n  1. The whole point of eating is to maintain and promote bodily health. "You are either improving or ruining your health when you eat -- that is a very American idea," Pollan says. "But there are many other reasons to eat food: pleasure, social community, identity, and ritual. Health is not the only thing going on on our plates."\n  1. There are evil foods and good foods. "At any given time there is an evil nutrient we try to drive like Satan from the food supply -- first it was saturated fats, then it was trans fat," Pollan says. "Then there is the evil nutrient's doppelganger, the blessed nutrient. If we get enough of that we, will be healthy and maybe live forever. It's funny through history how the good and bad guys keep changing."\n\nThis can all be summarized as "Eat food, not too much, mostly plants."
+Tags: healthy-eating, michael-pollan, rule, advice, myth, analogy
