@@ -19,6 +19,7 @@ convert:
 	@echo "This is a manual step"
 	@echo "make run"
 	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
+	$(MAKE) run
 
 .PHONY: cleanup
 cleanup:
