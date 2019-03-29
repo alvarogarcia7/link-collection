@@ -1073,3 +1073,10 @@ Title: Why developers consider Agile development to be nonsense
 Link: https://medium.com/@web.development/why-developers-consider-agile-development-to-be-nonsense-1eaf28715e66
 Body: This article explains how Agile development is apt and indicated for short-term software development, especially for contracting or consulting companies, where the client is external to the team.\n\nWhy it does not make as much sense in products/services where there is a leapfrog solution.\n\n> Don’t give the customer what they ask for; understand them, and revolutionize their world.
 Tags: leapfrog-solution, google, agile, agile-development, comparison, project-management, client, consulting, management
+
+Id: 960e6750-5202-11e9-bb40-0242ac110008
+Date: Fri, 29 Mar 2019 09:11:07 +0000
+Title: Why bother with What Three Words?
+Link: https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/
+Body: In this article, the author questions why using a closed protocol for translating geo-coordinates to words.\n\nThe author complains that it is masquerading a for-profit, closed algorithm as an open standard.\n\nAlso, that the GPS locations are drifting very quickly in some places, therefore the translated address changes, but the local address (e.g., 1 Wall Street), does not.
+Tags: gps-drift, australia, open-standard, closed-standard, for-profit, protocol, open, closed, what-three-words, w3w, i18n, startup
