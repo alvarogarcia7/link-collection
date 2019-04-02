@@ -10,7 +10,7 @@ run:
 select:
 	echo "Parameter FILE ${FILE} is mandatory. Note make FILE=.... select"
 	cat data/${FILE}.rec|grep "^%" > data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/${FILE}.rec -e "Date >> '28 Feb 2019' && Date << '01 Apr 2019'" > data/selection.rec 
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/${FILE}.rec -e "Date >> '01 March 2019' && Date << '01 Apr 2019'" > data/selection.rec 
 	dos2unix data/selection.rec
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
 
