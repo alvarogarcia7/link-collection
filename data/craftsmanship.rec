@@ -1080,3 +1080,10 @@ Title: Why bother with What Three Words?
 Link: https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/
 Body: In this article, the author questions why using a closed protocol for translating geo-coordinates to words.\n\nThe author complains that it is masquerading a for-profit, closed algorithm as an open standard.\n\nAlso, that the GPS locations are drifting very quickly in some places, therefore the translated address changes, but the local address (e.g., 1 Wall Street), does not.
 Tags: gps-drift, australia, open-standard, closed-standard, for-profit, protocol, open, closed, what-three-words, w3w, i18n, startup
+
+Id: 2ed5999a-555f-11e9-8bf8-0242ac110005
+Date: Tue, 02 Apr 2019 15:51:30 +0000
+Title: How to validate password with regular expression
+Link: https://www.mkyong.com/regular-expressions/how-to-validate-password-with-regular-expression/
+Body: Explains the '?=' character in a regex, to validate conditions. Make it '.*' to 'contain', rather than 'startWith\n'\n
+Tags: password, validation, look-ahead, regex, regular-expression
