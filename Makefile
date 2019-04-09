@@ -25,3 +25,13 @@ convert:
 cleanup:
 	rm -f data/selection.md data/selection.rec data/tags.txt
 
+.PHONY: save
+save:
+	git add .
+	git commit -m "Save progress"
+
+.PHONY: sync
+sync:
+	git pull
+	git push
+
