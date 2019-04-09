@@ -1108,3 +1108,10 @@ Title: Busy Person Patterns
 Link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
 Body: This is a book of patterns (related to 'A pattern language', by Alexander et al) about Busy People (in a good way).\n\nThis is a collection of patterns to help you achieve productivity, efficiency, efficacy.\n\nExplains how the patterns relate to one another, how they interact. Also, a quick reference based on the mood you're experiencing
 Tags: patter, pattern-language, alexander, busy, productivity, efficiency, efficacy, plop, just-start, contiguous-time-blocks, single-task-important-items, put-it-off, seek-clarification, batch-the-simple-stuff, task-jar, strike-when-you-are-hot, feedback-loop, prioritize, delegate, drop-unimportant-tasks, good-enough, james-kile, donald-little, samir-shah
+
+Id: fecb0a0a-5ab8-11e9-b7b7-0242ac110005
+Date: Tue, 09 Apr 2019 11:17:00 +0000
+Title: Data Management Platforms Demystified
+Link: http://www.bluekai.com/files/DMP_Demystified_Whitepaper_BlueKai.pdf
+Body: This whitepaper explains what a DMP is, how does it convert, etc.
+Tags: dmp, data-management-platform, bluekai, ad, conversion
