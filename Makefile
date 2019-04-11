@@ -2,9 +2,17 @@
 build:
 	docker build -t derecerca/recutils .
 
-.PHONY: run
-run:
+.PHONY: run-generic
+run-generic:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils /bin/bash
+
+.PHONY: run-crafts
+run-crafts:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-craftsmanship.sh
+
+.PHONY: run-finance
+run-finance:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-finance.sh
 
 .PHONY: select
 select:
