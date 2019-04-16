@@ -1150,3 +1150,10 @@ Title: Let's Build a Simple Database
 Link: https://cstack.github.io/db_tutorial/
 Body: This is walk-through guide to create a database, in C
 Tags: database, create, workshop, walkthrough, c-lang, c, sqlite, clone, project, cstack, repl, sql, algorithm, b-tree, cursor
+
+Id: b60f9642-6098-11e9-bbfd-0242ac110003
+Date: Tue, 16 Apr 2019 22:41:01 +0000
+Title: A Universal Modular ACTOR Formalism for Artificial Intelligence
+Link: http://worrydream.com/refs/Hewitt-ActorModel.pdf
+Body: In this seminal paper, Hewitt describes the actor model.\n\nFull of quotes from Lewis Carroll.
+Tags: actor, actor-model, hewitt, quote, lewis-carroll, planner, 1973, pdp, structured-programming, classic, seminal, architecture
