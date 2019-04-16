@@ -1143,3 +1143,10 @@ Title: Startup Stock Options – Why a Good Deal Has Gone Bad
 Link: https://news.ycombinator.com/item?id=19624164
 Body: An interesting quote:\n\n> Valid reasons to work for a startup:\n> - You are a cofounder.\n> \n> - You have little experience and you are using this to break into the industry, and get experience on many different > technologies ("wear many hats").\n> \n> - They are working on a very specific problem or using a specific technology that you strongly desire to work on and it's > difficult to do it anywhere else.\n> \n> - You want to work a certain way (remote, on the beach, whatever) and they are willing to go this route.\n> \n> Invalid reasons for working at a startup:\n> \n> - Getting rich off stock options.\n> \n> - Making a lot of money in salary.\n> \n> - Work / life balance.\n> \n> - Stability.
 Tags: quote, startup, career-management, ycombinator, james-seibel, work
+
+Id: 8b8ea88e-5848-11e9-b07b-0242ac110002
+Date: Sat, 06 Apr 2019 08:47:01 +0000
+Title: Let's Build a Simple Database
+Link: https://cstack.github.io/db_tutorial/
+Body: This is walk-through guide to create a database, in C
+Tags: database, create, workshop, walkthrough, c-lang, c, sqlite, clone, project, cstack, repl, sql, algorithm, b-tree, cursor
