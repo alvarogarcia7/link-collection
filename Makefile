@@ -16,6 +16,8 @@ run-finance:
 
 .PHONY: select
 select:
+	echo "existing categories are:"
+	cat data/links.rec|grep "^Category"|uniq|cut -d: -f2|tr -d " "|paste -sd " " -
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	cat data/links.rec|grep "^%" > data/selection.rec
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 March 2019' && Date << '01 Apr 2019'" > data/selection.rec 
@@ -26,8 +28,8 @@ select:
 convert:
 	@echo "This is a manual step"
 	@echo "make run-generic"
-	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
-	$(MAKE) run
+	@echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
+	$(MAKE) run-generic
 
 .PHONY: cleanup
 cleanup:
