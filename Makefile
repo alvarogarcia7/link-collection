@@ -14,6 +14,10 @@ run-crafts:
 run-finance:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-finance.sh
 
+.PHONY: run-psychology
+run-psychology:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-psychology.sh
+
 .PHONY: select
 select:
 	echo "existing categories are:"
