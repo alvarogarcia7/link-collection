@@ -1,6 +1,7 @@
 %rec: Link
 %key: Id
 %type: Title line
+%type: Category line
 %type: Tags line
 %type: Id uuid
 %type: Date date
@@ -8,6 +9,7 @@
 
 Id: a1a6925a-7958-11e8-a87f-0242ac110002
 Date: Tue, 26 Jun 2018 15:50:21 +0000
+Category: craftsmanship
 Title: Don't look, don't tell
 Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.
 + 
@@ -16,12 +18,14 @@ Tags: david-bonilla, bonilista, security, full-disclosure, responsible-disclosur
 
 Id: c72f3522-7958-11e8-935c-0242ac110002
 Date: Tue, 26 Jun 2018 15:51:24 +0000
+Category: craftsmanship
 Title: La vida de las ideas
 Body: I've read this bonilista by David Bonilla about the value of the ideas and what differentiates a good idea from a good execution from a good outcome
 Tags: david-bonilla, idea, startup, execution, value
 
 Id: ea43a380-7959-11e8-bd3b-0242ac110002
 Date: Tue, 26 Jun 2018 15:59:32 +0000
+Category: craftsmanship
 Title: Why re-frame instead of om next
 Link: http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMzY1MTcxNyIsImRlbGl2ZXJ5X2lkIjoiMTE1NTgzOTE5MCIsInVybCI6Imh0dHBzOi8vcHVyZWx5ZnVuY3Rpb25hbC50di9hcnRpY2xlL3doeS1yZS1mcmFtZS1pbnN0ZWFkLW9mLW9tLW5leHQvP19fcz1mOXA2dmRwc2N0YmluaGJxYnE2eiJ9
 Body: I've read this article by Eric Normand on why he chose to write a course on clojure front-end framework
@@ -30,6 +34,7 @@ Tags: eric-normand, clojure, david-nolen, frontend, framework, reframe, om-next,
 
 Id: 1aa20256-795a-11e8-9b39-0242ac110002
 Date: Tue, 26 Jun 2018 16:00:53 +0000
+Category: craftsmanship
 Title: LexNET: el software que nunca debió existir
 Link:
 Body: I've read this bonilista by David Bonilla on the software called LexNET and the scandal around it
@@ -38,6 +43,7 @@ Tags: david-bonilla, lexnet, bonilista, software, scandal, spain
 
 Id: 296a433e-795a-11e8-981e-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:18 +0000
+Category: craftsmanship
 Title: 40
 Link:
 Body: I have read this bonilista by David Bonilla explaining some of the things he has learned from 40 years of experience in life. Explains some of his fears and how he has solved them.
@@ -47,6 +53,7 @@ Tags: david-bonilla, bonilista, birthday, reflection, fear, money, money-managem
 
 Id: 395a8984-795a-11e8-9102-0242ac110002
 Date: Tue, 26 Jun 2018 16:01:45 +0000
+Category: craftsmanship
 Title: La lucha por la Red
 Link:
 Body: I've read this bonilista by David Bonilla on the net neutrality in Spain and in the European union.
@@ -55,6 +62,7 @@ Tags: david-bonilla, bonilista, net-neutrality, internet
 
 Id: 0cb8305c-7a1d-11e8-9823-0242ac110002
 Date: Wed, 27 Jun 2018 15:16:22 +0000
+Category: craftsmanship
 Title: A machine has figured out Rubik's Cube all by itself
 Link: https://www.technologyreview.com/s/611281/a-machine-has-figured-out-rubiks-cube-all-by-itself/
 Body: I've read this article explaining how an AI has solved the rubik cube by itself. The team, including McAleer, has used a technique called "autodidactic iteration: a way for the machine to create its own system of rewards.
@@ -63,6 +71,7 @@ Tags: rubik, rubik-cube, ai, autodidactic-iteration, autodidactic, reward, mcale
 
 Id: 6735c620-7a1d-11e8-a2e9-0242ac110002
 Date: Wed, 27 Jun 2018 15:18:53 +0000
+Category: craftsmanship
 Title: La tienda
 Link:
 Body: I've read this bonilista by David Bonilla on how more and more investors are deciding to do it only on profitable startups rather than a more global strategy
@@ -71,6 +80,7 @@ Tags: david-bonilla, bonilista, investor, startup
 
 Id: 7e2fbffc-7a1d-11e8-bbd2-0242ac110002
 Date: Wed, 27 Jun 2018 15:19:32 +0000
+Category: craftsmanship
 Title: I’m not a woman in tech
 Link: https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/
 Body: I've read this article by Maria Scrivener on how she does not consider herself a woman in tech. She prefers to lose the labels and just be considered her, herself. Advocates for being inclusive rather than exclusive
@@ -79,6 +89,7 @@ Tags: feminism, women-in-tech, maria-scrivener, women, label, equality
 
 Id: 97212f3c-7a1d-11e8-bdcd-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:14 +0000
+Category: craftsmanship
 Title: PASSWORD SECURITY ALERT
 Link: https://blog.8tracks.com/2017/06/27/password-security-alert/
 Body: I've read this article by David Porter in which they alert their users that their database has been leaked, therefore some passwords are at risk.
@@ -90,6 +101,7 @@ Tags: david-porter, backup, storage, configuration, github, 2fa, plain-text, pas
 
 Id: a942bf96-7a1d-11e8-b122-0242ac110002
 Date: Wed, 27 Jun 2018 15:20:44 +0000
+Category: craftsmanship
 Title: Matthew Green
 Link: https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/
 Body: I've read this article by Matthew Green on the ideas presented by Shamir in 1984: Identity Based Cryptography (IBE), Attribute Based Cryptography (ABE)
@@ -99,6 +111,7 @@ Tags: rsa, matthew-green, cryptography, identity-based-cryptography, attribute-b
 
 Id: b3ffb61e-7a1d-11e8-a08c-0242ac110002
 Date: Wed, 27 Jun 2018 15:21:02 +0000
+Category: craftsmanship
 Title: Starbucks should really make their APIs public
 Link: https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923
 Body: I've read this article by Nick Lee in which he explains how he has reverse-engineered the Starbucks API so you can connect to it from another device (not only phones, with the app installed)
@@ -107,6 +120,7 @@ Tags: certificate-pinning, tendigi, nick-lee, security, man-in-the-middle, proxy
 
 Id: dbb1ff46-7a1d-11e8-b40e-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:09 +0000
+Category: craftsmanship
 Title: Feature Toggles are one of the Worst kinds of Technical Debt
 Link: https://dzone.com/articles/feature-toggles-are-one-worst
 Body: I've read this article on the ups and downs of using feature toggles.
@@ -116,6 +130,7 @@ Tags: feature-by-abstraction, feature-toggle, canary-test, jim-bird, technical-d
 
 Id: f13f63bc-7a1d-11e8-a6a2-0242ac110002
 Date: Wed, 27 Jun 2018 15:22:45 +0000
+Category: craftsmanship
 Title: TestContainers: making Java integration tests easy
 Link: https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
 Body: I've read this article on how to start a new docker container from Java code (using a junit @rule).
@@ -125,6 +140,7 @@ Tags: testcontainers, rebel-labs, anton-arhipov, test, docker, image, integratio
 
 Id: 15740b0c-7a1e-11e8-9169-0242ac110002
 Date: Wed, 27 Jun 2018 15:23:46 +0000
+Category: craftsmanship
 Title: Code Health: To Comment or Not to Comment?
 Link: http://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html
 Body: I've read this article about comments in code: where to use them and when not to
@@ -132,6 +148,7 @@ Tags: dori-reuveni, kevin-bourrillion, comment, clean-code
 
 Id: 5228464e-7a1e-11e8-9125-0242ac110002
 Date: Wed, 27 Jun 2018 15:25:28 +0000
+Category: craftsmanship
 Title: Saints and Traders: The John Henry Fable Reconsidered
 Link: https://www.ribbonfarm.com/2014/06/04/saints-and-traders-the-john-henry-fable-reconsidered/
 Body: I've read this article on the guardian syndrome and the Saint syndrome.
@@ -143,6 +160,7 @@ Tags: finite-game, infinite-game, saint-syndrome, guardian-syndrome, comparison,
 
 Id: 6e3df860-7a1e-11e8-ba6a-0242ac110002
 Date: Wed, 27 Jun 2018 15:26:15 +0000
+Category: craftsmanship
 Title: Stacked Pull Requests: Keeping GitHub Diffs Small
 Link: https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/
 Body: I've read this article on using a technique (stacked pull requests) to keep pull requests small and get more feedback, more comments from teammates, therefore reducing the code review fatigue. By Grayson Koonce
@@ -150,6 +168,7 @@ Tags: grayson-koonce, fatigue, code-fatigue, pull-request, pull-request-fatigue,
 
 Id: 7ab3fcd4-7a1e-11e8-9590-0242ac110002
 Date: Wed, 27 Jun 2018 15:26:36 +0000
+Category: craftsmanship
 Title: I hate almost all software
 Link: http://tinyclouds.org/rant.html
 Body: I've read this article by Ryan Dahl on the focus of the software and the inherent complexity of today's software
@@ -157,6 +176,7 @@ Tags: ryan-dahl, complexity, software, rant
 
 Id: a4e26bee-7a1e-11e8-ac68-0242ac110002
 Date: Wed, 27 Jun 2018 15:27:46 +0000
+Category: craftsmanship
 Title: The Real Reason for Developers’ Salaries Stagnation
 Link: https://simpleprogrammer.com/developers-salaries-stagnation/
 Body: Im this article, the author speaks of developer salaries related to their skills, proficiency, area of interest and role. Also about the real purchasing power stagnation.
@@ -164,6 +184,7 @@ Tags: salary, skill, role, position, money, career, career-management, fiodar-sa
 
 Id: e5d53f46-7a1e-11e8-9097-0242ac110002
 Date: Wed, 27 Jun 2018 15:29:35 +0000
+Category: craftsmanship
 Title: What is a "10x" Programmer?
 Link: https://dev.to/nathanepstein/what-is-a-10x-programmer
 Body: I've read this article about makes a good programmer, under the label of the mythical 10x programmer.
@@ -174,6 +195,7 @@ Tags: 10x, author, productivity, skill, attitude, aptitude, attitude-vs-aptitude
 
 Id: f7f8a73a-7a1e-11e8-836d-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:06 +0000
+Category: craftsmanship
 Title: Why Podcasts Have Become Popular
 Link: http://www.donnfelker.com/why-podcasts-have-become-popular/
 Body: I've read this article by Donn Felker on the effect that the Internet is having on consumers: they now decide when to consume the resources, instead of passively waiting for the resources to appear.
@@ -183,6 +205,7 @@ Tags: podcast, on-demand, consumer, internet, donn-felker
 
 Id: 0862fbca-7a1f-11e8-83fb-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:33 +0000
+Category: craftsmanship
 Title: Don’t Know What You Want? Improve These 7 Universal Skills
 Link: Self-Discipline: Get better at ignoring the negative voice in your head. Get out of your bed. Go to the gym. Don’t listen to “I don’t want to.”
 Body: Personal Effectiveness: Learn how to maximize the results you can get during the 16–18 hours you’re awake. Get more done — effectively.
@@ -194,6 +217,7 @@ Body: Personal Effectiveness: Learn how to maximize the results you can get duri
 
 Id: 14f5e064-7a1f-11e8-be86-0242ac110002
 Date: Wed, 27 Jun 2018 15:30:54 +0000
+Category: craftsmanship
 Title: Your Concentration Training Program: 11 Exercises That Will Strengthen Your Attention
 Link: https://www.artofmanliness.com/2014/01/30/your-concentration-training-program-11-exercises-that-will-strengthen-your-attention/
 Body: I've read this article by Brett & Kate McKay on exercises for training the attention
@@ -201,6 +225,7 @@ Tags: brett-mckay, kate-mckay, training, concentration, exercise, focus, attenti
 
 Id: 3f41e6ec-7a1f-11e8-85fc-0242ac110002
 Date: Wed, 27 Jun 2018 15:32:05 +0000
+Category: craftsmanship
 Title: The Great Attention Heist
 Link: https://lareviewofbooks.org/article/the-great-attention-heist/
 Body: I've read this article by John Bell, John Zada on the current war for attention, what they call the 'attention heist': publishers fight for your attention, selling it to third parties. The more they can lure you to spend your (finite) attention with them, the higher the profits.
@@ -214,6 +239,7 @@ Tags: john-bell, john-zada, attention-heist, attention, app, smartphone, book-re
 
 Id: c451a048-7a1f-11e8-82f7-0242ac110002
 Date: Wed, 27 Jun 2018 15:35:49 +0000
+Category: craftsmanship
 Title: How to read more books
 Link: http://verraes.net/2012/12/2012-12-23-how-to-read-more-books/
 Body:
@@ -221,6 +247,7 @@ Tags: mathias-verraes, reading, tips-and-tricks, self-study, training
 
 Id: dc8f92dc-7a1f-11e8-818a-0242ac110002
 Date: Wed, 27 Jun 2018 15:36:29 +0000
+Category: craftsmanship
 Title: Serving 100 Gbps from an Open Connect Appliance
 Link: https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99
 Body: I've read this article on how Netflix has optimized their servers to be able to send TLS content at 100 Gbps, using openbsd.
@@ -228,6 +255,7 @@ Tags: netflix, openbsd, performance, optimization, drew-gallatin
 
 Id: 1c603222-7a20-11e8-8f75-0242ac110002
 Date: Wed, 27 Jun 2018 15:38:16 +0000
+Category: craftsmanship
 Title: RebelLabs Developer Productivity Report 2017: Why do you use the Java tools you use?
 Link: https://zeroturnaround.com/rebellabs/developer-productivity-report-2017-why-do-you-use-java-tools-you-use/
 Body:
@@ -235,6 +263,7 @@ Tags: java-ee, spring, kotlin, java, jvm, scala, clojure, productivity, rebel-la
 
 Id: 2ac58bdc-7a20-11e8-a82d-0242ac110002
 Date: Wed, 27 Jun 2018 15:38:40 +0000
+Category: craftsmanship
 Title: Why paper is the real 'killer app'
 Link: http://www.bbc.com/capital/story/20170120-why-paper-is-the-real-killer-app
 Body: I've read this article by Alison Birrane on how working on a low-tech device is different than on a high-tech device (e.g., taking notes on a paper sheet vs on a laptop). On how it stimulates different parts of the brain. The multiple uses of the paper as compared to the narrowness of the apps.
@@ -242,6 +271,7 @@ Tags: alison-birrane, killer-app, comparison, media, social-media, gadget, low-t
 
 Id: 388125f6-7a20-11e8-aae6-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:04 +0000
+Category: craftsmanship
 Title: Self-Study Guide to Machine Learning
 Link: https://machinelearningmastery.com/self-study-guide-to-machine-learning/
 Body:
@@ -249,6 +279,7 @@ Tags: self-study, machine-learning, jason-brownlee
 
 Id: 457003ea-7a20-11e8-a3ff-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:25 +0000
+Category: craftsmanship
 Title: Breaking Up the Behemoth
 Link:
 Body: I've read this article by Sandi Metz explaining how applications evolve, and what we might do if we're unhappy with the results using:  Design Stamina Hypothesis (Fowler), Procedural vs Object-Oriented Code and X.
@@ -256,6 +287,7 @@ Tags: ood, object-orientation, sandi-metz, martin-fowler, design-stamina, qualit
 
 Id: 53a89846-7a20-11e8-abd1-0242ac110002
 Date: Wed, 27 Jun 2018 15:39:49 +0000
+Category: craftsmanship
 Title: 10 Hard Things to Start Doing for Yourself
 Link: http://www.marcandangel.com/2017/09/24/10-hard-things-to-start-doing-for-yourself/
 Body: I've read this self-help article on how to help yourself by doing hard things:
@@ -277,6 +309,7 @@ Tags: marc-chernoff, self-help, meditation, breathing, comfort-zone, help
 
 Id: 9737002a-7a20-11e8-a864-0242ac110002
 Date: Wed, 27 Jun 2018 15:41:42 +0000
+Category: craftsmanship
 Title: Happiness is overrated — finding deep meaning in life comes down to 4 'pillars'
 Link: http://www.businessinsider.com/emily-esfehani-smith-finding-meaning-life-4-pillars-2017-9
 Body: I've read this article about what life is about: not happiness but four pillars: belonging and purpose, transcendence and storytelling
@@ -285,6 +318,7 @@ Tags: happiness, life, fulfillment, pillar, belonging, purpose, flow, transcende
 
 Id: a3e1c936-7a20-11e8-8fbe-0242ac110002
 Date: Wed, 27 Jun 2018 15:42:04 +0000
+Category: craftsmanship
 Title: It’s time to kill the web
 Link: https://blog.plan99.net/its-time-to-kill-the-web-974a9fe80c89
 Body: I've read this article that explains the background of the web and how it wasn't designed to support applications but documents. Explains the downsides and security profile of a webapp as compared to a desktop/native application. By Mike Hearn
@@ -292,6 +326,7 @@ Tags: comparison, web-app, application, app, desktop-app, native-app, mike-hearn
 
 Id: b2ddd326-7a20-11e8-9af5-0242ac110002
 Date: Wed, 27 Jun 2018 15:42:29 +0000
+Category: craftsmanship
 Title: How to Stay Focused When You’re Working from Home
 Link: https://hbr.org/2017/09/how-to-stay-focused-when-youre-working-from-home&formCheck=bc3e82f422e9567c25d37e403ee877e6
 Body: I've read this article on structuring your workday while being at home (remote work).
@@ -307,6 +342,7 @@ Tags: remote, remote-work, hbr, harvard-business-review, elizabeth-saunders
 
 Id: c8742b18-7a20-11e8-b36f-0242ac110002
 Date: Wed, 27 Jun 2018 15:43:05 +0000
+Category: craftsmanship
 Title: Cognitive Biases in Programming
 Link: https://hackernoon.com/cognitive-biases-in-programming-5e937707c27b
 Body: I've read this article that explains some cognitive biases (prejudices of our mind) while programming:
@@ -325,6 +361,7 @@ Tags: yash-ranadive, bias, programming, mind
 
 Id: dcd43756-7a20-11e8-b0ee-0242ac110002
 Date: Wed, 27 Jun 2018 15:43:39 +0000
+Category: craftsmanship
 Title: Keybase launches encrypted git
 Link: https://keybase.io/blog/encrypted-git-for-everyone
 Body: I've read how to encrypt git repositories using keybase
@@ -332,6 +369,7 @@ Tags: keybase, git, encryption, security, private-key, public-key, storage, arch
 
 Id: f611b626-7a20-11e8-8172-0242ac110002
 Date: Wed, 27 Jun 2018 15:44:22 +0000
+Category: craftsmanship
 Title: General and Surprising
 Link: http://paulgraham.com/sun.html
 Body: I've read this article about how information can be classified as general vs specific and surprising vs unsurprising. How it's best to find a small surprising general thing.
@@ -340,6 +378,7 @@ Tags: paul-graham, surprising, general, information, classification
 
 Id: 25b1e5d6-7a21-11e8-a838-0242ac110002
 Date: Wed, 27 Jun 2018 15:45:41 +0000
+Category: craftsmanship
 Title: I built a server-less Telegram bot over a weekend and here’s what I learned
 Link: https://medium.com/@moses.soh/how-to-build-a-server-less-telegram-bot-227f842f4706
 Body: I've read this article on creating a telegram chatbot for a specific purpose. Connects two people (first one subscribes, then the other asks for help and the first is contacted) so the first helps the second. By Moses Soh
@@ -347,6 +386,7 @@ Tags: telegram, chatbot, app, moses-soh, side-project, pet-project, project
 
 Id: 5d73322c-7a21-11e8-8e1a-0242ac110002
 Date: Wed, 27 Jun 2018 15:47:15 +0000
+Category: craftsmanship
 Title: Reviewing Ethereum Smart Contracts
 Link: https://blog.gdssecurity.com/labs/2017/9/27/reviewing-ethereum-smart-contracts.html
 Body: I've read this article about how to review ethereum contracts and a concrete example of an attack to a smart contract
@@ -354,6 +394,7 @@ Tags: ethereum, smart-contract, crypto-currency, ico, trustless, security, code-
 
 Id: ea81381c-7a21-11e8-b418-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:12 +0000
+Category: craftsmanship
 Title: Keep Calm and Carry On - Scaling Your Org with Microservices
 Link: https://bridgetkromhout.com/speaking/2017/srecon/
 Body: I've read the slides of this presentation by Bridget Kromhout and Charity Majors about organizations and microservices: the main problem is the communication
@@ -361,6 +402,7 @@ Tags: charity-majors, bridget-kromhout, microservice, organization, communicatio
 
 Id: f6c70a98-7a21-11e8-a896-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:32 +0000
+Category: craftsmanship
 Title: Guía al movimiento #NoEstimates
 Link: https://jeronimopalacios.com/2016/09/guia-al-movimiento-noestimates/
 Body: I've read this article by Jeronimo Palacios, giving an overview of the no estimates movement.
@@ -368,6 +410,7 @@ Tags: no-estimates, jeronimo-palacios, agile, scrum, estimate, forecast, managem
 
 Id: 01a58660-7a22-11e8-b4f8-0242ac110002
 Date: Wed, 27 Jun 2018 15:51:50 +0000
+Category: craftsmanship
 Title: Core competence
 Link: http://www.economist.com/node/12231124
 Body: I've read this article describing what a core competence is and how can we find out if a competence is considered core or not.
@@ -375,6 +418,7 @@ Tags: economy, definition, core-competence, core-business, management, prahalad,
 
 Id: 0e85e3f2-7a22-11e8-b818-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:12 +0000
+Category: craftsmanship
 Title: How I stopped procrastinating, learned to code, and launched my first product
 Link: https://dev.to/lynnetye/how-i-stopped-procrastinating-learned-to-code-and-launched-my-first-product-2i1
 Body: I've read this article explaining some tips and tricks to launch a side project. By Lynne Tye
@@ -382,6 +426,7 @@ Tags: lynne-tye, tips-and-tricks, product, side-project, launch, business, lean,
 
 Id: 18bc20c0-7a22-11e8-9209-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:29 +0000
+Category: craftsmanship
 Title: When are Citi Bikes Faster than Taxis in New York City?
 Link: http://toddwschneider.com/posts/taxi-vs-citi-bike-nyc/
 Body: I've read this article by Todd Schneider analysing how city bikes compare to taxis in New York city.
@@ -391,6 +436,7 @@ Tags: todd-schneider, data-visualization, map, city-bike, taxi, cab, new-york, n
 
 Id: 23b8350e-7a22-11e8-a9f3-0242ac110002
 Date: Wed, 27 Jun 2018 15:52:48 +0000
+Category: craftsmanship
 Title: Java 9 and IntelliJ IDEA
 Link: https://blog.jetbrains.com/idea/2017/09/java-9-and-intellij-idea/
 Body: I've read this article by Trisha Gee about upcoming features to IntelliJ Idea 2017.3, centered around java 9 features
@@ -398,6 +444,7 @@ Tags: trisha-gee, java-9, jdk-9, java, jdk, intellij-idea, ide, ide-support, jet
 
 Id: 2e36336e-7a22-11e8-9424-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:05 +0000
+Category: craftsmanship
 Title: Learn from your attackers - SSH HoneyPot
 Link: https://www.robertputt.co.uk/learn-from-your-attackers-ssh-honeypot.html
 Body: I've read this article on how to setup a honey pot machine using honssh. By Robert Putt
@@ -405,6 +452,7 @@ Tags: robert-putt, honey-pot, security, honeypot, honssh, attacker
 
 Id: 398cc606-7a22-11e8-b33c-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:24 +0000
+Category: craftsmanship
 Title: To type or not to type: quantifying detectable bugs in JavaScript
 Link: https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
 Body: I've read this paper commentary by Adrian Colyer (on a paper by Zheng Gao, Christian Bird, Earl T. Barr) on a study that tries to reproduce fixes for defects based on the dynamic to static typing system. 
@@ -422,6 +470,7 @@ Tags: zheng-gao, christian-bird, earl-barr, typescript, javascript, flow, bug, d
 
 Id: 44fe19ae-7a22-11e8-8e06-0242ac110002
 Date: Wed, 27 Jun 2018 15:53:43 +0000
+Category: craftsmanship
 Title: How Artificial Intelligence Can Be Used For Password Guessing
 Link: https://medium.com/@heyfebin/how-artificial-intelligence-can-be-used-for-password-guessing-cf4fd4184a46
 Body: I've read this article by Febin John James on how neural networks can learn from the leaked passwords and try to guess passwords for existing users
@@ -429,6 +478,7 @@ Tags: febin-james, ai, artificial-intelligence, generative-adversarial-neural-ne
 
 Id: 509c472c-7a22-11e8-81d7-0242ac110002
 Date: Wed, 27 Jun 2018 15:54:03 +0000
+Category: craftsmanship
 Title: Chrome to force .dev domains to HTTPS via preloaded HSTS
 Link: https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
 Body: I've read this article by Mattias Geniar explaining the having the new Chrome redirecting .dev domains to https means that people using said .dev for local development will have to either provide a https server on their machines or change to another domain
@@ -436,6 +486,7 @@ Tags: mattias-geniar, chrome, http, https, server, development, test, machine
 
 Id: 6866497a-7a22-11e8-af91-0242ac110002
 Date: Wed, 27 Jun 2018 15:54:43 +0000
+Category: craftsmanship
 Title: Six Ways to Functional FizzBuzz with Vavr
 Link: https://www.sitepoint.com/functional-fizzbuzz-with-vavr/
 Body: I've read this article by Gregor Trefs about solving the fizzbuzz kata using vavr, importing some concepts from functional programming
@@ -443,6 +494,7 @@ Tags: functional-programming, gregor-trefs, vavr, case-statement, pattern-matchi
 
 Id: 74f60720-7a22-11e8-a9a3-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:04 +0000
+Category: craftsmanship
 Title: More Women Take on Role of CFO — at Home
 Link: https://paidpost.nytimes.com/northern-trust/more-women-take-on-role-of-cfo-at-home.html
 Body: I've read this article on how women act as CFO of their houses (managing 30% of the world's wealth), how they teach money and meaning to their children.
@@ -450,6 +502,7 @@ Tags: money-management, cfo, women, gender, home, house
 
 Id: 80c233ee-7a22-11e8-8743-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:24 +0000
+Category: craftsmanship
 Title: The Internet of Things is sending us back to the Middle Ages
 Link: https://thenextweb.com/lifestyle/2017/09/13/internet-things-sending-us-back-middle-ages/
 Body: I've read this article by JOSHUA A.T. FAIRFIELD on the right-to-own, right-to-repair and property. 
@@ -459,6 +512,7 @@ Tags: joshua-fairfield, right-to-repair, bill, law, property, smartphone, eula, 
 
 Id: 92c637d4-7a22-11e8-baba-0242ac110002
 Date: Wed, 27 Jun 2018 15:55:54 +0000
+Category: craftsmanship
 Title: An In-Depth Guide to Personal Cybersecurity
 Link: https://medium.com/@nickrosener/an-in-depth-guide-to-personal-cybersecurity-be98ba47c968
 Body: I've read this guide to personal security in the net, by Nick Rosener. Examples include 2fa, password management, app security, phone security, etc
@@ -466,6 +520,7 @@ Tags: nick-rosener, 2fa, mfa, password, security, phone
 
 Id: a0be3cd8-7a22-11e8-a5aa-0242ac110002
 Date: Wed, 27 Jun 2018 15:56:17 +0000
+Category: craftsmanship
 Title: Como generar "fake data" en nuestros tests de aceptación
 Link: http://programmeratwork.com/2017/09/06/Como-generar-fake-data-en-nuestros-tests-de-aceptacion/
 Body: I've read this article (in Spanish) by Ricardo Borillo on using and generating fake data for our tests
@@ -473,6 +528,7 @@ Tags: ricardo-borillo, borillo, fake-data, npm, npm-module, acceptance-testing, 
 
 Id: 46ffc936-7a23-11e8-882f-0242ac110002
 Date: Wed, 27 Jun 2018 16:00:56 +0000
+Category: craftsmanship
 Title: Making Crash Bandicoot – GOOL – part 9
 Link: http://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/
 Body: I've read this article by Andy Gavin on making a lisp for games, an embedded language inside another language.
@@ -482,6 +538,7 @@ Tags: andy-gavin, lisp, gool, crash-bandicoot, game, game-development
 
 Id: 5174beda-7a23-11e8-bf1e-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:14 +0000
+Category: craftsmanship
 Title: History of Symbolics lisp machines - Rebuttal to Stallman’s Story About The Formation of Symbolics and LMI
 Link: https://danluu.com/symbolics-lisp-machines/
 Body: I've read this article by Dan Weinreb on the history of lisp machines, the AI winter and the rebuttal of some stories by Richard M. Stallman
@@ -489,6 +546,7 @@ Tags: dan-weinreb, lisp, symbolics, rms, richard-stallman, lisp-machine, lmi, da
 
 Id: 5bd0ece6-7a23-11e8-8014-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:31 +0000
+Category: craftsmanship
 Title: free-for-dev
 Link: https://github.com/ripienaar/free-for-dev/blob/master/README.md
 Body: I've read this list of (free) resources for programmers
@@ -496,6 +554,7 @@ Tags: free-resource, resource, service, amazon, aws, free-tier, free-trial, gith
 
 Id: 67c8032c-7a23-11e8-9ab7-0242ac110002
 Date: Wed, 27 Jun 2018 16:01:51 +0000
+Category: craftsmanship
 Title: Every Programmer Should Know
 Link: https://github.com/mr-mig/every-programmer-should-know
 Body: I've read this page on things a programmer should know
@@ -503,6 +562,7 @@ Tags: github, programmer, knowledge
 
 Id: 72b999a8-7a23-11e8-b831-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:10 +0000
+Category: craftsmanship
 Title: Haste Makes Waste When You Over-Staff to Achieve Schedule Compression
 Link: http://www.qsm.com/risk_02.html
 Body: I've read this article by Quantitative Software Management (QSM) on how software projects are affected by the size of the team producing it, with charts and based on previous investigation
@@ -510,6 +570,7 @@ Tags: research, meta-research, quality, software, software-quality, qsm, quantit
 
 Id: 7d3d216a-7a23-11e8-8d31-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:27 +0000
+Category: craftsmanship
 Title: Hacking back considered harmful?
 Link: https://blog.0day.rocks/hacking-back-considered-harmful-1ea38f882e8f
 Body: I've read this article by x0rz, a security researcher, on hacking back
@@ -523,6 +584,7 @@ Tags: x0rz, security, hacking, hacking-back, ethic, legality, law, quote, potter
 
 Id: 8bda1c3c-7a23-11e8-b1cb-0242ac110002
 Date: Wed, 27 Jun 2018 16:02:52 +0000
+Category: craftsmanship
 Title: Kurt Gödel—Separating Truth from Proof in Mathematics
 Link: http://science.sciencemag.org/content/sci/298/5600/1899.full.pdf?sid=c031062c-8030-4e2c-8716-04409d7abefb
 Body: I've read this article by Keith Devlin on Goedel's work, especially on the Incompleteness theorem
@@ -530,6 +592,7 @@ Tags: kurt-godel, kurt-goedel, incompleteness-theorem, bertrand-russell, alfred-
 
 Id: 97e67a7a-7a23-11e8-bc72-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:12 +0000
+Category: craftsmanship
 Title: ML for the working programmer, 2nd edition - chapter 5
 Link: https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter5.pdf
 Body: I've read this chapter, to better understand finite and infinite data structures. Talks about streams (called sequences in ML), HOFs, lambda calculus. The book is by Lawrence Paulson
@@ -542,6 +605,7 @@ Tags: book, chapter, lawrence-paulson, ml, sequence, hof, lambda-calculus, combi
 
 Id: a4263c08-7a23-11e8-86c0-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:33 +0000
+Category: craftsmanship
 Title: how to hack the uk tax system, i guess
 Link: https://medium.com/@Zemnmez/how-to-hack-the-uk-tax-system-i-guess-3e84b70f8b
 Body: I've read this investigation of how a security investigator found a security defect in the UK tax system page and the process of reporting it and seeing it fixed
@@ -549,6 +613,7 @@ Tags: zemnmez, open-source, uk, hmrc, responsible-disclosure
 
 Id: b0788d3a-7a23-11e8-82df-0242ac110002
 Date: Wed, 27 Jun 2018 16:03:53 +0000
+Category: craftsmanship
 Title: Indirect Sale-Value Models
 Link: http://www.catb.org/esr/writings/magic-cauldron/magic-cauldron-9.html
 Body: I've read this article on models for selling/monetising open source. By Eric S. Raymond
@@ -556,6 +621,7 @@ Tags: eric-raymond, open-source, monetization
 
 Id: bc93aaf0-7a23-11e8-8ffe-0242ac110002
 Date: Wed, 27 Jun 2018 16:04:14 +0000
+Category: craftsmanship
 Title: I’ll never bring my phone on an international flight again. Neither should you
 Link: https://medium.freecodecamp.org/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f
 Body: I've read this article by Quincy Larson on what happens when you bring your phone over to the US
@@ -563,6 +629,7 @@ Tags: us, phone, privacy, quincy-larson, international-flight, cross-border-flig
 
 Id: cfe1bdfe-7a23-11e8-b024-0242ac110002
 Date: Wed, 27 Jun 2018 16:04:46 +0000
+Category: craftsmanship
 Title:  Remote Starter Kit
 Link: http://www.remotestarterkit.com
 Body: I've read this page detailing some tools for a remote position
@@ -570,6 +637,7 @@ Tags: remote, remote-work, remote-tool, tool, starter-kit
 
 Id: dc842498-7a23-11e8-8b35-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:07 +0000
+Category: craftsmanship
 Title: Moving Java Forward Faster
 Link: https://mreinhold.org/blog/forward-faster
 Body: I've read this article by Mark Reinhold, explaining his proposal for a faster java release train, changing from every two years to every six months.
@@ -577,6 +645,7 @@ Tags: release, mark-reinhold, release-management, release-train, java, sun, orac
 
 Id: e799c860-7a23-11e8-9f75-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:26 +0000
+Category: craftsmanship
 Title: Keeping a tidy life
 Link: https://medium.com/@ctrlaltjustine/keeping-a-tidy-life-f01bbe2a9b3e
 Body: I've read this article by Justine Arreche on how she manages her productivity tools: calendar, todo list; for all the activities in her life
@@ -584,6 +653,7 @@ Tags: justine-arreche, productivity, management, calendar, todo-list, activity, 
 
 Id: f66efafe-7a23-11e8-ae3d-0242ac110002
 Date: Wed, 27 Jun 2018 16:05:51 +0000
+Category: craftsmanship
 Title: To Understand Rising Inequality, Consider the Janitors at Two Top Companies, Then and Now
 Link: https://www.nytimes.com/2017/09/03/upshot/to-understand-rising-inequality-consider-the-janitors-at-two-top-companies-then-and-now.html
 Body: I've read this article by Neil Irwin on inequality, explaining the professional career of two janitors at two different companies, in a different period of time.
@@ -591,6 +661,7 @@ Tags: neil-irwin, inequality, kodak, apple, janitor, mercer, drucker, management
 
 Id: 03cbbfca-7a24-11e8-927a-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:13 +0000
+Category: craftsmanship
 Title: Episode 8: Interview with Ryan Dahl, Creator of Node.js
 Link: https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs
 Body: I've read [the transcription of] this interview, to Ryan Dahl.
@@ -600,6 +671,7 @@ Tags: ryan-dahl, go, microservice, web-app, interview, podcast, web-server, go, 
 
 Id: 0db84e2c-7a24-11e8-ac3c-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:30 +0000
+Category: craftsmanship
 Title: The Recovering Programmer
 Link: http://prog21.dadgum.com/56.html
 Body: I've read this article by James Hague on the user-centric vision and how he faces the problems related to programming
@@ -607,6 +679,7 @@ Tags: programming, user-centric, vision, game, assembler, james-hague, recoverin
 
 Id: 192eae72-7a24-11e8-bc6c-0242ac110002
 Date: Wed, 27 Jun 2018 16:06:49 +0000
+Category: craftsmanship
 Title: We Who Value Simplicity Have Built Incomprehensible Machines
 Link: http://prog21.dadgum.com/139.html
 Body: I've read this article by  James Hague on examples of libraries that went wrong. How we should have said 'no' early on instead of accepting it. A blog post about simplicity
@@ -614,12 +687,14 @@ Tags: james-hague, simplicity, library, complexity, example
 
 Id: 24c02266-7a24-11e8-bddd-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:08 +0000
+Category: craftsmanship
 Title: Rapid release at massive scale
 Link: https://code.facebook.com/posts/270314900139291/rapid-release-at-massive-scale/
 Body:
 
 Id: 3136db02-7a24-11e8-b84e-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:29 +0000
+Category: craftsmanship
 Title: Having a "work wife" or "work husband" is good for your career
 Link: https://www.linkedin.com/pulse/having-work-wife-husband-good-your-career-rebecca-holman
 Body: I've read this article by Rebecca Holman explaining what is a work spouse (i.e., a trusted equal to bounce off ideas, discuss, advance together). Not a mentor, not a trusted boss, not someone reporting to you.
@@ -629,6 +704,7 @@ Tags: rebecca-holman, work-wife, work-husband, work-spouse, team-management, wor
 
 Id: 3df70628-7a24-11e8-9c3c-0242ac110002
 Date: Wed, 27 Jun 2018 16:07:51 +0000
+Category: craftsmanship
 Title: REST APIs are REST-in-Peace APIs. Long Live GraphQL.
 Link: https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
 Body: I've read this article about GraphQL and its comparison to REST APIs
@@ -636,6 +712,7 @@ Tags: graphql, rest, api, data, comparison, samer-buna
 
 Id: 492eebb4-7a24-11e8-bcec-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:10 +0000
+Category: craftsmanship
 Title: History of Lisp
 Link: http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
 Body: I've read this paper by John McCarthy explaining the history of lisp
@@ -643,6 +720,7 @@ Tags: john-mccarthy, lisp, invention, language, list-processing, s-expression, m
 
 Id: 54e4e076-7a24-11e8-abd6-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:29 +0000
+Category: craftsmanship
 Title: Software development 450 words per minute
 Link: https://www.vincit.fi/en/blog/software-development-450-words-per-minute/
 Body: I've read this article in which Tuukka Ojala explains how his tools for a (blind) software developer: the screen reader, the browser, the braille reader
@@ -650,6 +728,7 @@ Tags: tuukka-ojala, blindness, accesibility, browser, screen-reader, braille-rea
 
 Id: 5eea69ce-7a24-11e8-8842-0242ac110002
 Date: Wed, 27 Jun 2018 16:08:46 +0000
+Category: craftsmanship
 Title: Compare your efforts: 30 vs 3000 LOC for very simple MEAN app
 Link: http://blog.allcountjs.com/post/128771961651/compare-efforts
 Body: I've read this article that explains the difference between business value and technical value: a feature for the business could be very valuable but technically costly; also the other way around: they are independent variables.
@@ -659,6 +738,7 @@ Tags: allcountjs, mean, comparison, crud, framework, javascript, frontend, produ
 
 Id: 699d067e-7a24-11e8-9962-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:04 +0000
+Category: craftsmanship
 Title: GitHub Integration
 Link: https://medium.com/@leanpub/github-integration-6f6d81847230
 Body: I've read this article explaining how to integrate leanpub with github: write your book (e.g., in markdown) and store it in git, then publish automatically to leanpub
@@ -666,6 +746,7 @@ Tags: leanpub, github, integration, self-publishing, publishing, book, tool, too
 
 Id: 7b5f342c-7a24-11e8-b858-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:34 +0000
+Category: craftsmanship
 Title: WYSIWTF
 Link: https://alistapart.com/column/wysiwtf
 Body: I've read this article by Karen McGrane explaining the desktop publishing and the difference between writing and formatting for the web. Also, inline editing
@@ -673,6 +754,7 @@ Tags: karen-mcgrane, editing, formatting, desktop-publishing, medium, wysiwyg
 
 Id: 866b41b2-7a24-11e8-9c54-0242ac110002
 Date: Wed, 27 Jun 2018 16:09:52 +0000
+Category: craftsmanship
 Title: What I’m talking about when I talk about TDD
 Link: https://medium.com/@ramtop/what-im-talking-about-when-i-talk-about-tdd-546a383468be
 Body: I've read this article by Uberto Barbini in which he describes his re-discovery of TDD as a tool to design
@@ -680,6 +762,7 @@ Tags: uberto-barbini, tdd, rediscovery, kent-beck, test-driven-development
 
 Id: 9c543506-7a24-11e8-8c9b-0242ac110002
 Date: Wed, 27 Jun 2018 16:10:29 +0000
+Category: craftsmanship
 Title: SE-Radio Episode 273: Steve McConnell on Software Estimation
 Link: http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/
 Body: Sven Johann interviews Steve McConnell about software estimation and planning.
@@ -697,6 +780,7 @@ Tags: cone-of-uncertainty, agile, project-management, risk, sven-johann, steve-m
 
 Id: a90cf1ac-7a24-11e8-a69e-0242ac110002
 Date: Wed, 27 Jun 2018 16:10:50 +0000
+Category: craftsmanship
 Title: Software Psychology with Bjorn Freeman Benson
 Link: https://softwareengineeringdaily.com/2017/03/28/software-psychology-with-bjorn-freeman-benson/
 Body: I've listened to this podcast on psychology
@@ -704,6 +788,7 @@ Tags: software-engineering-daily, bjorn-benson, psychology, walled-garden
 
 Id: b2056db6-7a24-11e8-97d3-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:05 +0000
+Category: craftsmanship
 Title: Using CQRS to Make Controllers Lean with Derek Comartin
 Link: https://softwareengineeringdaily.com/2017/03/10/using-cqrs-to-make-controllers-lean-with-derek-comartin/
 Body: I've listened to this podcast on CQRS
@@ -711,6 +796,7 @@ Tags: cqrs, derek-comartin, command-query-responsibility-segregation, greg-young
 
 Id: bc6e1190-7a24-11e8-b19a-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:23 +0000
+Category: craftsmanship
 Title: Elm In Production: 25,000 Lines Later
 Link: https://functional.works-hub.com/blog/Elm-In-Production-25-000-Lines-Later
 Body: I've read this article by Christian Charukiewicz explaining how he started a new project and a new feature in Elm. How he explained this new technology to his teammates and how it is going now.
@@ -720,12 +806,14 @@ Tags: christian-charukiewicz, elm, compiler, experience-report, frontend, functi
 
 Id: c2416c52-7a24-11e8-b692-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:33 +0000
+Category: craftsmanship
 Title: Growing Up with Alexa
 Link: https://www.technologyreview.com/s/608430/growing-up-with-alexa/
 Body:
 
 Id: cb789e76-7a24-11e8-bdb2-0242ac110002
 Date: Wed, 27 Jun 2018 16:11:48 +0000
+Category: craftsmanship
 Title: Jony’s Patience
 Link: https://medium.com/@mkruz/jony-s-patience-670d5a3dc128
 Body: I've read this article by Mike Kruzeniski explaining part of John Ive career at Apple and explaining part of the design process the Apple Watch had.
@@ -733,6 +821,7 @@ Tags: ux, design, apple, watch, john-ive, mike-kruzeniski, career, career-manage
 
 Id: d4b6a596-7a24-11e8-b245-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:04 +0000
+Category: craftsmanship
 Title: The Four Month Bug: JVM statistics cause garbage collection pauses
 Link: http://www.evanjones.ca/jvm-mmap-pause.html
 Body: I've read this blog post by Evan Jones as an example of unknown unknown
@@ -740,6 +829,7 @@ Tags: evan-jones, unknown-unknown, java, mmap, garbage-collector, pause, unknown
 
 Id: dddee4c6-7a24-11e8-b11f-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:19 +0000
+Category: craftsmanship
 Title: The pleasure of building big things
 Link: http://rc3.org/2015/03/24/the-pleasure-of-building-big-things/
 Body: I've read this article explaining that big projects take time to be created.
@@ -749,6 +839,7 @@ Tags: time, focus, rafe-colburn, product, lean
 
 Id: e91565cc-7a24-11e8-8849-0242ac110002
 Date: Wed, 27 Jun 2018 16:12:38 +0000
+Category: craftsmanship
 Title: Choose Boring Technology
 Link: http://mcfunley.com/choose-boring-technology/
 Body: I've read this article by Dan McKinley about how choosing boring (i.e., well-proven) technology can help you focus on your company goals and how 'the best tool for the job' is not always the case, as the job depends on who you ask: developers, ops, business.
@@ -756,6 +847,7 @@ Tags: dan-mckinley, boring, technology, proven, production-ready, development, o
 
 Id: fe723d14-7a24-11e8-ab5c-0242ac110002
 Date: Wed, 27 Jun 2018 16:13:14 +0000
+Category: craftsmanship
 Title: Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally at Google [Updated]
 Link: https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320
 Body: I have read this document
@@ -763,12 +855,14 @@ Tags: google, scandal, sexism
 
 Id: 172e94e2-7a25-11e8-86cc-0242ac110002
 Date: Wed, 27 Jun 2018 16:13:55 +0000
+Category: craftsmanship
 Title: Check Your Work
 Link: https://8thlight.com/blog/connor-mendenhall/2013/10/31/check-your-work.html
 Body:
 
 Id: 454f53fc-7dd6-11e8-8208-0242ac110003
 Date: Mon, 02 Jul 2018 08:59:47 +0000
+Category: craftsmanship
 Title: The Haskell Pyramid
 Link: https://patrickmn.com/software/the-haskell-pyramid/
 Body: I've read this article on how the productivity for Haskell is achieved: not using the topics discussed on social networks (monads, functors, laws, lenses, etc) but using more basic tools
@@ -776,6 +870,7 @@ Tags: haskell, productivity, lucas-di-cioccio, learning, development, tool, mona
 
 Id: ef00176e-7ddc-11e8-a33b-0242ac110003
 Date: Mon, 02 Jul 2018 09:47:29 +0000
+Category: craftsmanship
 Title: El verde más verde
 Link: https://mailchi.mp/bonillaware/verde-mas-verde?e=68e22b460d
 Body: I've read this article on how to structure creative projects (e.g., UX, programming) by professionals, as told by David Bonilla.
@@ -783,6 +878,7 @@ Tags: david-bonilla, bonilista, project-management, slack-time, sabbatical, vert
 
 Id: 40d68542-7dff-11e8-89f2-0242ac110003
 Date: Mon, 02 Jul 2018 13:53:09 +0000
+Category: craftsmanship
 Title: How to Fix Burnout as a Developer
 Link: https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl
 Body: I've read this article on burnout and how to fix it:
@@ -795,6 +891,7 @@ Tags: lewis-menelaws, burnout, burn-out, productivity, listicle, career, psychol
 
 Id: 9003a91a-7dff-11e8-a366-0242ac110003
 Date: Mon, 02 Jul 2018 13:55:22 +0000
+Category: craftsmanship
 Title: Ask HN: What is the first thing you implement at a new company?
 Link: https://news.ycombinator.com/item?id=17353854
 Body: I've read this article on the first things that people do when joining a new client.
@@ -803,6 +900,7 @@ Tags: chesterton-fence, hacker-news, contractor, client, onboarding, fix
 
 Id: 736e269e-7e00-11e8-ac4a-0242ac110003
 Date: Mon, 02 Jul 2018 14:01:43 +0000
+Category: craftsmanship
 Title: The Fallacy Of Chesterton's Fence
 Link: https://abovethelaw.com/2014/01/the-fallacy-of-chestertons-fence/
 Body: I've read this article on the Chesterton's fence.
@@ -813,6 +911,7 @@ Tags: chesterton-fence, keith-lee, consulting, tip, analogy, discovery, process,
 
 Id: c20e6ac4-8fe5-11e8-b54e-0242ac110003
 Date: Wed, 25 Jul 2018 08:36:00 +0000
+Category: craftsmanship
 Title: A brief history of the UUID
 Link: https://segment.com/blog/a-brief-history-of-the-uuid/
 Body: A brief history of UUID: of how it was developed, why, and a new library in go called ksuid
@@ -822,6 +921,7 @@ Tags: ksuid, uuid, golang, go, rick-branson, history
 
 Id: 962c0c26-8fe6-11e8-bf2c-0242ac110003
 Date: Wed, 25 Jul 2018 08:41:55 +0000
+Category: craftsmanship
 Title: Delivering billions of messages exactly once
 Link: https://segment.com/blog/exactly-once-delivery/
 Body: Explains how this company (segment) has solved the problem of delivering the messages once and only once (OAOO), using RocksDB, Kafka, UUIDs. Deployed to AWS, lowers the cost of the previous system (memcached-based).
@@ -834,6 +934,7 @@ Tags: rocksdb, facebook, database, once-and-only-once, oaoo, message, exactly-on
 
 Id: f7e738c8-8fe6-11e8-89be-0242ac110003
 Date: Wed, 25 Jul 2018 08:44:39 +0000
+Category: craftsmanship
 Title: Object Collaboration Stereotypes
 Link: http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html
 Body: This post describes the relationships between two objects:
@@ -845,6 +946,7 @@ Tags: dependency, notification, policy, part, collaborator, relationship, steve-
 
 Id: ea7281ee-9012-11e8-bd95-0242ac110003
 Date: Wed, 25 Jul 2018 13:59:15 +0000
+Category: craftsmanship
 Title: Mocks, Fakes, Stubs and Dummies
 Link: http://xunitpatterns.com/Mocks,%20Fakes,%20Stubs%20and%20Dummies.html
 Body: Bibliography for mocks, stubs, fakes, dummies, spies.
@@ -852,6 +954,7 @@ Tags: mock, stub, test-double, dummy, xunit, xunit-pattern, gerard-meszaros, xun
 
 Id: f70e5fb8-93d7-11e8-bfd0-0242ac110002
 Date: Mon, 30 Jul 2018 09:07:20 +0000
+Category: craftsmanship
 Title: How to run a "self-organizing" company
 Link: http://iljapreuss.blogspot.com/2018/07/how-to-run-self-organizing-company.html?m=1
 Body: This article responds to some criticism to self organized companies 
@@ -859,6 +962,7 @@ Tags: self-organized, company, comparison, management, director
 
 Id: 54ef4e58-93d8-11e8-9931-0242ac110002
 Date: Mon, 30 Jul 2018 09:09:58 +0000
+Category: craftsmanship
 Title: What’s the Best Way to Pair?
 Link: https://builttoadapt.io/whats-the-best-way-to-pair-a8699f9beb81
 Body: This article explains some pairing techniques: the pomodoro, the ping pong, the switch on Google
@@ -866,6 +970,7 @@ Tags: pair-programming, denise-yu, pivotal, pomodoro, ping-pong, technique, pair
 
 Id: 7a5f499a-93d8-11e8-a2c6-0242ac110002
 Date: Mon, 30 Jul 2018 09:11:01 +0000
+Category: craftsmanship
 Title: The Benefits Of Thinking Small
 Link: http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html?m=1
 Body: This article compares big thinking and small thinking, in terms of companies. How the start up companies can both be successful by thinking big and small. 
@@ -873,6 +978,7 @@ Tags: start-up, comparison, company, product-management, strategy, evolutionary-
 
 Id: 7784a1da-fc82-11e8-a2cc-0242ac110002
 Date: Mon, 10 Dec 2018 13:49:51 +0000
+Category: craftsmanship
 Title: One year nomad - a review
 Link: https://krausefx.com/blog/one-year-nomad
 Body:
@@ -880,6 +986,7 @@ Tags: nomad, felix-krause, digital-nomad, remote, life
 
 Id: e5650e1c-0081-11e9-a127-0242ac110002
 Date: Sat, 15 Dec 2018 15:55:51 +0000
+Category: craftsmanship
 Title: The Reason Many Ultrarich People Aren’t Satisfied With Their Wealth
 Link: https://www.theatlantic.com/family/archive/2018/12/rich-people-happy-money/577231/
 Body: How the rich are motivated to earn more money\n>really rich people are often motivated to acquire more money by the thrill that comes with multiplying one’s fortune by making investments, buying up businesses\n>Those two ways of putting money to use—as a way of covering expenses or as a way of building a bigger fortune—\n>Every billionaire I’ve spoken to, and I’ve spoken to quite a number of them, is extremely excited by each additional increment of money they make\n> Do I have enough to buy this expensive thing I want? but rather Do I have as much or more than these people I’m comparing myself with?\n\n>feeling wealthy is about comparison with others in your reference group. So the question is not what individuals want to buy, but what they feel they must buy in order to keep up their status
@@ -887,6 +994,7 @@ Tags: rich, wealth, the-atlantic, longform, management, wealth-management, motiv
 
 Id: 6ef4bf24-0082-11e9-a076-0242ac110002
 Date: Sat, 15 Dec 2018 15:59:41 +0000
+Category: craftsmanship
 Title: Etsy’s experiment with immutable documentation
 Link: https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/
 Body: Trading freshness for completeness in documentation
@@ -894,6 +1002,7 @@ Tags: how-doc, what-doc, fyi, documentation, etsy, experiment, immutable-documen
 
 Id: f280c496-0df2-11e9-bf65-0242ac110002
 Date: Tue, 01 Jan 2019 18:27:51 +0000
+Category: craftsmanship
 Title: Work cycles
 Link: https://docs.google.com/document/d/1DKLDpCwvzn_z2tokwC80yOmidueO6x58dt4DEbkc84Q/edit#
 Body: I've read this Work Cycle framework to be more productive with your daily routine.\nSuggests an alternative to Pomodoro technique, in which you are to write down the contents of the goal, then split in small chunks (periods) of time to complete the individual tasks, then debrief at the end of the period and at the end of the cycle.\nAn analogy could be a double-loop Pomodoro technique for tasks.
@@ -901,6 +1010,7 @@ Tags: pomodoro, pomodoro-technique, framework, management, productivity, persona
 
 Id: 15ca63e4-0df8-11e9-b145-0242ac110002
 Date: Tue, 01 Jan 2019 19:04:38 +0000
+Category: craftsmanship
 Title: World Cat
 Link: https://www.worldcat.org/search
 Body: Site to find books in public libraries
@@ -908,6 +1018,7 @@ Tags: book, search, library, ebook
 
 Id: 7fb09cd4-2639-11e9-9377-0242ac110002
 Date: Fri, 01 Feb 2019 15:53:20 +0000
+Category: craftsmanship
 Title: Amazon DynamoDB Transactions: How it Works
 Link: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html
 Body: Explains how transactions work in DynamoDB
@@ -915,6 +1026,7 @@ Tags: dynamodb, aws, help, transaction, serializable
 
 Id: bd7151c6-2639-11e9-a38e-0242ac110002
 Date: Fri, 01 Feb 2019 15:55:04 +0000
+Category: craftsmanship
 Title: Jepsen: Aerospike
 Link: https://aphyr.com/posts/324-call-me-maybe-aerospike
 Body: I've read this analysis of Aerospike, that explains what kind of database it is, what CAP properties satisfies
@@ -922,6 +1034,7 @@ Tags: cap, cap-theorem, jepsen, aphyr, aerospike, database, acid, ap, cp, consis
 
 Id: 01292b8c-263a-11e9-a7fe-0242ac110002
 Date: Fri, 01 Feb 2019 15:56:58 +0000
+Category: craftsmanship
 Title: A Critique of ANSI SQL Isolation Levels
 Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf
 Body: I've read this paper that explains the ANSI SQL isolation levels\n
@@ -929,6 +1042,7 @@ Tags: non-repeatable, fuzzy-read, dirty-read, phantom, phantom-read, isolation, 
 
 Id: 4a1c6f7a-263a-11e9-8e08-0242ac110002
 Date: Fri, 01 Feb 2019 15:59:00 +0000
+Category: craftsmanship
 Title: Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions
 Link: http://pmg.csail.mit.edu/papers/adya-phd.pdf
 Body: An extended paper on ACID properties for SQL databases
@@ -936,6 +1050,7 @@ Tags: liskov, atul-adya, stronger-serializable, consistency, consistency-level, 
 
 Id: 20d8145e-3a92-11e9-8023-0242ac110003
 Date: Wed, 27 Feb 2019 13:18:10 +0000
+Category: craftsmanship
 Title: No todo el mundo sabe o debe dar feedback
 Link: https://softwareyotrasdesvirtudes.com/2018/11/26/no-todo-el-mundo-sabe-o-debe-dar-feedback/
 Body: The author explains why some feedback is dangerous: either the way of giving it, or the message, or both.\nIn this case, she's talking about the Commit Conf, but this is applicable to any situation\nPara dar un buen feedback es importante:\n\n  * Primero: agradecer el esfuerzo por la charla.\n  * Segundo: resaltar algo positivo de ella.  Seguro que algo cumple.\n  * Tercero: decir cómo mejorarías un aspecto\n  * Último: volver a dar las gracias o decir una frase buena que motive.\n \nDar un mal feedback es muy fácil:\n\n  * Primero: no leerte la descripción ni el nivel de la charla\n  * Segundo: te cabreas porque no es lo esperado y dudabas entre esa y otra charla\n  * Tercero: dices lo que no te ha gustado sin rodeos.\n  * Cuarto: además asumes cosas que no ha hecho y las escribes. Igual que yo he hecho en el Primero y Segundo.\n  * Quinto: si además dices algo faltoso gana puntos.\n  * Sexto: Utilizas esa tónica destructiva en todos.
@@ -943,6 +1058,7 @@ Tags: laura-lacarra, commit, commit-conf, feedback, good-feedback, honest-feedba
 
 Id: 95554892-3a92-11e9-9bbf-0242ac110003
 Date: Wed, 27 Feb 2019 13:21:25 +0000
+Category: craftsmanship
 Title: How to Deal with Difficult People on Software Projects
 Link: https://people.neilon.software/
 Body: I've read this guide on dealing with difficult people.\nThere are many (48) personality types, including these types:\n  * Product Managers\n  * Designers\n  * Project Managers\n  * Development Managers\n  * Developers\n  * Quality Assurance
@@ -950,6 +1066,7 @@ Tags: people, people-management, personality-type, guide, neil-green
 
 Id: 0078d58a-3a93-11e9-8f23-0242ac110003
 Date: Wed, 27 Feb 2019 13:24:25 +0000
+Category: craftsmanship
 Title: Software disenchantment
 Link: http://tonsky.me/blog/disenchantment/
 Body: I've read this article about somebody disenchanted with the current state of the art of software: slow, bloated, not better than 10 years ago, or faster.
@@ -957,6 +1074,7 @@ Tags: nikita-prokopov, bloat, rant, disenchantment, tonsky, comparison, speed, s
 
 Id: 42cdde80-3a93-11e9-814c-0242ac110003
 Date: Wed, 27 Feb 2019 13:26:16 +0000
+Category: craftsmanship
 Title: The Values and Principles of Agile Software Development
 Link: https://www.slideshare.net/bradapp/the-values-and-principles-of-agile-software-development
 Body: I've read the slides of this presentation by Brad Appleton, on Values, Principles, and Practices in an Agile environment.\nPlenty of good quotes
@@ -964,6 +1082,7 @@ Tags: brad-appleton, slideshare, slide, agile, practice, principle, value, xp, e
 
 Id: d6a4b78c-3a93-11e9-88d7-0242ac110003
 Date: Wed, 27 Feb 2019 13:30:24 +0000
+Category: craftsmanship
 Title: Makefiles como dejar de memorizar comandos en docker – Developer Vago
 Link: https://jesuslc.com/2018/04/21/makefiles-como-dejar-de-memorizar-comandos-en-docker-developer-vago/
 Body: I've discovered a new technique for Makefiles:\n\nUsing a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.\n\n```bash\n.PHONY: help\nhelp: ## Print this help.\n  @grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = \":.*?## \"}; {printf \"\033[36m%-20s\033[0m %s\n\", $$1, $$2}'\n```\n\nwhen you run `make help`, then \n\n```\nPrint this help.\n```
@@ -971,6 +1090,7 @@ Tags: makefile, jesuslc, documentation, executable-documentation, awk, trick, he
 
 Id: add12910-3b3f-11e9-8a1b-0242ac110003
 Date: Thu, 28 Feb 2019 8:00:29 +0000
+Category: craftsmanship
 Title: How to Create Reality
 Link: https://www.mrmoneymustache.com/2019/02/27/how-to-create-reality/
 Body: In this article, it is explained how to create a (different) reality in the mind of your target (users).\n\n> Begin with the End in Mind – and Start by Painting a Beautiful Picture of that end  destination.\n\n> It’s the technique at the core of the world’s best marketing and negotiation strategies, and it works so well because it short circuits the human brain into making everyone – including you – see things in the desired way.\n\n>It was a simple picture of a very clear end destination that automatically got people’s imagination running and filling in their own details.\n\nThere are some examples as well.
@@ -978,6 +1098,7 @@ Tags: communication, people-management, leadership, marketing, pete-adeney, mr-m
 
 Id: 3841f764-3b40-11e9-9d75-0242ac110003
 Date: Thu, 28 Feb 2019 8:04:21 +0000
+Category: craftsmanship
 Title: Red Flags in Software Developer Job Descriptions
 Link: https://joecmarshall.com/posts/job-description-red-flags/
 Body: I've read this article that explains some red flags the author has detected while reading job offers:\n\n  * Wordpress Developer - Degree + 10 years experience required: refers to the exageration of needed qualifications for jobs that do not require it, apparently.\n  * PHP Contractor - 2 Months: refers to the short-term mentality of jobs, and the environment that it creates\n  * Early Stage Emmployee / Technical Co-founder / Person to Make My Thing: refers to how cheap ideas are and how important (to developers) execution is.\n  * Technologies: Coldfusion + jQuery: refers to old/out of fashion technologies
@@ -985,6 +1106,7 @@ Tags: job-offer, pattern, joe-marshall, old-technology, fashionable, short-term,
 
 Id: 0eb0ef62-3b41-11e9-863a-0242ac110003
 Date: Thu, 28 Feb 2019 8:10:21 +0000
+Category: craftsmanship
 Title: Ask HN: How to be productive with big existing code base
 Link: https://news.ycombinator.com/item?id=19254008
 Body: In this HN discussion, there are some pearls regarding working with big, legacy codebases:\n\n  * Just because you wouldn't have done it the way they did doesn't mean they did it wrong. A reference to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)\n  * A reference to Working Effectively With Legacy Code, by Feathers\n  * > 1. Assess how much of the code is actually understood. Is there any record of the > design decisions, the edge cases, the debugging process, the paths that weren't taken? Who knows the most about the codebase and how it got to be how it is?\n  * > 2. What's the current specification? Don't look at the stack, look at input and output cases. How well does the code meet the spec? Where is it failing?\n  * > 3. Before you change anything you need to know what the change process is. You > probably do already know this, but if you don't need to find out whether there are > any demarcations of responsibility, even if they're only informal and unstated areas of interest.\n  * > 4. When you have all that, you can start working on the code with some knowledge of the context you - and the code - are operating in.\n  * > 5. If code works, don't rewrite or refactor for style without a very very good > reason. And don't do it unless you can change all the "bad" code at once. Otherwise > you'll end up with a mess of incompatible idioms that make future changes hard to read.\n  * > 6. Write your own docs as you go. Best case is other people will benefit from reading them, worst case is you'll remind yourself what you were doing six months from now - because you'll have forgotten by then.\n  * A reference to flamegraphs\n  * > The problem with the after-the-fact abstraction layer is that if the original team members are not available, you are likely not in possession of the whole theory of the software. Hence it is not likely you can in the beginning choose the right abstractions. Endquote. This is a reference to "Programming as theory building"\n  * > Get it into a state that will support current business goals and roadmap while protecting current business value and users.\n\n\nNote: the quotes are copied directly from the discussion page and are property of the original commentators.
@@ -992,6 +1114,7 @@ Tags: wewlc, michael-feathers, hackernews, yc, legacy-code, theory-building, quo
 
 Id: 5bed4596-3f5b-11e9-83e1-0242ac110005
 Date: Tue, 05 Mar 2019 15:28:42 +0000
+Category: craftsmanship
 Title: NodeJS logging made right
 Link: https://itnext.io/nodejs-logging-made-right-117a19e8b4ce
 Body: Explains logging and tracing in nodejs.\n\nUsage of thread-local storage, trace id, continuation local storage.
@@ -999,6 +1122,7 @@ Tags: nodejs, logging, tracing, thread-local, thread-local-storage, trace-id, co
 
 Id: 5101ce2e-3f5e-11e9-83d9-0242ac110005
 Date: Tue, 05 Mar 2019 15:49:52 +0000
+Category: craftsmanship
 Title: Web Design 3.0: When Your Web Design Really Matters
 Link: https://nicepage.com/doc/article/20348/web-design-3-0-when-your-web-design-really-matters
 Body: In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.\n\n> In Chapter 2, we will talk about website builders that are lagging behind the trends and slowing down the Web Design evolution.\n\n> In Chapter 3, you will learn how to create modern web designs quickly and easily in a new way.\n\nHas walk through the different design phases, techniques; both in press (printed) design as in web design.\n\nExplains some web builders.\n\nExplains the concept of the web 3.0:\n\n>  * Free positioning.\n>  * Element overlapping.\n>  * Breaking the limitations of Bootstrap-like Grids.\n\nStates the different needs for webmasters and designers:\n\n> Web Designers need:\n> \n>   * Free positioning\n>   * Removing table constraints\n>   * Layers\n>   * Property Panel for elements\n>   * Support for Windows and Mac OS\n> \n> \n> Webmasters need:\n> \n>   * Clean HTML and CSS\n>   * Mobile device support\n>   * WordPress and Joomla support\n>   * Building websites online\n\nSummary\n\n> Website builders are lagging behind the rapidly changing Web Design world.\n> \n> The history of web design tools has involved several transitions. However, progress has stopped. There are numerous signs that the new transition must happen.\n> \n> There are separate markets for web designers and webmasters. Popular website builders do not support the main features of Web Design 3.0: free positioning, modern grids, and layers.
@@ -1006,6 +1130,7 @@ Tags: comparison, web-design, print-design, web-builder, creativity, metaphor, g
 
 Id: e839c82a-4367-11e9-b34d-0242ac110007
 Date: Sun, 10 Mar 2019 19:08:36 +0000
+Category: craftsmanship
 Title: Gotify – a self-hosted push-notifications service
 Link: https://news.ycombinator.com/item?id=19347848
 Body:
@@ -1013,6 +1138,7 @@ Tags: gotify, self-hosted, notification, notification-service, android, open-sou
 
 Id: 1a478fc8-4368-11e9-b657-0242ac110007
 Date: Sun, 10 Mar 2019 19:10:00 +0000
+Category: craftsmanship
 Title: Ask HN: How to speak like a leader, not like an engineer?
 Link: https://news.ycombinator.com/item?id=19349676
 Body: Links and resources for speaking like a leader
@@ -1020,6 +1146,7 @@ Tags: leader, engineer, comparison, change, public-speaking, speak, speaking, ca
 
 Id: 4168161c-436e-11e9-aa0d-0242ac110007
 Date: Sun, 10 Mar 2019 19:54:03 +0000
+Category: craftsmanship
 Title: ArchiveBox: Open-source self-hosted web archive
 Link: https://news.ycombinator.com/item?id=19346985
 Body: Tools for archiving purposes. Has links to other sites:\n\nhttps://github.com/machawk1/warcreate\nhttps://getpolarized.io/
@@ -1027,6 +1154,7 @@ Tags: burtonator, web-archive, polarized, warch, warc, personal-knowledge-base
 
 Id: b74a6696-4c83-11e9-99bd-0242ac110005
 Date: Fri, 22 Mar 2019 09:20:21 +0000
+Category: craftsmanship
 Title: Ask HN: As a freelancer, what's the best app to track finances?
 Link: https://news.ycombinator.com/item?id=19450331
 Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
@@ -1034,6 +1162,7 @@ Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, fi
 
 Id: f0dee42c-5142-11e9-9444-0242ac110006
 Date: Thu, 28 Mar 2019 10:19:16 +0000
+Category: craftsmanship
 Title: What I Learned in My First Year as a Solo Founder
 Link: https://tik.dev/lessons-learned
 Body: Learnings by a solo founder.\n\nBenefits of having a side project or side hustle\n
@@ -1041,6 +1170,7 @@ Tags: side-hustle, side-business, learning, reflection, solo-founder, founder, r
 
 Id: d148d774-5144-11e9-94d8-0242ac110006
 Date: Thu, 28 Mar 2019 10:32:42 +0000
+Category: craftsmanship
 Title: Write tests. Not too many. Mostly integration.
 Link: https://kentcdodds.com/blog/write-tests
 Body: This is a paraphrasing of some advice for healthy eating: 'Eat food, not too much, mostly plants.' (Pollan)\n\n> Write tests.\n\n> Often I find myself saving time when I put time in to write tests\n\n> Not too many: you get diminishing returns on your tests as the coverage increases [...]\n\n> Mostly integration: as you move up the pyramid, the confidence quotient of each form of testing increases\n\n> Integration tests strike a great balance on the trade-offs between confidence and speed/expense
@@ -1048,6 +1178,7 @@ Tags: unit-test, testing, test-pyramid, healthy-testing, advice, integration-tes
 
 Id: 30ece1fc-5145-11e9-87de-0242ac110006
 Date: Thu, 28 Mar 2019 10:35:22 +0000
+Category: craftsmanship
 Title: 7 Rules for Eating
 Link: https://www.webmd.com/food-recipes/news/20090323/7-rules-for-eating
 Body: In this reference article, Michael Pollan explains his seven rules for eating:\n\n  1. Don't eat anything your great grandmother wouldn't recognize as food. "When you pick up that box of portable yogurt tubes, or eat something with 15 ingredients you can't pronounce, ask yourself, "What are those things doing there?" Pollan says.\n  1. Don’t eat anything with more than five ingredients, or ingredients you can't pronounce.\n  1. Stay out of the middle of the supermarket; shop on the perimeter of the store. Real food tends to be on the outer edge of the store near the loading docks, where it can be replaced with fresh foods when it goes bad.\n  1. Don't eat anything that won't eventually rot. "There are exceptions -- honey -- but as a rule, things like Twinkies that never go bad aren't food," Pollan says.\n  1. It is not just what you eat but how you eat. "Always leave the table a little hungry," Pollan says. "Many cultures have rules that you stop eating before you are full. In Japan, they say eat until you are four-fifths full. Islamic culture has a similar rule, and in German culture they say, 'Tie off the sack before it's full.'"\n  1. Families traditionally ate together, around a table and not a TV, at regular meal times. It's a good tradition. Enjoy meals with the people you love. "Remember when eating between meals felt wrong?" Pollan asks.\n  1. Don't buy food where you buy your gasoline. In the U.S., 20% of food is eaten in the car.\n\n\nAlso, four myths:\n\n  1. Food is a delivery vehicle for nutrients. What really matters isn't broccoli but its fiber and antioxidants. If we get that right, we get our diet right. Foods kind of get in the way.\n  1. We need experts to tell us how to eat. Nutrients are invisible and mysterious. "It is a little like religion," Pollan said. "If a powerful entity is invisible, you need a priesthood to mediate your relation with food."\n  1. The whole point of eating is to maintain and promote bodily health. "You are either improving or ruining your health when you eat -- that is a very American idea," Pollan says. "But there are many other reasons to eat food: pleasure, social community, identity, and ritual. Health is not the only thing going on on our plates."\n  1. There are evil foods and good foods. "At any given time there is an evil nutrient we try to drive like Satan from the food supply -- first it was saturated fats, then it was trans fat," Pollan says. "Then there is the evil nutrient's doppelganger, the blessed nutrient. If we get enough of that we, will be healthy and maybe live forever. It's funny through history how the good and bad guys keep changing."\n\nThis can all be summarized as "Eat food, not too much, mostly plants."
@@ -1055,6 +1186,7 @@ Tags: healthy-eating, michael-pollan, rule, advice, myth, analogy
 
 Id: efe85d00-5147-11e9-87ce-0242ac110006
 Date: Thu, 28 Mar 2019 10:55:02 +0000
+Category: craftsmanship
 Title: Lean Testing or Why Unit Tests are Worse than You Think
 Link: https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
 Body: This article puts testing in an economic perspective. Calls it lean testing\n\nAlso references/paraphrases Michael Pollan's Rules for eating ().\n\nCreates a testing trophy, a figure to explain the best testing pattern, replacing the testing pyramid\n\nExplains return on investment (ROI) on tests\n\n> integration tests provide the best balance of cost, speed and confidence\n\n> Integration tests lie somewhere between unit tests and end-to-end tests so they provide the best balance. Therefore, they have the highest ROI.\n\n> The main idea is to just not mock so much\n
@@ -1062,6 +1194,7 @@ Tags: economic-perspective, lean-testing, testing-trophy, testing-pyramid, retur
 
 Id: 4490792a-514b-11e9-9861-0242ac110006
 Date: Thu, 28 Mar 2019 11:18:52 +0000
+Category: craftsmanship
 Title: End-user programming
 Link: https://www.inkandswitch.com/end-user-programming.html
 Body: In this article, the writer explains some of the end-user modifications to programs. Examples include: adding download capabilities to instagram, generating backups for files.\n\nOn the other hand, applications (especially mobile) are tightly sealed, not allowing modification or extension. Even FOSS (free, open source software), modification implies the learning curve / entry barrier of having to setup, compile, debug the original program and modifications.\n\nGives the example of the UNIX command line, as a programming environment. One that provides (one of) the best REPL examples.\n\nCharacterizes spreadsheets as ad-hoc databases, programs; mostly created by domain experts (aka subject matter experts), than professional software engineers. Take into account that these hats are non-exclusive: a domain expert can also be a professional software engineer.\n\nThe author tries to coin the term "end-user programming" to differentiate it from programming by professional software developers, who try to build general-purpose apps, to be used by thousands of people.\n\nThis also means, that a professional software developer can be an "end-user programmer", when creating solutions for themselves (limited user group), rather than for the general public. Maybe those one-off scripts that we create, are some kind of end-user programs. This is described in the article as well.\n\nTalks of the chasm the user has to cross in order to customize the behaviour of their software. This is related to working in a framework or a library, in the sense of 'who keeps the control'. In an UNIX, filesystem environment, you keep the control.\n\n\nReferences "citizen developers" (https://www.gartner.com/it-glossary/citizen-developer/) \n\n Three qualities for end-user programming: embodiment, living systems, and in-place toolchains \n\n  Embodiment: it requires the programmer hold many abstractions in their mind. Related to abstract reasoning. Mentions that many end-users don't have these abstractions in their mind, but are capable of abstract reasoning in their own domains of expertise. Mentions that via visual representations onscreen, we can help the end-user. An example: preview formula results in a spreadsheet; highlight the cells in a spreadsheet.\n\nEmbodiment means, broadly, making elements of the programming experience more concrete and visual\n\n\nLiving systems: interaction with them. Refers to shortening the feedback cycle\n\n> “Live programming gives the programmer immediate feedback on the behavior of a program as it is edited, replacing the edit compile-debug cycle with a fluid programming experience.“\n\nBut only short feedback loops, but also to change the system behaviour from within, such as the LISP compiler reading and compiling the source code from inside a program.\n\nIn-place tool chains\n\n> The user should be able to edit their programs without installing additional tools or programs\n\n> a Unix shell script is just a series of commands saved into a text file\n\nMeaning that the user is already accustomed to issuing those commands. A script is just grouping those commands.\n\nGives examples of end-user programming success stories: spreadsheets, SQL, browser dev tools, 
@@ -1069,6 +1202,7 @@ Tags: end-user-programming, programming, extensibility, open-closed-principle, o
 
 Id: 9035ea3c-514f-11e9-9676-0242ac110006
 Date: Thu, 28 Mar 2019 11:49:37 +0000
+Category: craftsmanship
 Title: Why developers consider Agile development to be nonsense
 Link: https://medium.com/@web.development/why-developers-consider-agile-development-to-be-nonsense-1eaf28715e66
 Body: This article explains how Agile development is apt and indicated for short-term software development, especially for contracting or consulting companies, where the client is external to the team.\n\nWhy it does not make as much sense in products/services where there is a leapfrog solution.\n\n> Don’t give the customer what they ask for; understand them, and revolutionize their world.
@@ -1076,6 +1210,7 @@ Tags: leapfrog-solution, google, agile, agile-development, comparison, project-m
 
 Id: 960e6750-5202-11e9-bb40-0242ac110008
 Date: Fri, 29 Mar 2019 09:11:07 +0000
+Category: craftsmanship
 Title: Why bother with What Three Words?
 Link: https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/
 Body: In this article, the author questions why using a closed protocol for translating geo-coordinates to words.\n\nThe author complains that it is masquerading a for-profit, closed algorithm as an open standard.\n\nAlso, that the GPS locations are drifting very quickly in some places, therefore the translated address changes, but the local address (e.g., 1 Wall Street), does not.
@@ -1083,6 +1218,7 @@ Tags: gps-drift, australia, open-standard, closed-standard, for-profit, protocol
 
 Id: 2ed5999a-555f-11e9-8bf8-0242ac110005
 Date: Tue, 02 Apr 2019 15:51:30 +0000
+Category: craftsmanship
 Title: How to validate password with regular expression
 Link: https://www.mkyong.com/regular-expressions/how-to-validate-password-with-regular-expression/
 Body: Explains the '?=' character in a regex, to validate conditions. Make it '.*' to 'contain', rather than 'startWith\n'\n
@@ -1090,6 +1226,7 @@ Tags: password, validation, look-ahead, regex, regular-expression
 
 Id: 3ca65d4c-577c-11e9-88ac-0242ac110005
 Date: Fri, 05 Apr 2019 08:24:31 +0000
+Category: craftsmanship
 Title: Unlock honest feedback from your employees with this one word
 Link: https://knowyourteam.com/blog/2017/12/01/unlock-honest-feedback-from-your-employees-with-this-one-word/
 Body: I've read this article about asking for advice instead of asking for feedback and how that helped.\n\n
@@ -1097,6 +1234,7 @@ Tags: comparison, advice, feedback
 
 Id: 6c90065c-577c-11e9-8741-0242ac110005
 Date: Fri, 05 Apr 2019 08:25:52 +0000
+Category: craftsmanship
 Title: 8 SIMPLE STEPS TO IDENTIFY AND AVOID GROUPTHINK IN MEETINGS
 Link: https://highfive.com/blog/8-steps-to-avoid-groupthink-in-meetings
 Body: I've read this article explaining the dangers of Group think, some solutions.\n\nDefined in 1972 by  Irving L. Janis in a book by the same title, it's more present when the group exhibits these behaviors:\n\n* A strong, persuasive group leader.\n* A high level of group cohesion.\n* Intense pressure from the outside to make a good decision
@@ -1104,6 +1242,7 @@ Tags: groupthink, team-management, book, group, team, team-dynamic, technique, i
 
 Id: bcd32324-59e3-11e9-9acf-0242ac110005
 Date: Mon, 08 Apr 2019 09:50:27 +0000
+Category: craftsmanship
 Title: Busy Person Patterns
 Link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
 Body: This is a book of patterns (related to 'A pattern language', by Alexander et al) about Busy People (in a good way).\n\nThis is a collection of patterns to help you achieve productivity, efficiency, efficacy.\n\nExplains how the patterns relate to one another, how they interact. Also, a quick reference based on the mood you're experiencing
@@ -1111,6 +1250,7 @@ Tags: patter, pattern-language, alexander, busy, productivity, efficiency, effic
 
 Id: fecb0a0a-5ab8-11e9-b7b7-0242ac110005
 Date: Tue, 09 Apr 2019 11:17:00 +0000
+Category: craftsmanship
 Title: Data Management Platforms Demystified
 Link: http://www.bluekai.com/files/DMP_Demystified_Whitepaper_BlueKai.pdf
 Body: This whitepaper explains what a DMP is, how does it convert, etc.
@@ -1118,6 +1258,7 @@ Tags: dmp, data-management-platform, bluekai, ad, conversion
 
 Id: cbf45e14-5ae6-11e9-a6ff-0242ac110006
 Date: Tue, 09 Apr 2019 16:44:52 +0000
+Category: craftsmanship
 Title: Ethical Alternatives & Resources
 Link: https://ethical.net/resources/
 Body: Some 300 hundred links of ethical products & services
@@ -1125,6 +1266,7 @@ Tags: ethics, ethical, alternative, resource
 
 Id: 81d8a6ee-5c3c-11e9-9583-0242ac110006
 Date: Thu, 11 Apr 2019 09:30:55 +0000
+Category: craftsmanship
 Title: Code highlights in slides.com
 Link: https://slides.com/news/code-line-numbers#/7
 Body: This article explains how to highlight code in the slides.com software/site
@@ -1132,6 +1274,7 @@ Tags: slides.com, slide, code, highlight, tool, presentation
 
 Id: 683816f6-5c3d-11e9-aadc-0242ac110006
 Date: Thu, 11 Apr 2019 09:37:22 +0000
+Category: craftsmanship
 Title: SEVEN DATABASES IN SEVEN WEEKS - FALL 2014
 Link: https://db.cs.cmu.edu/seminar2014/
 Body: This course by the CMU (Carnegie-Mellon University) explains 7 databases in 7 weeks, one per talk.\n\nTalks about SQL, NoSQL (key-value), about speed, about data management
@@ -1139,6 +1282,7 @@ Tags: database, book, cmu, carnegie-mellon-university, course, university, db, m
 
 Id: d074c386-5c3d-11e9-a6ce-0242ac110006
 Date: Thu, 11 Apr 2019 09:40:17 +0000
+Category: craftsmanship
 Title: Startup Stock Options – Why a Good Deal Has Gone Bad
 Link: https://news.ycombinator.com/item?id=19624164
 Body: An interesting quote:\n\n> Valid reasons to work for a startup:\n> - You are a cofounder.\n> \n> - You have little experience and you are using this to break into the industry, and get experience on many different > technologies ("wear many hats").\n> \n> - They are working on a very specific problem or using a specific technology that you strongly desire to work on and it's > difficult to do it anywhere else.\n> \n> - You want to work a certain way (remote, on the beach, whatever) and they are willing to go this route.\n> \n> Invalid reasons for working at a startup:\n> \n> - Getting rich off stock options.\n> \n> - Making a lot of money in salary.\n> \n> - Work / life balance.\n> \n> - Stability.
@@ -1146,6 +1290,7 @@ Tags: quote, startup, career-management, ycombinator, james-seibel, work
 
 Id: 8b8ea88e-5848-11e9-b07b-0242ac110002
 Date: Sat, 06 Apr 2019 08:47:01 +0000
+Category: craftsmanship
 Title: Let's Build a Simple Database
 Link: https://cstack.github.io/db_tutorial/
 Body: This is walk-through guide to create a database, in C
@@ -1153,6 +1298,7 @@ Tags: database, create, workshop, walkthrough, c-lang, c, sqlite, clone, project
 
 Id: b60f9642-6098-11e9-bbfd-0242ac110003
 Date: Tue, 16 Apr 2019 22:41:01 +0000
+Category: craftsmanship
 Title: A Universal Modular ACTOR Formalism for Artificial Intelligence
 Link: http://worrydream.com/refs/Hewitt-ActorModel.pdf
 Body: In this seminal paper, Hewitt describes the actor model.\n\nFull of quotes from Lewis Carroll.
@@ -1160,8 +1306,32 @@ Tags: actor, actor-model, hewitt, quote, lewis-carroll, planner, 1973, pdp, stru
 
 Id: d71b9822-6b38-11e9-9973-0242ac110003
 Date: Tue, 30 Apr 2019 11:12:28 +0000
+Category: craftsmanship
 Title: All Remote
 Link: https://about.gitlab.com/company/culture/all-remote/
 Body: The remote manifesto by gitlab.\n\n  > * All-remote work promotes:\n  > \n  > * Hiring and working from all over the world instead of from a central location.\n  > * Flexible working hours over set working hours.\n  > * Writing down and recording knowledge over verbal explanations.\n  > * Written down processes over on-the-job training.\n  > * Public sharing of information over need-to-know access.\n  > * Opening up every document for editing by anyone over top-down control of documents.\n  > * Asynchronous communication over synchronous communication.\n  > * The results of work over the hours put in.\n  > * Formal communication channels over informal communication channels.\n\nSome tools to make this happen:\n  * Faster internet everywhere - 100Mb/s+ cable, 5GHz Wifi, 4G cellular\n  * Video call software - Google Hangouts, Zoom\n  * Mobile technology - Everyone has a computer in their pocket\n  * Evolution of speech-to-text conversion software - more accurate and faster than typing\n  * Messaging apps - Slack, Mattermost, Zulip\n  * Issue trackers - Trello, GitHub issues, GitLab issues\n  * Suggestions - GitHub Pull Requests, GitLab Merge Requests\n  * Static websites - GitHub Pages, GitLab Pages\n  * English proficiency - More people are learning English\n  * Increasing traffic congestion in cities\n
 Tags: tool, gitlab, remote, remote-work, manifesto, work
 
+Id: b74a6696-4c83-11e9-99bd-0242ac110005
+Date: Fri, 22 Mar 2019 09:20:21 +0000
+Category: finance
+Title: Ask HN: As a freelancer, what's the best app to track finances?
+Link: https://news.ycombinator.com/item?id=19450331
+Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
+Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, finance, time-wealth, money-wealth
+
+Id: e894714c-4c8d-11e9-9aad-0242ac110005
+Date: Fri, 22 Mar 2019 10:33:18 +0000
+Category: finance
+Title: Financial Wealth - It's Time not Money
+Link: https://www.cbsnews.com/news/financial-wealth-its-time-not-money/
+Body: Explains how wealth is not about net worth, but availability of time.\n\nFinancia freedom in years, not in dollars\n\nExplains how it is important to save, more than to make more money\n\nExplains the equivalence between money saved (by making your lifestyle leaner) and money earned. This equivalence is many times not 1=1, but, as in the example 1 USD = 3.30 USD\n\n> Once you achieve this independence, you are free to do whatever brings you happiness. And don't let anyone tell you what that should be.
+Tags: financial-independence, fi, allan-roth, social-security, lean, wealth, double-whammy, quote, financial-freedom, net-worth, annual-expenditures
+
+Id: 540be0d6-4c8e-11e9-b7ee-0242ac110005
+Date: Fri, 22 Mar 2019 10:36:19 +0000
+Category: finance
+Title: 5 Ways I'm an Active Investor
+Link: https://www.cbsnews.com/news/allan-roth-5-ways-im-an-active-investor/#comments
+Body: Explains some ideas of contrarian investing. In this case, a new twist to common (wrong) market strategies, to make them effective.\n\nA new definition under the old name
+Tags: allan-roth, strategy, active, passive, market-timing, gambling, listicle, strategy, contrarian
