@@ -1312,7 +1312,7 @@ Link: https://about.gitlab.com/company/culture/all-remote/
 Body: The remote manifesto by gitlab.\n\n  > * All-remote work promotes:\n  > \n  > * Hiring and working from all over the world instead of from a central location.\n  > * Flexible working hours over set working hours.\n  > * Writing down and recording knowledge over verbal explanations.\n  > * Written down processes over on-the-job training.\n  > * Public sharing of information over need-to-know access.\n  > * Opening up every document for editing by anyone over top-down control of documents.\n  > * Asynchronous communication over synchronous communication.\n  > * The results of work over the hours put in.\n  > * Formal communication channels over informal communication channels.\n\nSome tools to make this happen:\n  * Faster internet everywhere - 100Mb/s+ cable, 5GHz Wifi, 4G cellular\n  * Video call software - Google Hangouts, Zoom\n  * Mobile technology - Everyone has a computer in their pocket\n  * Evolution of speech-to-text conversion software - more accurate and faster than typing\n  * Messaging apps - Slack, Mattermost, Zulip\n  * Issue trackers - Trello, GitHub issues, GitLab issues\n  * Suggestions - GitHub Pull Requests, GitLab Merge Requests\n  * Static websites - GitHub Pages, GitLab Pages\n  * English proficiency - More people are learning English\n  * Increasing traffic congestion in cities\n
 Tags: tool, gitlab, remote, remote-work, manifesto, work
 
-Id: b74a6696-4c83-11e9-99bd-0242ac110005
+Id: b74a6697-4c83-11e9-99bd-0242ac110005
 Date: Fri, 22 Mar 2019 09:20:21 +0000
 Category: finance
 Title: Ask HN: As a freelancer, what's the best app to track finances?
