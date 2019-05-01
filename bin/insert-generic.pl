@@ -36,7 +36,7 @@ sub read_one_line {
   return $result;
 }
 
-my $file_destination=$ARGV[0];
+my $category=$ARGV[0];
 
 my $title = read_one_line("Input title (1 line, mandatory)\n");
 $title =~ s/"/\\"/g;
@@ -83,10 +83,10 @@ my $command="recins -t Link ";
 $command.="-f Title -v \"$title\" ";
 $command.="-f Link -v \"$link\" ";
 $command.="-f Body -v \"$body\" ";
+$command.="-f Category -v \"$category\" ";
 $command.="-f Tags -v \"$tagsCommaSeparated\"";
 $command.=' ';
-$command.='data/';
-$command.=$file_destination;
+$command.='data/links.rec';
 
 ## Dry run
 print "$command\n";

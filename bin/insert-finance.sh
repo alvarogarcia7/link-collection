@@ -2,4 +2,4 @@
 
 set euxo -pipefail
 
-./bin/insert-generic.pl "finance.rec"
+./bin/insert-generic.pl "finance"
