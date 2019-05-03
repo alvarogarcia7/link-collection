@@ -32,7 +32,7 @@ select:
 convert:
 	@echo "This is a manual step"
 	@echo "make run-generic"
-	@echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
+	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md" > /dev/null
 	$(MAKE) run-generic
 
 .PHONY: cleanup
