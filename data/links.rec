@@ -1375,3 +1375,27 @@ Link: https://statweb.stanford.edu/~cgates/PERSI/papers/thinking.pdf
 Body: Philosopher Persi Diaconis explains the relation between thinking too much, inaction; related to maths, physics, statistics.\n\n> Whenever you’re called on to make up your mind,\n> and you’re hampered by not having any,\n> the best way to solve the dilemma, you’ll find,\n> is simply by spinning a penny.\n> \n> No—not so that chance shall decide the affair\n> while you’re passively standing there moping;\n> but the moment the penny is up in the air,\n> you suddenly know what you’re hoping.
 Category: psychology
 Tags: thinking, inaction, quote
+
+Id: e14aba08-7add-11e9-9e23-0242ac110003
+Date: Mon, 20 May 2019 09:01:39 +0000
+Title: The Problem of Thinking Too Much
+Link: http://statweb.stanford.edu/~cgates/PERSI/papers/thinking.pdf
+Body: An example of what happens when you think too much. The paralysis that comes from it
+Category: craftsmanship
+Tags: persi-diaconis, stanford, stated-meeting-report, barry-mazur, spin-a-penny, decision-making, decision
+
+Id: 3a681acc-7ade-11e9-a0d7-0242ac110003
+Date: Mon, 20 May 2019 09:04:09 +0000
+Title: Personal web archives; a report
+Link: https://blog.webmemex.org/2018/12/09/personal-web-archives-a-report/
+Body: Creating a personal web archive, based on the tools they created.\n\na browser extension for storing web pages,\na web archive server hosting such snapshots,\na(nother) browser extension to query such archives.\n
+Category: craftsmanship
+Tags: web-archive, memex, personal-knowledge-base, archive, information, information-management, data-archival
+
+Id: 61b02a52-7ade-11e9-82fd-0242ac110003
+Date: Mon, 20 May 2019 09:05:15 +0000
+Title: Internet Data Is Rotting
+Link: https://news.ycombinator.com/item?id=19925151
+Body: How the internet data is rotting. How it is even important that this rots.
+Category: craftsmanship
+Tags: personal-knowledge-base, archive, data-archival
