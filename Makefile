@@ -18,10 +18,13 @@ run-finance:
 run-psychology:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-psychology.sh
 
+.PHONY: categories
+categories:
+	@echo "existing categories are:"
+	@cat data/links.rec|grep "^Category"|sort|uniq|cut -d: -f2|tr -d " "|paste -sd " " -
+
 .PHONY: select
-select:
-	echo "existing categories are:"
-	cat data/links.rec|grep "^Category"|uniq|cut -d: -f2|tr -d " "|paste -sd " " -
+select: categories
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	cat data/links.rec|grep "^%" > data/selection.rec
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 March 2019' && Date << '01 Apr 2019'" > data/selection.rec 
