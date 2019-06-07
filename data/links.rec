@@ -10,6 +10,7 @@
 Id: a1a6925a-7958-11e8-a87f-0242ac110002
 Date: Tue, 26 Jun 2018 15:50:21 +0000
 Category: craftsmanship
+
 Title: Don't look, don't tell
 Body: I've read this bonilista by David Bonilla on what strategies companies use to deal with security and defects.
 + 
@@ -1455,3 +1456,10 @@ Link: https://philosopher.life/#Root:Root%20%5B%5BLegal%20Notice%5D%5D
 Body: This is a highly customized tiddlyWiki, from h0p3.
 Category: craftsmanship
 Tags: wiki, personal-knowledge-base, h0p3
+
+Title: Debug bash scripts
+Link: https://gist.github.com/Potherca/4f4ce1c8d4bcf4cd4aab
+Body: This article explains how to debug bash scripts using the DEBUG trap.\n\nDeclares several log levels for the commands
+Category: craftsmanship
+Tags: debug, bash, trap, help, script
+
