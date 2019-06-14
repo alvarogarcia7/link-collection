@@ -1471,3 +1471,11 @@ Link: https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa
 Body: Describes rust lifetimes, lifetime parameters.\n\nCompares them to C++ pointers (in the sense they are difficult to learn, but make things explicit).
 Category: craftsmanship
 Tags: rust, borrowing-rules, pointer, language, comparison, generic, lifetime, lifetime-parameter, maksym-zavershynskyi, compiler, language-feature, variance, covariance, struct, rustonomicon
+
+Id: ddc39078-8ed6-11e9-85bc-0242ac110003
+Date: Fri, 14 Jun 2019 19:01:50 +0000
+Title: Everything you need to know about pointers in C
+Link: https://boredzo.org/pointers/
+Body: Explains pointers in C
+Category: craftsmanship
+Tags: c, programming-language, pointer, peter-hosey, language-feature, string, pointer-arithmetic, function-pointer
