@@ -1462,3 +1462,10 @@ Body: This article explains how to debug bash scripts using the DEBUG trap.\n\nD
 Category: craftsmanship
 Tags: debug, bash, trap, help, script
 
+Id: 2e14ae3e-8ec0-11e9-be23-0242ac110003
+Date: Fri, 14 Jun 2019 16:19:26 +0000
+Title: Understanding Rust Lifetimes
+Link: https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa
+Body: Describes rust lifetimes, lifetime parameters.\n\nCompares them to C++ pointers (in the sense they are difficult to learn, but make things explicit).
+Category: craftsmanship
+Tags: rust, borrowing-rules, pointer, language, comparison, generic, lifetime, lifetime-parameter, maksym-zavershynskyi, compiler, language-feature, variance, covariance, struct, rustonomicon
