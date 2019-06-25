@@ -1479,3 +1479,19 @@ Link: https://boredzo.org/pointers/
 Body: Explains pointers in C
 Category: craftsmanship
 Tags: c, programming-language, pointer, peter-hosey, language-feature, string, pointer-arithmetic, function-pointer
+
+Id: a1165c1e-9719-11e9-bf0b-0242ac110003
+Date: Tue, 25 Jun 2019 07:19:54 +0000
+Title: How to do distributed locking
+Link: https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+Body: This article explains the usage of locks (for efficiency - optimization / for correctness). \n\nExplains the usage of the "Redlock" algorithm, to perform distributed locks. Explains a fencing mechanism (using tokens).\n\nReferences monotonic clocks, stop-the-world garbage collection, consensus mechanisms.\n\nUses good diagrams for parallelism and concurrency.
+Category: craftsmanship
+Tags: lock, efficiency, correctness, redlock, redlock-algorithm, consensus, distributed-consensus, distributed-programming, distributed-lock, martin-kleppmann, parallellism, concurrency, fencing-mechanism, monotonic-clock, stop-the-world, garbage-collection
+
+Id: b319290a-975a-11e9-80d2-0242ac110003
+Date: Tue, 25 Jun 2019 15:05:41 +0000
+Title: The Highfive Notebook
+Link: http://www.highfivehq.com/
+Body: Explains how to index a (paper) notebook, using categories: highlight the border of the page at a certain height. on the last page, convert that same height to a given category
+Category: organization
+Tags: paper, note, paper-note, highfive-method, index, paper-index, paper-notebook, notebook-index, category, category-index
