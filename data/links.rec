@@ -1519,3 +1519,19 @@ Link: https://m.youtube.com/watch?v=DCS6t6NUAGQ
 Body: In this video, Alain de Botton explains what is love. Why we should run away from the romantic love image, towards a more 'hard-work' love image
 Category: psychology
 Tags: alain-de-botton, ted-talk, philosophy, love, romantic-love, relationship, self-knowledge, knowledge
+
+Id: 263f2b8c-afca-11e9-ad3d-0242ac110002
+Date: Fri, 26 Jul 2019 17:23:57 +0000
+Title: Safely Rewriting Mixpanel’s Highest Throughput Service in Golang
+Link: https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
+Body: This article explains how they rewrote a (high-throughput + critical path) service, in part using a tool called Diffy.
+Category: craftsmanship
+Tags: diffy, tool, golang, python, mixpanel, evan-noon, api, rewrite, parallel-change
+
+Id: 5f2a6e8e-afca-11e9-97d5-0242ac110002
+Date: Fri, 26 Jul 2019 17:25:32 +0000
+Title: A software engineering manager guide to measuring a software engineers performance
+Link: https://www.jmoses.co/2019/07/08/software-engineering-manager-guide-measuring-performance.html
+Body: Explains how to measure performance
+Category: craftsmanship
+Tags: measure, performance, engineering-manager, manager, management, career-management, lake-wobegon-strategy, peer-review, compensation, salary
