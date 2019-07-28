@@ -1535,3 +1535,11 @@ Link: https://www.jmoses.co/2019/07/08/software-engineering-manager-guide-measur
 Body: Explains how to measure performance
 Category: craftsmanship
 Tags: measure, performance, engineering-manager, manager, management, career-management, lake-wobegon-strategy, peer-review, compensation, salary
+
+Id: dfc8a150-afca-11e9-9fcb-0242ac110002
+Date: Fri, 26 Jul 2019 17:29:08 +0000
+Title: jssembly
+Link: https://github.com/dvx/jssembly
+Body: JVM tool to include assembler code in java
+Category: craftsmanship
+Tags: assembler, java, jvm, bytecode
