@@ -27,7 +27,7 @@ categories:
 select: categories
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	cat data/links.rec|grep "^%" > data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 May 2019' && Date << '01 Jun 2019' && Category = '${CATEGORY}'" > data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jul 2019' && Date << '01 Aug 2019' && Category = '${CATEGORY}'" > data/selection.rec
 	dos2unix data/selection.rec
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
 
