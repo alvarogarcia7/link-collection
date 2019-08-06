@@ -1543,3 +1543,35 @@ Link: https://github.com/dvx/jssembly
 Body: JVM tool to include assembler code in java
 Category: craftsmanship
 Tags: assembler, java, jvm, bytecode
+
+Id: 9e0e57ee-b832-11e9-b36d-0242ac110003
+Date: Tue, 06 Aug 2019 10:11:55 +0000
+Title: How to install a local NPM dependency
+Link: https://stackoverflow.com/a/46321358
+Body: npm install ../<package-folder> --save
+Category: craftsmanship
+Tags: npm, dependency, local-dependency, development-environment, setup
+
+Id: c01a0efa-b832-11e9-87be-0242ac110003
+Date: Tue, 06 Aug 2019 10:12:52 +0000
+Title: List the local NPM link packages
+Link: https://stackoverflow.com/a/48593067
+Body: npm ls -g --depth=0 --link=true
+Category: craftsmanship
+Tags: npm, npm-link, node, link, global-dependency
+
+Id: 02d29d3e-b833-11e9-b785-0242ac110003
+Date: Tue, 06 Aug 2019 10:14:44 +0000
+Title: Mutation testing tool for java / jvm
+Link: http://pitest.org/
+Body: This is a mutation testing tool for the JVM / java
+Category: craftsmanship
+Tags: pitest, pit, mutation-testing, testing, test, tool, jvm, java, mutation
+
+Id: 531ffcdc-b833-11e9-9ce0-0242ac110003
+Date: Tue, 06 Aug 2019 10:16:58 +0000
+Title: Ugly trivia kata, using mutation testing
+Link: https://github.com/alvarogarcia7/kata-ugly-trivia-mutation-testing-java
+Body: This is a kata I've practiced, then shown at the Software Crafters meetup (at Softonic).\n\nI've explained mutation testing, then refactoring according to domain boundaries (Questions, Players)
+Category: craftsmanship
+Tags: softonic, software-crafters, meetup, mutation-testing, pit, kata, ugly-trivia, approval-test, golden-master, testing, java, refactoring, repository, repo, kitchen
