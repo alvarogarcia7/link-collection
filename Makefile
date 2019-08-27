@@ -18,6 +18,10 @@ run-finance:
 run-psychology:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-psychology.sh
 
+.PHONY: run-philosophy
+run-philosophy:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "philosophy"
+
 .PHONY: categories
 categories:
 	@echo "existing categories are:"
