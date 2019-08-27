@@ -8,15 +8,15 @@ run-generic:
 
 .PHONY: run-crafts
 run-crafts:
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-craftsmanship.sh
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "craftsmanship"
 
 .PHONY: run-finance
 run-finance:
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-finance.sh
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "finance"
 
 .PHONY: run-psychology
 run-psychology:
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-psychology.sh
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "psychology"
 
 .PHONY: run-philosophy
 run-philosophy:
