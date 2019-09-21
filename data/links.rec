@@ -1671,3 +1671,35 @@ Link: https://news.ycombinator.com/item?id=20804582
 Body:
 Category: craftsmanship
 Tags: intuition, book, resource, mathematics, introduction
+
+Id: e604a468-dc4f-11e9-baea-0242ac110003
+Date: Sat, 21 Sep 2019 09:12:13 +0000
+Title: A Radical Guide to Spending Less Time on Your Phone
+Link: https://forge.medium.com/a-radical-guide-to-spending-less-time-on-your-phone-a5419b1538ee
+Body: In this guide, Ryan Holiday explains how he spends less time on his phone.\n\nHow he replaces the phone, from being a source of value, to being a source of distraction. Hence the need for minimizing it.\n\nGives plenty of actionable advice on how to achieve it.
+Category: philosophy
+Tags: ryan-holiday, distraction, smartphone, efficiency, happiness, fomo
+
+Id: 237dd71a-dc50-11e9-b201-0242ac110003
+Date: Sat, 21 Sep 2019 09:13:56 +0000
+Title: Profiling Memory Allocations In iOS With Instruments
+Link: https://www.agnosticdev.com/blog-entry/ios/profiling-memory-allocations-ios-instruments
+Body: Describes a technique for profiling memory allocations
+Category: craftsmanship
+Tags: memory-management, memory-allocation, tool, technique, ios, matt-eaton
+
+Id: 613ed284-dc50-11e9-9df6-0242ac110003
+Date: Sat, 21 Sep 2019 09:15:39 +0000
+Title: Wealth: A New Era of Economics
+Link: https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441
+Body: Describes how Freeism works.\n\n> If Socialism is defined as the production and distribution of goods controlled by the public whole, and Capitalism as the production and distribution of goods controlled by private souls, then we can define Freeism as the production and distribution of goods incentivized by algorithms. Specifically, to impart my bias, with the goal of free peoples, free products, for a flourishing planet.\n
+Category: finance
+Tags: freeism, philosophy, socialism, capitalism, comparison, charity, economic-model, win-win, win-lose
+
+Id: a2c0f458-dc50-11e9-95d7-0242ac110003
+Date: Sat, 21 Sep 2019 09:17:29 +0000
+Title: Programming as translation
+Link: https://increment.com/internationalization/programming-as-translation/
+Body: > Converting the real world into digital abstractions requires distillation. And, like literary translators, developers must understand their biases.
+Category: craftsmanship
+Tags: alvaro-videla, old_sound, analogy, metaphor, quote, umberto-eco
