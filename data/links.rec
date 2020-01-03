@@ -1719,3 +1719,11 @@ Link: https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-i
 Body: This article describes what happens when your career becomes (the whole or a big part of) your identity\n\nThere’s a discussion at https://news.ycombinator.com/item?id=21889923
 Category: psychology
 Tags: hbr, harvard-business-review, article, identity, enmeshment, self-diagnose
+
+Id: 851bde02-2e14-11ea-9ec6-0242ac11000d
+Date: Fri, 03 Jan 2020 10:33:45 +0000
+Title: localdots — HTTPS domains for localhost
+Link: https://github.com/luisfarzati/localdots
+Body: localdots combines Caddy and smallstep/certificates with automated configuration and hot reload.\n\nGenerates SSL/TLS certificates automatically\nReloads Caddy automatically with every change
+Category: craftsmanship
+Tags: https, tls, ssl, caddy, certificate, ssl-certificate, development, dev, environment, local, localhost
