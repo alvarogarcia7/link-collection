@@ -1735,3 +1735,19 @@ Link: https://t3x.org/t3x/book.html
 Body: Link to create a new compiler, for the T3X language.\n\n> less than 150 pages of comprehensible code and straight-forward prose
 Category: craftsmanship
 Tags: compiler, t3x, cc0
+
+Id: c37b0f2a-4dc5-11eb-8048-0242ac110002
+Date: Sun, 03 Jan 2021 13:15:34 +0000
+Title: Perfect Media Server
+Link: https://news.ycombinator.com/item?id=25619137
+Body: Hacker News discussion on a media server, half open source (?).
+Category: craftsmanship
+Tags: hacker-news, media-server, perfect, tool, software
+
+Id: dfd6d710-4dc7-11eb-b0a9-0242ac110002
+Date: Sun, 03 Jan 2021 13:30:41 +0000
+Title: How your startup can survive technical debt
+Link: https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-debt/
+Body: Mentions the paradox of success: you need debt to start quickly, yet too quickly leaves no time to pay debt. Hence your prototype turns into an MVP, and that is your first piecce of technical debt.\n
+Category: craftsmanship
+Tags: andre-schweighofer, technical-debt, analogy, working-software, paradox
