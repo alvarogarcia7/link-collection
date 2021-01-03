@@ -1,3 +1,11 @@
+# Link Collection
+
+## Installation
+
+```
+make build
+```
+
 ## Selecting by tag
 
 ```
