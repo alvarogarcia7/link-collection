@@ -1751,3 +1751,51 @@ Link: https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-
 Body: Mentions the paradox of success: you need debt to start quickly, yet too quickly leaves no time to pay debt. Hence your prototype turns into an MVP, and that is your first piecce of technical debt.\n
 Category: craftsmanship
 Tags: andre-schweighofer, technical-debt, analogy, working-software, paradox
+
+Id: 8f34ebda-5317-11eb-a356-0242ac110002
+Date: Sun, 10 Jan 2021 07:43:41 +0000
+Title: What I’ve Learned in 45 Years in the Software Industry
+Link: https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
+Body: Some thoughts from a person in the software industry, 45 years in.\n> Focus on the fundamentals: teamwork, trust, communication, seek consensus, automated testing, Clean, understandable, and navigable code and design
+Category: craftsmanship
+Tags: reflection, team-work, career-management, peter-principle, simplicity, joel-goldberg
+
+Id: b7809eea-533a-11eb-99a9-0242ac110002
+Date: Sun, 10 Jan 2021 11:55:21 +0000
+Title: Retrospectiva 2020
+Link: https://vgaltes.com/post/retrospectiva-2020/
+Body: Vicenç reflects on his 2020, both laboral and professional, while working at Voxel from the UK.\n\nLower in salary rates, twice (first as reducing rates from a previous engagement, then lowering rates for the pandemic).\n\nExplains his goals for the upcoming year.
+Category: craftsmanship
+Tags: vgaltes, vicenç-garcia-altes, retrospective, end-of-year, 2020, goals
+
+Id: 2239e28a-533d-11eb-965d-0242ac110002
+Date: Sun, 10 Jan 2021 12:12:39 +0000
+Title: Are You a Self-Interrupter?
+Link: http://nautil.us/issue/48/Chaos/are-you-a-self_interrupter
+Body: There are two approaches by which we can diminish the negative impact of interference on our lives: changing our brains and changing our behavior\nIn terms of changing our brains, laboratories and companies around the world are now engaged in large-scale development and research efforts directed at understanding how we can enhance our brain’s functioning to improve cognitive control and thus reduce the negative impact of goal interference. Approaches include traditional education, meditation, cognitive training, video games, exposure to nature, drugs, physical exercise, neuro-feedback, and brain stimulation. Interestingly, many of them use modern technology to harness neuroplasticity and induce brain changes. We are at the threshold of fascinating times, as the technology that has aggravated the Distracted Mind is now being formulated to offer remediation. When we have no choice but to engage in a high-interference environment, we can work to ensure we are as optimized as possible to diminish the detrimental effects of distractions and interruptions.\nIt may seem difficult to change our habits, but at many points throughout history we have decided to modify how we interact with our environment after we’ve realized the harmful effects of a particular behavior. For example, prior to the overwhelming evidence of the dangers of cigarette use, doctors would actually recommend specific brands in advertisements. With increasing knowledge of the detrimental effects of this sort of behavior, and others such as the dangers of sun exposure, came the opportunity for us to make more informed decisions.
+Category: psychology
+Tags: long-form, larry-rosen, adam-gazzaley, psychology, multitasking, phone, smartphone, interruption, efficiency
+
+Id: b19e2f4c-5349-11eb-9a89-0242ac110002
+Date: Sun, 10 Jan 2021 13:42:34 +0000
+Title: How to write a programming book
+Link: https://www.aquicarattino.com/blog/how-write-programming-book/
+Body:
+Category: craftsmanship
+Tags: book, book-writing, aquiles-carattino
+
+Id: b3b254f6-534a-11eb-b65b-0242ac110002
+Date: Sun, 10 Jan 2021 13:49:47 +0000
+Title: Do the Real Thing
+Link: https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/
+Body: > Fake activity is great for making yourself feel better, but lousy for actual results.\n\n> Rules for Doing the Real Thing\n\n> 1. Nothing is often better than something.\n> 1. The hard way is the easy way.\n> 1. If you’re not sure what the real thing is, just ask.
+Category: craftsmanship
+Tags: ultralearning, scott-young, real-thing, distinction, focus, career
+
+Id: 8679135c-534b-11eb-815f-0242ac110002
+Date: Sun, 10 Jan 2021 13:55:40 +0000
+Title: The Eternal Novice Trap
+Link: https://www.feoh.org/the-eternal-novice-trap.html
+Body: > * Do learn new programming languages and paradigms, but learn them from a place of confidence and mastery with your primary tool of choice.\n> * Don’t fall for the trap of perpetually chasing after the bright shiny thing that’s hot right now. Recognize that what’s new isn’t necessarily better. Take what will meaningfully help you advance your career and let the rest flow by. There’ll always be more tomorrow.\n> * Do keep having fun! You’ll learn more quickly and retain more if you’re finding enjoyment in what you do. Sometimes it means looking at things a little differently, but often that open mindedness can pay off.
+Category: craftsmanship
+Tags: chris-patti, new-shiny, career-management, feoh, journeyman, dreyfus-model, acquisition-of-skill, learning
