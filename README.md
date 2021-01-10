@@ -36,9 +36,7 @@ recins -t Link -f Title -v "Hello World!" -f Tag -v hello -f Tag -v bye link.rec
 
 ## Exporting (e.g., for markdown)
 
-```
-make convert
-```
+Read the goals `make select` and `make convert`
 
 # Links
 
