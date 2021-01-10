@@ -31,7 +31,7 @@ categories:
 select: categories
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	cat data/links.rec|grep "^%" > data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jul 2019' && Date << '01 Aug 2019' && Category = '${CATEGORY}'" > data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Oct 2019' && Date << '01 Jan 2021' && Category = '${CATEGORY}'" > data/selection.rec
 	dos2unix data/selection.rec
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
 
@@ -39,6 +39,7 @@ select: categories
 convert:
 	@echo "This is a manual step"
 	@echo "make run-generic"
+	@echo "copy-paste the following line inside docker:"
 	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md" > /dev/null
 	$(MAKE) run-generic
 
