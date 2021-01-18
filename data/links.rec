@@ -1799,3 +1799,27 @@ Link: https://www.feoh.org/the-eternal-novice-trap.html
 Body: > * Do learn new programming languages and paradigms, but learn them from a place of confidence and mastery with your primary tool of choice.\n> * Don’t fall for the trap of perpetually chasing after the bright shiny thing that’s hot right now. Recognize that what’s new isn’t necessarily better. Take what will meaningfully help you advance your career and let the rest flow by. There’ll always be more tomorrow.\n> * Do keep having fun! You’ll learn more quickly and retain more if you’re finding enjoyment in what you do. Sometimes it means looking at things a little differently, but often that open mindedness can pay off.
 Category: craftsmanship
 Tags: chris-patti, new-shiny, career-management, feoh, journeyman, dreyfus-model, acquisition-of-skill, learning
+
+Id: ede18e32-5965-11eb-bb25-0242ac110002
+Date: Mon, 18 Jan 2021 08:19:48 +0000
+Title: Eisvogel: pandoc latex template
+Link: https://github.com/Wandmalfarbe/pandoc-latex-template
+Body: This is a tool / template to translate markdown files to PDF/LaTeX.\nThis can create a cover page, code listings
+Category: craftsmanship
+Tags: latex, tool, eisvogel, pandoc, template, document, publishing, book, markdown
+
+Id: 2f6217dc-5966-11eb-824f-0242ac110002
+Date: Mon, 18 Jan 2021 08:21:38 +0000
+Title: A MiniZinc Tutorial
+Link: https://www.minizinc.org/tutorial/minizinc-tute.pdf
+Body: A MiniZinc Tutorial, explaining the language, the runner, the IDE
+Category: craftsmanship
+Tags: minizinc, csp, constraint-sastifaction-programming, maximize, n-queens, np-hard, kim-marriott, peter-stuckey, cop, constraint-optimization-programming, milp, mixed-integer-linear-programming
+
+Id: 8101544a-5966-11eb-8133-0242ac110002
+Date: Mon, 18 Jan 2021 08:23:55 +0000
+Title: Property-based testing in Rust with Proptest
+Link: https://blog.logrocket.com/property-based-testing-in-rust-with-proptest/
+Body: A guide on how to do property-based testing in rust
+Category: craftsmanship
+Tags: property-based-testing, rust, guide, tutorial, zach-mitchell, logrocket, pbt, pest, sentence-parser
