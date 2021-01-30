@@ -2007,3 +2007,19 @@ Link: https://news.ycombinator.com/item?id=27164195
 Body: An article describing the challenges of creating a rover for Mars.\n\nThe high temperatures make it a challenge to deploy computers, then they were suggesting a mix of mechanical computers.\n\nIn one of the comments, they mention the idea of merging mechanical and electronic computers is now possible.
 Category: finance
 Tags: venus, planet, mechanical-computer, computer, jpl, nasa, exploration, temperature, cosmic-rays, imported, hacker-news
+
+Id: 48a243c6-b798-11eb-a646-0242ac110002
+Date: Tue, 18 May 2021 05:17:04 +0000
+Title: Your Makefiles are wrong
+Link: https://tech.davis-hansson.com/p/make/
+Body:
+Category: craftsmanship
+Tags: gnu-make, make, recipe, defaults, oneshell
+
+Id: 663e5bc2-b798-11eb-b723-0242ac110002
+Date: Sat Jan 30 21:29:22 2021
+Title: Software Verification and Analysis Using Z3
+Link: https://news.ycombinator.com/item?id=25973194
+Body:
+Category: craftsmanship
+Tags: verification, z3, compiler, c-cpp, imported, hacker-news
