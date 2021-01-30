@@ -2383,3 +2383,11 @@ Link: https://news.ycombinator.com/item?id=27431910
 Body:
 Category: craftsmanship
 Tags: http, httpd, c, sample, project, sqlite, web-server, apache, nginx, imported, hacker-news
+
+Id: a6897ca8-fe87-11eb-9227-0242ac110002
+Date: Sat Jan 30 21:29:22 2021
+Title: Software Verification and Analysis Using Z3
+Link: https://news.ycombinator.com/item?id=25973194
+Body:
+Category: craftsmanship
+Tags: z3, verification, tool, compiler, imported, hacker-news
