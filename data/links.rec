@@ -2023,3 +2023,11 @@ Link: https://news.ycombinator.com/item?id=25973194
 Body:
 Category: craftsmanship
 Tags: verification, z3, compiler, c-cpp, imported, hacker-news
+
+Id: a255b16e-b798-11eb-8ddc-0242ac110002
+Date: Mon Feb  1 22:32:56 2021
+Title: Tamper-Evident Logs
+Link: https://news.ycombinator.com/item?id=25995034
+Body: 
+Category: craftsmanship
+Tags: rfc-5848, signed-log, hash, log, tamper-evident, cryptography, integrity, merkle-tree, tool, imported, hacker-news
