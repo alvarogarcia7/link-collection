@@ -1831,3 +1831,35 @@ Link: https://www.zdnet.com/article/nsa-urges-system-administrators-to-replace-o
 Body: NSA is urging to drop SSL2.0, 3.0, TLS 1.0, 1.1. Prefer TLS1.2, 1.3.
 Category: craftsmanship
 Tags: ssl, tls, nsa, security, recommendation
+
+Id: 785dca82-66ca-11eb-ace3-0242ac110002
+Date: Thu, 04 Feb 2021 09:22:15 +0000
+Title: SSL/TLS and PKI History
+Link: https://www.feistyduck.com/ssl-tls-and-pki-history/
+Body: Describes the history of SSL/TLS and PKI.\n\nCalendar of the main events of this history.
+Category: craftsmanship
+Tags: ssl, tls, mozilla, calendar, ivan-ristic, feisty-duck, rsa, microsoft, attack, heartbleed, tls13, certificate, breach, chrome, firefox, browser, https, http, dns, dns-over-https, doh
+
+Id: d15973e8-66ca-11eb-87e8-0242ac110002
+Date: Thu, 04 Feb 2021 09:24:44 +0000
+Title: FaCT: Flexible and Constant Time
+Link: https://github.com/PLSysSec/FaCT
+Body: A programming language to delegate to the compiler the task of making the code constant time
+Category: craftsmanship
+Tags: cryptography, constant-time, fact, ucsd, university-california, programming-language, fact, dudect
+
+Id: 35f7f586-66cb-11eb-88c6-0242ac110002
+Date: Thu, 04 Feb 2021 09:27:33 +0000
+Title: Ask HN: What is your “I don't care if this succeeds” project?
+Link: https://news.ycombinator.com/item?id=25992782
+Body: Tools that are 'hobbies' for people. Some of them are free
+Category: craftsmanship
+Tags: tool, hn, project, hobby
+
+Id: 57ac7d00-66cb-11eb-b6e8-0242ac110002
+Date: Thu, 04 Feb 2021 09:28:30 +0000
+Title: A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic
+Link: https://danielmiessler.com/study/tcpdump/
+Body: 1.Basic Communication \n1.Find Traffic by IP \n1.Filter by Source and/or Destination \n1.Show Traffic by Network \n1.Show Traffic by Port \n1.Show Traffic by Protocol \n1.Show IPv6 Traffic \n1.Find Traffic Using Port Ranges \n1.Find Traffic Based on Packet Size \n1.Writing to a File \n1.Isolate TCP Flags \n1.Find HTTP User Agents \n1.Find Cleartext HTTP GETs \n1.Find HTTP Hosts \n1.Find HTTP Cookies \n1.Find SSH Connections \n1.Find DNS Traffic \n1.Find FTP Traffic \n1.Find Cleartext Passwords \n1.Find Packets With Evil Bit
+Category: craftsmanship
+Tags: tcpdump, example, tool, tcpreplay, tcpdump-suite, network, network-analysis
