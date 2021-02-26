@@ -2503,3 +2503,11 @@ Link: https://plaintextaccounting.org/
 Body: A site dedicated to plain text accounting.\n\ntools, what and why, caveats, limitations, comparison to a spreadsheet, etc.
 Category: finance
 Tags: tool, plain-text-accounting, double-entry-accounting, fava, ledger, hledger, plain-text, accounting, accountant, beancount, spreasheet, personal-finance
+
+Id: 1374f814-1397-11ec-9445-0242ac110002
+Date: Fri Feb 26 13:21:55 2021
+Title: GNU poke 1.0
+Link: https://news.ycombinator.com/item?id=26274466
+Body:
+Category: craftsmanship
+Tags: tool, gnu, poke, hex-editor, programming-language, language, imported, hacker-news
