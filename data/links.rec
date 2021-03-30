@@ -2047,3 +2047,19 @@ Link: https://news.ycombinator.com/item?id=26113569
 Body: An increase in high performers when allowing flexible working
 Category: psychology
 Tags: time-management, flexible-working, remote-work, pomodoro-technique, hbr, imported, hacker-news
+
+Id: 504730a4-b799-11eb-8d9e-0242ac110002
+Date: Tue, 18 May 2021 05:24:26 +0000
+Title: Programming Z3
+Link: https://theory.stanford.edu/~nikolaj/programmingz3.html
+Body: A guide on programming using Z3. By Microsoft Research (Bjørner, de Moura, Nachmanson, Wintersteiger)
+Category: craftsmanship
+Tags: z3, verification, tool, microsoft-research
+
+Id: 74a35e82-b799-11eb-81e7-0242ac110002
+Date: Tue Mar 30 13:33:57 2021
+Title: Improving Shell Workflows with Fzf
+Link: https://news.ycombinator.com/item?id=26634419
+Body: how FZF can help improving your flows with the shell
+Category: craftsmanship
+Tags: fzf, bash, shell, productivity, junegunn, tips, imported, hacker-news
