@@ -2063,3 +2063,19 @@ Link: https://news.ycombinator.com/item?id=26634419
 Body: how FZF can help improving your flows with the shell
 Category: craftsmanship
 Tags: fzf, bash, shell, productivity, junegunn, tips, imported, hacker-news
+
+Id: a44cf062-b799-11eb-8a81-0242ac110002
+Date: Tue, 18 May 2021 05:26:47 +0000
+Title: C for Java programmers
+Link: https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf
+Body: Explains C from the point of view of a Java programmer.\n\nExplains pointers, allocation.
+Category: craftsmanship
+Tags: george-ferguson, dummy, c-for-java, language, c, java, guide
+
+Id: ee109398-b799-11eb-9f25-0242ac110002
+Date: Thu Apr  8 04:21:28 2021
+Title: Reading in the Age of Constant Distraction (2019)
+Link: https://news.ycombinator.com/item?id=26735051
+Body:
+Category: psychology
+Tags: reading, distraction, focus, social-media, audiobook, book, classic, imported, hacker-news
