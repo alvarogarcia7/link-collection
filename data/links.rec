@@ -2215,3 +2215,11 @@ Link: https://news.ycombinator.com/item?id=27189288
 Body: A nice trick to identify people by their SSH keys. Used to apply for jobs
 Category: craftsmanship
 Tags: ssh-key, identification, job-search, job, job-hunt, hack-club, sshtron, tool, trick, imported, hacker-news
+
+Id: 91e909d2-bbff-11eb-95c7-0242ac110002
+Date: Sun May  2 02:43:47 2021
+Title: Python vs Common Lisp, workflow and ecosystem (2019)
+Link: https://news.ycombinator.com/item?id=27011942
+Body: A set of articles comparing Common lisp and python
+Category: craftsmanship
+Tags: common-lisp, cl, clos, python, pip, comparison, imported, hacker-news
