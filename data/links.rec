@@ -2327,3 +2327,11 @@ Link: https://news.ycombinator.com/item?id=27256867
 Body: discussion about what's the purpose of building side projects.\n\nsome people prefer dogfooding their own products, some prefer learning a new language, some prefer something completely different
 Category: craftsmanship
 Tags: personal-project, austin-z-henley, austin-henley, useless-stuff, project, goal, learning, imported, hacker-news
+
+Id: 19049478-d1a3-11eb-9fa4-0242ac110004
+Date: Tue May  4 20:35:48 2021
+Title: Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)
+Link: https://news.ycombinator.com/item?id=27042568
+Body:
+Category: craftsmanship
+Tags: paxos, overhead, consensus-algorithm, network-ordering, cap-theorem, efficiency, imported, hacker-news
