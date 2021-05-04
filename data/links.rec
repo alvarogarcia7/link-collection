@@ -1935,3 +1935,11 @@ Link: "User engagement" is code for "addiction"
 Body: In this discussion, they cover user engagement, addiction.\n\nProducts that do not follow that model
 Category: craftsmanship
 Tags: user-addiction, hacker-news, engagement, social-media
+
+Id: 72e2a462-acaf-11eb-b4b8-0242ac110002
+Date: Tue, 04 May 2021 08:05:11 +0000
+Title: How often should I rotate my SSH keys?
+Link: https://news.ycombinator.com/item?id=26249380
+Body: A discussion on how often to replace SSH keys
+Category: craftsmanship
+Tags: hacker-news, yubikey, otp, totp, ssh, authorized_hosts, ssh-keygen, rsa, secure-enclave, key
