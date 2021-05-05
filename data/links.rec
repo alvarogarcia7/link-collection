@@ -2143,3 +2143,11 @@ Link: https://news.ycombinator.com/item?id=27059976
 Body:
 Category: craftsmanship
 Tags: modern-language, modern-c, ansi-c, video, imported, hacker-news
+
+Id: 27f16c48-b79c-11eb-8281-0242ac110002
+Date: Wed May  5 00:01:06 2021
+Title: Portability Is Reliability
+Link: https://news.ycombinator.com/item?id=27044419
+Body: The author proposes that, by targetting portability, you also get reliability as side effect.\n\nOne of the downsides of portability is limiting yourself to the lowest common denominator.
+Category: craftsmanship
+Tags: portability, reliability, article, tool, imported, hacker-news
