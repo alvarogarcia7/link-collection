@@ -2119,3 +2119,11 @@ Link: https://news.ycombinator.com/item?id=27094110
 Body: Somebody asks how to work less
 Category: craftsmanship
 Tags: efficiency, flow, question, imported, hacker-news
+
+Id: acbc610e-b79b-11eb-a091-0242ac110002
+Date: Sat May  8 20:45:48 2021
+Title: Show HN: zxpy, a cleaner version of Google's zx
+Link: https://news.ycombinator.com/item?id=27090526
+Body: An alternative to google's [zx](https://github.com/google/zx), in python.
+Category: craftsmanship
+Tags: bash, scripting, npm, node, bash-replacement, google, alternative, zx, zxpy, tool, language, imported, hacker-news
