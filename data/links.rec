@@ -2367,3 +2367,11 @@ Link: https://news.ycombinator.com/item?id=27025289
 Body:
 Category: craftsmanship
 Tags: z3, compiler, testing, python, tool, imported, hacker-news
+
+Id: 84773c22-fe87-11eb-99af-0242ac110002
+Date: Sat May  8 17:34:31 2021
+Title: ABI Mistakes
+Link: https://news.ycombinator.com/item?id=27089184
+Body:
+Category: craftsmanship
+Tags: abi, application-binary-interface, binary, c, library, ffi, foreign-function-interface, imported, hacker-news
