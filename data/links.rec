@@ -2103,3 +2103,11 @@ Link: https://news.ycombinator.com/item?id=27092326
 Body:
 Category: craftsmanship
 Tags: high-performance, high-performance-team, complexity, monolith, microservice, brooke-law, imported, hacker-news
+
+Id: 48bc4142-b79b-11eb-ba3c-0242ac110002
+Date: Sat May  8 15:56:29 2021
+Title: Inefficient Efficiency (2019)
+Link: https://news.ycombinator.com/item?id=27088272
+Body: An article by Kent Beck on learning, latency of process, feedback.\n\nA quote:\n\n> By emphasizing latency [of process] we get feedback sooner. Learning and adapting to external changes lead to less waste and therefore greater efficiency. Each piece is inefficient (compared to some theoretical maximum), but the whole is efficient. In my world, latency dominates. Mostly. But it depends
+Category: craftsmanship
+Tags: quote, article, kent-beck, latency, process, feedback, learning, imported, hacker-news
