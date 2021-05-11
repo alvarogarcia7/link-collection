@@ -2271,3 +2271,11 @@ Link: https://github.com/testdouble/test-smells/
 Body: Collection of test smells, both in ruby and in javascript
 Category: craftsmanship
 Tags: test-smell, code-smell, tool, github, minitest, test
+
+Id: d5a4f50c-d1a1-11eb-a146-0242ac110004
+Date: Tue May 11 02:19:00 2021
+Title: Experts suggest AXA’s plan to shun ransomware payouts will set a precedent
+Link: https://news.ycombinator.com/item?id=27113468
+Body: an article about implications of paying ransom in a ransomware attack
+Category: craftsmanship
+Tags: ransom, ransomware, malware, axa, precedent, justice, law, imported, hacker-news
