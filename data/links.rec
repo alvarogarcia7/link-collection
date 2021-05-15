@@ -1999,3 +1999,11 @@ Link: https://news.ycombinator.com/item?id=27149002
 Body: Discussion on how to perform continuous file synchronization
 Category: finance
 Tags: syncthing, backup, resilio, file-synchronization, imported, hacker-news
+
+Id: c35dba6a-b797-11eb-a2a5-0242ac110002
+Date: Sat May 15 11:10:30 2021
+Title: JPL's Design for a Clockwork Rover to Explore Venus (2017)
+Link: https://news.ycombinator.com/item?id=27164195
+Body: An article describing the challenges of creating a rover for Mars.\n\nThe high temperatures make it a challenge to deploy computers, then they were suggesting a mix of mechanical computers.\n\nIn one of the comments, they mention the idea of merging mechanical and electronic computers is now possible.
+Category: finance
+Tags: venus, planet, mechanical-computer, computer, jpl, nasa, exploration, temperature, cosmic-rays, imported, hacker-news
