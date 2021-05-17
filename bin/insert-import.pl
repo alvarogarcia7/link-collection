@@ -99,6 +99,6 @@ $command.='data/links.rec';
 ## Dry run
 print "$command\n";
 
-`$command`
-`git add .`
-`git commit -m "Save progress" --date="$date"`
+`$command`;
+`git add .`;
+`git commit -m "Save progress" --date="$date"`;
