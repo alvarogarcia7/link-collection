@@ -102,3 +102,5 @@ $command.='data/links.rec';
 print "$command\n";
 
 `$command`
+`git add .`
+`git commit -m "Save progress" --date="$date"`
