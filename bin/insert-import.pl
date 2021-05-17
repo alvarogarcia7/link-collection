@@ -44,17 +44,15 @@ my $category=$ARGV[0];
 my $hackernews_id=$ARGV[1];
 
 
-# my $request = HTTP::Request->new(GET => 'https://hacker-news.firebaseio.com/v0/item/' . $hackernews_id . '.json');
-# my $ua = LWP::UserAgent->new;
-# my $content = $ua->request($request)->content()
-my $content = '{"by":"vanusa","descendants":58,"id":27186675,"kids":[27187653,27187539,27187568,27186985,27187051,27187507,27186969,27187038,27187320],"score":218,"time":1621276965,"title":"Why Is the Gaza Strip Blurry on Google Maps?","type":"story","url":"https://www.bbc.com/news/57102499"}';
+my $request = HTTP::Request->new(GET => 'https://hacker-news.firebaseio.com/v0/item/' . $hackernews_id . '.json');
+my $ua = LWP::UserAgent->new;
+my $content = $ua->request($request)->content();
+# Fake contents
+# my $content = '{"by":"vanusa","descendants":58,"id":27186675,"kids":[27187653,27187539,27187568,27186985,27187051,27187507,27186969,27187038,27187320],"score":218,"time":1621276965,"title":"Why Is the Gaza Strip Blurry on Google Maps?","type":"story","url":"https://www.bbc.com/news/57102499"}';
 my $response = decode_json($content);
-# print ${$response} {by} . "\n";
 print Data::Dumper->Dump([$response], [qw(response)]);
 
 my $date=localtime(${$response}{time});
-
-print($date);
 
 # my $title = read_one_line("Input title (1 line, mandatory)\n");
 my $title = ${$response}{title};
