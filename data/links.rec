@@ -1984,34 +1984,10 @@ Body:
 Category: craftsmanship
 Tags: hacker-news, pentesting, india, sms, authentication, shared-secret
 
-Id: 9b3c559c-b796-11eb-8a3b-0242ac110002
-Date: Fri Apr 30 11:48:27 2021
-Title: Stock Market Returns Are Anything but Average
-Link: https://news.ycombinator.com/item?id=26992205
-Body: Describing the current status of market returns
-Category: finance
-Tags: forecast, outlook, return, imported, hacker-news
-
-Id: d33096fc-b796-11eb-96d0-0242ac110002
-Date: Fri Apr 30 11:48:27 2021
-Title: Stock Market Returns Are Anything but Average
-Link: https://news.ycombinator.com/item?id=26992205
-Body: Describing the current status of market returns
-Category: finance
-Tags: forecast, outlook, return, imported, hacker-news
-
-Id: ed17428c-b796-11eb-a5dc-0242ac110002
-Date: Fri Apr 30 11:48:27 2021
-Title: Stock Market Returns Are Anything but Average
-Link: https://news.ycombinator.com/item?id=26992205
-Body: Describing the current status of market returns\nforecast\noutlook\nreturn
-Category: finance
-Tags: forecast, outlook, return, imported, hacker-news
-
 Id: 0ef56762-b797-11eb-9bad-0242ac110002
 Date: Fri Apr 30 11:48:27 2021
 Title: Stock Market Returns Are Anything but Average
 Link: https://news.ycombinator.com/item?id=26992205
-Body: Describing the current status of market returns\nforecast\noutlook\nreturn
+Body: Describing the current status of market returns
 Category: finance
 Tags: forecast, outlook, return, imported, hacker-news
