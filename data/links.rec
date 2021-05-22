@@ -2151,3 +2151,11 @@ Link: https://news.ycombinator.com/item?id=27044419
 Body: The author proposes that, by targetting portability, you also get reliability as side effect.\n\nOne of the downsides of portability is limiting yourself to the lowest common denominator.
 Category: craftsmanship
 Tags: portability, reliability, article, tool, imported, hacker-news
+
+Id: 080bb5ae-bba8-11eb-be96-0242ac110002
+Date: Sat May 22 19:09:27 2021
+Title: Show HN: I hate adding updating to my apps, so I created Pakkly
+Link: https://news.ycombinator.com/item?id=27249413
+Body: this tool helps you automate the updating of the app. For desktop applications.
+Category: craftsmanship
+Tags: tool, enatik, pakkly, update, app, process, toolchain, open-source, imported, hacker-news
