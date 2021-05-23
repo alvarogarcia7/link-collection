@@ -2159,3 +2159,11 @@ Link: https://news.ycombinator.com/item?id=27249413
 Body: this tool helps you automate the updating of the app. For desktop applications.
 Category: craftsmanship
 Tags: tool, enatik, pakkly, update, app, process, toolchain, open-source, imported, hacker-news
+
+Id: fb3945ba-bbae-11eb-b8dc-0242ac110002
+Date: Sun May 23 02:58:49 2021
+Title: Monetizing open-source is problematic
+Link: https://news.ycombinator.com/item?id=27252066
+Body: the author of faker.js (and a paid-for SaaS) explains that another company (retool) created a similar project.\nThe gist of it is that no one pays for development of faker.js, published under a generous open-source license
+Category: craftsmanship
+Tags: license, open-source, faker, faker-js, retool, monetization, fakercloud, marak, imported, hacker-news
