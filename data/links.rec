@@ -2167,3 +2167,11 @@ Link: https://news.ycombinator.com/item?id=27252066
 Body: the author of faker.js (and a paid-for SaaS) explains that another company (retool) created a similar project.\nThe gist of it is that no one pays for development of faker.js, published under a generous open-source license
 Category: craftsmanship
 Tags: license, open-source, faker, faker-js, retool, monetization, fakercloud, marak, imported, hacker-news
+
+Id: 82cdbd1c-bbf5-11eb-98b3-0242ac110002
+Date: Sun May 23 15:35:17 2021
+Title: Saying Goodbye to Typo CI
+Link: https://news.ycombinator.com/item?id=27255727
+Body: article describing how it is the Github environment, for third parties, especially after the purchase by microsoft
+Category: craftsmanship
+Tags: microsoft, github, saas, typo-ci, typo, spellcheck, git-hook, third-party-app, github-action, marketplace, imported, hacker-news
