@@ -2231,3 +2231,11 @@ Link: http://www.robinhobb.com/blog/posts/38429
 Body: This blog describes the relationship between the mind and the animal we live in. I found it surprising to refer to this animal as a separate part.\n\nThe article says that the animal will suffer on what you feed it, and that you need to take care of it.
 Category: craftsmanship
 Tags: animal, separation, body, care, health, diet, age, aging
+
+Id: ff3be8e8-c8f1-11eb-9a26-0242ac110002
+Date: Tue Jun  8 08:30:51 2021
+Title: Althttpd: Simple webserver in a single C file
+Link: https://news.ycombinator.com/item?id=27431910
+Body:
+Category: craftsmanship
+Tags: tool, webserver, isolated, small, simple, c/cpp, sqlite, imported, hacker-news
