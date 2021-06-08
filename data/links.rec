@@ -2375,3 +2375,11 @@ Link: https://news.ycombinator.com/item?id=27089184
 Body:
 Category: craftsmanship
 Tags: abi, application-binary-interface, binary, c, library, ffi, foreign-function-interface, imported, hacker-news
+
+Id: 9974ac5e-fe87-11eb-92d2-0242ac110002
+Date: Tue Jun  8 08:30:51 2021
+Title: Althttpd: Simple webserver in a single C file
+Link: https://news.ycombinator.com/item?id=27431910
+Body:
+Category: craftsmanship
+Tags: http, httpd, c, sample, project, sqlite, web-server, apache, nginx, imported, hacker-news
