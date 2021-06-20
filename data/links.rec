@@ -2263,3 +2263,11 @@ Link: https://www.rankia.com/blog/invesgrama/5041827-como-evitar-perder-cada-cri
 Body: This article describes how different reactions when the market is bearish affect your portfolio.\n\nDescribes strategies: "those who lost more", "those that are cheapest", finally suggesting "changing the focus from the profits and losses sheet to the balance sheet".
 Category: finance
 Tags: article, rankia, crisis, bearish, strategy
+
+Id: 870e155e-d1a1-11eb-93d0-0242ac110004
+Date: Sun, 20 Jun 2021 08:28:45 +0000
+Title: Test smells
+Link: https://github.com/testdouble/test-smells/
+Body: Collection of test smells, both in ruby and in javascript
+Category: craftsmanship
+Tags: test-smell, code-smell, tool, github, minitest, test
