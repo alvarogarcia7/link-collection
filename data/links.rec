@@ -2407,3 +2407,11 @@ Link: https://news.ycombinator.com/item?id=28195439
 Body:
 Category: craftsmanship
 Tags: hashing, cuckoo-hashing, chained-hashing, data-structure, hash-table, performance, imported, hacker-news
+
+Id: 1c208416-fe88-11eb-841b-0242ac110002
+Date: Sun Jun 27 07:14:23 2021
+Title: The free lunch is over: a fundamental turn toward concurrency in software (2005)
+Link: https://news.ycombinator.com/item?id=27649343
+Body:
+Category: craftsmanship
+Tags: concurrency, performance, parallelism, optimization, imported, hacker-news
