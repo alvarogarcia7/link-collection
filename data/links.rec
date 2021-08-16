@@ -2391,3 +2391,19 @@ Link: https://news.ycombinator.com/item?id=25973194
 Body:
 Category: craftsmanship
 Tags: z3, verification, tool, compiler, imported, hacker-news
+
+Id: e1c8b59a-fe87-11eb-97ef-0242ac110002
+Date: Mon, 16 Aug 2021 11:48:32 +0000
+Title: Hotload your Python
+Link: https://github.com/teodorlu/hotload
+Body: tool to hotload python scripts
+Category: craftsmanship
+Tags: repl, hotload, python, tool, dependency
+
+Id: 04a3eeae-fe88-11eb-ab46-0242ac110002
+Date: Mon Aug 16 06:21:19 2021
+Title: Classical Data Structures That Can Outperform Learned Indexes (2018)
+Link: https://news.ycombinator.com/item?id=28195439
+Body:
+Category: craftsmanship
+Tags: hashing, cuckoo-hashing, chained-hashing, data-structure, hash-table, performance, imported, hacker-news
