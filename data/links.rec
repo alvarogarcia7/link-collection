@@ -2447,3 +2447,11 @@ Link: https://news.ycombinator.com/item?id=27598424
 Body:
 Category: craftsmanship
 Tags: lisp, c, project, your-own-lisp, transpilation, imported, hacker-news
+
+Id: 2e513666-fe89-11eb-99bd-0242ac110002
+Date: Mon, 16 Aug 2021 11:57:50 +0000
+Title: C Stuff that should be avoided
+Link: https://iso-9899.info/wiki/Main_Page#Stuff_that_should_be_avoided
+Body: An opinionated guide of C-learning resources that should be avoided.
+Category: craftsmanship
+Tags: c, learning, avoid
