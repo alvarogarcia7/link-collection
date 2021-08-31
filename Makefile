@@ -22,6 +22,11 @@ run-psychology:
 run-philosophy:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "philosophy"
 
+.PHONY: import-crafts
+import-crafts:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-import.pl "craftsmanship"
+
+
 .PHONY: categories
 categories:
 	@echo "existing categories are:"

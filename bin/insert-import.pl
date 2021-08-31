@@ -41,7 +41,8 @@ sub read_one_line {
 }
 
 my $category=$ARGV[0];
-my $hackernews_id=$ARGV[1];
+
+my $hackernews_id= read_one_line("Input id (Number, mandatory)\n");
 
 
 my $request = HTTP::Request->new(GET => 'https://hacker-news.firebaseio.com/v0/item/' . $hackernews_id . '.json');
