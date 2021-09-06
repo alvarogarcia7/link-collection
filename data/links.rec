@@ -2535,3 +2535,11 @@ Link: https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-compar
 Body:
 Category: craftsmanship
 Tags: pvs-studio, static-analysis, c, openssl, defect, bug, comparison
+
+Id: 43efd0aa-13c8-11ec-8b52-0242ac110002
+Date: Mon Sep  6 16:53:54 2021
+Title: Show HN: Age 1.0 – Simple, modern and secure file encryption
+Link: https://news.ycombinator.com/item?id=28435613
+Body: Filo Sottile has created a tool called age, for transparent file encryption.
+Category: craftsmanship
+Tags: gpg, encryption, cryptography, cli, tool, filo-sottile, mkcert, alternative, imported, hacker-news
