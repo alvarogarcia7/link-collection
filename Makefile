@@ -55,7 +55,7 @@ cleanup:
 .PHONY: save
 save:
 	git add .
-	git commit -m "Save progress"
+	git cc "Save progress"
 
 .PHONY: sync
 sync:
