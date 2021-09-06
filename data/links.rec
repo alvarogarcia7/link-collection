@@ -2495,3 +2495,11 @@ Link: https://github.com/mviereck/x11docker
 Body: A bash script to run GUI applications in docker.\n\nNo dependencies, oriented towards security.
 Category: craftsmanship
 Tags: bash, tool, docker, gui, tui, security
+
+Id: 1e468190-0edd-11ec-bfad-0242ac110002
+Date: Mon, 06 Sep 2021 06:39:00 +0000
+Title: plain text accounting
+Link: https://plaintextaccounting.org/
+Body: A site dedicated to plain text accounting.\n\ntools, what and why, caveats, limitations, comparison to a spreadsheet, etc.
+Category: finance
+Tags: tool, plain-text-accounting, double-entry-accounting, fava, ledger, hledger, plain-text, accounting, accountant, beancount, spreasheet, personal-finance
