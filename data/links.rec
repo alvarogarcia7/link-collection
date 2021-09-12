@@ -2511,3 +2511,19 @@ Link: https://news.ycombinator.com/item?id=26274466
 Body:
 Category: craftsmanship
 Tags: tool, gnu, poke, hex-editor, programming-language, language, imported, hacker-news
+
+Id: 78fda1b0-13c7-11ec-8e6a-0242ac110002
+Date: Sun, 12 Sep 2021 12:46:39 +0000
+Title: Random identifiers are poorly compressible
+Link: https://lemire.me/blog/2021/09/11/random-identifiers-are-poorly-compressible/
+Body: Talks about compressing unique ids (UUIDs)
+Category: craftsmanship
+Tags: uuid, compression, identifier, daniel-lemire
+
+Id: badc56a8-13c7-11ec-a0d7-0242ac110002
+Date: Sun, 12 Sep 2021 12:48:29 +0000
+Title: The big-load anti-pattern
+Link: https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/
+Body: Talks about how big-load at the beginning is an antipattern.\n\nShows effects of memory consumption. Recommends how to perform streaming analysis of data.\n\nA controversial post to stir up the conversation.
+Category: craftsmanship
+Tags: memory, performance, stream, anti-pattern, pattern, ram, cpu, resource, sharding, json, cache
