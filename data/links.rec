@@ -2527,3 +2527,11 @@ Link: https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/
 Body: Talks about how big-load at the beginning is an antipattern.\n\nShows effects of memory consumption. Recommends how to perform streaming analysis of data.\n\nA controversial post to stir up the conversation.
 Category: craftsmanship
 Tags: memory, performance, stream, anti-pattern, pattern, ram, cpu, resource, sharding, json, cache
+
+Id: fb8e1cf4-13c7-11ec-8634-0242ac110002
+Date: Sun, 12 Sep 2021 12:50:18 +0000
+Title: Everybody makes mistakes when writing comparison functions
+Link: https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
+Body:
+Category: craftsmanship
+Tags: pvs-studio, static-analysis, c, openssl, defect, bug, comparison
