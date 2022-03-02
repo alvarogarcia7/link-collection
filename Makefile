@@ -30,6 +30,9 @@ run-fitness:
 import-crafts:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-import.pl "craftsmanship"
 
+.PHONY: import-crafts-auto
+import-crafts-auto:
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-import-auto.pl "craftsmanship"
 
 .PHONY: categories
 categories:
