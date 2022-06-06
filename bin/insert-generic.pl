@@ -79,7 +79,12 @@ my @tags2 =
 my $tagsCommaSeparated =  join(', ', @tags2);
 
 ## Prepare command
-my $command="recins -t Link ";
+
+# https://lists.gnu.org/archive/html/bug-recutils/2019-08/msg00001.html
+# Yes, this is a known bug in 1.8.  It happens when /tmp is mounted in a separated filesystem.
+# You can workaround the problem defining the TMPDIR environment variable.  Try, for example, $ TMPDIR=. recset ...
+
+my $command="TMPDIR=. recins -t Link ";
 $command.="-f Title -v \"$title\" ";
 $command.="-f Link -v \"$link\" ";
 $command.="-f Body -v \"$body\" ";
