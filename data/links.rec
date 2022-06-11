@@ -2543,3 +2543,11 @@ Link: https://news.ycombinator.com/item?id=28435613
 Body: Filo Sottile has created a tool called age, for transparent file encryption.
 Category: craftsmanship
 Tags: gpg, encryption, cryptography, cli, tool, filo-sottile, mkcert, alternative, imported, hacker-news
+
+Id: f82bd9d0-ebf2-11ec-a47b-0242ac110003
+Date: Sat Jun 11 17:31:03 2022
+Title: AirPlay and Touch Bar = Network Disaster
+Link: https://news.ycombinator.com/item?id=31706283
+Body: An account of the interaction between AirPlay and Touch Bar (in mac)
+Category: craftsmanship
+Tags: airplay, debugging, touch-bar, mac-os, imported, hacker-news
