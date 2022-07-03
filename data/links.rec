@@ -2583,3 +2583,11 @@ Link: https://stackoverflow.com/questions/46509558/using-a-struct-from-a-differe
 Body:
 Category: craftsmanship
 Tags: cython, struct, integration, generate-kat-core, python, binding
+
+Id: 5017abd4-fb79-11ec-ad8c-0242ac110003
+Date: Sun Jul  3 18:38:57 2022
+Title: Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten
+Link: https://news.ycombinator.com/item?id=31969931
+Body: Zettelkasten notes implemented as a library with a set of CLI utils
+Category: craftsmanship
+Tags: zettelkasten, software, personal-knowledge, application, tool, cli, fzf, search, wiki, imported, hacker-news
