@@ -2615,3 +2615,11 @@ Link: https://blog.logrocket.com/a-closer-look-at-javascript-closures-higher-ord
 Body:
 Category: craftsmanship
 Tags: closure, javascript, higher-order-function, partial-application, functional-programming
+
+Id: c93acb66-13db-11ed-9c8a-0242ac110003
+Date: Wed Jul 13 03:30:52 2022
+Title: Rolling your own crypto: Everything you need to build AES from scratch
+Link: https://news.ycombinator.com/item?id=32078749
+Body: A guide to understand AES in depth
+Category: craftsmanship
+Tags: aes, cryptography, tutorial, guide, imported, hacker-news
