@@ -2599,3 +2599,11 @@ Link: https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-micro
 Body: Troy Hunt has created an automated tunnel (as a form), that makes spammers to spend time trying to set up an account.
 Category: craftsmanship
 Tags: troy-hunt, purgatory, spammer, spam, password, cloudflare, have-i-been-pwned
+
+Id: 8aaa2bd0-13db-11ed-b98a-0242ac110003
+Date: Thu, 04 Aug 2022 09:55:16 +0000
+Title: Currying
+Link: https://javascript.info/currying-partials
+Body:
+Category: craftsmanship
+Tags: javascript, curry, currying, partial-application, functional-programming
