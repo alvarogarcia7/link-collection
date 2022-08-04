@@ -2607,3 +2607,11 @@ Link: https://javascript.info/currying-partials
 Body:
 Category: craftsmanship
 Tags: javascript, curry, currying, partial-application, functional-programming
+
+Id: a93f40f8-13db-11ed-81c7-0242ac110003
+Date: Thu, 04 Aug 2022 09:56:07 +0000
+Title: A closer look at JavaScript closures, higher-order functions, and currying
+Link: https://blog.logrocket.com/a-closer-look-at-javascript-closures-higher-order-functions-and-currying/
+Body:
+Category: craftsmanship
+Tags: closure, javascript, higher-order-function, partial-application, functional-programming
