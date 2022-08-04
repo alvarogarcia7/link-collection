@@ -2591,3 +2591,11 @@ Link: https://news.ycombinator.com/item?id=31969931
 Body: Zettelkasten notes implemented as a library with a set of CLI utils
 Category: craftsmanship
 Tags: zettelkasten, software, personal-knowledge, application, tool, cli, fzf, search, wiki, imported, hacker-news
+
+Id: 5bc3da5a-13db-11ed-b88e-0242ac110003
+Date: Thu, 04 Aug 2022 09:53:57 +0000
+Title: Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV
+Link: https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/
+Body: Troy Hunt has created an automated tunnel (as a form), that makes spammers to spend time trying to set up an account.
+Category: craftsmanship
+Tags: troy-hunt, purgatory, spammer, spam, password, cloudflare, have-i-been-pwned
