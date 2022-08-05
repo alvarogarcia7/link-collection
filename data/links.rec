@@ -2647,3 +2647,11 @@ Link: https://news.ycombinator.com/item?id=32374278
 Body: A guide on how to implement a SkipList data structure
 Category: craftsmanship
 Tags: skiplist, data-structure, zip-tree, isomorphism, dsa, algorithm, binary-tree, imported, hacker-news
+
+Id: 8e1e992e-16e5-11ed-85fc-0242ac110003
+Date: Fri Aug  5 09:01:57 2022
+Title: Documenting software architecture with arc42
+Link: https://news.ycombinator.com/item?id=32353500
+Body:
+Category: craftsmanship
+Tags: documentation, architecture, arc42, c4-model, system-thinking, imported, hacker-news
