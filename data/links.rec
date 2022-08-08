@@ -2663,3 +2663,11 @@ Link: https://news.ycombinator.com/item?id=32354471
 Body:
 Category: craftsmanship
 Tags: safety-critical, c, misra, resource, standard, bug, imported, hacker-news
+
+Id: fa4d5126-16e5-11ed-bc8f-0242ac110003
+Date: Mon Aug  8 01:20:41 2022
+Title: I 10x'd a TI-84 emulator's speed by replacing a switch-case
+Link: https://news.ycombinator.com/item?id=32381550
+Body: Increasing the performance by helping the compiler to optimize switch statements.\n\n> @LGB actually in V8 (JS engine used by google chrome) you need to jump through a lot of hoops to get switch case optimized: All the cases must be of same type. All the cases must either be string literals or 31-bit signed integer literals. And there must be less than 128 cases. And even after all those hoops, all you get is what you would have gotten with if-elses anyway (I.E. no jump tables or sth like that)\n
+Category: craftsmanship
+Tags: emulator, calculator, optimization, switch-statement, jump-table, javascript, js, v8, google, opcode, ti-84, imported, hacker-news
