@@ -2719,4 +2719,4 @@ Title: PyO3
 Link: https://github.com/PyO3/pyo3
 Body: A way of connecting Python to Rust.
 Category: craftsmanship
-Tags: cffi, ffi, foreign-function-interface, rust, integration, connection, connecting-languages
+Tags: cffi, ffi, foreign-function-interface, rust, integration, connection, connecting-languages, library
