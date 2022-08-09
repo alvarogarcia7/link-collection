@@ -2712,3 +2712,11 @@ Link: https://news.ycombinator.com/item?id=32407451
 Body: A way of writing modules in Julia, then compile them to C, then connect them to Python
 Category: craftsmanship
 Tags: julia, ffi, foreign-function-interface, cffi, python, connecting-languages, connection, integration, library, imported, hacker-news
+
+Id: fd98378c-188a-11ed-bb0a-0242ac110003
+Date: Wed, 10 Aug 2022 09:01:15 +0000
+Title: PyO3
+Link: https://github.com/PyO3/pyo3
+Body: A way of connecting Python to Rust.
+Category: craftsmanship
+Tags: cffi, ffi, foreign-function-interface, rust, integration, connection, connecting-languages
