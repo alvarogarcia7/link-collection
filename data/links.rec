@@ -3224,3 +3224,11 @@ Link: https://arxiv.org/pdf/2301.02308.pdf
 Body: Linear types "are values that must be used exactly once, i.e. they cannot be duplicated or  implicitly discarded"
 Category: craftsmanship
 Tags: type-system, philip-wadler, rust, linear-type, programming-type, memory-safety, thread-safety, ownership
+
+Id: 6231a818-c19b-11ed-9e37-0242ac110004
+Date: Fri Sep  9 14:42:37 2022
+Title: Why you might want a domain-specific database like TigerBeetleDB
+Link: https://news.ycombinator.com/item?id=32779851
+Body:
+Category: craftsmanship
+Tags: domain-specific, database, accounting, rules, business-rules, imported, hacker-news
