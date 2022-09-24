@@ -2824,3 +2824,11 @@ Link: https://news.ycombinator.com/item?id=33069547
 Body: Using the physical separation of your AWS accounts as a way to isolate the data and services
 Category: craftsmanship
 Tags: aws, aws-account, physical-isolation, isolation, data-isolation, risk-management, imported, hacker-news
+
+Id: 12687de0-44df-11ed-a221-0242ac110003
+Date: Sat Sep 24 12:17:53 2022
+Title: Lessons from a Professional Password Cracker
+Link: https://news.ycombinator.com/item?id=32961815
+Body: Some common tricks to avoid password cracking. Mostly by bruteforce or social engineering.
+Category: craftsmanship
+Tags: social-engineering, password-cracker, password, bruteforce, rainbow-table, hash, cryptography, windows, imported, hacker-news
