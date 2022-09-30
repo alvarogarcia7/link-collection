@@ -2805,6 +2805,14 @@ Id: 409c09a8-44de-11ed-8670-0242ac110003
 Date: Sat Sep 10 22:28:07 2022
 Title: Fabrice Bellard: Portrait of a Super-Productive Programmer (2011)
 Link: https://news.ycombinator.com/item?id=32795067
-Body: 
+Body:
 Category: craftsmanship
 Tags: hagiography, fabrice-bellard, 10x-programmer, ffmpeg, carmack, productivity, imported, hacker-news
+
+Id: 959e4b0a-44de-11ed-92c7-0242ac110003
+Date: Fri Sep 30 23:26:48 2022
+Title: GitHub's Missing Merge Option
+Link: https://news.ycombinator.com/item?id=33042018
+Body: A way of merging feature branches to obtain cleaner history
+Category: craftsmanship
+Tags: git, branch, merge, merge-conflict, rebase, github, feature-branch, imported, hacker-news
