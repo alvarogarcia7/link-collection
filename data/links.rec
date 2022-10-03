@@ -2816,3 +2816,11 @@ Link: https://news.ycombinator.com/item?id=33042018
 Body: A way of merging feature branches to obtain cleaner history
 Category: craftsmanship
 Tags: git, branch, merge, merge-conflict, rebase, github, feature-branch, imported, hacker-news
+
+Id: cc12f3de-44de-11ed-b1dc-0242ac110003
+Date: Mon Oct  3 16:14:25 2022
+Title: Have lots of AWS accounts
+Link: https://news.ycombinator.com/item?id=33069547
+Body: Using the physical separation of your AWS accounts as a way to isolate the data and services
+Category: craftsmanship
+Tags: aws, aws-account, physical-isolation, isolation, data-isolation, risk-management, imported, hacker-news
