@@ -2832,3 +2832,11 @@ Link: https://news.ycombinator.com/item?id=32961815
 Body: Some common tricks to avoid password cracking. Mostly by bruteforce or social engineering.
 Category: craftsmanship
 Tags: social-engineering, password-cracker, password, bruteforce, rainbow-table, hash, cryptography, windows, imported, hacker-news
+
+Id: 8761d632-454d-11ed-9b11-0242ac110003
+Date: Wed Oct  5 21:24:14 2022
+Title: What does the ??!??! operator do in C?
+Link: https://news.ycombinator.com/item?id=33101401
+Body: Using digraphs and trigraphs in C
+Category: craftsmanship
+Tags: digraph, trigraph, c, c-programming-language, quirk, operator, imported, hacker-news
