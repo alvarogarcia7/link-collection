@@ -2880,3 +2880,11 @@ Link: https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md
 Body:
 Category: craftsmanship
 Tags: unix, shell, tips, tricks, tactic, tool, safety
+
+Id: 86ea8190-5448-11ed-bc66-0242ac110002
+Date: Thu Oct 20 02:47:19 2022
+Title: A large scale non-linear optimization library
+Link: https://news.ycombinator.com/item?id=33270268
+Body:
+Category: craftsmanship
+Tags: non-linear-optimization, optimization-library, ceres, c++, imported, hacker-news
