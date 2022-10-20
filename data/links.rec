@@ -2848,3 +2848,11 @@ Link: https://news.ycombinator.com/item?id=33266471
 Body:
 Category: craftsmanship
 Tags: cloudflare, html-content, cdn, content-delivery-network, free-tier, free, non-html-content, imported, hacker-news
+
+Id: 53200508-504f-11ed-8cea-0242ac110003
+Date: Thu Oct 20 00:45:32 2022
+Title: PostgresML is 8-40x faster than Python HTTP microservices
+Link: https://news.ycombinator.com/item?id=33269615
+Body:
+Category: craftsmanship
+Tags: comparison, postgresml, python, redis, microservice, imported, hacker-news
