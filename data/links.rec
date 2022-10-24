@@ -2888,3 +2888,11 @@ Link: https://news.ycombinator.com/item?id=33270268
 Body:
 Category: craftsmanship
 Tags: non-linear-optimization, optimization-library, ceres, c++, imported, hacker-news
+
+Id: bb4dda54-5448-11ed-9dd0-0242ac110002
+Date: Mon Oct 24 01:24:29 2022
+Title: Debugging C with Cosmopolitan Libc
+Link: https://news.ycombinator.com/item?id=33312012
+Body:
+Category: craftsmanship
+Tags: cosmopolitan-libc, libc, debugging, c, c-language, stacktrace, imported, hacker-news
