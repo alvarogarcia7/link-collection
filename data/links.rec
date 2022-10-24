@@ -2856,3 +2856,11 @@ Link: https://news.ycombinator.com/item?id=33269615
 Body:
 Category: craftsmanship
 Tags: comparison, postgresml, python, redis, microservice, imported, hacker-news
+
+Id: 18ac7b02-5448-11ed-a9ad-0242ac110002
+Date: Mon Oct 24 22:06:34 2022
+Title: Asdf – language tool version manager
+Link: https://news.ycombinator.com/item?id=33323261
+Body: A tool to manage local (i.e., not docker) installation of tools.
+Category: craftsmanship
+Tags: docker, local, installation, asdf, configuration, shell, tool, bash, setup, dev-environment, imported, hacker-news
