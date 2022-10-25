@@ -2893,6 +2893,6 @@ Id: bb4dda54-5448-11ed-9dd0-0242ac110002
 Date: Mon Oct 24 01:24:29 2022
 Title: Debugging C with Cosmopolitan Libc
 Link: https://news.ycombinator.com/item?id=33312012
-Body:
+Body: Cosmopolitan Libc allows you to log every function call over the program’s execution – just pass --ftrace at the end of your program
 Category: craftsmanship
 Tags: cosmopolitan-libc, libc, debugging, c, c-language, stacktrace, imported, hacker-news
