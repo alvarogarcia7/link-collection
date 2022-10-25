@@ -2872,3 +2872,11 @@ Link: https://news.ycombinator.com/item?id=33323826
 Body:
 Category: craftsmanship
 Tags: salary-transparency, salary, employment, career, career-management, imported, hacker-news
+
+Id: 4a80f7fc-5448-11ed-a3bf-0242ac110002
+Date: Tue, 25 Oct 2022 09:34:58 +0000
+Title: Unix shell script tactics - a style guide
+Link: https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md
+Body:
+Category: craftsmanship
+Tags: unix, shell, tips, tricks, tactic, tool, safety
