@@ -3112,3 +3112,11 @@ Link: https://news.ycombinator.com/item?id=33504700
 Body:
 Category: craftsmanship
 Tags: javascript, generator-function, programming, python, yield, comparison, imported, hacker-news
+
+Id: c70a14c2-8b37-11ed-8913-0242ac110003
+Date: Thu Oct 27 07:18:25 2022
+Title: Shell script best practices, from a decade of scripting things
+Link: https://news.ycombinator.com/item?id=33354286
+Body:
+Category: craftsmanship
+Tags: bash, shellcheck, bash-boilerplate, tool, scripting, programming, glue, shell, imported, hacker-news
