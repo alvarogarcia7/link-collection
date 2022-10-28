@@ -2904,3 +2904,11 @@ Link: https://news.ycombinator.com/item?id=33380500
 Body:
 Category: craftsmanship
 Tags: openssl, patch, vulnerability, cryptography, imported, hacker-news
+
+Id: 8209895e-5854-11ed-a49f-0242ac110003
+Date: Fri Oct 28 17:21:28 2022
+Title: SQLite in the browser with WASM/JS
+Link: https://news.ycombinator.com/item?id=33374402
+Body:
+Category: craftsmanship
+Tags: wasm, js, javascript, sqlite, crosscompilation, transpilation, electric-sql, crdt, synchronization, imported, hacker-news
