@@ -2896,3 +2896,11 @@ Link: https://news.ycombinator.com/item?id=33312012
 Body: Cosmopolitan Libc allows you to log every function call over the program’s execution – just pass --ftrace at the end of your program
 Category: craftsmanship
 Tags: cosmopolitan-libc, libc, debugging, c, c-language, stacktrace, imported, hacker-news
+
+Id: 50273116-5854-11ed-9d7e-0242ac110003
+Date: Sat Oct 29 02:45:23 2022
+Title: Patch OpenSSL on November 1 to avoid “critical” security vulnerability
+Link: https://news.ycombinator.com/item?id=33380500
+Body:
+Category: craftsmanship
+Tags: openssl, patch, vulnerability, cryptography, imported, hacker-news
