@@ -2912,3 +2912,19 @@ Link: https://news.ycombinator.com/item?id=33374402
 Body:
 Category: craftsmanship
 Tags: wasm, js, javascript, sqlite, crosscompilation, transpilation, electric-sql, crdt, synchronization, imported, hacker-news
+
+Id: c4dd8794-5854-11ed-9e34-0242ac110003
+Date: Sun, 30 Oct 2022 13:14:22 +0000
+Title: Electric SQL: Local-first. Electrified.
+Link: https://electric-sql.com/
+Body: You develop local-first apps. We provide the cloud sync. Without changing your\ndatabase or your code.\n\nTurn applications into offline applications, mixing webworkers, local databases.
+Category: craftsmanship
+Tags: electric-sql, offline, progressive-web-app, pwa, tool, js, javascript, react, database
+
+Id: 08a632be-5855-11ed-a07a-0242ac110003
+Date: Sun, 30 Oct 2022 13:16:15 +0000
+Title: wa-sqlite: sqlite for web assembly
+Link: https://github.com/rhashimoto/wa-sqlite
+Body: This is a WebAssembly build of SQLite with experimental support for writing SQLite virtual filesystems and virtual table modules completely in Javascript. This allows alternative browser storage options such as IndexedDB and File System Access. Applications can opt to use either a synchronous or asynchronous (using Asyncify) SQLite library build (an asynchronous build is required for asynchronous extensions).
+Category: craftsmanship
+Tags: webassembly, web-assembly, wasm, sqlite, database, offline, port, tool
