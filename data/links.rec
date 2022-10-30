@@ -2928,3 +2928,27 @@ Link: https://github.com/rhashimoto/wa-sqlite
 Body: This is a WebAssembly build of SQLite with experimental support for writing SQLite virtual filesystems and virtual table modules completely in Javascript. This allows alternative browser storage options such as IndexedDB and File System Access. Applications can opt to use either a synchronous or asynchronous (using Asyncify) SQLite library build (an asynchronous build is required for asynchronous extensions).
 Category: craftsmanship
 Tags: webassembly, web-assembly, wasm, sqlite, database, offline, port, tool
+
+Id: a15035e6-5855-11ed-9e35-0242ac110003
+Date: Sun, 30 Oct 2022 13:20:32 +0000
+Title: Weight training: Improve your muscular fitness
+Link: https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/weight-training/art-20047116
+Body:
+Category: fitness
+Tags: training, weightlifting
+
+Id: b45cc73a-5855-11ed-9c71-0242ac110003
+Date: Sun, 30 Oct 2022 13:21:03 +0000
+Title: Your Guide to Increasing the Weight You Lift
+Link: https://www.self.com/story/guide-to-lifting-heavier-weights
+Body:
+Category: fitness
+Tags: training, weightlifting
+
+Id: bcdb9f44-5855-11ed-822f-0242ac110003
+Date: Sun, 30 Oct 2022 13:21:18 +0000
+Title: How to Get Strong
+Link: https://www.nytimes.com/guides/year-of-living-better/how-to-build-muscle-strength
+Body:
+Category: fitness
+Tags: training, weightlifting
