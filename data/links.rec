@@ -3105,3 +3105,10 @@ Body: Mimicry is when software X reimplements at a higher level a core feature o
 Category: craftsmanship
 Tags: reification, mimicry, language-feature, terminology, term, dictionary
 
+Id: bca9e98a-8b37-11ed-9b9d-0242ac110003
+Date: Mon Nov  7 11:57:29 2022
+Title: Why would anyone need JavaScript generator functions?
+Link: https://news.ycombinator.com/item?id=33504700
+Body:
+Category: craftsmanship
+Tags: javascript, generator-function, programming, python, yield, comparison, imported, hacker-news
