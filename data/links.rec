@@ -3080,3 +3080,11 @@ Link: https://news.ycombinator.com/item?id=33757545
 Body:
 Category: craftsmanship
 Tags: ssh, openssh, sshguard, wireguard, tool, protection, internet, hosting, imported, hacker-news
+
+Id: 606dfd46-8b37-11ed-96b9-0242ac110003
+Date: Mon Nov 21 15:48:23 2022
+Title: Why CVE-2022-3602 was not detected by fuzz testing
+Link: https://news.ycombinator.com/item?id=33693873
+Body: Why CVE-2022-3602 was not detected by fuzz testing
+Category: craftsmanship
+Tags: openssl, fuzzing, fuzz-testing, testing, open-source, c, cve, parser, imported, hacker-news
