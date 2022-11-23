@@ -2984,3 +2984,11 @@ Link: https://ccache.dev/
 Body:
 Category: craftsmanship
 Tags: tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, clang
+
+Id: 027d6f8a-714e-11ed-869a-0242ac110003
+Date: Wed Nov 23 06:37:43 2022
+Title: Ccache – a fast C/C++ compiler cache
+Link: https://news.ycombinator.com/item?id=33715945
+Body:
+Category: craftsmanship
+Tags: imported, hacker-news
