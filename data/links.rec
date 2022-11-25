@@ -2952,3 +2952,11 @@ Link: https://www.nytimes.com/guides/year-of-living-better/how-to-build-muscle-s
 Body:
 Category: fitness
 Tags: training, weightlifting
+
+Id: 75bb21ac-6f07-11ed-891a-0242ac110003
+Date: Fri Nov 25 16:40:01 2022
+Title: Hurl: Run and test HTTP requests with plain text
+Link: https://news.ycombinator.com/item?id=33744106
+Body:
+Category: craftsmanship
+Tags: rust, http, bdd, testing, plain-text, curl, tool, end-to-end-testing, imported, hacker-news
