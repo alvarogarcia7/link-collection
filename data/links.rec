@@ -2992,3 +2992,11 @@ Link: https://news.ycombinator.com/item?id=33715945
 Body: Related to f2423a38-714d-11ed-92b4-0242ac110003
 Category: craftsmanship
 Tags: imported, hacker-news, tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, clang
+
+Id: 3372b974-714e-11ed-a7d2-0242ac110003
+Date: Tue Nov 29 17:08:04 2022
+Title: WebTorrent
+Link: https://news.ycombinator.com/item?id=33790186
+Body:
+Category: craftsmanship
+Tags: webrtc, torrent, tool, distribution, download, webtorrent, imported, hacker-news
