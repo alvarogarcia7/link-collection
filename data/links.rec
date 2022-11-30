@@ -3000,3 +3000,11 @@ Link: https://news.ycombinator.com/item?id=33790186
 Body:
 Category: craftsmanship
 Tags: webrtc, torrent, tool, distribution, download, webtorrent, imported, hacker-news
+
+Id: 6b0ed07a-714e-11ed-8562-0242ac110003
+Date: Wed Nov 30 21:36:05 2022
+Title:
+Link: https://news.ycombinator.com/item?id=33808096
+Body: How to use statistics to reason about a significant (i.e., non-outlier) improvement in the performance of your code
+Category: craftsmanship
+Tags: tool, performance, measurement, rust, statistics, imported, hacker-news
