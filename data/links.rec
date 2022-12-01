@@ -2976,3 +2976,11 @@ Link: https://news.ycombinator.com/item?id=33782946
 Body: A discussion about APISIX, a tool to automatically generate HTTP responses by defining a database
 Category: craftsmanship
 Tags: tool, apisix, auth, postgresql, sql, pgsql, postgrest, mvp, proof-of-concept, minimum-viable-product, poc, imported, hacker-news
+
+Id: f2423a38-714d-11ed-92b4-0242ac110003
+Date: Thu, 01 Dec 2022 07:58:30 +0000
+Title: CCache: a fast c/c++ compiler cache
+Link: https://ccache.dev/
+Body:
+Category: craftsmanship
+Tags: tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, clang
