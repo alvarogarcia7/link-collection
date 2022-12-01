@@ -3021,6 +3021,6 @@ Id: 317ff856-714f-11ed-9966-0242ac110003
 Date: Thu, 01 Dec 2022 08:07:26 +0000
 Title: I've fuzzed a small part of the GitHub API. Here are my findings.
 Link: https://ludovicianul.github.io/2020/10/05/github-api-testing/
-Body: Using CATS to fuzz part of the Github API. Interesting results.
+Body: Using CATS to fuzz part of the Github API. Interesting results. Related to 08b0cdb0-714f-11ed-a45c-0242ac110003.
 Category: craftsmanship
 Tags: cats, github-api, github, fuzz-test, openapi, test-tool
