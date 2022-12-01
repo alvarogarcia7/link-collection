@@ -3005,6 +3005,6 @@ Id: 6b0ed07a-714e-11ed-8562-0242ac110003
 Date: Wed Nov 30 21:36:05 2022
 Title:
 Link: https://news.ycombinator.com/item?id=33808096
-Body: How to use statistics to reason about a significant (i.e., non-outlier) improvement in the performance of your code
+Body: How to use statistics to reason about a significant (i.e., non-outlier) improvement in the performance of your code. I have done similar (although much less refined or extracted in this [repo](https://github.com/alvarogarcia7/sudoku-solver-python), with the "Compute statistical tests (mean, standard deviation). Assume a measurement is relevant if improves three sigmas (see code)." to verify that the improvements are not due to measurement eerror or noise.
 Category: craftsmanship
 Tags: tool, performance, measurement, rust, statistics, imported, hacker-news
