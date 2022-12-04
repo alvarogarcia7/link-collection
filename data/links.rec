@@ -3024,3 +3024,11 @@ Link: https://ludovicianul.github.io/2020/10/05/github-api-testing/
 Body: Using CATS to fuzz part of the Github API. Interesting results. Related to 08b0cdb0-714f-11ed-a45c-0242ac110003.
 Category: craftsmanship
 Tags: cats, github-api, github, fuzz-test, openapi, test-tool
+
+Id: e511548e-761b-11ed-9ab0-0242ac110003
+Date: Sun Dec  4 13:11:59 2022
+Title: Leaving the Basement
+Link: https://news.ycombinator.com/item?id=33853390
+Body: Ugly systems are under production usage\nBeautiful systems have never been useful to production \n\nIdea that longer usage makes warts appear
+Category: craftsmanship
+Tags: idea, adaptation, software, production, beauty, craftsmanship, elegance, time, long-running-system, fitting, evolution, imported, hacker-news
