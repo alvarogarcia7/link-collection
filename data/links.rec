@@ -6211,3 +6211,12 @@ Category: craftsmanship
 Tags: hackernews, imported, otoolep, tool, rqlite, sqlite, go, wal, distributed-database
 Origin: https://news.ycombinator.com/item?id=41167060
 
+Id: b2362f38-44c5-4f1d-b7ec-89b0fdaf73b0
+Date: Sun, 11 Dec 2022 17:18:27 +0000
+Link: https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/
+Title: I found a bug in SQLite
+Body: A defect in SQLite, found when writing a tool on top of it
+Category: craftsmanship
+Tags: hackernews, imported, otoolep, sqlite, rqlite, philip-o'toole, bug, defect
+Origin: https://news.ycombinator.com/item?id=33945115
+
