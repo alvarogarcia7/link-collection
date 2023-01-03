@@ -3136,3 +3136,11 @@ Link: https://news.ycombinator.com/item?id=33326846
 Body:
 Category: craftsmanship
 Tags: shamir-secret-sharing, cryptography, tool, ssss, shard, horocrux, imported, hacker-news
+
+Id: f232edf4-8b37-11ed-a9a7-0242ac110003
+Date: Tue, 03 Jan 2023 07:26:32 +0000
+Title: systemd Shutdown Units
+Link: https://www.psdn.io/posts/systemd-shutdown-unit/
+Body: Designing a system to shutdown gracefully can be tricky. In an ideal world, every service would be managed by a systemd unit \n\n An introduction to how systemd works, how to order commands 
+Category: craftsmanship
+Tags: systemd, command, guide, linux, daemon, tool, unix
