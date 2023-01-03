@@ -3056,3 +3056,11 @@ Link: https://news.ycombinator.com/item?id=34218724
 Body:
 Category: craftsmanship
 Tags: tool, index, note, knowledge-base, haystack, privacy, neural-network, imported, hacker-news
+
+Id: 232ad576-8b37-11ed-bc27-0242ac110003
+Date: Tue, 03 Jan 2023 07:20:44 +0000
+Title: Extending Python with Rust
+Link: https://maxwellrules.com/programming/rusty-python.html
+Body:
+Category: craftsmanship
+Tags: binding, rust, ffi, foreign-function-interface, tool, rumpy, tool
