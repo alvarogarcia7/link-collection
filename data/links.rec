@@ -3088,3 +3088,20 @@ Link: https://news.ycombinator.com/item?id=33693873
 Body: Why CVE-2022-3602 was not detected by fuzz testing
 Category: craftsmanship
 Tags: openssl, fuzzing, fuzz-testing, testing, open-source, c, cve, parser, imported, hacker-news
+
+Id: 74952934-8b37-11ed-b608-0242ac110003
+Date: Tue, 03 Jan 2023 07:23:01 +0000
+Title: Why CVE-2022-3602 was not detected by fuzz testing
+Link: http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html
+Body: So recently a very hyped memory corruption security vulnerability was discovered in the OpenSSL punycode parser.
+Category: craftsmanship
+Tags: openssl, fuzzing, afl, punycode, testing, c-language, cve, cve-2022-3502, hanno
+
+Id: 851405d2-8b37-11ed-82a4-0242ac110003
+Date: Tue, 03 Jan 2023 07:23:29 +0000
+Title: SOFTWARE MIMICRY
+Link: https://www.hillelwayne.com/post/software-mimicry/
+Body: Mimicry is when software X reimplements at a higher level a core feature of software Y
+Category: craftsmanship
+Tags: reification, mimicry, language-feature, terminology, term, dictionary
+
