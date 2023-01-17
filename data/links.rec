@@ -3144,3 +3144,11 @@ Link: https://www.psdn.io/posts/systemd-shutdown-unit/
 Body: Designing a system to shutdown gracefully can be tricky. In an ideal world, every service would be managed by a systemd unit \n\n An introduction to how systemd works, how to order commands 
 Category: craftsmanship
 Tags: systemd, command, guide, linux, daemon, tool, unix
+
+Id: b6f380b8-97c2-11ed-8db6-0242ac110002
+Date: Tue Jan 17 16:06:09 2023
+Title: Software testing, and why I'm unhappy about it
+Link: https://news.ycombinator.com/item?id=34414193
+Body: Testing software when the tests are separate from the main production code (test bench vs library).
+Category: craftsmanship
+Tags: test-bench, repository, testing, acceptance-testing, behavior-driven-development, bdd, cucumber, gherkin, automated-testing, test-suite, continuous-integration, ci, imported, hacker-news
