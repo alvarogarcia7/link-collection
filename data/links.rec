@@ -3184,3 +3184,12 @@ Link: https://news.ycombinator.com/item?id=34706390
 Body:
 Category: finance
 Tags: cbdc, digital-pound, pound, british-pound, gbp, bank-of-england, digital-money, imported, hacker-news
+
+Id: bbe38520-a846-11ed-957a-0242ac110002
+Date: Wed Feb  8 01:46:40 2023
+Title: CBMC: The C Bounded Model Checker
+Link: https://news.ycombinator.com/item?id=34703004
+Body: CBMC on GitHub:\nhttps://github.com/diffblue/cbmc\n\nSome usage examples:\n\nhttps://haslab.github.io/MFES/2122/CBMCexamples-handout.pdf
+Category: craftsmanship
+Tags: cbmc, c, c-language, bound-check, sat-solver, tool, static-analysis, checker, imported, hacker-news
+
