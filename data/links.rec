@@ -3193,3 +3193,10 @@ Body: CBMC on GitHub:\nhttps://github.com/diffblue/cbmc\n\nSome usage examples:\
 Category: craftsmanship
 Tags: cbmc, c, c-language, bound-check, sat-solver, tool, static-analysis, checker, imported, hacker-news
 
+Id: 21676b28-a847-11ed-9bb0-0242ac110002
+Date: Thu, 09 Feb 2023 06:58:17 +0000
+Title: TESTING BAREMETAL FIRMWARE AT NUBIX
+Link: https://blog.nubix.de/index.php/2022/04/06/testing-baremetal-firmware-at-nubix/
+Body: Extensive guide on how to test firmware. Lots of tools, good recommendations
+Category: craftsmanship
+Tags: bare-metal, firmware, testing, nubix, reini-urban, tool, crashdump, testing-pyramid, addresssanitizer, valgrind, memcheck, dr-memory, gperftools, cbmc, clang, c-language, c, heap, stack, fuzzing, afl, llvm, asan, ubsan, memory-sanitizer, memsan, san
