@@ -3200,3 +3200,11 @@ Link: https://blog.nubix.de/index.php/2022/04/06/testing-baremetal-firmware-at-n
 Body: Extensive guide on how to test firmware. Lots of tools, good recommendations
 Category: craftsmanship
 Tags: bare-metal, firmware, testing, nubix, reini-urban, tool, crashdump, testing-pyramid, addresssanitizer, valgrind, memcheck, dr-memory, gperftools, cbmc, clang, c-language, c, heap, stack, fuzzing, afl, llvm, asan, ubsan, memory-sanitizer, memsan, san
+
+Id: 03d88f06-c197-11ed-a96e-0242ac110004
+Date: Sat Mar 11 12:37:03 2023
+Title: Emacs is not just an editor (2015)
+Link: https://news.ycombinator.com/item?id=35107806
+Body: An overview of Emacs as compared to vim (just an editor).
+Category: craftsmanship
+Tags: emacs, vim, editor, operating-system, platform, lisp, ide, macro, doom-emacs, doom, imported, hacker-news
