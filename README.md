@@ -60,6 +60,6 @@ echo "30529727" | ./bin/insert-import-auto.pl "craftsmanship" ; sleep 3
 
 and let it run for a while. It works as of 2023-03-13.
 
-In todoist-integration there is a file called `hackernews-massive-importer.py`.
+In todoist-integration there is a file called `hackernews_massive_importer.py`.
 
 
