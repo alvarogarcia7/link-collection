@@ -48,3 +48,14 @@ https://www.gnu.org/software/recutils/manual/recutils.html
 
 use `make select`, see 'tags.txt' file
 
+## Massive import
+
+Use something like
+
+```
+echo "30529727" | ./bin/insert-import-auto.pl "craftsmanship" ; sleep 3
+(many lines)
+```
+
+and let it run for a while. It works as of 2023-03-13.
+
