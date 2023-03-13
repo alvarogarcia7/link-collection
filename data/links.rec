@@ -3216,3 +3216,11 @@ Link: https://news.ycombinator.com/item?id=35130975
 Body: An interesting course from Cornell about Compilers. Self-paced.
 Category: craftsmanship
 Tags: cornell, education, university, self-paced, compiler, mooc, mit, imported, hacker-news
+
+Id: 99081b8c-c197-11ed-9cad-0242ac110004
+Date: Mon, 13 Mar 2023 12:07:17 +0000
+Title: The Usability of Advanced Type Systems: Rust as a Case Study
+Link: https://arxiv.org/pdf/2301.02308.pdf
+Body: Linear types "are values that must be used exactly once, i.e. they cannot be duplicated or  implicitly discarded"
+Category: craftsmanship
+Tags: type-system, philip-wadler, rust, linear-type, programming-type, memory-safety, thread-safety, ownership
