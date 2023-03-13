@@ -53,9 +53,13 @@ use `make select`, see 'tags.txt' file
 Use something like
 
 ```
+# Start a new container with bash
 echo "30529727" | ./bin/insert-import-auto.pl "craftsmanship" ; sleep 3
 (many lines)
 ```
 
 and let it run for a while. It works as of 2023-03-13.
+
+In todoist-integration there is a file called `hackernews-massive-importer.py`.
+
 
