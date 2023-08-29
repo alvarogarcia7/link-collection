@@ -4896,3 +4896,12 @@ Link: https://news.ycombinator.com/item?id=34890787
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
+
+Id: 41419550-46fc-11ee-bfbe-0242ac110002
+Date: Tue Aug 29 08:30:52 2023
+Title: Elixir saves Pinterest M a year in server costs
+Link: https://news.ycombinator.com/item?id=37304851
+Body: An example of how rewriting a microservice from AWS Lambda to elixir can save 97% of server costs. From 150 servers to 5.
+Category: craftsmanship
+Tags: imported, hacker-news, elixir, rewrite, jose-valim, aws, cost, aws-gateway, serverless, lambda, microservice
+
