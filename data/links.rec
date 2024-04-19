@@ -4905,3 +4905,10 @@ Body: An example of how rewriting a microservice from AWS Lambda to elixir can s
 Category: craftsmanship
 Tags: imported, hacker-news, elixir, rewrite, jose-valim, aws, cost, aws-gateway, serverless, lambda, microservice
 
+Id: 84577b0a-fe37-11ee-abb1-0242ac110003
+Date: Fri Apr 19 01:00:49 2024
+Title: Setting up PostgreSQL for running integration tests
+Link: https://news.ycombinator.com/item?id=40082409
+Body: Setting up PostgreSQL for running integration tests
+Category: craftsmanship
+Tags: imported, hacker-news, postgresql, testing, tdd, nodejs, javascript, sqlite, database, db
