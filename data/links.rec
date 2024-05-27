@@ -4912,3 +4912,11 @@ Link: https://news.ycombinator.com/item?id=40082409
 Body: Setting up PostgreSQL for running integration tests
 Category: craftsmanship
 Tags: imported, hacker-news, postgresql, testing, tdd, nodejs, javascript, sqlite, database, db
+
+Id: 38e9c55c-1cea-11ef-b78f-0242ac110003
+Date: Mon May 27 15:31:24 2024
+Title: Should I use JWTs for authentication tokens?
+Link: https://news.ycombinator.com/item?id=40491694
+Body: Do not use JWT (json Web Tokens) for authentication unless you are a Google/FAANG scale company
+Category: craftsmanship
+Tags: imported, hacker-news, json-web-token, jwt, faang, google, authentication, authentication-token, refresh-token, session-token, session-management
