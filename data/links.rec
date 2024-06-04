@@ -5692,3 +5692,12 @@ Category: craftsmanship
 Tags: hackernews, imported, dredmorbius, glassblower, university, hardware, profession, glass
 Origin: https://news.ycombinator.com/item?id=40549209
 
+Id: 9d13bb1f-d681-489d-9db9-e30c5a27ce58
+Date: Tue, 04 Jun 2024 19:25:47 +0000
+Link: https://github.com/EwenQuim/entropy
+Title: Entropy, a CLI that scans files to find high entropy lines (might be secrets)
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, lanfeust, tool, entropy, leak, secret, token
+Origin: https://news.ycombinator.com/item?id=40578060
+
