@@ -5638,3 +5638,12 @@ Category: craftsmanship
 Tags: hackernews, imported, gfairbanks, backlog, garbage-collection, spring-cleanup, technical-debt, product-owner
 Origin: https://news.ycombinator.com/item?id=40616966
 
+Id: e47d1d17-877e-4173-b017-6028a8311741
+Date: Wed, 05 Jun 2024 01:25:09 +0000
+Link: https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/
+Title: You'll regret using natural keys
+Body: 
+Category: natural key
+Tags: hackernews, imported, thunderbong, natural-key, mark-seemann, ploeh, sql, key-identifier, primary-key, uuid
+Origin: https://news.ycombinator.com/item?id=40580549
+
