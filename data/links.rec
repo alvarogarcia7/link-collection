@@ -5701,3 +5701,12 @@ Category: craftsmanship
 Tags: hackernews, imported, lanfeust, tool, entropy, leak, secret, token
 Origin: https://news.ycombinator.com/item?id=40578060
 
+Id: ad947ed7-a1da-48b6-b614-141ebd56cb80
+Date: Fri, 07 Jun 2024 13:06:43 +0000
+Link: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf
+Title: Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, mtmk, instruction-set, isa, neon, avx2, avx512, arm, hardware, vectorization, optimization
+Origin: https://news.ycombinator.com/item?id=40608373
+
