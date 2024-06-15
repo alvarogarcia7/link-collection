@@ -1865,7 +1865,7 @@ Category: craftsmanship
 Tags: tcpdump, example, tool, tcpreplay, tcpdump-suite, network, network-analysis
 
 Id: 4f1fff12-6abe-11eb-b7d1-0242ac110002
-Date: Tue, 08 Feb 2021 22:05:16 +0000
+Date: Mon, 08 Feb 2021 22:05:16 +0000
 Title: Journaling
 Link: https://wiki.nikitavoloboev.xyz/life/journaling
 Body: Nikita Voloboev explains how he does journaling
@@ -1873,7 +1873,7 @@ Category: craftsmanship
 Tags: nikita-voloboev, knowledge-base, journal, journaling, bullet-journal
 
 Id: 6b4d4974-6abe-11eb-a6d5-0242ac110002
-Date: Tue, 08 Feb 2021 22:06:04 +0000
+Date: Mon, 08 Feb 2021 22:06:04 +0000
 Title: Backups
 Link: https://wiki.nikitavoloboev.xyz/backups
 Body: A curated list on backup tools
@@ -1881,7 +1881,7 @@ Category: craftsmanship
 Tags: nikita-voloboev, knowledge-base, backup, awesome, curated-list
 
 Id: 2860fbfa-6abf-11eb-a986-0242ac110002
-Date: Tue, 08 Feb 2021 22:11:21 +0000
+Date: Mon, 08 Feb 2021 22:11:21 +0000
 Title: Lessons learned when my SSD died
 Link: https://bsago.me/posts/lessons-learned-when-my-ssd-died
 Body: what to do before your ssd dies: backup everything (too much is preferrable than too little).\n\nmake it automated\n\nrehearse the restore often (to practice)
@@ -1889,7 +1889,7 @@ Category: craftsmanship
 Tags: ssd, raid, redundancy, backup, data, protection
 
 Id: 47323ed6-6abf-11eb-8d86-0242ac110002
-Date: Tue, 08 Feb 2021 22:12:13 +0000
+Date: Mon, 08 Feb 2021 22:12:13 +0000
 Title: How to store data forever
 Link: https://drewdevault.com/2020/04/22/How-to-store-data-forever.html
 Body: explains ideas on keeping data forever. Pros and cons of RAID
@@ -1897,7 +1897,7 @@ Category: craftsmanship
 Tags: raid, comparison, backup, drew-devault
 
 Id: 6467dd26-6abf-11eb-9b97-0242ac110002
-Date: Tue, 08 Feb 2021 22:13:02 +0000
+Date: Mon, 08 Feb 2021 22:13:02 +0000
 Title: Socket Programming in C/C++
 Link: https://www.geeksforgeeks.org/socket-programming-cc/
 Body:
@@ -1905,7 +1905,7 @@ Category: craftsmanship
 Tags: socket, programming, c/c++, network
 
 Id: 7d2d32e8-6abf-11eb-a983-0242ac110002
-Date: Tue, 08 Feb 2021 22:13:43 +0000
+Date: Mon, 08 Feb 2021 22:13:43 +0000
 Title: Unix Sockets
 Link: https://beej.us/guide/bgipc/html/multi/unixsock.html
 Body:
@@ -1913,7 +1913,7 @@ Category: craftsmanship
 Tags: unix, socket, c/c++, networking, guide, beej
 
 Id: 9221d4ec-6abf-11eb-a41a-0242ac110002
-Date: Tue, 08 Feb 2021 22:14:18 +0000
+Date: Mon, 08 Feb 2021 22:14:18 +0000
 Title: Unix Domain Sockets
 Link: https://pymotw.com/2/socket/uds.htmlhttps://pymotw.com/2/socket/uds.html
 Body:
@@ -1921,7 +1921,7 @@ Category: craftsmanship
 Tags: python, socket, networking, unix, guide
 
 Id: d0614846-6abf-11eb-95e8-0242ac110002
-Date: Tue, 08 Feb 2021 22:16:03 +0000
+Date: Mon, 08 Feb 2021 22:16:03 +0000
 Title: A New Linux Malware Targeting High-Performance Computing Clusters
 Link: https://thehackernews.com/2021/02/a-new-linux-malware-targeting-high.html
 Body:
