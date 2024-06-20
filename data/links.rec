@@ -5737,3 +5737,12 @@ Category: craftsmanship
 Tags: hackernews, imported, luu, utilization, efficiency
 Origin: https://news.ycombinator.com/item?id=40714544
 
+Id: 7dbee8e7-7279-4e58-bb4a-2042875b41a1
+Date: Thu, 20 Jun 2024 18:59:34 +0000
+Link: https://www.fuzzmap.io/
+Title: Fuzz Map
+Body: Fuzz Map is a fuzzer for GUIs that automatically identifies states using code coverage and builds a visual map. Ideally, the map is useful even to people who'd prefer not to read code.
+Category: craftsmanship
+Tags: hackernews, imported, paulhoule, tool, visual-testing, gui, fuzzing, fuzz-map, visual-map, ux, ui
+Origin: https://news.ycombinator.com/item?id=40742014
+
