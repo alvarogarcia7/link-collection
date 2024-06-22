@@ -5746,3 +5746,12 @@ Category: craftsmanship
 Tags: hackernews, imported, paulhoule, tool, visual-testing, gui, fuzzing, fuzz-map, visual-map, ux, ui
 Origin: https://news.ycombinator.com/item?id=40742014
 
+Id: bed763bf-2b40-4c93-8dfb-3cf44719f73a
+Date: Sat, 22 Jun 2024 12:39:57 +0000
+Link: https://github.com/mattrighetti/envelope
+Title: Show HN: Envelope – A modern environment variable cli tool
+Body: cli tool to manage env variables of a project
+Category: craftsmanship
+Tags: hackernews, imported, mattrighetti, tool, cli, export, variable, rust
+Origin: https://news.ycombinator.com/item?id=40758703
+
