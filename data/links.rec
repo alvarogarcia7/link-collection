@@ -5575,3 +5575,12 @@ Category: philosophy
 Tags: hackernews, imported, jger15, change, travel, escape, life-management, actualization
 Origin: https://news.ycombinator.com/item?id=36301758
 
+Id: 68a46e7e-8140-475b-87e3-0cde1fdaee15
+Date: Thu, 27 Jun 2024 17:46:21 +0000
+Link: https://dl.acm.org/doi/10.1145/3652588.3663324
+Title: Misconceptions about loops in C
+Body: Investigation about the loop in C
+Category: craftsmanship
+Tags: hackernews, imported, matt_d, programming, c-programming-language, c, loop, goto, trick, deconstruction
+Origin: https://news.ycombinator.com/item?id=40813077
+
