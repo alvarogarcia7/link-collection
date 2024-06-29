@@ -4920,3 +4920,19 @@ Link: https://news.ycombinator.com/item?id=40491694
 Body: Do not use JWT (json Web Tokens) for authentication unless you are a Google/FAANG scale company
 Category: craftsmanship
 Tags: imported, hacker-news, json-web-token, jwt, faang, google, authentication, authentication-token, refresh-token, session-token, session-management
+
+Id: 5e42cb33-8b5c-4f6a-973e-028b08c943a9
+Date: Fri Jun 14 06:18:05 2024
+Title: Group chats rule the world
+Link: https://sriramk.com/group-chats-rule-the-world
+Body: Some patterns of group chats to keep in mind. Mentions: Gardener, not carpenter; Cooling rods and nuclear reactors; The n-1 group; Dinner party alchemy; Gravitational pull of a few topics; Size and Pruning; Shared rituals
+Category: craftsmanship
+Tags: vitalik-buterin, sriram-krishnan, group-chat, pattern, hackernews
+
+Id: b8982368-5df9-415d-aa3a-9813443a278b
+Date: Sun, 16 Jun 2024 10:22:49 +0000
+Link: https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html
+Title: Static arrays are the best vectors
+Body: an article explaining how to mantain a vector on top of a static array in C. The trick is to allocate a big static buffer and only consume whatever is needed.
+Category: craftsmanship
+Tags: hackernews, imported, bwidlar, c, static-array, vector, memory-management, mynameistrez
