@@ -4954,3 +4954,22 @@ Category: craftsmanship
 Tags: hackernews, imported, raju, technical-book, publishing, writing, author, authoring, gregor-hohpe, income, royalties, passive-income, gumroad, leanpub, amazon, publisher
 
 
+Id: 4e671827-8080-404a-90f0-e6e215823535
+Date: Sat, 29 Jun 2024 11:38:01 +0000
+Link: https://mbuffett.com/posts/programming-advice-younger-self/
+Title: A bunch of programming advice I'd give to myself 15 years ago
+Body: learnings from a senior developer to a more younger self:
++ * If you (or your team) are shooting yourselves in the foot constantly, fix the gun
++ * Assess the trade-off you’re making between quality and pace, make sure it’s appropriate for your context
++ * Spending time sharpening the axe is almost always worth it
++ * If you can’t easily explain why something is difficult, then it’s incidental complexity, which is probably worth addressing
++ * Try to solve bugs one layer deeper
++ * Don’t underestimate the value of digging into history to investigate some bugs
++ * Bad code gives you feedback, perfect code doesn’t. Err on the side of writing bad code
++ * Make debugging easier
++ * When working on a team, you should usually ask the question
++ * Shipping cadence matters a lot. Think hard about what will get you shipping quickly and often
++ * You are not your job
+Category: craftsmanship
+Tags: hackernews, imported, marcusbuffett, advice, list, programming, senior, reflect-as-you-go, rayg, rayw, reflect-as-you-work
+
