@@ -5424,3 +5424,11 @@ Category: craftsmanship
 Tags: hackernews, imported, todsacerdoti, cryptography, metro, public-transport, signature, one-time-use, public-key-cryptography
 Origin: https://news.ycombinator.com/item?id=40769001
 
+Id: 028b0e1f-a181-4469-8789-900ce6641d97
+Date: Sun, 01 Jul 2024 17:22:52 +0000
+Link: http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf 
+Title: Managing projects with GNU Make, Third Edition
+Body: book about GNU Make, with recipes and going into detail about how to use it
+Category: craftsmanship
+Tags: book, make, gnu-make, project, skeleton, ci, continuous-integration
+
