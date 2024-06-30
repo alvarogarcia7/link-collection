@@ -1,6 +1,8 @@
 %rec: Link
 %key: Id
 %type: Title line
+%type: Url line
+%type: Origin line
 %type: Category line
 %type: Tags line
 %type: Id uuid
