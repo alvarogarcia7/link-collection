@@ -989,7 +989,12 @@ Date: Sat, 15 Dec 2018 15:55:51 +0000
 Category: craftsmanship
 Title: The Reason Many Ultrarich People Aren’t Satisfied With Their Wealth
 Link: https://www.theatlantic.com/family/archive/2018/12/rich-people-happy-money/577231/
-Body: How the rich are motivated to earn more money\n>really rich people are often motivated to acquire more money by the thrill that comes with multiplying one’s fortune by making investments, buying up businesses\n>Those two ways of putting money to use—as a way of covering expenses or as a way of building a bigger fortune—\n>Every billionaire I’ve spoken to, and I’ve spoken to quite a number of them, is extremely excited by each additional increment of money they make\n> Do I have enough to buy this expensive thing I want? but rather Do I have as much or more than these people I’m comparing myself with?\n\n>feeling wealthy is about comparison with others in your reference group. So the question is not what individuals want to buy, but what they feel they must buy in order to keep up their status
+Body: How the rich are motivated to earn more money
++ >really rich people are often motivated to acquire more money by the thrill that comes with multiplying one’s fortune by making investments, buying up businesses
++ >Those two ways of putting money to use—as a way of covering expenses or as a way of building a bigger fortune—
++ >Every billionaire I’ve spoken to, and I’ve spoken to quite a number of them, is extremely excited by each additional increment of money they make
++ > Do I have enough to buy this expensive thing I want? but rather Do I have as much or more than these people I’m comparing myself with?
++ >feeling wealthy is about comparison with others in your reference group. So the question is not what individuals want to buy, but what they feel they must buy in order to keep up their status
 Tags: rich, wealth, the-atlantic, longform, management, wealth-management, motivation, elite, ultrarich, money
 
 Id: 6ef4bf24-0082-11e9-a076-0242ac110002
@@ -1005,7 +1010,9 @@ Date: Tue, 01 Jan 2019 18:27:51 +0000
 Category: craftsmanship
 Title: Work cycles
 Link: https://docs.google.com/document/d/1DKLDpCwvzn_z2tokwC80yOmidueO6x58dt4DEbkc84Q/edit#
-Body: I've read this Work Cycle framework to be more productive with your daily routine.\nSuggests an alternative to Pomodoro technique, in which you are to write down the contents of the goal, then split in small chunks (periods) of time to complete the individual tasks, then debrief at the end of the period and at the end of the cycle.\nAn analogy could be a double-loop Pomodoro technique for tasks.
+Body: I've read this Work Cycle framework to be more productive with your daily routine.
++ Suggests an alternative to Pomodoro technique, in which you are to write down the contents of the goal, then split in small chunks (periods) of time to complete the individual tasks, then debrief at the end of the period and at the end of the cycle.
++ An analogy could be a double-loop Pomodoro technique for tasks.
 Tags: pomodoro, pomodoro-technique, framework, management, productivity, personal-productivity, gtd, getting-things-done, work-cycle, cycle, time-management, mental-framework
 
 Id: 15ca63e4-0df8-11e9-b145-0242ac110002
@@ -1037,7 +1044,8 @@ Date: Fri, 01 Feb 2019 15:56:58 +0000
 Category: craftsmanship
 Title: A Critique of ANSI SQL Isolation Levels
 Link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf
-Body: I've read this paper that explains the ANSI SQL isolation levels\n
+Body: I've read this paper that explains the ANSI SQL isolation levels
++ 
 Tags: non-repeatable, fuzzy-read, dirty-read, phantom, phantom-read, isolation, serializability, consistency, consistency, consistency-level, read-uncommitted, read-committed, repeatable-read, serializable, microsoft
 
 Id: 4a1c6f7a-263a-11e9-8e08-0242ac110002
@@ -1053,7 +1061,21 @@ Date: Wed, 27 Feb 2019 13:18:10 +0000
 Category: craftsmanship
 Title: No todo el mundo sabe o debe dar feedback
 Link: https://softwareyotrasdesvirtudes.com/2018/11/26/no-todo-el-mundo-sabe-o-debe-dar-feedback/
-Body: The author explains why some feedback is dangerous: either the way of giving it, or the message, or both.\nIn this case, she's talking about the Commit Conf, but this is applicable to any situation\nPara dar un buen feedback es importante:\n\n  * Primero: agradecer el esfuerzo por la charla.\n  * Segundo: resaltar algo positivo de ella.  Seguro que algo cumple.\n  * Tercero: decir cómo mejorarías un aspecto\n  * Último: volver a dar las gracias o decir una frase buena que motive.\n \nDar un mal feedback es muy fácil:\n\n  * Primero: no leerte la descripción ni el nivel de la charla\n  * Segundo: te cabreas porque no es lo esperado y dudabas entre esa y otra charla\n  * Tercero: dices lo que no te ha gustado sin rodeos.\n  * Cuarto: además asumes cosas que no ha hecho y las escribes. Igual que yo he hecho en el Primero y Segundo.\n  * Quinto: si además dices algo faltoso gana puntos.\n  * Sexto: Utilizas esa tónica destructiva en todos.
+Body: The author explains why some feedback is dangerous: either the way of giving it, or the message, or both.
++ In this case, she's talking about the Commit Conf, but this is applicable to any situation
++ Para dar un buen feedback es importante:
++   * Primero: agradecer el esfuerzo por la charla.
++   * Segundo: resaltar algo positivo de ella.  Seguro que algo cumple.
++   * Tercero: decir cómo mejorarías un aspecto
++   * Último: volver a dar las gracias o decir una frase buena que motive.
++  
++ Dar un mal feedback es muy fácil:
++   * Primero: no leerte la descripción ni el nivel de la charla
++   * Segundo: te cabreas porque no es lo esperado y dudabas entre esa y otra charla
++   * Tercero: dices lo que no te ha gustado sin rodeos.
++   * Cuarto: además asumes cosas que no ha hecho y las escribes. Igual que yo he hecho en el Primero y Segundo.
++   * Quinto: si además dices algo faltoso gana puntos.
++   * Sexto: Utilizas esa tónica destructiva en todos.
 Tags: laura-lacarra, commit, commit-conf, feedback, good-feedback, honest-feedback, spanish
 
 Id: 95554892-3a92-11e9-9bbf-0242ac110003
@@ -1061,7 +1083,14 @@ Date: Wed, 27 Feb 2019 13:21:25 +0000
 Category: craftsmanship
 Title: How to Deal with Difficult People on Software Projects
 Link: https://people.neilon.software/
-Body: I've read this guide on dealing with difficult people.\nThere are many (48) personality types, including these types:\n  * Product Managers\n  * Designers\n  * Project Managers\n  * Development Managers\n  * Developers\n  * Quality Assurance
+Body: I've read this guide on dealing with difficult people.
++ There are many (48) personality types, including these types:
++   * Product Managers
++   * Designers
++   * Project Managers
++   * Development Managers
++   * Developers
++   * Quality Assurance
 Tags: people, people-management, personality-type, guide, neil-green
 
 Id: 0078d58a-3a93-11e9-8f23-0242ac110003
@@ -1077,7 +1106,8 @@ Date: Wed, 27 Feb 2019 13:26:16 +0000
 Category: craftsmanship
 Title: The Values and Principles of Agile Software Development
 Link: https://www.slideshare.net/bradapp/the-values-and-principles-of-agile-software-development
-Body: I've read the slides of this presentation by Brad Appleton, on Values, Principles, and Practices in an Agile environment.\nPlenty of good quotes
+Body: I've read the slides of this presentation by Brad Appleton, on Values, Principles, and Practices in an Agile environment.
++ Plenty of good quotes
 Tags: brad-appleton, slideshare, slide, agile, practice, principle, value, xp, extreme-programming, quote, lean-software, lean
 
 Id: d6a4b78c-3a93-11e9-88d7-0242ac110003
@@ -1085,7 +1115,18 @@ Date: Wed, 27 Feb 2019 13:30:24 +0000
 Category: craftsmanship
 Title: Makefiles como dejar de memorizar comandos en docker – Developer Vago
 Link: https://jesuslc.com/2018/04/21/makefiles-como-dejar-de-memorizar-comandos-en-docker-developer-vago/
-Body: I've discovered a new technique for Makefiles:\n\nUsing a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.\n\n```bash\n.PHONY: help\nhelp: ## Print this help.\n  @grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = \":.*?## \"}; {printf \"\033[36m%-20s\033[0m %s\n\", $$1, $$2}'\n```\n\nwhen you run `make help`, then \n\n```\nPrint this help.\n```
+Body: I've discovered a new technique for Makefiles:
++ Using a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.
++ ```bash
++ .PHONY: help
++ help: ## Print this help.
++   @grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = \":.*?## \"}; {printf \"\033[36m%-20s\033[0m %s
++ \", $$1, $$2}'
++ ```
++ when you run `make help`, then 
++ ```
++ Print this help.
++ ```
 Tags: makefile, jesuslc, documentation, executable-documentation, awk, trick, help
 
 Id: add12910-3b3f-11e9-8a1b-0242ac110003
@@ -1093,7 +1134,11 @@ Date: Thu, 28 Feb 2019 8:00:29 +0000
 Category: craftsmanship
 Title: How to Create Reality
 Link: https://www.mrmoneymustache.com/2019/02/27/how-to-create-reality/
-Body: In this article, it is explained how to create a (different) reality in the mind of your target (users).\n\n> Begin with the End in Mind – and Start by Painting a Beautiful Picture of that end  destination.\n\n> It’s the technique at the core of the world’s best marketing and negotiation strategies, and it works so well because it short circuits the human brain into making everyone – including you – see things in the desired way.\n\n>It was a simple picture of a very clear end destination that automatically got people’s imagination running and filling in their own details.\n\nThere are some examples as well.
+Body: In this article, it is explained how to create a (different) reality in the mind of your target (users).
++ > Begin with the End in Mind – and Start by Painting a Beautiful Picture of that end  destination.
++ > It’s the technique at the core of the world’s best marketing and negotiation strategies, and it works so well because it short circuits the human brain into making everyone – including you – see things in the desired way.
++ >It was a simple picture of a very clear end destination that automatically got people’s imagination running and filling in their own details.
++ There are some examples as well.
 Tags: communication, people-management, leadership, marketing, pete-adeney, mr-money-mustache, paint-the-picture, technique
 
 Id: 3841f764-3b40-11e9-9d75-0242ac110003
@@ -1101,7 +1146,11 @@ Date: Thu, 28 Feb 2019 8:04:21 +0000
 Category: craftsmanship
 Title: Red Flags in Software Developer Job Descriptions
 Link: https://joecmarshall.com/posts/job-description-red-flags/
-Body: I've read this article that explains some red flags the author has detected while reading job offers:\n\n  * Wordpress Developer - Degree + 10 years experience required: refers to the exageration of needed qualifications for jobs that do not require it, apparently.\n  * PHP Contractor - 2 Months: refers to the short-term mentality of jobs, and the environment that it creates\n  * Early Stage Emmployee / Technical Co-founder / Person to Make My Thing: refers to how cheap ideas are and how important (to developers) execution is.\n  * Technologies: Coldfusion + jQuery: refers to old/out of fashion technologies
+Body: I've read this article that explains some red flags the author has detected while reading job offers:
++   * Wordpress Developer - Degree + 10 years experience required: refers to the exageration of needed qualifications for jobs that do not require it, apparently.
++   * PHP Contractor - 2 Months: refers to the short-term mentality of jobs, and the environment that it creates
++   * Early Stage Emmployee / Technical Co-founder / Person to Make My Thing: refers to how cheap ideas are and how important (to developers) execution is.
++   * Technologies: Coldfusion + jQuery: refers to old/out of fashion technologies
 Tags: job-offer, pattern, joe-marshall, old-technology, fashionable, short-term, long-term, mentality, hiring, recruiting
 
 Id: 0eb0ef62-3b41-11e9-863a-0242ac110003
@@ -1109,7 +1158,20 @@ Date: Thu, 28 Feb 2019 8:10:21 +0000
 Category: craftsmanship
 Title: Ask HN: How to be productive with big existing code base
 Link: https://news.ycombinator.com/item?id=19254008
-Body: In this HN discussion, there are some pearls regarding working with big, legacy codebases:\n\n  * Just because you wouldn't have done it the way they did doesn't mean they did it wrong. A reference to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)\n  * A reference to Working Effectively With Legacy Code, by Feathers\n  * > 1. Assess how much of the code is actually understood. Is there any record of the > design decisions, the edge cases, the debugging process, the paths that weren't taken? Who knows the most about the codebase and how it got to be how it is?\n  * > 2. What's the current specification? Don't look at the stack, look at input and output cases. How well does the code meet the spec? Where is it failing?\n  * > 3. Before you change anything you need to know what the change process is. You > probably do already know this, but if you don't need to find out whether there are > any demarcations of responsibility, even if they're only informal and unstated areas of interest.\n  * > 4. When you have all that, you can start working on the code with some knowledge of the context you - and the code - are operating in.\n  * > 5. If code works, don't rewrite or refactor for style without a very very good > reason. And don't do it unless you can change all the "bad" code at once. Otherwise > you'll end up with a mess of incompatible idioms that make future changes hard to read.\n  * > 6. Write your own docs as you go. Best case is other people will benefit from reading them, worst case is you'll remind yourself what you were doing six months from now - because you'll have forgotten by then.\n  * A reference to flamegraphs\n  * > The problem with the after-the-fact abstraction layer is that if the original team members are not available, you are likely not in possession of the whole theory of the software. Hence it is not likely you can in the beginning choose the right abstractions. Endquote. This is a reference to "Programming as theory building"\n  * > Get it into a state that will support current business goals and roadmap while protecting current business value and users.\n\n\nNote: the quotes are copied directly from the discussion page and are property of the original commentators.
+Body: In this HN discussion, there are some pearls regarding working with big, legacy codebases:
++   * Just because you wouldn't have done it the way they did doesn't mean they did it wrong. A reference to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
++   * A reference to Working Effectively With Legacy Code, by Feathers
++   * > 1. Assess how much of the code is actually understood. Is there any record of the > design decisions, the edge cases, the debugging process, the paths that weren't taken? Who knows the most about the codebase and how it got to be how it is?
++   * > 2. What's the current specification? Don't look at the stack, look at input and output cases. How well does the code meet the spec? Where is it failing?
++   * > 3. Before you change anything you need to know what the change process is. You > probably do already know this, but if you don't need to find out whether there are > any demarcations of responsibility, even if they're only informal and unstated areas of interest.
++   * > 4. When you have all that, you can start working on the code with some knowledge of the context you - and the code - are operating in.
++   * > 5. If code works, don't rewrite or refactor for style without a very very good > reason. And don't do it unless you can change all the "bad" code at once. Otherwise > you'll end up with a mess of incompatible idioms that make future changes hard to read.
++   * > 6. Write your own docs as you go. Best case is other people will benefit from reading them, worst case is you'll remind yourself what you were doing six months from now - because you'll have forgotten by then.
++   * A reference to flamegraphs
++   * > The problem with the after-the-fact abstraction layer is that if the original team members are not available, you are likely not in possession of the whole theory of the software. Hence it is not likely you can in the beginning choose the right abstractions. Endquote. This is a reference to "Programming as theory building"
++   * > Get it into a state that will support current business goals and roadmap while protecting current business value and users.
++ 
++ Note: the quotes are copied directly from the discussion page and are property of the original commentators.
 Tags: wewlc, michael-feathers, hackernews, yc, legacy-code, theory-building, quote, chesterton-fence, working-effectively-with-legacy-code, programming-as-theory-building
 
 Id: 5bed4596-3f5b-11e9-83e1-0242ac110005
@@ -1117,7 +1179,8 @@ Date: Tue, 05 Mar 2019 15:28:42 +0000
 Category: craftsmanship
 Title: NodeJS logging made right
 Link: https://itnext.io/nodejs-logging-made-right-117a19e8b4ce
-Body: Explains logging and tracing in nodejs.\n\nUsage of thread-local storage, trace id, continuation local storage.
+Body: Explains logging and tracing in nodejs.
++ Usage of thread-local storage, trace id, continuation local storage.
 Tags: nodejs, logging, tracing, thread-local, thread-local-storage, trace-id, continuation-local-storage, cls, tls, proxy, hook
 
 Id: 5101ce2e-3f5e-11e9-83d9-0242ac110005
@@ -1125,7 +1188,37 @@ Date: Tue, 05 Mar 2019 15:49:52 +0000
 Category: craftsmanship
 Title: Web Design 3.0: When Your Web Design Really Matters
 Link: https://nicepage.com/doc/article/20348/web-design-3-0-when-your-web-design-really-matters
-Body: In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.\n\n> In Chapter 2, we will talk about website builders that are lagging behind the trends and slowing down the Web Design evolution.\n\n> In Chapter 3, you will learn how to create modern web designs quickly and easily in a new way.\n\nHas walk through the different design phases, techniques; both in press (printed) design as in web design.\n\nExplains some web builders.\n\nExplains the concept of the web 3.0:\n\n>  * Free positioning.\n>  * Element overlapping.\n>  * Breaking the limitations of Bootstrap-like Grids.\n\nStates the different needs for webmasters and designers:\n\n> Web Designers need:\n> \n>   * Free positioning\n>   * Removing table constraints\n>   * Layers\n>   * Property Panel for elements\n>   * Support for Windows and Mac OS\n> \n> \n> Webmasters need:\n> \n>   * Clean HTML and CSS\n>   * Mobile device support\n>   * WordPress and Joomla support\n>   * Building websites online\n\nSummary\n\n> Website builders are lagging behind the rapidly changing Web Design world.\n> \n> The history of web design tools has involved several transitions. However, progress has stopped. There are numerous signs that the new transition must happen.\n> \n> There are separate markets for web designers and webmasters. Popular website builders do not support the main features of Web Design 3.0: free positioning, modern grids, and layers.
+Body: In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.
++ > In Chapter 2, we will talk about website builders that are lagging behind the trends and slowing down the Web Design evolution.
++ > In Chapter 3, you will learn how to create modern web designs quickly and easily in a new way.
++ Has walk through the different design phases, techniques; both in press (printed) design as in web design.
++ Explains some web builders.
++ Explains the concept of the web 3.0:
++ >  * Free positioning.
++ >  * Element overlapping.
++ >  * Breaking the limitations of Bootstrap-like Grids.
++ States the different needs for webmasters and designers:
++ > Web Designers need:
++ > 
++ >   * Free positioning
++ >   * Removing table constraints
++ >   * Layers
++ >   * Property Panel for elements
++ >   * Support for Windows and Mac OS
++ > 
++ > 
++ > Webmasters need:
++ > 
++ >   * Clean HTML and CSS
++ >   * Mobile device support
++ >   * WordPress and Joomla support
++ >   * Building websites online
++ Summary
++ > Website builders are lagging behind the rapidly changing Web Design world.
++ > 
++ > The history of web design tools has involved several transitions. However, progress has stopped. There are numerous signs that the new transition must happen.
++ > 
++ > There are separate markets for web designers and webmasters. Popular website builders do not support the main features of Web Design 3.0: free positioning, modern grids, and layers.
 Tags: comparison, web-design, print-design, web-builder, creativity, metaphor, grid-layout, bootstrap, flexibility, design, web-3.0, web-design-3.0, web-2.0, progression
 
 Id: e839c82a-4367-11e9-b34d-0242ac110007
@@ -1149,7 +1242,9 @@ Date: Sun, 10 Mar 2019 19:54:03 +0000
 Category: craftsmanship
 Title: ArchiveBox: Open-source self-hosted web archive
 Link: https://news.ycombinator.com/item?id=19346985
-Body: Tools for archiving purposes. Has links to other sites:\n\nhttps://github.com/machawk1/warcreate\nhttps://getpolarized.io/
+Body: Tools for archiving purposes. Has links to other sites:
++ https://github.com/machawk1/warcreate
++ https://getpolarized.io/
 Tags: burtonator, web-archive, polarized, warch, warc, personal-knowledge-base
 
 Id: b74a6696-4c83-11e9-99bd-0242ac110005
@@ -1165,7 +1260,9 @@ Date: Thu, 28 Mar 2019 10:19:16 +0000
 Category: craftsmanship
 Title: What I Learned in My First Year as a Solo Founder
 Link: https://tik.dev/lessons-learned
-Body: Learnings by a solo founder.\n\nBenefits of having a side project or side hustle\n
+Body: Learnings by a solo founder.
++ Benefits of having a side project or side hustle
++ 
 Tags: side-hustle, side-business, learning, reflection, solo-founder, founder, revenue
 
 Id: d148d774-5144-11e9-94d8-0242ac110006
@@ -1173,7 +1270,12 @@ Date: Thu, 28 Mar 2019 10:32:42 +0000
 Category: craftsmanship
 Title: Write tests. Not too many. Mostly integration.
 Link: https://kentcdodds.com/blog/write-tests
-Body: This is a paraphrasing of some advice for healthy eating: 'Eat food, not too much, mostly plants.' (Pollan)\n\n> Write tests.\n\n> Often I find myself saving time when I put time in to write tests\n\n> Not too many: you get diminishing returns on your tests as the coverage increases [...]\n\n> Mostly integration: as you move up the pyramid, the confidence quotient of each form of testing increases\n\n> Integration tests strike a great balance on the trade-offs between confidence and speed/expense
+Body: This is a paraphrasing of some advice for healthy eating: 'Eat food, not too much, mostly plants.' (Pollan)
++ > Write tests.
++ > Often I find myself saving time when I put time in to write tests
++ > Not too many: you get diminishing returns on your tests as the coverage increases [...]
++ > Mostly integration: as you move up the pyramid, the confidence quotient of each form of testing increases
++ > Integration tests strike a great balance on the trade-offs between confidence and speed/expense
 Tags: unit-test, testing, test-pyramid, healthy-testing, advice, integration-test, quote, kent-c-dodds, analogy
 
 Id: 30ece1fc-5145-11e9-87de-0242ac110006
@@ -1181,7 +1283,21 @@ Date: Thu, 28 Mar 2019 10:35:22 +0000
 Category: craftsmanship
 Title: 7 Rules for Eating
 Link: https://www.webmd.com/food-recipes/news/20090323/7-rules-for-eating
-Body: In this reference article, Michael Pollan explains his seven rules for eating:\n\n  1. Don't eat anything your great grandmother wouldn't recognize as food. "When you pick up that box of portable yogurt tubes, or eat something with 15 ingredients you can't pronounce, ask yourself, "What are those things doing there?" Pollan says.\n  1. Don’t eat anything with more than five ingredients, or ingredients you can't pronounce.\n  1. Stay out of the middle of the supermarket; shop on the perimeter of the store. Real food tends to be on the outer edge of the store near the loading docks, where it can be replaced with fresh foods when it goes bad.\n  1. Don't eat anything that won't eventually rot. "There are exceptions -- honey -- but as a rule, things like Twinkies that never go bad aren't food," Pollan says.\n  1. It is not just what you eat but how you eat. "Always leave the table a little hungry," Pollan says. "Many cultures have rules that you stop eating before you are full. In Japan, they say eat until you are four-fifths full. Islamic culture has a similar rule, and in German culture they say, 'Tie off the sack before it's full.'"\n  1. Families traditionally ate together, around a table and not a TV, at regular meal times. It's a good tradition. Enjoy meals with the people you love. "Remember when eating between meals felt wrong?" Pollan asks.\n  1. Don't buy food where you buy your gasoline. In the U.S., 20% of food is eaten in the car.\n\n\nAlso, four myths:\n\n  1. Food is a delivery vehicle for nutrients. What really matters isn't broccoli but its fiber and antioxidants. If we get that right, we get our diet right. Foods kind of get in the way.\n  1. We need experts to tell us how to eat. Nutrients are invisible and mysterious. "It is a little like religion," Pollan said. "If a powerful entity is invisible, you need a priesthood to mediate your relation with food."\n  1. The whole point of eating is to maintain and promote bodily health. "You are either improving or ruining your health when you eat -- that is a very American idea," Pollan says. "But there are many other reasons to eat food: pleasure, social community, identity, and ritual. Health is not the only thing going on on our plates."\n  1. There are evil foods and good foods. "At any given time there is an evil nutrient we try to drive like Satan from the food supply -- first it was saturated fats, then it was trans fat," Pollan says. "Then there is the evil nutrient's doppelganger, the blessed nutrient. If we get enough of that we, will be healthy and maybe live forever. It's funny through history how the good and bad guys keep changing."\n\nThis can all be summarized as "Eat food, not too much, mostly plants."
+Body: In this reference article, Michael Pollan explains his seven rules for eating:
++   1. Don't eat anything your great grandmother wouldn't recognize as food. "When you pick up that box of portable yogurt tubes, or eat something with 15 ingredients you can't pronounce, ask yourself, "What are those things doing there?" Pollan says.
++   1. Don’t eat anything with more than five ingredients, or ingredients you can't pronounce.
++   1. Stay out of the middle of the supermarket; shop on the perimeter of the store. Real food tends to be on the outer edge of the store near the loading docks, where it can be replaced with fresh foods when it goes bad.
++   1. Don't eat anything that won't eventually rot. "There are exceptions -- honey -- but as a rule, things like Twinkies that never go bad aren't food," Pollan says.
++   1. It is not just what you eat but how you eat. "Always leave the table a little hungry," Pollan says. "Many cultures have rules that you stop eating before you are full. In Japan, they say eat until you are four-fifths full. Islamic culture has a similar rule, and in German culture they say, 'Tie off the sack before it's full.'"
++   1. Families traditionally ate together, around a table and not a TV, at regular meal times. It's a good tradition. Enjoy meals with the people you love. "Remember when eating between meals felt wrong?" Pollan asks.
++   1. Don't buy food where you buy your gasoline. In the U.S., 20% of food is eaten in the car.
++ 
++ Also, four myths:
++   1. Food is a delivery vehicle for nutrients. What really matters isn't broccoli but its fiber and antioxidants. If we get that right, we get our diet right. Foods kind of get in the way.
++   1. We need experts to tell us how to eat. Nutrients are invisible and mysterious. "It is a little like religion," Pollan said. "If a powerful entity is invisible, you need a priesthood to mediate your relation with food."
++   1. The whole point of eating is to maintain and promote bodily health. "You are either improving or ruining your health when you eat -- that is a very American idea," Pollan says. "But there are many other reasons to eat food: pleasure, social community, identity, and ritual. Health is not the only thing going on on our plates."
++   1. There are evil foods and good foods. "At any given time there is an evil nutrient we try to drive like Satan from the food supply -- first it was saturated fats, then it was trans fat," Pollan says. "Then there is the evil nutrient's doppelganger, the blessed nutrient. If we get enough of that we, will be healthy and maybe live forever. It's funny through history how the good and bad guys keep changing."
++ This can all be summarized as "Eat food, not too much, mostly plants."
 Tags: healthy-eating, michael-pollan, rule, advice, myth, analogy
 
 Id: efe85d00-5147-11e9-87ce-0242ac110006
@@ -1189,7 +1305,14 @@ Date: Thu, 28 Mar 2019 10:55:02 +0000
 Category: craftsmanship
 Title: Lean Testing or Why Unit Tests are Worse than You Think
 Link: https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009
-Body: This article puts testing in an economic perspective. Calls it lean testing\n\nAlso references/paraphrases Michael Pollan's Rules for eating ().\n\nCreates a testing trophy, a figure to explain the best testing pattern, replacing the testing pyramid\n\nExplains return on investment (ROI) on tests\n\n> integration tests provide the best balance of cost, speed and confidence\n\n> Integration tests lie somewhere between unit tests and end-to-end tests so they provide the best balance. Therefore, they have the highest ROI.\n\n> The main idea is to just not mock so much\n
+Body: This article puts testing in an economic perspective. Calls it lean testing
++ Also references/paraphrases Michael Pollan's Rules for eating ().
++ Creates a testing trophy, a figure to explain the best testing pattern, replacing the testing pyramid
++ Explains return on investment (ROI) on tests
++ > integration tests provide the best balance of cost, speed and confidence
++ > Integration tests lie somewhere between unit tests and end-to-end tests so they provide the best balance. Therefore, they have the highest ROI.
++ > The main idea is to just not mock so much
++ 
 Tags: economic-perspective, lean-testing, testing-trophy, testing-pyramid, return-on-investment, roi, critical-path, testing, unit-test, anti-architecture, architecture, maintenance
 
 Id: 4490792a-514b-11e9-9861-0242ac110006
@@ -1197,7 +1320,27 @@ Date: Thu, 28 Mar 2019 11:18:52 +0000
 Category: craftsmanship
 Title: End-user programming
 Link: https://www.inkandswitch.com/end-user-programming.html
-Body: In this article, the writer explains some of the end-user modifications to programs. Examples include: adding download capabilities to instagram, generating backups for files.\n\nOn the other hand, applications (especially mobile) are tightly sealed, not allowing modification or extension. Even FOSS (free, open source software), modification implies the learning curve / entry barrier of having to setup, compile, debug the original program and modifications.\n\nGives the example of the UNIX command line, as a programming environment. One that provides (one of) the best REPL examples.\n\nCharacterizes spreadsheets as ad-hoc databases, programs; mostly created by domain experts (aka subject matter experts), than professional software engineers. Take into account that these hats are non-exclusive: a domain expert can also be a professional software engineer.\n\nThe author tries to coin the term "end-user programming" to differentiate it from programming by professional software developers, who try to build general-purpose apps, to be used by thousands of people.\n\nThis also means, that a professional software developer can be an "end-user programmer", when creating solutions for themselves (limited user group), rather than for the general public. Maybe those one-off scripts that we create, are some kind of end-user programs. This is described in the article as well.\n\nTalks of the chasm the user has to cross in order to customize the behaviour of their software. This is related to working in a framework or a library, in the sense of 'who keeps the control'. In an UNIX, filesystem environment, you keep the control.\n\n\nReferences "citizen developers" (https://www.gartner.com/it-glossary/citizen-developer/) \n\n Three qualities for end-user programming: embodiment, living systems, and in-place toolchains \n\n  Embodiment: it requires the programmer hold many abstractions in their mind. Related to abstract reasoning. Mentions that many end-users don't have these abstractions in their mind, but are capable of abstract reasoning in their own domains of expertise. Mentions that via visual representations onscreen, we can help the end-user. An example: preview formula results in a spreadsheet; highlight the cells in a spreadsheet.\n\nEmbodiment means, broadly, making elements of the programming experience more concrete and visual\n\n\nLiving systems: interaction with them. Refers to shortening the feedback cycle\n\n> “Live programming gives the programmer immediate feedback on the behavior of a program as it is edited, replacing the edit compile-debug cycle with a fluid programming experience.“\n\nBut only short feedback loops, but also to change the system behaviour from within, such as the LISP compiler reading and compiling the source code from inside a program.\n\nIn-place tool chains\n\n> The user should be able to edit their programs without installing additional tools or programs\n\n> a Unix shell script is just a series of commands saved into a text file\n\nMeaning that the user is already accustomed to issuing those commands. A script is just grouping those commands.\n\nGives examples of end-user programming success stories: spreadsheets, SQL, browser dev tools, 
+Body: In this article, the writer explains some of the end-user modifications to programs. Examples include: adding download capabilities to instagram, generating backups for files.
++ On the other hand, applications (especially mobile) are tightly sealed, not allowing modification or extension. Even FOSS (free, open source software), modification implies the learning curve / entry barrier of having to setup, compile, debug the original program and modifications.
++ Gives the example of the UNIX command line, as a programming environment. One that provides (one of) the best REPL examples.
++ Characterizes spreadsheets as ad-hoc databases, programs; mostly created by domain experts (aka subject matter experts), than professional software engineers. Take into account that these hats are non-exclusive: a domain expert can also be a professional software engineer.
++ The author tries to coin the term "end-user programming" to differentiate it from programming by professional software developers, who try to build general-purpose apps, to be used by thousands of people.
++ This also means, that a professional software developer can be an "end-user programmer", when creating solutions for themselves (limited user group), rather than for the general public. Maybe those one-off scripts that we create, are some kind of end-user programs. This is described in the article as well.
++ Talks of the chasm the user has to cross in order to customize the behaviour of their software. This is related to working in a framework or a library, in the sense of 'who keeps the control'. In an UNIX, filesystem environment, you keep the control.
++ 
++ References "citizen developers" (https://www.gartner.com/it-glossary/citizen-developer/) 
++  Three qualities for end-user programming: embodiment, living systems, and in-place toolchains 
++   Embodiment: it requires the programmer hold many abstractions in their mind. Related to abstract reasoning. Mentions that many end-users don't have these abstractions in their mind, but are capable of abstract reasoning in their own domains of expertise. Mentions that via visual representations onscreen, we can help the end-user. An example: preview formula results in a spreadsheet; highlight the cells in a spreadsheet.
++ Embodiment means, broadly, making elements of the programming experience more concrete and visual
++ 
++ Living systems: interaction with them. Refers to shortening the feedback cycle
++ > “Live programming gives the programmer immediate feedback on the behavior of a program as it is edited, replacing the edit compile-debug cycle with a fluid programming experience.“
++ But only short feedback loops, but also to change the system behaviour from within, such as the LISP compiler reading and compiling the source code from inside a program.
++ In-place tool chains
++ > The user should be able to edit their programs without installing additional tools or programs
++ > a Unix shell script is just a series of commands saved into a text file
++ Meaning that the user is already accustomed to issuing those commands. A script is just grouping those commands.
++ Gives examples of end-user programming success stories: spreadsheets, SQL, browser dev tools, 
 Tags: end-user-programming, programming, extensibility, open-closed-principle, ocp, mofication, user, extension, unix, repl, spreadsheet, reflection, theory, history, review, sql, dev-tools, chasm, abstraction
 
 Id: 9035ea3c-514f-11e9-9676-0242ac110006
@@ -1205,7 +1348,9 @@ Date: Thu, 28 Mar 2019 11:49:37 +0000
 Category: craftsmanship
 Title: Why developers consider Agile development to be nonsense
 Link: https://medium.com/@web.development/why-developers-consider-agile-development-to-be-nonsense-1eaf28715e66
-Body: This article explains how Agile development is apt and indicated for short-term software development, especially for contracting or consulting companies, where the client is external to the team.\n\nWhy it does not make as much sense in products/services where there is a leapfrog solution.\n\n> Don’t give the customer what they ask for; understand them, and revolutionize their world.
+Body: This article explains how Agile development is apt and indicated for short-term software development, especially for contracting or consulting companies, where the client is external to the team.
++ Why it does not make as much sense in products/services where there is a leapfrog solution.
++ > Don’t give the customer what they ask for; understand them, and revolutionize their world.
 Tags: leapfrog-solution, google, agile, agile-development, comparison, project-management, client, consulting, management
 
 Id: 960e6750-5202-11e9-bb40-0242ac110008
@@ -1213,7 +1358,9 @@ Date: Fri, 29 Mar 2019 09:11:07 +0000
 Category: craftsmanship
 Title: Why bother with What Three Words?
 Link: https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/
-Body: In this article, the author questions why using a closed protocol for translating geo-coordinates to words.\n\nThe author complains that it is masquerading a for-profit, closed algorithm as an open standard.\n\nAlso, that the GPS locations are drifting very quickly in some places, therefore the translated address changes, but the local address (e.g., 1 Wall Street), does not.
+Body: In this article, the author questions why using a closed protocol for translating geo-coordinates to words.
++ The author complains that it is masquerading a for-profit, closed algorithm as an open standard.
++ Also, that the GPS locations are drifting very quickly in some places, therefore the translated address changes, but the local address (e.g., 1 Wall Street), does not.
 Tags: gps-drift, australia, open-standard, closed-standard, for-profit, protocol, open, closed, what-three-words, w3w, i18n, startup
 
 Id: 2ed5999a-555f-11e9-8bf8-0242ac110005
@@ -1221,7 +1368,9 @@ Date: Tue, 02 Apr 2019 15:51:30 +0000
 Category: craftsmanship
 Title: How to validate password with regular expression
 Link: https://www.mkyong.com/regular-expressions/how-to-validate-password-with-regular-expression/
-Body: Explains the '?=' character in a regex, to validate conditions. Make it '.*' to 'contain', rather than 'startWith\n'\n
+Body: Explains the '?=' character in a regex, to validate conditions. Make it '.*' to 'contain', rather than 'startWith
++ '
++ 
 Tags: password, validation, look-ahead, regex, regular-expression
 
 Id: 3ca65d4c-577c-11e9-88ac-0242ac110005
@@ -1229,7 +1378,8 @@ Date: Fri, 05 Apr 2019 08:24:31 +0000
 Category: craftsmanship
 Title: Unlock honest feedback from your employees with this one word
 Link: https://knowyourteam.com/blog/2017/12/01/unlock-honest-feedback-from-your-employees-with-this-one-word/
-Body: I've read this article about asking for advice instead of asking for feedback and how that helped.\n\n
+Body: I've read this article about asking for advice instead of asking for feedback and how that helped.
++ 
 Tags: comparison, advice, feedback
 
 Id: 6c90065c-577c-11e9-8741-0242ac110005
@@ -1237,7 +1387,11 @@ Date: Fri, 05 Apr 2019 08:25:52 +0000
 Category: craftsmanship
 Title: 8 SIMPLE STEPS TO IDENTIFY AND AVOID GROUPTHINK IN MEETINGS
 Link: https://highfive.com/blog/8-steps-to-avoid-groupthink-in-meetings
-Body: I've read this article explaining the dangers of Group think, some solutions.\n\nDefined in 1972 by  Irving L. Janis in a book by the same title, it's more present when the group exhibits these behaviors:\n\n* A strong, persuasive group leader.\n* A high level of group cohesion.\n* Intense pressure from the outside to make a good decision
+Body: I've read this article explaining the dangers of Group think, some solutions.
++ Defined in 1972 by  Irving L. Janis in a book by the same title, it's more present when the group exhibits these behaviors:
++ * A strong, persuasive group leader.
++ * A high level of group cohesion.
++ * Intense pressure from the outside to make a good decision
 Tags: groupthink, team-management, book, group, team, team-dynamic, technique, irving-janis
 
 Id: bcd32324-59e3-11e9-9acf-0242ac110005
@@ -1245,7 +1399,9 @@ Date: Mon, 08 Apr 2019 09:50:27 +0000
 Category: craftsmanship
 Title: Busy Person Patterns
 Link: https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf
-Body: This is a book of patterns (related to 'A pattern language', by Alexander et al) about Busy People (in a good way).\n\nThis is a collection of patterns to help you achieve productivity, efficiency, efficacy.\n\nExplains how the patterns relate to one another, how they interact. Also, a quick reference based on the mood you're experiencing
+Body: This is a book of patterns (related to 'A pattern language', by Alexander et al) about Busy People (in a good way).
++ This is a collection of patterns to help you achieve productivity, efficiency, efficacy.
++ Explains how the patterns relate to one another, how they interact. Also, a quick reference based on the mood you're experiencing
 Tags: patter, pattern-language, alexander, busy, productivity, efficiency, efficacy, plop, just-start, contiguous-time-blocks, single-task-important-items, put-it-off, seek-clarification, batch-the-simple-stuff, task-jar, strike-when-you-are-hot, feedback-loop, prioritize, delegate, drop-unimportant-tasks, good-enough, james-kile, donald-little, samir-shah
 
 Id: fecb0a0a-5ab8-11e9-b7b7-0242ac110005
@@ -1277,7 +1433,8 @@ Date: Thu, 11 Apr 2019 09:37:22 +0000
 Category: craftsmanship
 Title: SEVEN DATABASES IN SEVEN WEEKS - FALL 2014
 Link: https://db.cs.cmu.edu/seminar2014/
-Body: This course by the CMU (Carnegie-Mellon University) explains 7 databases in 7 weeks, one per talk.\n\nTalks about SQL, NoSQL (key-value), about speed, about data management
+Body: This course by the CMU (Carnegie-Mellon University) explains 7 databases in 7 weeks, one per talk.
++ Talks about SQL, NoSQL (key-value), about speed, about data management
 Tags: database, book, cmu, carnegie-mellon-university, course, university, db, mongodb, index, memsql, voltdb, nuodb, sql-server
 
 Id: d074c386-5c3d-11e9-a6ce-0242ac110006
@@ -1285,7 +1442,25 @@ Date: Thu, 11 Apr 2019 09:40:17 +0000
 Category: craftsmanship
 Title: Startup Stock Options – Why a Good Deal Has Gone Bad
 Link: https://news.ycombinator.com/item?id=19624164
-Body: An interesting quote:\n\n> Valid reasons to work for a startup:\n> - You are a cofounder.\n> \n> - You have little experience and you are using this to break into the industry, and get experience on many different > technologies ("wear many hats").\n> \n> - They are working on a very specific problem or using a specific technology that you strongly desire to work on and it's > difficult to do it anywhere else.\n> \n> - You want to work a certain way (remote, on the beach, whatever) and they are willing to go this route.\n> \n> Invalid reasons for working at a startup:\n> \n> - Getting rich off stock options.\n> \n> - Making a lot of money in salary.\n> \n> - Work / life balance.\n> \n> - Stability.
+Body: An interesting quote:
++ > Valid reasons to work for a startup:
++ > - You are a cofounder.
++ > 
++ > - You have little experience and you are using this to break into the industry, and get experience on many different > technologies ("wear many hats").
++ > 
++ > - They are working on a very specific problem or using a specific technology that you strongly desire to work on and it's > difficult to do it anywhere else.
++ > 
++ > - You want to work a certain way (remote, on the beach, whatever) and they are willing to go this route.
++ > 
++ > Invalid reasons for working at a startup:
++ > 
++ > - Getting rich off stock options.
++ > 
++ > - Making a lot of money in salary.
++ > 
++ > - Work / life balance.
++ > 
++ > - Stability.
 Tags: quote, startup, career-management, ycombinator, james-seibel, work
 
 Id: 8b8ea88e-5848-11e9-b07b-0242ac110002
@@ -1301,7 +1476,8 @@ Date: Tue, 16 Apr 2019 22:41:01 +0000
 Category: craftsmanship
 Title: A Universal Modular ACTOR Formalism for Artificial Intelligence
 Link: http://worrydream.com/refs/Hewitt-ActorModel.pdf
-Body: In this seminal paper, Hewitt describes the actor model.\n\nFull of quotes from Lewis Carroll.
+Body: In this seminal paper, Hewitt describes the actor model.
++ Full of quotes from Lewis Carroll.
 Tags: actor, actor-model, hewitt, quote, lewis-carroll, planner, 1973, pdp, structured-programming, classic, seminal, architecture
 
 Id: d71b9822-6b38-11e9-9973-0242ac110003
@@ -1309,7 +1485,30 @@ Date: Tue, 30 Apr 2019 11:12:28 +0000
 Category: craftsmanship
 Title: All Remote
 Link: https://about.gitlab.com/company/culture/all-remote/
-Body: The remote manifesto by gitlab.\n\n  > * All-remote work promotes:\n  > \n  > * Hiring and working from all over the world instead of from a central location.\n  > * Flexible working hours over set working hours.\n  > * Writing down and recording knowledge over verbal explanations.\n  > * Written down processes over on-the-job training.\n  > * Public sharing of information over need-to-know access.\n  > * Opening up every document for editing by anyone over top-down control of documents.\n  > * Asynchronous communication over synchronous communication.\n  > * The results of work over the hours put in.\n  > * Formal communication channels over informal communication channels.\n\nSome tools to make this happen:\n  * Faster internet everywhere - 100Mb/s+ cable, 5GHz Wifi, 4G cellular\n  * Video call software - Google Hangouts, Zoom\n  * Mobile technology - Everyone has a computer in their pocket\n  * Evolution of speech-to-text conversion software - more accurate and faster than typing\n  * Messaging apps - Slack, Mattermost, Zulip\n  * Issue trackers - Trello, GitHub issues, GitLab issues\n  * Suggestions - GitHub Pull Requests, GitLab Merge Requests\n  * Static websites - GitHub Pages, GitLab Pages\n  * English proficiency - More people are learning English\n  * Increasing traffic congestion in cities\n
+Body: The remote manifesto by gitlab.
++   > * All-remote work promotes:
++   > 
++   > * Hiring and working from all over the world instead of from a central location.
++   > * Flexible working hours over set working hours.
++   > * Writing down and recording knowledge over verbal explanations.
++   > * Written down processes over on-the-job training.
++   > * Public sharing of information over need-to-know access.
++   > * Opening up every document for editing by anyone over top-down control of documents.
++   > * Asynchronous communication over synchronous communication.
++   > * The results of work over the hours put in.
++   > * Formal communication channels over informal communication channels.
++ Some tools to make this happen:
++   * Faster internet everywhere - 100Mb/s+ cable, 5GHz Wifi, 4G cellular
++   * Video call software - Google Hangouts, Zoom
++   * Mobile technology - Everyone has a computer in their pocket
++   * Evolution of speech-to-text conversion software - more accurate and faster than typing
++   * Messaging apps - Slack, Mattermost, Zulip
++   * Issue trackers - Trello, GitHub issues, GitLab issues
++   * Suggestions - GitHub Pull Requests, GitLab Merge Requests
++   * Static websites - GitHub Pages, GitLab Pages
++   * English proficiency - More people are learning English
++   * Increasing traffic congestion in cities
++ 
 Tags: tool, gitlab, remote, remote-work, manifesto, work
 
 Id: b74a6697-4c83-11e9-99bd-0242ac110005
@@ -1325,7 +1524,11 @@ Date: Fri, 22 Mar 2019 10:33:18 +0000
 Category: finance
 Title: Financial Wealth - It's Time not Money
 Link: https://www.cbsnews.com/news/financial-wealth-its-time-not-money/
-Body: Explains how wealth is not about net worth, but availability of time.\n\nFinancial freedom in years, not in dollars\n\nExplains how it is important to save, more than to make more money\n\nExplains the equivalence between money saved (by making your lifestyle leaner) and money earned. This equivalence is many times not 1=1, but, as in the example 1 USD = 3.30 USD\n\n> Once you achieve this independence, you are free to do whatever brings you happiness. And don't let anyone tell you what that should be.
+Body: Explains how wealth is not about net worth, but availability of time.
++ Financial freedom in years, not in dollars
++ Explains how it is important to save, more than to make more money
++ Explains the equivalence between money saved (by making your lifestyle leaner) and money earned. This equivalence is many times not 1=1, but, as in the example 1 USD = 3.30 USD
++ > Once you achieve this independence, you are free to do whatever brings you happiness. And don't let anyone tell you what that should be.
 Tags: financial-independence, fi, allan-roth, social-security, lean, wealth, double-whammy, quote, financial-freedom, net-worth, annual-expenditures
 
 Id: 540be0d6-4c8e-11e9-b7ee-0242ac110005
@@ -1333,14 +1536,25 @@ Date: Fri, 22 Mar 2019 10:36:19 +0000
 Category: finance
 Title: 5 Ways I'm an Active Investor
 Link: https://www.cbsnews.com/news/allan-roth-5-ways-im-an-active-investor/#comments
-Body: Explains some ideas of contrarian investing. In this case, a new twist to common (wrong) market strategies, to make them effective.\n\nA new definition under the old name
+Body: Explains some ideas of contrarian investing. In this case, a new twist to common (wrong) market strategies, to make them effective.
++ A new definition under the old name
 Tags: allan-roth, strategy, active, passive, market-timing, gambling, listicle, strategy, contrarian
 
 Id: a8e97788-6c34-11e9-b6cf-0242ac110004
 Date: Wed, 01 May 2019 17:15:03 +0000
 Title: 7 Strange Questions That Help You Find Your Life Purpose
 Link: https://markmanson.net/life-purpose
-Body: This article talks about the life purpose.\n\n> Everything sucks, some of the time.\n\nThe author has some questions:\n\n  1. What's the flavor of your shit sandwich? Recognize that everything has a price. You must be ready to pay that price if you want the item (El código del dinero; Samsó)\n  1. What's true about you today that would make your 8-year old self cry? What is something that we do as adults, but your child self would not accept? >  don’t just look at the activities that keep you up all night, but look at the cognitive principles behind those activities that enthrall you. Because they can easily be applied elsewhere.\n  1. What makes you forget to eat and poop? This is related to Flow (psychology)\n  1. How can you better embarrass yourself? Related to making more mistakes (source unknown)\n  1. How are you going to save the world? Define your own big goals, greater than yourself or your pleasure or satisfaction. [Sagiv, L., & Schwartz, S. H. (2000). Value priorities and subjective well-being: direct relations and congruity effects. European Journal of Social Psychology, 30(2), 177–198.]\n  1. What would you do if you were forced to do something?\n  1. How would you like to be remembered, knowing that you will die in one year? Related to the Frugalwoods exercise of the desired bio.\n\nWhat's the purpose of life is equivalent to asking 'What can I do with my life, of importance?'.
+Body: This article talks about the life purpose.
++ > Everything sucks, some of the time.
++ The author has some questions:
++   1. What's the flavor of your shit sandwich? Recognize that everything has a price. You must be ready to pay that price if you want the item (El código del dinero; Samsó)
++   1. What's true about you today that would make your 8-year old self cry? What is something that we do as adults, but your child self would not accept? >  don’t just look at the activities that keep you up all night, but look at the cognitive principles behind those activities that enthrall you. Because they can easily be applied elsewhere.
++   1. What makes you forget to eat and poop? This is related to Flow (psychology)
++   1. How can you better embarrass yourself? Related to making more mistakes (source unknown)
++   1. How are you going to save the world? Define your own big goals, greater than yourself or your pleasure or satisfaction. [Sagiv, L., & Schwartz, S. H. (2000). Value priorities and subjective well-being: direct relations and congruity effects. European Journal of Social Psychology, 30(2), 177–198.]
++   1. What would you do if you were forced to do something?
++   1. How would you like to be remembered, knowing that you will die in one year? Related to the Frugalwoods exercise of the desired bio.
++ What's the purpose of life is equivalent to asking 'What can I do with my life, of importance?'.
 Category: psychology
 Tags: mark-manson, life-purpose, flow, el-codigo-del-dinero, quote, obituary, limited-time, frugalwoods, purpose, meaning, question
 
@@ -1348,7 +1562,8 @@ Id: a7874b78-7241-11e9-a798-0242ac110003
 Date: Thu, 09 May 2019 10:03:12 +0000
 Title: Why I Quit Tech and Became a Therapist
 Link: http://glench.com/WhyIQuitTechAndBecameATherapist/
-Body: This article explains what people get out of their jobs, the meaning from it.\n\nAn example of someone who moves away from tech to something that brings more purpose and meaning to their lives
+Body: This article explains what people get out of their jobs, the meaning from it.
++ An example of someone who moves away from tech to something that brings more purpose and meaning to their lives
 Category: psychology
 Tags: drive, mastery, autonomy, purpose, meaning, purpose, glen-chiacchieri, career-management
 
@@ -1364,7 +1579,26 @@ Id: 6f8fad6a-7560-11e9-8c94-0242ac110003
 Date: Mon, 13 May 2019 09:21:06 +0000
 Title: Ask HN: Which books teach mental models?
 Link: https://news.ycombinator.com/item?id=19895407
-Body: Books teaching mental models. Some suggestions:\n  * The Fifth Discipline by Peter M. Senge at the moment.\n  * Thinking in Systems: A Primer by Donella Meadows\n  * https://fs.blog/mental-models/\n  * 'An Introduction to General Systems Thinking' [1] by the late, great Gerald Weinberg?\n  * Sources of Power: How people make decisions by Gary Klein\n  * Thinking and Deciding by Jonathan Baron. Quite thorough and comprehensive.\n  * There are also books on "TRIZ"(https://en.wikipedia.org/wiki/TRIZ) a technique for problem solving, which arose from the former Soviet Union.\n  * https://superthinking.com/ introduces a whole bunch. It grew from https://medium.com/@yegg/mental-models-i-find-repeatedly-use....\n  * Language in Thought and Action by S. I. Hayakawa\n  * Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger\n  * Seeking Wisdom: From Darwin to Munger\n  * The Model Thinker: What You Need to Know to Make Data Work for You\n  * The Great Mental Models\n  * Intuition Pump and other tools for thinking by Daniel Dennett\n  * Books edited by John Brockman - 1) This Explains Everything, 2) This Idea is Brilliant, 3) This Will Make You Smarter, 4) Thinking\n  * Personal MBA by Josh Kaufman\n  * "Man's Search for Meaning" by Viktor E. Frankl may be?\n  * “Thinking in Bets” by Annie Duke takes you through a specific model.\n  * “Principles” by Ray Dalio gives a mesh of models that Ray has learnt or improved.
+Body: Books teaching mental models. Some suggestions:
++   * The Fifth Discipline by Peter M. Senge at the moment.
++   * Thinking in Systems: A Primer by Donella Meadows
++   * https://fs.blog/mental-models/
++   * 'An Introduction to General Systems Thinking' [1] by the late, great Gerald Weinberg?
++   * Sources of Power: How people make decisions by Gary Klein
++   * Thinking and Deciding by Jonathan Baron. Quite thorough and comprehensive.
++   * There are also books on "TRIZ"(https://en.wikipedia.org/wiki/TRIZ) a technique for problem solving, which arose from the former Soviet Union.
++   * https://superthinking.com/ introduces a whole bunch. It grew from https://medium.com/@yegg/mental-models-i-find-repeatedly-use....
++   * Language in Thought and Action by S. I. Hayakawa
++   * Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger
++   * Seeking Wisdom: From Darwin to Munger
++   * The Model Thinker: What You Need to Know to Make Data Work for You
++   * The Great Mental Models
++   * Intuition Pump and other tools for thinking by Daniel Dennett
++   * Books edited by John Brockman - 1) This Explains Everything, 2) This Idea is Brilliant, 3) This Will Make You Smarter, 4) Thinking
++   * Personal MBA by Josh Kaufman
++   * "Man's Search for Meaning" by Viktor E. Frankl may be?
++   * “Thinking in Bets” by Annie Duke takes you through a specific model.
++   * “Principles” by Ray Dalio gives a mesh of models that Ray has learnt or improved.
 Category: psychology
 Tags: book, resource, mental-model, self-study, hackernews
 
@@ -1372,7 +1606,16 @@ Id: 462e49cc-76fa-11e9-a31f-0242ac110003
 Date: Wed, 15 May 2019 10:14:50 +0000
 Title: The Problem of Thinking Too Much
 Link: https://statweb.stanford.edu/~cgates/PERSI/papers/thinking.pdf
-Body: Philosopher Persi Diaconis explains the relation between thinking too much, inaction; related to maths, physics, statistics.\n\n> Whenever you’re called on to make up your mind,\n> and you’re hampered by not having any,\n> the best way to solve the dilemma, you’ll find,\n> is simply by spinning a penny.\n> \n> No—not so that chance shall decide the affair\n> while you’re passively standing there moping;\n> but the moment the penny is up in the air,\n> you suddenly know what you’re hoping.
+Body: Philosopher Persi Diaconis explains the relation between thinking too much, inaction; related to maths, physics, statistics.
++ > Whenever you’re called on to make up your mind,
++ > and you’re hampered by not having any,
++ > the best way to solve the dilemma, you’ll find,
++ > is simply by spinning a penny.
++ > 
++ > No—not so that chance shall decide the affair
++ > while you’re passively standing there moping;
++ > but the moment the penny is up in the air,
++ > you suddenly know what you’re hoping.
 Category: psychology
 Tags: thinking, inaction, quote
 
@@ -1388,7 +1631,11 @@ Id: 3a681acc-7ade-11e9-a0d7-0242ac110003
 Date: Mon, 20 May 2019 09:04:09 +0000
 Title: Personal web archives; a report
 Link: https://blog.webmemex.org/2018/12/09/personal-web-archives-a-report/
-Body: Creating a personal web archive, based on the tools they created.\n\na browser extension for storing web pages,\na web archive server hosting such snapshots,\na(nother) browser extension to query such archives.\n
+Body: Creating a personal web archive, based on the tools they created.
++ a browser extension for storing web pages,
++ a web archive server hosting such snapshots,
++ a(nother) browser extension to query such archives.
++ 
 Category: craftsmanship
 Tags: web-archive, memex, personal-knowledge-base, archive, information, information-management, data-archival
 
@@ -1436,7 +1683,10 @@ Id: 2f43106a-8381-11e9-bc2f-0242ac110003
 Date: Fri, 31 May 2019 05:50:47 +0000
 Title: UBI without quality public services is a neoliberal’s paradise
 Link: https://www.opendemocracy.net/en/transformation/ubi-without-quality-public-services-is-a-neoliberals-paradise/
-Body: It is more effective to provide the service (e.g., housing) than providing the money to buy the service (e.g., money for housing).\n\nThere is a gap between what UBI can provide, and the current expense in the GDP:\n\n> The ILO estimates the global average cost for UBI, as a percentage of GDP, would be 32.7%. The current global average government expenditure is 33.5% of GDP.\n
+Body: It is more effective to provide the service (e.g., housing) than providing the money to buy the service (e.g., money for housing).
++ There is a gap between what UBI can provide, and the current expense in the GDP:
++ > The ILO estimates the global average cost for UBI, as a percentage of GDP, would be 32.7%. The current global average government expenditure is 33.5% of GDP.
++ 
 Category: finance
 Tags: universal-basic-income, ubi, service, finance, politics, neoliberal, liberal, employment
 
@@ -1444,7 +1694,13 @@ Id: 12bb74de-8384-11e9-b322-0242ac110003
 Date: Fri, 31 May 2019 06:11:28 +0000
 Title: Why You Will Marry the Wrong Person
 Link: https://www.youtube.com/watch?v=DCS6t6NUAGQ
-Body: In this video, Alain de Botton explains how for marrying someone, for loving someone, you have to love yourself first.\n\n> You can be addicted to anything as long as it keeps you away from yourself. \n Two types of engagement to someone else:\n * Anxious attachment: rather than saying I need you, I depend on you. It's a way of evaluating through proxy variables (such as did you do this) rather than the real variable (e.g., do you care about me)\n * Avoidance: when you need someone, you pretend you don't. "I'm busy". You don't reveal the need for the other person. Cycle of low trust.\n \n Love as a skill that needs to be learned. Difference between loving and being loved.
+Body: In this video, Alain de Botton explains how for marrying someone, for loving someone, you have to love yourself first.
++ > You can be addicted to anything as long as it keeps you away from yourself. 
++  Two types of engagement to someone else:
++  * Anxious attachment: rather than saying I need you, I depend on you. It's a way of evaluating through proxy variables (such as did you do this) rather than the real variable (e.g., do you care about me)
++  * Avoidance: when you need someone, you pretend you don't. "I'm busy". You don't reveal the need for the other person. Cycle of low trust.
++  
++  Love as a skill that needs to be learned. Difference between loving and being loved.
 Category: psychology
 Tags: alain-de-botton, marriage, self-knowledge, quote, video, philosophy, need, vulnerability, love, school-of-love
 
@@ -1460,7 +1716,8 @@ Id: 39f76af4-99ce-48b6-adc1-0242ac110003
 Date: Fri, 7 Jun 2019 13:20:26 +0000
 Title: Debug bash scripts
 Link: https://gist.github.com/Potherca/4f4ce1c8d4bcf4cd4aab
-Body: This article explains how to debug bash scripts using the DEBUG trap.\n\nDeclares several log levels for the commands
+Body: This article explains how to debug bash scripts using the DEBUG trap.
++ Declares several log levels for the commands
 Category: craftsmanship
 Tags: debug, bash, trap, help, script
 
@@ -1468,7 +1725,8 @@ Id: 2e14ae3e-8ec0-11e9-be23-0242ac110003
 Date: Fri, 14 Jun 2019 16:19:26 +0000
 Title: Understanding Rust Lifetimes
 Link: https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa
-Body: Describes rust lifetimes, lifetime parameters.\n\nCompares them to C++ pointers (in the sense they are difficult to learn, but make things explicit).
+Body: Describes rust lifetimes, lifetime parameters.
++ Compares them to C++ pointers (in the sense they are difficult to learn, but make things explicit).
 Category: craftsmanship
 Tags: rust, borrowing-rules, pointer, language, comparison, generic, lifetime, lifetime-parameter, maksym-zavershynskyi, compiler, language-feature, variance, covariance, struct, rustonomicon
 
@@ -1484,7 +1742,10 @@ Id: a1165c1e-9719-11e9-bf0b-0242ac110003
 Date: Tue, 25 Jun 2019 07:19:54 +0000
 Title: How to do distributed locking
 Link: https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
-Body: This article explains the usage of locks (for efficiency - optimization / for correctness). \n\nExplains the usage of the "Redlock" algorithm, to perform distributed locks. Explains a fencing mechanism (using tokens).\n\nReferences monotonic clocks, stop-the-world garbage collection, consensus mechanisms.\n\nUses good diagrams for parallelism and concurrency.
+Body: This article explains the usage of locks (for efficiency - optimization / for correctness). 
++ Explains the usage of the "Redlock" algorithm, to perform distributed locks. Explains a fencing mechanism (using tokens).
++ References monotonic clocks, stop-the-world garbage collection, consensus mechanisms.
++ Uses good diagrams for parallelism and concurrency.
 Category: craftsmanship
 Tags: lock, efficiency, correctness, redlock, redlock-algorithm, consensus, distributed-consensus, distributed-programming, distributed-lock, martin-kleppmann, parallellism, concurrency, fencing-mechanism, monotonic-clock, stop-the-world, garbage-collection
 
@@ -1500,7 +1761,9 @@ Id: 41e287b4-ae15-11e9-9e8a-0242ac110003
 Date: Wed, 24 Jul 2019 07:16:33 +0000
 Title: How I use reveal.js
 Link: https://elmiko.github.io/2017/10/08/how-i-use-revealjs.html
-Body: This author explains how they use reveal.js.\n\nThe online editor (slides.com).\n\nThe author uses plain html for storing the slides.
+Body: This author explains how they use reveal.js.
++ The online editor (slides.com).
++ The author uses plain html for storing the slides.
 Category: craftsmanship
 Tags: slide, slideshare, reveal-js, reveal, presentation, slide-deck, michael-mccune
 
@@ -1572,7 +1835,8 @@ Id: 531ffcdc-b833-11e9-9ce0-0242ac110003
 Date: Tue, 06 Aug 2019 10:16:58 +0000
 Title: Ugly trivia kata, using mutation testing
 Link: https://github.com/alvarogarcia7/kata-ugly-trivia-mutation-testing-java
-Body: This is a kata I've practiced, then shown at the Software Crafters meetup (at Softonic).\n\nI've explained mutation testing, then refactoring according to domain boundaries (Questions, Players)
+Body: This is a kata I've practiced, then shown at the Software Crafters meetup (at Softonic).
++ I've explained mutation testing, then refactoring according to domain boundaries (Questions, Players)
 Category: craftsmanship
 Tags: softonic, software-crafters, meetup, mutation-testing, pit, kata, ugly-trivia, approval-test, golden-master, testing, java, refactoring, repository, repo, kitchen
 
@@ -1580,7 +1844,77 @@ Id: a87e9686-babb-11e9-a55d-0242ac110004
 Date: Fri, 09 Aug 2019 15:37:55 +0000
 Title: Experienced programmers and computer scientists, what are some really old (or even nearly forgotten) books you think every new programmer should read?
 Link: https://www.quora.com/Experienced-programmers-and-computer-scientists-what-are-some-really-old-or-even-nearly-forgotten-books-you-think-every-new-programmer-should-read
-Body:   * I’m still a big fan of the "Lisp 1.5 Programmers Manual" (MIT Press — still in print). This version of the language is no longer with us, but the book — first written ca 1962 — by John McCarthy, who invented, and his colleagues, who implemented, is a perfect classic.\n  * It starts with a version of John’s first papers about Lisp, and develops the ideas in a few pages of examples to culminate on page 13 with Lisp eval and apply defined in itself. There are many other thought provoking ideas and examples throughout the rest of the book.\n  * The way to grow from this book is to deeply learn what they did and how they did it, and then try to rewrite page 13 in a number of ways. How nicely can this be written in "a lisp" using recursion. How nicely can this be written without recursion? (In both cases, look ahead in the book to see that Lisp 1.5 had gotten to the idea of EXPRs and FEXPRs (functions which don’t eval their arguments before the call — thus they can be used to replace all the "special forms" — do a Lisp made from FEXPRs and get the rest by definition, etc.).\n  * What is a neat bootstrapping path? How could you combine this with Val Shorre’s "Meta II" programmatic parser to make a really extensible language? What does it take to get to "objects"? What are three or four really interesting (and different ways) to think about objects here? (Hints: how many different ways can you define "closures" in a language that executes? What about using Lisp atoms as a model for objects? Etc.)\n  * The idea is that Lisp is not just a language but a really deep "building material" that is tidy enough to "think with" not just make things (it’s a "building material" for thoughts as well as computer processes).\n  * Dani Richard reminded me to mention: "Computation: Finite and Infinite Machines" by Marvin Minsky (Prentice-Hall, 1967), which — since it is one of my favorite books of all time — I’m surprised I didn’t include in the original list. Marvin could really write, and in this book he is at his best. It is actually a "math book" — with lots of ideas, theorems, proofs, etc., — but presented in the friendliest way imaginable by a great mind who treated everyone — including children — as equal to him, and as fellow appreciators of great ideas. There are lots of interesting things to ponder in this book, but perhaps it is the approach that beckons to the reader to start thinking "like this" that is the most rewarding.\n  * "Advances in Programming and Non-Numerical Computation" (Ed. L. Fox) mid-60s. The papers presented at a 1963 summer workshop in the UK. The most provocative ones were by Christopher Strachey and several by Peter Landin. This was one of the books that Bob Barton had us read in his famous advanced systems design class in 1967.\n  * Try "The Mythical Man-Month" by Fred Brooks, for an early look and experience with timeless truths (and gotchas) from systems building with teams …\n  * Try "The Sciences of the Artificial" by Herb Simon. A much stronger way to think about computing — and what "Computer Science" might mean — by a much stronger thinker than most today.\n  * "A Programming Language" by Ken Iverson (ca 1962). This has the same thought expanding properties of Lisp. And, like Lisp, the way to learn from these really old ideas is to concentrate on what is unique and powerful in the approach (we know how to better improve both Lisp and APL today, but the deep essence is perhaps easier to grasp in the original manifestations of the ideas). Another book that Barton had us read.\n  * I like Dave Fisher’s 1970 CMU Thesis — "Control Structures for Programming Languages" — most especially the first 100 pages. Still a real gem for helping to think about design and implementations.\n  * More recent: (80s) "The Meta-Object Protocol" by Kiczales, et al. The first section and example is a must to read and understand.\n  * Joe Armstrong’s PhD thesis — after many years of valuable experience with Erlang — was published as a book ca 2003 …\n  * Lots more out there for curious minds ….\n  * Mind Storms, by Seymour Pappert.\n  * The Elements of Programming Style, by Kernighan and Plaguer.\n  * Classics is Software Engineering, edited by Edward Yourdon, 1979 (While this book was published in 1979, it contains articles published by giants in Software Engineering from the ’60s and ‘70s).\n  * Programming on Purpose: Essays on Software Design, by PJ Plaguer.\n  * Byte Magazine, Volume 6, Number 8, August 1981, Editor in Chief Christopher Morgan.\n  * Programming Pearls, by Jon Bentley.\n  * Data Structures, This was a truly wonderful book. It was part of a computer science series. I read in the ‘70s, but I can’t find it now and I don’t remember the name of the author.\n  * Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein (known as CLRS).\n  * The Art of Computer Programming, Volumes 1…4, by Donald Knuth.\n  * Compilers: Principles, Techniques, and Tools, by Aho, Lam, Sethi, and Ullman, 1986 (known as The Dragon Book).\n  * I would mention Where Wizards Stay Up Late: The Origins of the InterNET, by Katie Hafner, but, it’s only from 1998 so I’m not sure it’s old enough.\n  * The Elements of Programming Style by Kernighan and Plauger\n  * Controlling Software Projects by Tom DeMarco\n  * The Mythical Man-Month by Fred Brooks\n  * Peopleware by DeMarco and Lister\n  * The Secrets of Consulting by Gerry Weinberg\n  * The Psychology of Computer Programming by Gerry Weinberg\n  * The Practical Guide to Structured Systems Design by Meilir Page-Jones\n  * The Design of Everyday Things by Don Norman\n  * Programming Pearls by Jon Bentley\n  * A Rational Design Process - How and Why to Fake it http://users.ece.utexas.edu/~per...\n  * A Spiral Model of Software Development and Enhancement http://csse.usc.edu/TECHRPTS/198...\n  * Clean Code\n  * I also really like Thinking in Java by a wonderful author called Bruce Eckel. As the title says, it teaches you to think OOP and really understand the design behind the language and the lessons it was designed after. The book is from 2006, so it is dated. But it is worth your time and is free to download!\n  * My favorite programming book to date is still Structure and Interpretation of Computer Programs, more popularly known as SICP. It’s old, but not forgotten for good reason. I hear many colleges are dropping this book, which is a crying shame.\n  * Mathematics for Computer Science is another unsung book. I don’t know of many who has read through this one, but it’s truly mind-expanding and mind-blowing.\n  * A book that’s often dismissed and forgotten in this day of "flavor of the week" JavaScript frameworks is JavaScript, the Good Parts. While it’s newer (10-ish years old), I wish more people would take a look at this one. Even if you never write JS in your life, you will walk away a better thinker.\n  * Extreme Programming Explained by Kent Beck (2000) — how taking everything to the extreme makes everything easier. Hugely influential for me at a time when most projects were waterfall-style change management exercises. This explains how to be agile.\n  * Smalltalk, Objects, and Design by Chamond Liu (1996) — a nice introduction to the elegant mother of all object oriented languages, but also covers design patterns, MVC, UI design and use of metaphors. A smorgasbord of developer insights that are still relevant today.\n  * Principles of Interactive Computer Graphics by Newman and Sproull (1979) — this book inspired me to get into programming. It explains the science of recreating the real world on a computer screen. Not so much about writing code, but about the mathematics, algorithms, and hardware.\n  * The C Programming Language\n  * The Unix Programming Environment\n  * SICP\n  * Tom Gilb’s - Principles of Software Engineering Management.\n  * His principles are classic:\n  * The invisible target principle All critical system attributes must be specified clearly. Invisible targets are usually hard to hit (except by chance).\n  * The all-the-holes-in-the-boat principle Your design solutions must satisfy all critical attributes simultaneously.\n  * The clear-the-fog-from-the-target principle All critical attributes can be specified in measurable testable terms, and the worst-acceptable level can be identified.\n  * The learn-before-your-budget-is-used-up principle Never attempt to deliver large and complex systems all at once; try to deliver them in many smaller increments, so that you can discover the problems and correct them early.\n  * The keep-pinching-yourself-to-see-if-you-are-dreaming principle Don’t believe blindly in any one method; use your methods and common sense to measure the reality against your needs.\n  * The fail-safe minimization principle If you don’t know what you’re doing, don’t do it on a large scale.\n  * Object-Oriented Software Construction - Wikipedia (by Betrand Meyer)\n  * Smalltalk-80 (http://stephane.ducasse.free.fr/...)\n  * You might want to take a look at DoradoList where it has lists of great computer engineering and science books suggested by some world-renowned professors from MIT, Stanford, UC Berkeley and more. Interestingly there is a section in that website that is called Gems and per website it is compiled as: "There are many books that are perhaps somewhat out of date in a broad sense but that have wonderful insights that have perhaps been overlooked. In this section, we have asked the top experts if they know of any of this type of hidden/forgotten gems. You can see their responses that we have categorized". It looks there is a section for Computer Programming there as well.\n  * Everything by Robert Glass\n  * Mindstorms\n  * Turtles, Termites, and Traffic Jams\n  * Computer Science, Logo Style by Brian Harvey (3 volumes)\n  * Mirror Worlds\n  * Starting Forth / Thinking Forth\n  * The C Programming Language\n  * The AWK Programming Language\n  * There are many other good books, some mentioned in other answers. My list touches on some different types of languages, which are small and tractable, but offer a broad sampling of ideas. The Harvey series shows that a language used to teach children has deceived many into thinking it wasn’t powerful.\n  * I love Per Brinch Hansen’s Programming a Personal Computer. It focusses on the Edison programming language, which is an incredibly small and simple language. Edison resembles Pascal to some extent.\n  * The book shows how to use Edison to write a complete operating system for a "personal computer." It even provides the complete source code listing!\n  * Edison was designed for multi-processor computing, sort of like the Golang of the day. This book was the first to convince me that small and simple was a very good thing.\n  * And that’s why Smalltalk is my favourite programming language today. See Richard Kenneth Eng's answer to What programming language was for you an absolute pleasure to work with and why?
+Body:   * I’m still a big fan of the "Lisp 1.5 Programmers Manual" (MIT Press — still in print). This version of the language is no longer with us, but the book — first written ca 1962 — by John McCarthy, who invented, and his colleagues, who implemented, is a perfect classic.
++   * It starts with a version of John’s first papers about Lisp, and develops the ideas in a few pages of examples to culminate on page 13 with Lisp eval and apply defined in itself. There are many other thought provoking ideas and examples throughout the rest of the book.
++   * The way to grow from this book is to deeply learn what they did and how they did it, and then try to rewrite page 13 in a number of ways. How nicely can this be written in "a lisp" using recursion. How nicely can this be written without recursion? (In both cases, look ahead in the book to see that Lisp 1.5 had gotten to the idea of EXPRs and FEXPRs (functions which don’t eval their arguments before the call — thus they can be used to replace all the "special forms" — do a Lisp made from FEXPRs and get the rest by definition, etc.).
++   * What is a neat bootstrapping path? How could you combine this with Val Shorre’s "Meta II" programmatic parser to make a really extensible language? What does it take to get to "objects"? What are three or four really interesting (and different ways) to think about objects here? (Hints: how many different ways can you define "closures" in a language that executes? What about using Lisp atoms as a model for objects? Etc.)
++   * The idea is that Lisp is not just a language but a really deep "building material" that is tidy enough to "think with" not just make things (it’s a "building material" for thoughts as well as computer processes).
++   * Dani Richard reminded me to mention: "Computation: Finite and Infinite Machines" by Marvin Minsky (Prentice-Hall, 1967), which — since it is one of my favorite books of all time — I’m surprised I didn’t include in the original list. Marvin could really write, and in this book he is at his best. It is actually a "math book" — with lots of ideas, theorems, proofs, etc., — but presented in the friendliest way imaginable by a great mind who treated everyone — including children — as equal to him, and as fellow appreciators of great ideas. There are lots of interesting things to ponder in this book, but perhaps it is the approach that beckons to the reader to start thinking "like this" that is the most rewarding.
++   * "Advances in Programming and Non-Numerical Computation" (Ed. L. Fox) mid-60s. The papers presented at a 1963 summer workshop in the UK. The most provocative ones were by Christopher Strachey and several by Peter Landin. This was one of the books that Bob Barton had us read in his famous advanced systems design class in 1967.
++   * Try "The Mythical Man-Month" by Fred Brooks, for an early look and experience with timeless truths (and gotchas) from systems building with teams …
++   * Try "The Sciences of the Artificial" by Herb Simon. A much stronger way to think about computing — and what "Computer Science" might mean — by a much stronger thinker than most today.
++   * "A Programming Language" by Ken Iverson (ca 1962). This has the same thought expanding properties of Lisp. And, like Lisp, the way to learn from these really old ideas is to concentrate on what is unique and powerful in the approach (we know how to better improve both Lisp and APL today, but the deep essence is perhaps easier to grasp in the original manifestations of the ideas). Another book that Barton had us read.
++   * I like Dave Fisher’s 1970 CMU Thesis — "Control Structures for Programming Languages" — most especially the first 100 pages. Still a real gem for helping to think about design and implementations.
++   * More recent: (80s) "The Meta-Object Protocol" by Kiczales, et al. The first section and example is a must to read and understand.
++   * Joe Armstrong’s PhD thesis — after many years of valuable experience with Erlang — was published as a book ca 2003 …
++   * Lots more out there for curious minds ….
++   * Mind Storms, by Seymour Pappert.
++   * The Elements of Programming Style, by Kernighan and Plaguer.
++   * Classics is Software Engineering, edited by Edward Yourdon, 1979 (While this book was published in 1979, it contains articles published by giants in Software Engineering from the ’60s and ‘70s).
++   * Programming on Purpose: Essays on Software Design, by PJ Plaguer.
++   * Byte Magazine, Volume 6, Number 8, August 1981, Editor in Chief Christopher Morgan.
++   * Programming Pearls, by Jon Bentley.
++   * Data Structures, This was a truly wonderful book. It was part of a computer science series. I read in the ‘70s, but I can’t find it now and I don’t remember the name of the author.
++   * Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein (known as CLRS).
++   * The Art of Computer Programming, Volumes 1…4, by Donald Knuth.
++   * Compilers: Principles, Techniques, and Tools, by Aho, Lam, Sethi, and Ullman, 1986 (known as The Dragon Book).
++   * I would mention Where Wizards Stay Up Late: The Origins of the InterNET, by Katie Hafner, but, it’s only from 1998 so I’m not sure it’s old enough.
++   * The Elements of Programming Style by Kernighan and Plauger
++   * Controlling Software Projects by Tom DeMarco
++   * The Mythical Man-Month by Fred Brooks
++   * Peopleware by DeMarco and Lister
++   * The Secrets of Consulting by Gerry Weinberg
++   * The Psychology of Computer Programming by Gerry Weinberg
++   * The Practical Guide to Structured Systems Design by Meilir Page-Jones
++   * The Design of Everyday Things by Don Norman
++   * Programming Pearls by Jon Bentley
++   * A Rational Design Process - How and Why to Fake it http://users.ece.utexas.edu/~per...
++   * A Spiral Model of Software Development and Enhancement http://csse.usc.edu/TECHRPTS/198...
++   * Clean Code
++   * I also really like Thinking in Java by a wonderful author called Bruce Eckel. As the title says, it teaches you to think OOP and really understand the design behind the language and the lessons it was designed after. The book is from 2006, so it is dated. But it is worth your time and is free to download!
++   * My favorite programming book to date is still Structure and Interpretation of Computer Programs, more popularly known as SICP. It’s old, but not forgotten for good reason. I hear many colleges are dropping this book, which is a crying shame.
++   * Mathematics for Computer Science is another unsung book. I don’t know of many who has read through this one, but it’s truly mind-expanding and mind-blowing.
++   * A book that’s often dismissed and forgotten in this day of "flavor of the week" JavaScript frameworks is JavaScript, the Good Parts. While it’s newer (10-ish years old), I wish more people would take a look at this one. Even if you never write JS in your life, you will walk away a better thinker.
++   * Extreme Programming Explained by Kent Beck (2000) — how taking everything to the extreme makes everything easier. Hugely influential for me at a time when most projects were waterfall-style change management exercises. This explains how to be agile.
++   * Smalltalk, Objects, and Design by Chamond Liu (1996) — a nice introduction to the elegant mother of all object oriented languages, but also covers design patterns, MVC, UI design and use of metaphors. A smorgasbord of developer insights that are still relevant today.
++   * Principles of Interactive Computer Graphics by Newman and Sproull (1979) — this book inspired me to get into programming. It explains the science of recreating the real world on a computer screen. Not so much about writing code, but about the mathematics, algorithms, and hardware.
++   * The C Programming Language
++   * The Unix Programming Environment
++   * SICP
++   * Tom Gilb’s - Principles of Software Engineering Management.
++   * His principles are classic:
++   * The invisible target principle All critical system attributes must be specified clearly. Invisible targets are usually hard to hit (except by chance).
++   * The all-the-holes-in-the-boat principle Your design solutions must satisfy all critical attributes simultaneously.
++   * The clear-the-fog-from-the-target principle All critical attributes can be specified in measurable testable terms, and the worst-acceptable level can be identified.
++   * The learn-before-your-budget-is-used-up principle Never attempt to deliver large and complex systems all at once; try to deliver them in many smaller increments, so that you can discover the problems and correct them early.
++   * The keep-pinching-yourself-to-see-if-you-are-dreaming principle Don’t believe blindly in any one method; use your methods and common sense to measure the reality against your needs.
++   * The fail-safe minimization principle If you don’t know what you’re doing, don’t do it on a large scale.
++   * Object-Oriented Software Construction - Wikipedia (by Betrand Meyer)
++   * Smalltalk-80 (http://stephane.ducasse.free.fr/...)
++   * You might want to take a look at DoradoList where it has lists of great computer engineering and science books suggested by some world-renowned professors from MIT, Stanford, UC Berkeley and more. Interestingly there is a section in that website that is called Gems and per website it is compiled as: "There are many books that are perhaps somewhat out of date in a broad sense but that have wonderful insights that have perhaps been overlooked. In this section, we have asked the top experts if they know of any of this type of hidden/forgotten gems. You can see their responses that we have categorized". It looks there is a section for Computer Programming there as well.
++   * Everything by Robert Glass
++   * Mindstorms
++   * Turtles, Termites, and Traffic Jams
++   * Computer Science, Logo Style by Brian Harvey (3 volumes)
++   * Mirror Worlds
++   * Starting Forth / Thinking Forth
++   * The C Programming Language
++   * The AWK Programming Language
++   * There are many other good books, some mentioned in other answers. My list touches on some different types of languages, which are small and tractable, but offer a broad sampling of ideas. The Harvey series shows that a language used to teach children has deceived many into thinking it wasn’t powerful.
++   * I love Per Brinch Hansen’s Programming a Personal Computer. It focusses on the Edison programming language, which is an incredibly small and simple language. Edison resembles Pascal to some extent.
++   * The book shows how to use Edison to write a complete operating system for a "personal computer." It even provides the complete source code listing!
++   * Edison was designed for multi-processor computing, sort of like the Golang of the day. This book was the first to convince me that small and simple was a very good thing.
++   * And that’s why Smalltalk is my favourite programming language today. See Richard Kenneth Eng's answer to What programming language was for you an absolute pleasure to work with and why?
 Category: craftsmanship
 Tags: reading-list, alan-kay, programming-pearl, quora, answer
 
@@ -1604,7 +1938,11 @@ Id: ec4e5a2e-c284-11e9-898c-0242ac110004
 Date: Mon, 19 Aug 2019 13:26:16 +0000
 Title: What if You Only Invested at Market Peaks?
 Link: https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/
-Body: This post analyses what happens if you only invest at market peaks.\n\nLessons learned:\n\n  * If you are going to make investment mistakes, make sure you are biased towards optimism and not pessimism. Long-term thinking has been rewarded in the past and unless you think the world or innovation is coming to an end it should be rewarded in the future. As Winston Churchill once said, “I am an optimist.  It does not seem too much use being anything else.”\n  * Losses are part of the deal when investing in stocks.  How you react to those losses is one of the biggest determinants of your investment performance.\n  * Saving more, thinking long-term and allowing compound interest to work in your favor are your biggest accelerants for building wealth. These factors have nothing to do with picking stocks or a complex investment strategy. Get these big things right and any disciplined investment strategy should do the trick.
+Body: This post analyses what happens if you only invest at market peaks.
++ Lessons learned:
++   * If you are going to make investment mistakes, make sure you are biased towards optimism and not pessimism. Long-term thinking has been rewarded in the past and unless you think the world or innovation is coming to an end it should be rewarded in the future. As Winston Churchill once said, “I am an optimist.  It does not seem too much use being anything else.”
++   * Losses are part of the deal when investing in stocks.  How you react to those losses is one of the biggest determinants of your investment performance.
++   * Saving more, thinking long-term and allowing compound interest to work in your favor are your biggest accelerants for building wealth. These factors have nothing to do with picking stocks or a complex investment strategy. Get these big things right and any disciplined investment strategy should do the trick.
 Category: finance
 Tags: market-timing, market-peak, timing, investment, compound-interest, stock, asset-allocation, mistake, quote
 
@@ -1636,7 +1974,8 @@ Id: fa331bd6-c89f-11e9-894d-0242ac110005
 Date: Tue, 27 Aug 2019 04:55:03 +0000
 Title: Delta requests for frequently-updated application bundles: from 2002 to service workers
 Link: https://blog.scottlogic.com/2019/08/15/delta-requests-frequently-updated-application-bundles-2002-to-service-workers.html
-Body: Explains how to bundle frontends (in javascript), to split it up for performance reasons. \n\nHow to split the vendor bundle from our own bundle. How to delta (incremental) send the new parts to clients
+Body: Explains how to bundle frontends (in javascript), to split it up for performance reasons. 
++ How to split the vendor bundle from our own bundle. How to delta (incremental) send the new parts to clients
 Category: craftsmanship
 Tags: service-worker, delta-request, vendor, javascript, frontend, bundle, cdn, http-delta-request, etag, cache, delta-encoding, shared-dictionary-compression-for-http, micro-frontend, webpack
 
@@ -1676,7 +2015,9 @@ Id: e604a468-dc4f-11e9-baea-0242ac110003
 Date: Sat, 21 Sep 2019 09:12:13 +0000
 Title: A Radical Guide to Spending Less Time on Your Phone
 Link: https://forge.medium.com/a-radical-guide-to-spending-less-time-on-your-phone-a5419b1538ee
-Body: In this guide, Ryan Holiday explains how he spends less time on his phone.\n\nHow he replaces the phone, from being a source of value, to being a source of distraction. Hence the need for minimizing it.\n\nGives plenty of actionable advice on how to achieve it.
+Body: In this guide, Ryan Holiday explains how he spends less time on his phone.
++ How he replaces the phone, from being a source of value, to being a source of distraction. Hence the need for minimizing it.
++ Gives plenty of actionable advice on how to achieve it.
 Category: philosophy
 Tags: ryan-holiday, distraction, smartphone, efficiency, happiness, fomo
 
@@ -1692,7 +2033,9 @@ Id: 613ed284-dc50-11e9-9df6-0242ac110003
 Date: Sat, 21 Sep 2019 09:15:39 +0000
 Title: Wealth: A New Era of Economics
 Link: https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441
-Body: Describes how Freeism works.\n\n> If Socialism is defined as the production and distribution of goods controlled by the public whole, and Capitalism as the production and distribution of goods controlled by private souls, then we can define Freeism as the production and distribution of goods incentivized by algorithms. Specifically, to impart my bias, with the goal of free peoples, free products, for a flourishing planet.\n
+Body: Describes how Freeism works.
++ > If Socialism is defined as the production and distribution of goods controlled by the public whole, and Capitalism as the production and distribution of goods controlled by private souls, then we can define Freeism as the production and distribution of goods incentivized by algorithms. Specifically, to impart my bias, with the goal of free peoples, free products, for a flourishing planet.
++ 
 Category: finance
 Tags: freeism, philosophy, socialism, capitalism, comparison, charity, economic-model, win-win, win-lose
 
@@ -1708,7 +2051,8 @@ Id: 6c34471c-2cde-11ea-b08d-0242ac110004
 Date: Wed, 01 Jan 2020 21:33:59 +0000
 Title: Modesty means more, not less
 Link: https://aeon.co/essays/modesty-is-not-a-cranky-killjoy-but-a-way-to-get-more-from-life
-Body: In this article, Nicolas Bommarito talks about modesty being connected to the things we know and, another version, to the things we don't know about.\n\nExplains that modesty is being less attached to yourself, especially comparing yourself to others. Also that modesty is linked with security and confidence: people not insecure don't make conversations about themselves, humblebrag, fish for compliments.
+Body: In this article, Nicolas Bommarito talks about modesty being connected to the things we know and, another version, to the things we don't know about.
++ Explains that modesty is being less attached to yourself, especially comparing yourself to others. Also that modesty is linked with security and confidence: people not insecure don't make conversations about themselves, humblebrag, fish for compliments.
 Category: philosophy
 Tags: nicolas-bommarito, aeon, long-form, confidence, modesty, value, virtue, vice, research, essay, belief, theory, personality
 
@@ -1716,7 +2060,8 @@ Id: 87862b62-2e13-11ea-9bd3-0242ac11000d
 Date: Fri, 03 Jan 2020 10:26:40 +0000
 Title: What Happens When Your Career Becomes Your Whole Identity
 Link: https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity
-Body: This article describes what happens when your career becomes (the whole or a big part of) your identity\n\nThere’s a discussion at https://news.ycombinator.com/item?id=21889923
+Body: This article describes what happens when your career becomes (the whole or a big part of) your identity
++ There’s a discussion at https://news.ycombinator.com/item?id=21889923
 Category: psychology
 Tags: hbr, harvard-business-review, article, identity, enmeshment, self-diagnose
 
@@ -1724,7 +2069,9 @@ Id: 851bde02-2e14-11ea-9ec6-0242ac11000d
 Date: Fri, 03 Jan 2020 10:33:45 +0000
 Title: localdots — HTTPS domains for localhost
 Link: https://github.com/luisfarzati/localdots
-Body: localdots combines Caddy and smallstep/certificates with automated configuration and hot reload.\n\nGenerates SSL/TLS certificates automatically\nReloads Caddy automatically with every change
+Body: localdots combines Caddy and smallstep/certificates with automated configuration and hot reload.
++ Generates SSL/TLS certificates automatically
++ Reloads Caddy automatically with every change
 Category: craftsmanship
 Tags: https, tls, ssl, caddy, certificate, ssl-certificate, development, dev, environment, local, localhost
 
@@ -1732,7 +2079,8 @@ Id: b6ad445a-518d-11ea-8529-0242ac110002
 Date: Mon, 17 Feb 2020 13:59:28 +0000
 Title: Write Your Own Compiler
 Link: https://t3x.org/t3x/book.html
-Body: Link to create a new compiler, for the T3X language.\n\n> less than 150 pages of comprehensible code and straight-forward prose
+Body: Link to create a new compiler, for the T3X language.
++ > less than 150 pages of comprehensible code and straight-forward prose
 Category: craftsmanship
 Tags: compiler, t3x, cc0
 
@@ -1748,7 +2096,8 @@ Id: dfd6d710-4dc7-11eb-b0a9-0242ac110002
 Date: Sun, 03 Jan 2021 13:30:41 +0000
 Title: How your startup can survive technical debt
 Link: https://andreschweighofer.com/tech/how-your-startup-can-survive-technical-debt/
-Body: Mentions the paradox of success: you need debt to start quickly, yet too quickly leaves no time to pay debt. Hence your prototype turns into an MVP, and that is your first piecce of technical debt.\n
+Body: Mentions the paradox of success: you need debt to start quickly, yet too quickly leaves no time to pay debt. Hence your prototype turns into an MVP, and that is your first piecce of technical debt.
++ 
 Category: craftsmanship
 Tags: andre-schweighofer, technical-debt, analogy, working-software, paradox
 
@@ -1756,7 +2105,8 @@ Id: 8f34ebda-5317-11eb-a356-0242ac110002
 Date: Sun, 10 Jan 2021 07:43:41 +0000
 Title: What I’ve Learned in 45 Years in the Software Industry
 Link: https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
-Body: Some thoughts from a person in the software industry, 45 years in.\n> Focus on the fundamentals: teamwork, trust, communication, seek consensus, automated testing, Clean, understandable, and navigable code and design
+Body: Some thoughts from a person in the software industry, 45 years in.
++ > Focus on the fundamentals: teamwork, trust, communication, seek consensus, automated testing, Clean, understandable, and navigable code and design
 Category: craftsmanship
 Tags: reflection, team-work, career-management, peter-principle, simplicity, joel-goldberg
 
@@ -1764,7 +2114,9 @@ Id: b7809eea-533a-11eb-99a9-0242ac110002
 Date: Sun, 10 Jan 2021 11:55:21 +0000
 Title: Retrospectiva 2020
 Link: https://vgaltes.com/post/retrospectiva-2020/
-Body: Vicenç reflects on his 2020, both laboral and professional, while working at Voxel from the UK.\n\nLower in salary rates, twice (first as reducing rates from a previous engagement, then lowering rates for the pandemic).\n\nExplains his goals for the upcoming year.
+Body: Vicenç reflects on his 2020, both laboral and professional, while working at Voxel from the UK.
++ Lower in salary rates, twice (first as reducing rates from a previous engagement, then lowering rates for the pandemic).
++ Explains his goals for the upcoming year.
 Category: craftsmanship
 Tags: vgaltes, vicenç-garcia-altes, retrospective, end-of-year, 2020, goals
 
@@ -1772,7 +2124,9 @@ Id: 2239e28a-533d-11eb-965d-0242ac110002
 Date: Sun, 10 Jan 2021 12:12:39 +0000
 Title: Are You a Self-Interrupter?
 Link: http://nautil.us/issue/48/Chaos/are-you-a-self_interrupter
-Body: There are two approaches by which we can diminish the negative impact of interference on our lives: changing our brains and changing our behavior\nIn terms of changing our brains, laboratories and companies around the world are now engaged in large-scale development and research efforts directed at understanding how we can enhance our brain’s functioning to improve cognitive control and thus reduce the negative impact of goal interference. Approaches include traditional education, meditation, cognitive training, video games, exposure to nature, drugs, physical exercise, neuro-feedback, and brain stimulation. Interestingly, many of them use modern technology to harness neuroplasticity and induce brain changes. We are at the threshold of fascinating times, as the technology that has aggravated the Distracted Mind is now being formulated to offer remediation. When we have no choice but to engage in a high-interference environment, we can work to ensure we are as optimized as possible to diminish the detrimental effects of distractions and interruptions.\nIt may seem difficult to change our habits, but at many points throughout history we have decided to modify how we interact with our environment after we’ve realized the harmful effects of a particular behavior. For example, prior to the overwhelming evidence of the dangers of cigarette use, doctors would actually recommend specific brands in advertisements. With increasing knowledge of the detrimental effects of this sort of behavior, and others such as the dangers of sun exposure, came the opportunity for us to make more informed decisions.
+Body: There are two approaches by which we can diminish the negative impact of interference on our lives: changing our brains and changing our behavior
++ In terms of changing our brains, laboratories and companies around the world are now engaged in large-scale development and research efforts directed at understanding how we can enhance our brain’s functioning to improve cognitive control and thus reduce the negative impact of goal interference. Approaches include traditional education, meditation, cognitive training, video games, exposure to nature, drugs, physical exercise, neuro-feedback, and brain stimulation. Interestingly, many of them use modern technology to harness neuroplasticity and induce brain changes. We are at the threshold of fascinating times, as the technology that has aggravated the Distracted Mind is now being formulated to offer remediation. When we have no choice but to engage in a high-interference environment, we can work to ensure we are as optimized as possible to diminish the detrimental effects of distractions and interruptions.
++ It may seem difficult to change our habits, but at many points throughout history we have decided to modify how we interact with our environment after we’ve realized the harmful effects of a particular behavior. For example, prior to the overwhelming evidence of the dangers of cigarette use, doctors would actually recommend specific brands in advertisements. With increasing knowledge of the detrimental effects of this sort of behavior, and others such as the dangers of sun exposure, came the opportunity for us to make more informed decisions.
 Category: psychology
 Tags: long-form, larry-rosen, adam-gazzaley, psychology, multitasking, phone, smartphone, interruption, efficiency
 
@@ -1788,7 +2142,11 @@ Id: b3b254f6-534a-11eb-b65b-0242ac110002
 Date: Sun, 10 Jan 2021 13:49:47 +0000
 Title: Do the Real Thing
 Link: https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/
-Body: > Fake activity is great for making yourself feel better, but lousy for actual results.\n\n> Rules for Doing the Real Thing\n\n> 1. Nothing is often better than something.\n> 1. The hard way is the easy way.\n> 1. If you’re not sure what the real thing is, just ask.
+Body: > Fake activity is great for making yourself feel better, but lousy for actual results.
++ > Rules for Doing the Real Thing
++ > 1. Nothing is often better than something.
++ > 1. The hard way is the easy way.
++ > 1. If you’re not sure what the real thing is, just ask.
 Category: craftsmanship
 Tags: ultralearning, scott-young, real-thing, distinction, focus, career
 
@@ -1796,7 +2154,9 @@ Id: 8679135c-534b-11eb-815f-0242ac110002
 Date: Sun, 10 Jan 2021 13:55:40 +0000
 Title: The Eternal Novice Trap
 Link: https://www.feoh.org/the-eternal-novice-trap.html
-Body: > * Do learn new programming languages and paradigms, but learn them from a place of confidence and mastery with your primary tool of choice.\n> * Don’t fall for the trap of perpetually chasing after the bright shiny thing that’s hot right now. Recognize that what’s new isn’t necessarily better. Take what will meaningfully help you advance your career and let the rest flow by. There’ll always be more tomorrow.\n> * Do keep having fun! You’ll learn more quickly and retain more if you’re finding enjoyment in what you do. Sometimes it means looking at things a little differently, but often that open mindedness can pay off.
+Body: > * Do learn new programming languages and paradigms, but learn them from a place of confidence and mastery with your primary tool of choice.
++ > * Don’t fall for the trap of perpetually chasing after the bright shiny thing that’s hot right now. Recognize that what’s new isn’t necessarily better. Take what will meaningfully help you advance your career and let the rest flow by. There’ll always be more tomorrow.
++ > * Do keep having fun! You’ll learn more quickly and retain more if you’re finding enjoyment in what you do. Sometimes it means looking at things a little differently, but often that open mindedness can pay off.
 Category: craftsmanship
 Tags: chris-patti, new-shiny, career-management, feoh, journeyman, dreyfus-model, acquisition-of-skill, learning
 
@@ -1804,7 +2164,8 @@ Id: ede18e32-5965-11eb-bb25-0242ac110002
 Date: Mon, 18 Jan 2021 08:19:48 +0000
 Title: Eisvogel: pandoc latex template
 Link: https://github.com/Wandmalfarbe/pandoc-latex-template
-Body: This is a tool / template to translate markdown files to PDF/LaTeX.\nThis can create a cover page, code listings
+Body: This is a tool / template to translate markdown files to PDF/LaTeX.
++ This can create a cover page, code listings
 Category: craftsmanship
 Tags: latex, tool, eisvogel, pandoc, template, document, publishing, book, markdown
 
@@ -1836,7 +2197,8 @@ Id: 785dca82-66ca-11eb-ace3-0242ac110002
 Date: Thu, 04 Feb 2021 09:22:15 +0000
 Title: SSL/TLS and PKI History
 Link: https://www.feistyduck.com/ssl-tls-and-pki-history/
-Body: Describes the history of SSL/TLS and PKI.\n\nCalendar of the main events of this history.
+Body: Describes the history of SSL/TLS and PKI.
++ Calendar of the main events of this history.
 Category: craftsmanship
 Tags: ssl, tls, mozilla, calendar, ivan-ristic, feisty-duck, rsa, microsoft, attack, heartbleed, tls13, certificate, breach, chrome, firefox, browser, https, http, dns, dns-over-https, doh
 
@@ -1860,7 +2222,26 @@ Id: 57ac7d00-66cb-11eb-b6e8-0242ac110002
 Date: Thu, 04 Feb 2021 09:28:30 +0000
 Title: A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic
 Link: https://danielmiessler.com/study/tcpdump/
-Body: 1.Basic Communication \n1.Find Traffic by IP \n1.Filter by Source and/or Destination \n1.Show Traffic by Network \n1.Show Traffic by Port \n1.Show Traffic by Protocol \n1.Show IPv6 Traffic \n1.Find Traffic Using Port Ranges \n1.Find Traffic Based on Packet Size \n1.Writing to a File \n1.Isolate TCP Flags \n1.Find HTTP User Agents \n1.Find Cleartext HTTP GETs \n1.Find HTTP Hosts \n1.Find HTTP Cookies \n1.Find SSH Connections \n1.Find DNS Traffic \n1.Find FTP Traffic \n1.Find Cleartext Passwords \n1.Find Packets With Evil Bit
+Body: 1.Basic Communication 
++ 1.Find Traffic by IP 
++ 1.Filter by Source and/or Destination 
++ 1.Show Traffic by Network 
++ 1.Show Traffic by Port 
++ 1.Show Traffic by Protocol 
++ 1.Show IPv6 Traffic 
++ 1.Find Traffic Using Port Ranges 
++ 1.Find Traffic Based on Packet Size 
++ 1.Writing to a File 
++ 1.Isolate TCP Flags 
++ 1.Find HTTP User Agents 
++ 1.Find Cleartext HTTP GETs 
++ 1.Find HTTP Hosts 
++ 1.Find HTTP Cookies 
++ 1.Find SSH Connections 
++ 1.Find DNS Traffic 
++ 1.Find FTP Traffic 
++ 1.Find Cleartext Passwords 
++ 1.Find Packets With Evil Bit
 Category: craftsmanship
 Tags: tcpdump, example, tool, tcpreplay, tcpdump-suite, network, network-analysis
 
@@ -1884,7 +2265,9 @@ Id: 2860fbfa-6abf-11eb-a986-0242ac110002
 Date: Mon, 08 Feb 2021 22:11:21 +0000
 Title: Lessons learned when my SSD died
 Link: https://bsago.me/posts/lessons-learned-when-my-ssd-died
-Body: what to do before your ssd dies: backup everything (too much is preferrable than too little).\n\nmake it automated\n\nrehearse the restore often (to practice)
+Body: what to do before your ssd dies: backup everything (too much is preferrable than too little).
++ make it automated
++ rehearse the restore often (to practice)
 Category: craftsmanship
 Tags: ssd, raid, redundancy, backup, data, protection
 
@@ -1932,7 +2315,8 @@ Id: e1d35cb4-acae-11eb-9c97-0242ac110002
 Date: Tue, 04 May 2021 08:01:07 +0000
 Title:
 Link: "User engagement" is code for "addiction"
-Body: In this discussion, they cover user engagement, addiction.\n\nProducts that do not follow that model
+Body: In this discussion, they cover user engagement, addiction.
++ Products that do not follow that model
 Category: craftsmanship
 Tags: user-addiction, hacker-news, engagement, social-media
 
@@ -2004,7 +2388,9 @@ Id: c35dba6a-b797-11eb-a2a5-0242ac110002
 Date: Sat May 15 11:10:30 2021
 Title: JPL's Design for a Clockwork Rover to Explore Venus (2017)
 Link: https://news.ycombinator.com/item?id=27164195
-Body: An article describing the challenges of creating a rover for Mars.\n\nThe high temperatures make it a challenge to deploy computers, then they were suggesting a mix of mechanical computers.\n\nIn one of the comments, they mention the idea of merging mechanical and electronic computers is now possible.
+Body: An article describing the challenges of creating a rover for Mars.
++ The high temperatures make it a challenge to deploy computers, then they were suggesting a mix of mechanical computers.
++ In one of the comments, they mention the idea of merging mechanical and electronic computers is now possible.
 Category: finance
 Tags: venus, planet, mechanical-computer, computer, jpl, nasa, exploration, temperature, cosmic-rays, imported, hacker-news
 
@@ -2068,7 +2454,8 @@ Id: a44cf062-b799-11eb-8a81-0242ac110002
 Date: Tue, 18 May 2021 05:26:47 +0000
 Title: C for Java programmers
 Link: https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf
-Body: Explains C from the point of view of a Java programmer.\n\nExplains pointers, allocation.
+Body: Explains C from the point of view of a Java programmer.
++ Explains pointers, allocation.
 Category: craftsmanship
 Tags: george-ferguson, dummy, c-for-java, language, c, java, guide
 
@@ -2108,7 +2495,9 @@ Id: 48bc4142-b79b-11eb-ba3c-0242ac110002
 Date: Sat May  8 15:56:29 2021
 Title: Inefficient Efficiency (2019)
 Link: https://news.ycombinator.com/item?id=27088272
-Body: An article by Kent Beck on learning, latency of process, feedback.\n\nA quote:\n\n> By emphasizing latency [of process] we get feedback sooner. Learning and adapting to external changes lead to less waste and therefore greater efficiency. Each piece is inefficient (compared to some theoretical maximum), but the whole is efficient. In my world, latency dominates. Mostly. But it depends
+Body: An article by Kent Beck on learning, latency of process, feedback.
++ A quote:
++ > By emphasizing latency [of process] we get feedback sooner. Learning and adapting to external changes lead to less waste and therefore greater efficiency. Each piece is inefficient (compared to some theoretical maximum), but the whole is efficient. In my world, latency dominates. Mostly. But it depends
 Category: craftsmanship
 Tags: quote, article, kent-beck, latency, process, feedback, learning, imported, hacker-news
 
@@ -2148,7 +2537,8 @@ Id: 27f16c48-b79c-11eb-8281-0242ac110002
 Date: Wed May  5 00:01:06 2021
 Title: Portability Is Reliability
 Link: https://news.ycombinator.com/item?id=27044419
-Body: The author proposes that, by targetting portability, you also get reliability as side effect.\n\nOne of the downsides of portability is limiting yourself to the lowest common denominator.
+Body: The author proposes that, by targetting portability, you also get reliability as side effect.
++ One of the downsides of portability is limiting yourself to the lowest common denominator.
 Category: craftsmanship
 Tags: portability, reliability, article, tool, imported, hacker-news
 
@@ -2164,7 +2554,8 @@ Id: fb3945ba-bbae-11eb-b8dc-0242ac110002
 Date: Sun May 23 02:58:49 2021
 Title: Monetizing open-source is problematic
 Link: https://news.ycombinator.com/item?id=27252066
-Body: the author of faker.js (and a paid-for SaaS) explains that another company (retool) created a similar project.\nThe gist of it is that no one pays for development of faker.js, published under a generous open-source license
+Body: the author of faker.js (and a paid-for SaaS) explains that another company (retool) created a similar project.
++ The gist of it is that no one pays for development of faker.js, published under a generous open-source license
 Category: craftsmanship
 Tags: license, open-source, faker, faker-js, retool, monetization, fakercloud, marak, imported, hacker-news
 
@@ -2180,7 +2571,17 @@ Id: ecd70904-bbfd-11eb-87ea-0242ac110002
 Date: Mon Mar 22 17:04:22 2021
 Title: Early-Retirement Update
 Link: https://news.ycombinator.com/item?id=26543527
-Body: > Short Version:\n>\n> - LeanFIRE in 2015 (~30Kish USD annual spend)\n> \n> - first couple years were great, in the third year cracks started to show\n> \n> - they and their partner's goals were no longer aligned and they ended up splitting\n> \n> - OP was diagnosed with a genetic condition that changed their expenses and lifestyle\n> \n> - Ended up getting a job again at the end, but while "retired" their net worth actually increased by 20%
+Body: > Short Version:
++ >
++ > - LeanFIRE in 2015 (~30Kish USD annual spend)
++ > 
++ > - first couple years were great, in the third year cracks started to show
++ > 
++ > - they and their partner's goals were no longer aligned and they ended up splitting
++ > 
++ > - OP was diagnosed with a genetic condition that changed their expenses and lifestyle
++ > 
++ > - Ended up getting a job again at the end, but while "retired" their net worth actually increased by 20%
 Category: finance
 Tags: dkarp, fire, lean-fire, lean, update, post-retirement-update, update, imported, hacker-news
 
@@ -2228,7 +2629,8 @@ Id: 97bc7fd4-c6ad-11eb-bab9-0242ac110002
 Date: Sun, 06 Jun 2021 09:57:24 +0000
 Title: The Animal is tired
 Link: http://www.robinhobb.com/blog/posts/38429
-Body: This blog describes the relationship between the mind and the animal we live in. I found it surprising to refer to this animal as a separate part.\n\nThe article says that the animal will suffer on what you feed it, and that you need to take care of it.
+Body: This blog describes the relationship between the mind and the animal we live in. I found it surprising to refer to this animal as a separate part.
++ The article says that the animal will suffer on what you feed it, and that you need to take care of it.
 Category: craftsmanship
 Tags: animal, separation, body, care, health, diet, age, aging
 
@@ -2260,7 +2662,8 @@ Id: b518b224-cda5-11eb-932c-0242ac110002
 Date: Tue, 15 Jun 2021 06:48:35 +0000
 Title: Cómo evitar perder en cada crisis de la bolsa
 Link: https://www.rankia.com/blog/invesgrama/5041827-como-evitar-perder-cada-crisis-bolsa
-Body: This article describes how different reactions when the market is bearish affect your portfolio.\n\nDescribes strategies: "those who lost more", "those that are cheapest", finally suggesting "changing the focus from the profits and losses sheet to the balance sheet".
+Body: This article describes how different reactions when the market is bearish affect your portfolio.
++ Describes strategies: "those who lost more", "those that are cheapest", finally suggesting "changing the focus from the profits and losses sheet to the balance sheet".
 Category: finance
 Tags: article, rankia, crisis, bearish, strategy
 
@@ -2324,7 +2727,8 @@ Id: e8666404-d1a2-11eb-be1d-0242ac110004
 Date: Sun May 23 17:37:25 2021
 Title: Why I prefer making useless stuff
 Link: https://news.ycombinator.com/item?id=27256867
-Body: discussion about what's the purpose of building side projects.\n\nsome people prefer dogfooding their own products, some prefer learning a new language, some prefer something completely different
+Body: discussion about what's the purpose of building side projects.
++ some people prefer dogfooding their own products, some prefer learning a new language, some prefer something completely different
 Category: craftsmanship
 Tags: personal-project, austin-z-henley, austin-henley, useless-stuff, project, goal, learning, imported, hacker-news
 
@@ -2492,7 +2896,8 @@ Id: 751b41dc-0edc-11ec-97dc-0242ac110002
 Date: Mon, 06 Sep 2021 06:34:16 +0000
 Title: x11docker: Run GUI applications in Docker
 Link: https://github.com/mviereck/x11docker
-Body: A bash script to run GUI applications in docker.\n\nNo dependencies, oriented towards security.
+Body: A bash script to run GUI applications in docker.
++ No dependencies, oriented towards security.
 Category: craftsmanship
 Tags: bash, tool, docker, gui, tui, security
 
@@ -2500,7 +2905,8 @@ Id: 1e468190-0edd-11ec-bfad-0242ac110002
 Date: Mon, 06 Sep 2021 06:39:00 +0000
 Title: plain text accounting
 Link: https://plaintextaccounting.org/
-Body: A site dedicated to plain text accounting.\n\ntools, what and why, caveats, limitations, comparison to a spreadsheet, etc.
+Body: A site dedicated to plain text accounting.
++ tools, what and why, caveats, limitations, comparison to a spreadsheet, etc.
 Category: finance
 Tags: tool, plain-text-accounting, double-entry-accounting, fava, ledger, hledger, plain-text, accounting, accountant, beancount, spreasheet, personal-finance
 
@@ -2524,7 +2930,9 @@ Id: badc56a8-13c7-11ec-a0d7-0242ac110002
 Date: Sun, 12 Sep 2021 12:48:29 +0000
 Title: The big-load anti-pattern
 Link: https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/
-Body: Talks about how big-load at the beginning is an antipattern.\n\nShows effects of memory consumption. Recommends how to perform streaming analysis of data.\n\nA controversial post to stir up the conversation.
+Body: Talks about how big-load at the beginning is an antipattern.
++ Shows effects of memory consumption. Recommends how to perform streaming analysis of data.
++ A controversial post to stir up the conversation.
 Category: craftsmanship
 Tags: memory, performance, stream, anti-pattern, pattern, ram, cpu, resource, sharding, json, cache
 
@@ -2572,7 +2980,8 @@ Id: 4c981052-ec8d-11ec-a7c9-0242ac110003
 Date: Wed, 15 Jun 2022 09:26:56 +0000
 Title: Cython: Defining fields in a Cython.cclass
 Link: https://cython.readthedocs.io/en/latest/src/tutorial/cdef_classes.html#id8
-Body: Pointing to "WaveFunction" (#id8).\n\nExamples of how a @cython.cclass with attributes gets converted to C.
+Body: Pointing to "WaveFunction" (#id8).
++ Examples of how a @cython.cclass with attributes gets converted to C.
 Category: craftsmanship
 Tags: cython, binding, generate-kat-core, cython.cclass, python, integration
 
@@ -2628,7 +3037,9 @@ Id: 4e335ae4-16e4-11ed-a924-0242ac110003
 Date: Mon, 08 Aug 2022 06:35:33 +0000
 Title: To Become Wise, Do Less!
 Link: https://leveragethoughts.substack.com/p/to-become-wise-do-less
-Body: The need to integrate leisure in creative work.\n\nIt is rephrased as "Leisure gives the scribe the chance to acquire wisdom".\n\nThis is a similar idea to Hammock Driven Development (Rich Hickey)
+Body: The need to integrate leisure in creative work.
++ It is rephrased as "Leisure gives the scribe the chance to acquire wisdom".
++ This is a similar idea to Hammock Driven Development (Rich Hickey)
 Category: craftsmanship
 Tags: leisure, creativity, creative-work, work, henri-poincare, rich-hickey, hammock-driven-development, peter-drucker, quote, jideofor-onwugbenu
 
@@ -2636,7 +3047,9 @@ Id: b8ce6150-16e4-11ed-ba5b-0242ac110003
 Date: Mon, 08 Aug 2022 06:38:32 +0000
 Title: Do Not Engage the Mind in The Intense Pursuit of Too Many Things at Once
 Link: https://leveragethoughts.substack.com/p/do-not-engage-the-mind-in-the-intense
-Body: >Engage not the mind in the intense pursuit of too many things at once; especially such as have no relation to one another. This will be ready to distract the understanding and hinder it from attaining perfection in any one subject of study. Such a practice gives a slight smattering of several sciences, without any solid and substantial knowledge of them, and without any real and valuable improvement; and though two or three sorts of study may be usefully carried on at once, to entertain the mind with variety, that it may not be overtired with one sort of thoughts, yet a multitude of subjects will too much distract the attention and weaken the application of the mind to any one of them.\n>\n> Isaac Watts (Improvement of the Mind)
+Body: >Engage not the mind in the intense pursuit of too many things at once; especially such as have no relation to one another. This will be ready to distract the understanding and hinder it from attaining perfection in any one subject of study. Such a practice gives a slight smattering of several sciences, without any solid and substantial knowledge of them, and without any real and valuable improvement; and though two or three sorts of study may be usefully carried on at once, to entertain the mind with variety, that it may not be overtired with one sort of thoughts, yet a multitude of subjects will too much distract the attention and weaken the application of the mind to any one of them.
++ >
++ > Isaac Watts (Improvement of the Mind)
 Category: psychology
 Tags: quote, jideofor-onwugbenu, isaac-watts, hyperactivity, focus, social-media
 
@@ -2668,7 +3081,9 @@ Id: fa4d5126-16e5-11ed-bc8f-0242ac110003
 Date: Mon Aug  8 01:20:41 2022
 Title: I 10x'd a TI-84 emulator's speed by replacing a switch-case
 Link: https://news.ycombinator.com/item?id=32381550
-Body: Increasing the performance by helping the compiler to optimize switch statements.\n\n> @LGB actually in V8 (JS engine used by google chrome) you need to jump through a lot of hoops to get switch case optimized: All the cases must be of same type. All the cases must either be string literals or 31-bit signed integer literals. And there must be less than 128 cases. And even after all those hoops, all you get is what you would have gotten with if-elses anyway (I.E. no jump tables or sth like that)\n
+Body: Increasing the performance by helping the compiler to optimize switch statements.
++ > @LGB actually in V8 (JS engine used by google chrome) you need to jump through a lot of hoops to get switch case optimized: All the cases must be of same type. All the cases must either be string literals or 31-bit signed integer literals. And there must be less than 128 cases. And even after all those hoops, all you get is what you would have gotten with if-elses anyway (I.E. no jump tables or sth like that)
++ 
 Category: craftsmanship
 Tags: emulator, calculator, optimization, switch-statement, jump-table, javascript, js, v8, google, opcode, ti-84, imported, hacker-news
 
@@ -2701,7 +3116,15 @@ Id: dec739e6-17dd-11ed-9806-0242ac110003
 Date: Tue, 09 Aug 2022 12:22:01 +0000
 Title: Statistically Rigorous Java Performance Evaluation
 Link: https://dri.es/files/oopsla07-georges.pdf
-Body: > Java performance is far from being trivial to benchmark because it is affected by various factors such as the Java application, its input, the virtual machine, the garbage collector, the heap size, etc.\n> In addition, non-determinism at run-time causes the execution time of a Java program to differ from run to run. There are a number of sources of non-determinism such as Just-In-Time (JIT) compilation\n> and optimization in the virtual machine (VM) driven by timerbased method sampling, thread scheduling, garbage collection, and various system effects.\n> \n> There exist a wide variety of Java performance evaluation methodologies used by researchers and benchmarkers. These methodologies differ from each other in a number of ways. Some report average performance over a number of runs of the same experiment; others report the best or second best performance observed; yet others report the worst. Some iterate the benchmark multiple times within a single VM invocation; others consider multiple VM invocations and iterate a single benchmark execution; yet others consider multiple VM invocations and iterate the benchmark multiple times.\n> \n> This paper shows that prevalent methodologies can be misleading, and can even lead to incorrect conclusions. The reason is that the data analysis is not statistically rigorous. In this paper, we present a survey of xisting Java performance evaluation methodologies and discuss the importance of statistically rigorous data analysis for dealing with non-determinism. We advocate approaches to quantify startup as well as steady-state performance, and, in addition, we provide the JavaStats software to automatically obtain performance numbers in a rigorous manner. Although this paper focuses on Java performance evaluation, many of the issues addressed in this paper also apply to other programming languages and systems that build on a managed runtime system.\n>\n> (copied from the abstract)
+Body: > Java performance is far from being trivial to benchmark because it is affected by various factors such as the Java application, its input, the virtual machine, the garbage collector, the heap size, etc.
++ > In addition, non-determinism at run-time causes the execution time of a Java program to differ from run to run. There are a number of sources of non-determinism such as Just-In-Time (JIT) compilation
++ > and optimization in the virtual machine (VM) driven by timerbased method sampling, thread scheduling, garbage collection, and various system effects.
++ > 
++ > There exist a wide variety of Java performance evaluation methodologies used by researchers and benchmarkers. These methodologies differ from each other in a number of ways. Some report average performance over a number of runs of the same experiment; others report the best or second best performance observed; yet others report the worst. Some iterate the benchmark multiple times within a single VM invocation; others consider multiple VM invocations and iterate a single benchmark execution; yet others consider multiple VM invocations and iterate the benchmark multiple times.
++ > 
++ > This paper shows that prevalent methodologies can be misleading, and can even lead to incorrect conclusions. The reason is that the data analysis is not statistically rigorous. In this paper, we present a survey of xisting Java performance evaluation methodologies and discuss the importance of statistically rigorous data analysis for dealing with non-determinism. We advocate approaches to quantify startup as well as steady-state performance, and, in addition, we provide the JavaStats software to automatically obtain performance numbers in a rigorous manner. Although this paper focuses on Java performance evaluation, many of the issues addressed in this paper also apply to other programming languages and systems that build on a managed runtime system.
++ >
++ > (copied from the abstract)
 Category: craftsmanship
 Tags: java, performance, statistics, statistically-relevant, confidence-interval
 
@@ -2917,7 +3340,9 @@ Id: c4dd8794-5854-11ed-9e34-0242ac110003
 Date: Sun, 30 Oct 2022 13:14:22 +0000
 Title: Electric SQL: Local-first. Electrified.
 Link: https://electric-sql.com/
-Body: You develop local-first apps. We provide the cloud sync. Without changing your\ndatabase or your code.\n\nTurn applications into offline applications, mixing webworkers, local databases.
+Body: You develop local-first apps. We provide the cloud sync. Without changing your
++ database or your code.
++ Turn applications into offline applications, mixing webworkers, local databases.
 Category: craftsmanship
 Tags: electric-sql, offline, progressive-web-app, pwa, tool, js, javascript, react, database
 
@@ -3029,7 +3454,9 @@ Id: e511548e-761b-11ed-9ab0-0242ac110003
 Date: Sun Dec  4 13:11:59 2022
 Title: Leaving the Basement
 Link: https://news.ycombinator.com/item?id=33853390
-Body: Ugly systems are under production usage\nBeautiful systems have never been useful to production \n\nIdea that longer usage makes warts appear
+Body: Ugly systems are under production usage
++ Beautiful systems have never been useful to production 
++ Idea that longer usage makes warts appear
 Category: craftsmanship
 Tags: idea, adaptation, software, production, beauty, craftsmanship, elegance, time, long-running-system, fitting, evolution, imported, hacker-news
 
@@ -3141,7 +3568,8 @@ Id: f232edf4-8b37-11ed-a9a7-0242ac110003
 Date: Tue, 03 Jan 2023 07:26:32 +0000
 Title: systemd Shutdown Units
 Link: https://www.psdn.io/posts/systemd-shutdown-unit/
-Body: Designing a system to shutdown gracefully can be tricky. In an ideal world, every service would be managed by a systemd unit \n\n An introduction to how systemd works, how to order commands 
+Body: Designing a system to shutdown gracefully can be tricky. In an ideal world, every service would be managed by a systemd unit 
++  An introduction to how systemd works, how to order commands 
 Category: craftsmanship
 Tags: systemd, command, guide, linux, daemon, tool, unix
 
@@ -3165,7 +3593,10 @@ Id: 9104f4ee-97cd-11ed-b9bf-0242ac110002
 Date: Thu, 19 Jan 2023 07:47:47 +0000
 Title: Books about Diogenes
 Link: https://news.ycombinator.com/item?id=34436250
-Body: Two excellent books on Diogenes and other Cynics;\n1) Diogenes the Cynic: Sayings and Anecdotes translated by Robin Hard.\n\n2) The Cynic Philosophers: From Diogenes to Julian translated by Robert Dobbin.\n\n
+Body: Two excellent books on Diogenes and other Cynics;
++ 1) Diogenes the Cynic: Sayings and Anecdotes translated by Robin Hard.
++ 2) The Cynic Philosophers: From Diogenes to Julian translated by Robert Dobbin.
++ 
 Category: philosophy
 Tags: diogenes, diogenes-the-cynic, cynics, cynicism, stoicism, book, book-recommendation
 
@@ -3173,7 +3604,15 @@ Id: e5a960f4-a1f8-11ed-8efa-0242ac110002
 Date: Wed, 01 Feb 2023 06:23:09 +0000
 Title: 275: Sabiduría de Japón para Vivir Mejor, más allá del Ikigai, con Marcos Cartagena
 Link: https://www.fitnessrevolucionario.com/2021/07/22/275-sabiduria-japon-marcos-cartagena/
-Body: Conceptos valiosos:\n  * IKIGAI (Propósito de vida, tu " Para qué" "El motor de tu vida")\n  * NANKURUNAISA: Frase para relativizar los hechos. "Con el tiempo y perspectiva, todo se pondrá en su lugar"\n  * TEGEWA: "No te compliques, piensa sencillo"\n  * ICHIGO-ICHIE: "Una vez, un encuentro" "Esto que ocurre ahora, no se va a repetir"\n  * GANBARU: "Dar el cien por cien" "Dar lo mejor que llevas dentro"\n  * CHOWA: Afinar la Armonía/Equilibrio en tu vida\n  * OMOTENASHI: "La belleza de servir a los demás" "Acto de bondad desinteresado"\n  * KINTSUGI: "El arte de salir fortalecido ante la adversidad"/ Similar al concepto de Antifragil
+Body: Conceptos valiosos:
++   * IKIGAI (Propósito de vida, tu " Para qué" "El motor de tu vida")
++   * NANKURUNAISA: Frase para relativizar los hechos. "Con el tiempo y perspectiva, todo se pondrá en su lugar"
++   * TEGEWA: "No te compliques, piensa sencillo"
++   * ICHIGO-ICHIE: "Una vez, un encuentro" "Esto que ocurre ahora, no se va a repetir"
++   * GANBARU: "Dar el cien por cien" "Dar lo mejor que llevas dentro"
++   * CHOWA: Afinar la Armonía/Equilibrio en tu vida
++   * OMOTENASHI: "La belleza de servir a los demás" "Acto de bondad desinteresado"
++   * KINTSUGI: "El arte de salir fortalecido ante la adversidad"/ Similar al concepto de Antifragil
 Category: philosophy
 Tags: japan, concept, loan-word, stoicism, greek, philosopy-of-life, podcast, marcos-vazquez, fitness-revolucionario, fitnessrevolucionario, marcos-cartagena, ikigai, nankurunaisa, tegewa, ichigo-ichie, ganbaru, chowa, omotenashi, kintsugi, antifragile, nassim-taleb
 
@@ -3189,7 +3628,10 @@ Id: bbe38520-a846-11ed-957a-0242ac110002
 Date: Wed Feb  8 01:46:40 2023
 Title: CBMC: The C Bounded Model Checker
 Link: https://news.ycombinator.com/item?id=34703004
-Body: CBMC on GitHub:\nhttps://github.com/diffblue/cbmc\n\nSome usage examples:\n\nhttps://haslab.github.io/MFES/2122/CBMCexamples-handout.pdf
+Body: CBMC on GitHub:
++ https://github.com/diffblue/cbmc
++ Some usage examples:
++ https://haslab.github.io/MFES/2122/CBMCexamples-handout.pdf
 Category: craftsmanship
 Tags: cbmc, c, c-language, bound-check, sat-solver, tool, static-analysis, checker, imported, hacker-news
 
