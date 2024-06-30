@@ -4936,3 +4936,12 @@ Title: Static arrays are the best vectors
 Body: an article explaining how to mantain a vector on top of a static array in C. The trick is to allocate a big static buffer and only consume whatever is needed.
 Category: craftsmanship
 Tags: hackernews, imported, bwidlar, c, static-array, vector, memory-management, mynameistrez
+
+Id: aa970bde-192c-485e-8a41-2022f69609ee
+Date: Sun, 30 Jun 2024 05:07:53 +0000
+Link: https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with
+Title: Weekend projects: getting silly with C
+Body: How to use the goto, switch statements to modify the structure of a C program
+Category: craftsmanship
+Tags: hackernews, imported, nothacking_, c-programming-language, c, switch, goto, code-golf, ioccc, lcamtuf
+
