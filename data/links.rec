@@ -895,7 +895,7 @@ Id: 9003a91a-7dff-11e8-a366-0242ac110003
 Date: Mon, 02 Jul 2018 13:55:22 +0000
 Category: craftsmanship
 Title: Ask HN: What is the first thing you implement at a new company?
-Link: https://news.ycombinator.com/item?id=17353854
+Origin: https://news.ycombinator.com/item?id=17353854
 Body: I've read this article on the first things that people do when joining a new client.
 + Mentions the Chesterton's fence: You don’t want to change something until you understand why it’s there in the first place.
 Tags: chesterton-fence, hacker-news, contractor, client, onboarding, fix
@@ -1159,7 +1159,7 @@ Id: 0eb0ef62-3b41-11e9-863a-0242ac110003
 Date: Thu, 28 Feb 2019 8:10:21 +0000
 Category: craftsmanship
 Title: Ask HN: How to be productive with big existing code base
-Link: https://news.ycombinator.com/item?id=19254008
+Origin: https://news.ycombinator.com/item?id=19254008
 Body: In this HN discussion, there are some pearls regarding working with big, legacy codebases:
 +   * Just because you wouldn't have done it the way they did doesn't mean they did it wrong. A reference to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence)
 +   * A reference to Working Effectively With Legacy Code, by Feathers
@@ -1227,7 +1227,7 @@ Id: e839c82a-4367-11e9-b34d-0242ac110007
 Date: Sun, 10 Mar 2019 19:08:36 +0000
 Category: craftsmanship
 Title: Gotify – a self-hosted push-notifications service
-Link: https://news.ycombinator.com/item?id=19347848
+Origin: https://news.ycombinator.com/item?id=19347848
 Body:
 Tags: gotify, self-hosted, notification, notification-service, android, open-source
 
@@ -1235,7 +1235,7 @@ Id: 1a478fc8-4368-11e9-b657-0242ac110007
 Date: Sun, 10 Mar 2019 19:10:00 +0000
 Category: craftsmanship
 Title: Ask HN: How to speak like a leader, not like an engineer?
-Link: https://news.ycombinator.com/item?id=19349676
+Origin: https://news.ycombinator.com/item?id=19349676
 Body: Links and resources for speaking like a leader
 Tags: leader, engineer, comparison, change, public-speaking, speak, speaking, career-management, career-change, professional-growth, resource:
 
@@ -1243,7 +1243,7 @@ Id: 4168161c-436e-11e9-aa0d-0242ac110007
 Date: Sun, 10 Mar 2019 19:54:03 +0000
 Category: craftsmanship
 Title: ArchiveBox: Open-source self-hosted web archive
-Link: https://news.ycombinator.com/item?id=19346985
+Origin: https://news.ycombinator.com/item?id=19346985
 Body: Tools for archiving purposes. Has links to other sites:
 + https://github.com/machawk1/warcreate
 + https://getpolarized.io/
@@ -1253,7 +1253,7 @@ Id: b74a6696-4c83-11e9-99bd-0242ac110005
 Date: Fri, 22 Mar 2019 09:20:21 +0000
 Category: craftsmanship
 Title: Ask HN: As a freelancer, what's the best app to track finances?
-Link: https://news.ycombinator.com/item?id=19450331
+Origin: https://news.ycombinator.com/item?id=19450331
 Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
 Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, finance, time-wealth, money-wealth
 
@@ -1443,7 +1443,7 @@ Id: d074c386-5c3d-11e9-a6ce-0242ac110006
 Date: Thu, 11 Apr 2019 09:40:17 +0000
 Category: craftsmanship
 Title: Startup Stock Options – Why a Good Deal Has Gone Bad
-Link: https://news.ycombinator.com/item?id=19624164
+Origin: https://news.ycombinator.com/item?id=19624164
 Body: An interesting quote:
 + > Valid reasons to work for a startup:
 + > - You are a cofounder.
@@ -1517,7 +1517,7 @@ Id: b74a6697-4c83-11e9-99bd-0242ac110005
 Date: Fri, 22 Mar 2019 09:20:21 +0000
 Category: finance
 Title: Ask HN: As a freelancer, what's the best app to track finances?
-Link: https://news.ycombinator.com/item?id=19450331
+Origin: https://news.ycombinator.com/item?id=19450331
 Body: Describes tools for finance for freelancers. Stresses the importance of time wealth
 Tags: time-management, money-management, freelance, tool, ask-hn, hackernews, finance, time-wealth, money-wealth
 
@@ -1580,7 +1580,7 @@ Tags: jonathan-haidt, richard-easterlin, mihalyi-csikszentmihalyi, flow, happine
 Id: 6f8fad6a-7560-11e9-8c94-0242ac110003
 Date: Mon, 13 May 2019 09:21:06 +0000
 Title: Ask HN: Which books teach mental models?
-Link: https://news.ycombinator.com/item?id=19895407
+Origin: https://news.ycombinator.com/item?id=19895407
 Body: Books teaching mental models. Some suggestions:
 +   * The Fifth Discipline by Peter M. Senge at the moment.
 +   * Thinking in Systems: A Primer by Donella Meadows
@@ -1644,7 +1644,7 @@ Tags: web-archive, memex, personal-knowledge-base, archive, information, informa
 Id: 61b02a52-7ade-11e9-82fd-0242ac110003
 Date: Mon, 20 May 2019 09:05:15 +0000
 Title: Internet Data Is Rotting
-Link: https://news.ycombinator.com/item?id=19925151
+Origin: https://news.ycombinator.com/item?id=19925151
 Body: How the internet data is rotting. How it is even important that this rots.
 Category: craftsmanship
 Tags: personal-knowledge-base, archive, data-archival
@@ -2008,7 +2008,7 @@ Tags: career, career-management, knowledge, information, profession, connection,
 Id: a5ddf530-c8a2-11e9-8709-0242ac110006
 Date: Tue, 27 Aug 2019 08:14:10 +0000
 Title: Ask HN: Best resources to gain math intuition?
-Link: https://news.ycombinator.com/item?id=20804582
+Origin: https://news.ycombinator.com/item?id=20804582
 Body:
 Category: craftsmanship
 Tags: intuition, book, resource, mathematics, introduction
@@ -2089,7 +2089,7 @@ Tags: compiler, t3x, cc0
 Id: c37b0f2a-4dc5-11eb-8048-0242ac110002
 Date: Sun, 03 Jan 2021 13:15:34 +0000
 Title: Perfect Media Server
-Link: https://news.ycombinator.com/item?id=25619137
+Origin: https://news.ycombinator.com/item?id=25619137
 Body: Hacker News discussion on a media server, half open source (?).
 Category: craftsmanship
 Tags: hacker-news, media-server, perfect, tool, software
@@ -2215,7 +2215,7 @@ Tags: cryptography, constant-time, fact, ucsd, university-california, programmin
 Id: 35f7f586-66cb-11eb-88c6-0242ac110002
 Date: Thu, 04 Feb 2021 09:27:33 +0000
 Title: Ask HN: What is your “I don't care if this succeeds” project?
-Link: https://news.ycombinator.com/item?id=25992782
+Origin: https://news.ycombinator.com/item?id=25992782
 Body: Tools that are 'hobbies' for people. Some of them are free
 Category: craftsmanship
 Tags: tool, hn, project, hobby
@@ -2325,7 +2325,7 @@ Tags: user-addiction, hacker-news, engagement, social-media
 Id: 72e2a462-acaf-11eb-b4b8-0242ac110002
 Date: Tue, 04 May 2021 08:05:11 +0000
 Title: How often should I rotate my SSH keys?
-Link: https://news.ycombinator.com/item?id=26249380
+Origin: https://news.ycombinator.com/item?id=26249380
 Body: A discussion on how often to replace SSH keys
 Category: craftsmanship
 Tags: hacker-news, yubikey, otp, totp, ssh, authorized_hosts, ssh-keygen, rsa, secure-enclave, key
@@ -2341,7 +2341,7 @@ Tags: marketplace, indie-hacker, freelance, b2b-platform, saas, monetization, at
 Id: b73a9c44-b2fb-11eb-9135-0242ac110002
 Date: Wed, 12 May 2021 08:26:14 +0000
 Title: How Fake Money Saved Brazil (2010)
-Link: https://news.ycombinator.com/item?id=27126258
+Origin: https://news.ycombinator.com/item?id=27126258
 Body: A hacker-news discussion on an NPR podcast about the Brazilian currency, the 80% a month hyperinflation.
 Category: finance
 Tags: hyperinflation, brazil, currency, real, urv, unidade-real-de-valor, npr, podcast, hacker-news, hn
@@ -2365,7 +2365,7 @@ Tags: writing-books, programming, publishing, revenue, profit, self-publishing
 Id: 2519b6f2-b32c-11eb-9cd5-0242ac110003
 Date: Wed, 12 May 2021 14:12:54 +0000
 Title: I could send any text message from Indian government IDs
-Link: https://news.ycombinator.com/item?id=27127703
+Origin: https://news.ycombinator.com/item?id=27127703
 Body:
 Category: craftsmanship
 Tags: hacker-news, pentesting, india, sms, authentication, shared-secret
@@ -2373,7 +2373,7 @@ Tags: hacker-news, pentesting, india, sms, authentication, shared-secret
 Id: 0ef56762-b797-11eb-9bad-0242ac110002
 Date: Fri Apr 30 11:48:27 2021
 Title: Stock Market Returns Are Anything but Average
-Link: https://news.ycombinator.com/item?id=26992205
+Origin: https://news.ycombinator.com/item?id=26992205
 Body: Describing the current status of market returns
 Category: finance
 Tags: forecast, outlook, return, imported, hacker-news
@@ -2381,7 +2381,7 @@ Tags: forecast, outlook, return, imported, hacker-news
 Id: 6d5b75e4-b797-11eb-8691-0242ac110002
 Date: Thu May 13 23:55:57 2021
 Title: Open Source Continuous File Synchronization
-Link: https://news.ycombinator.com/item?id=27149002
+Origin: https://news.ycombinator.com/item?id=27149002
 Body: Discussion on how to perform continuous file synchronization
 Category: finance
 Tags: syncthing, backup, resilio, file-synchronization, imported, hacker-news
@@ -2389,7 +2389,7 @@ Tags: syncthing, backup, resilio, file-synchronization, imported, hacker-news
 Id: c35dba6a-b797-11eb-a2a5-0242ac110002
 Date: Sat May 15 11:10:30 2021
 Title: JPL's Design for a Clockwork Rover to Explore Venus (2017)
-Link: https://news.ycombinator.com/item?id=27164195
+Origin: https://news.ycombinator.com/item?id=27164195
 Body: An article describing the challenges of creating a rover for Mars.
 + The high temperatures make it a challenge to deploy computers, then they were suggesting a mix of mechanical computers.
 + In one of the comments, they mention the idea of merging mechanical and electronic computers is now possible.
@@ -2407,7 +2407,7 @@ Tags: gnu-make, make, recipe, defaults, oneshell
 Id: 663e5bc2-b798-11eb-b723-0242ac110002
 Date: Sat Jan 30 21:29:22 2021
 Title: Software Verification and Analysis Using Z3
-Link: https://news.ycombinator.com/item?id=25973194
+Origin: https://news.ycombinator.com/item?id=25973194
 Body:
 Category: craftsmanship
 Tags: verification, z3, compiler, c-cpp, imported, hacker-news
@@ -2415,7 +2415,7 @@ Tags: verification, z3, compiler, c-cpp, imported, hacker-news
 Id: a255b16e-b798-11eb-8ddc-0242ac110002
 Date: Mon Feb  1 22:32:56 2021
 Title: Tamper-Evident Logs
-Link: https://news.ycombinator.com/item?id=25995034
+Origin: https://news.ycombinator.com/item?id=25995034
 Body:
 Category: craftsmanship
 Tags: rfc-5848, signed-log, hash, log, tamper-evident, cryptography, integrity, merkle-tree, tool, imported, hacker-news
@@ -2423,7 +2423,7 @@ Tags: rfc-5848, signed-log, hash, log, tamper-evident, cryptography, integrity, 
 Id: e3c3a5e8-b798-11eb-928b-0242ac110002
 Date: Fri Feb 12 11:16:08 2021
 Title: Fuzz me wrong – How QuickCheck destroyed my favourite theory
-Link: https://news.ycombinator.com/item?id=26112441
+Origin: https://news.ycombinator.com/item?id=26112441
 Body:
 Category: craftsmanship
 Tags: quickcheck, theory, property-based-testing, haskell, testing, imported, hacker-news
@@ -2431,7 +2431,7 @@ Tags: quickcheck, theory, property-based-testing, haskell, testing, imported, ha
 Id: 20cf25c0-b799-11eb-a8ad-0242ac110002
 Date: Fri Feb 12 13:48:16 2021
 Title: Flexible working shows 55% high performers compared to 36% for 40 hours/week
-Link: https://news.ycombinator.com/item?id=26113569
+Origin: https://news.ycombinator.com/item?id=26113569
 Body: An increase in high performers when allowing flexible working
 Category: psychology
 Tags: time-management, flexible-working, remote-work, pomodoro-technique, hbr, imported, hacker-news
@@ -2447,7 +2447,7 @@ Tags: z3, verification, tool, microsoft-research
 Id: 74a35e82-b799-11eb-81e7-0242ac110002
 Date: Tue Mar 30 13:33:57 2021
 Title: Improving Shell Workflows with Fzf
-Link: https://news.ycombinator.com/item?id=26634419
+Origin: https://news.ycombinator.com/item?id=26634419
 Body: how FZF can help improving your flows with the shell
 Category: craftsmanship
 Tags: fzf, bash, shell, productivity, junegunn, tips, imported, hacker-news
@@ -2464,7 +2464,7 @@ Tags: george-ferguson, dummy, c-for-java, language, c, java, guide
 Id: ee109398-b799-11eb-9f25-0242ac110002
 Date: Thu Apr  8 04:21:28 2021
 Title: Reading in the Age of Constant Distraction (2019)
-Link: https://news.ycombinator.com/item?id=26735051
+Origin: https://news.ycombinator.com/item?id=26735051
 Body:
 Category: psychology
 Tags: reading, distraction, focus, social-media, audiobook, book, classic, imported, hacker-news
@@ -2472,7 +2472,7 @@ Tags: reading, distraction, focus, social-media, audiobook, book, classic, impor
 Id: 9f00cbb4-b79a-11eb-860c-0242ac110002
 Date: Fri May 14 12:19:37 2021
 Title: The Memex Method
-Link: https://news.ycombinator.com/item?id=27153423
+Origin: https://news.ycombinator.com/item?id=27153423
 Body: Cory Doctorow describes his memex
 Category: craftsmanship
 Tags: memex, zettelkasten, notes, cory-doctorow, imported, hacker-news
@@ -2480,7 +2480,7 @@ Tags: memex, zettelkasten, notes, cory-doctorow, imported, hacker-news
 Id: d6fd5316-b79a-11eb-b6f3-0242ac110002
 Date: Sat May 15 15:15:57 2021
 Title: Modern Javascript: Everything you missed over the last 10 years (2020)
-Link: https://news.ycombinator.com/item?id=27165954
+Origin: https://news.ycombinator.com/item?id=27165954
 Body: A review of the changes in the last 10 years of javascript
 Category: craftsmanship
 Tags: language, modern-language, javascript, modern-javascript, review, update, imported, hacker-news
@@ -2488,7 +2488,7 @@ Tags: language, modern-language, javascript, modern-javascript, review, update, 
 Id: 00a11f22-b79b-11eb-898a-0242ac110002
 Date: Sun May  9 01:21:49 2021
 Title: Staying on the path to high performing teams (2018)
-Link: https://news.ycombinator.com/item?id=27092326
+Origin: https://news.ycombinator.com/item?id=27092326
 Body:
 Category: craftsmanship
 Tags: high-performance, high-performance-team, complexity, monolith, microservice, brooke-law, imported, hacker-news
@@ -2496,7 +2496,7 @@ Tags: high-performance, high-performance-team, complexity, monolith, microservic
 Id: 48bc4142-b79b-11eb-ba3c-0242ac110002
 Date: Sat May  8 15:56:29 2021
 Title: Inefficient Efficiency (2019)
-Link: https://news.ycombinator.com/item?id=27088272
+Origin: https://news.ycombinator.com/item?id=27088272
 Body: An article by Kent Beck on learning, latency of process, feedback.
 + A quote:
 + > By emphasizing latency [of process] we get feedback sooner. Learning and adapting to external changes lead to less waste and therefore greater efficiency. Each piece is inefficient (compared to some theoretical maximum), but the whole is efficient. In my world, latency dominates. Mostly. But it depends
@@ -2506,7 +2506,7 @@ Tags: quote, article, kent-beck, latency, process, feedback, learning, imported,
 Id: 628ce1da-b79b-11eb-bbe3-0242ac110002
 Date: Sun May  9 07:52:58 2021
 Title: Ask HN: How do you manage to work less than 8 hours despite full-time job?
-Link: https://news.ycombinator.com/item?id=27094110
+Origin: https://news.ycombinator.com/item?id=27094110
 Body: Somebody asks how to work less
 Category: craftsmanship
 Tags: efficiency, flow, question, imported, hacker-news
@@ -2514,7 +2514,7 @@ Tags: efficiency, flow, question, imported, hacker-news
 Id: acbc610e-b79b-11eb-a091-0242ac110002
 Date: Sat May  8 20:45:48 2021
 Title: Show HN: zxpy, a cleaner version of Google's zx
-Link: https://news.ycombinator.com/item?id=27090526
+Origin: https://news.ycombinator.com/item?id=27090526
 Body: An alternative to google's [zx](https://github.com/google/zx), in python.
 Category: craftsmanship
 Tags: bash, scripting, npm, node, bash-replacement, google, alternative, zx, zxpy, tool, language, imported, hacker-news
@@ -2522,7 +2522,7 @@ Tags: bash, scripting, npm, node, bash-replacement, google, alternative, zx, zxp
 Id: c68a0578-b79b-11eb-b17e-0242ac110002
 Date: Sat May  8 00:42:43 2021
 Title: I’ve had the same supper for 10 years
-Link: https://news.ycombinator.com/item?id=27082522
+Origin: https://news.ycombinator.com/item?id=27082522
 Body:
 Category: psychology
 Tags: process, supper, simple-life, rural-life, life, imported, hacker-news
@@ -2530,7 +2530,7 @@ Tags: process, supper, simple-life, rural-life, life, imported, hacker-news
 Id: e952f984-b79b-11eb-8766-0242ac110002
 Date: Thu May  6 07:00:31 2021
 Title: Modern C and What We Can Learn from It [video]
-Link: https://news.ycombinator.com/item?id=27059976
+Origin: https://news.ycombinator.com/item?id=27059976
 Body:
 Category: craftsmanship
 Tags: modern-language, modern-c, ansi-c, video, imported, hacker-news
@@ -2538,7 +2538,7 @@ Tags: modern-language, modern-c, ansi-c, video, imported, hacker-news
 Id: 27f16c48-b79c-11eb-8281-0242ac110002
 Date: Wed May  5 00:01:06 2021
 Title: Portability Is Reliability
-Link: https://news.ycombinator.com/item?id=27044419
+Origin: https://news.ycombinator.com/item?id=27044419
 Body: The author proposes that, by targetting portability, you also get reliability as side effect.
 + One of the downsides of portability is limiting yourself to the lowest common denominator.
 Category: craftsmanship
@@ -2547,7 +2547,7 @@ Tags: portability, reliability, article, tool, imported, hacker-news
 Id: 080bb5ae-bba8-11eb-be96-0242ac110002
 Date: Sat May 22 19:09:27 2021
 Title: Show HN: I hate adding updating to my apps, so I created Pakkly
-Link: https://news.ycombinator.com/item?id=27249413
+Origin: https://news.ycombinator.com/item?id=27249413
 Body: this tool helps you automate the updating of the app. For desktop applications.
 Category: craftsmanship
 Tags: tool, enatik, pakkly, update, app, process, toolchain, open-source, imported, hacker-news
@@ -2555,7 +2555,7 @@ Tags: tool, enatik, pakkly, update, app, process, toolchain, open-source, import
 Id: fb3945ba-bbae-11eb-b8dc-0242ac110002
 Date: Sun May 23 02:58:49 2021
 Title: Monetizing open-source is problematic
-Link: https://news.ycombinator.com/item?id=27252066
+Origin: https://news.ycombinator.com/item?id=27252066
 Body: the author of faker.js (and a paid-for SaaS) explains that another company (retool) created a similar project.
 + The gist of it is that no one pays for development of faker.js, published under a generous open-source license
 Category: craftsmanship
@@ -2564,7 +2564,7 @@ Tags: license, open-source, faker, faker-js, retool, monetization, fakercloud, m
 Id: 82cdbd1c-bbf5-11eb-98b3-0242ac110002
 Date: Sun May 23 15:35:17 2021
 Title: Saying Goodbye to Typo CI
-Link: https://news.ycombinator.com/item?id=27255727
+Origin: https://news.ycombinator.com/item?id=27255727
 Body: article describing how it is the Github environment, for third parties, especially after the purchase by microsoft
 Category: craftsmanship
 Tags: microsoft, github, saas, typo-ci, typo, spellcheck, git-hook, third-party-app, github-action, marketplace, imported, hacker-news
@@ -2572,7 +2572,7 @@ Tags: microsoft, github, saas, typo-ci, typo, spellcheck, git-hook, third-party-
 Id: ecd70904-bbfd-11eb-87ea-0242ac110002
 Date: Mon Mar 22 17:04:22 2021
 Title: Early-Retirement Update
-Link: https://news.ycombinator.com/item?id=26543527
+Origin: https://news.ycombinator.com/item?id=26543527
 Body: > Short Version:
 + >
 + > - LeanFIRE in 2015 (~30Kish USD annual spend)
@@ -2598,7 +2598,7 @@ Tags: information-asymmetry, wealth, stealth, millionaire-next-door, thomas-stan
 Id: 11aaedc6-bbff-11eb-a85d-0242ac110002
 Date: Wed May 19 07:46:10 2021
 Title: The End of Retirement (2014)
-Link: https://news.ycombinator.com/item?id=27205734
+Origin: https://news.ycombinator.com/item?id=27205734
 Body: A long article on people who work past retirement age, maybe to never retire at all.
 Category: finance
 Tags: workamper, traveler, nomad, retirement-age, retirement, geriatric-migrant, migrant, rv, aging, amazon, boncamp, trailer, imported, hacker-news
@@ -2614,7 +2614,7 @@ Tags: tool, networthify, retirement, cfiresim, simulator, fire, financial-indepe
 Id: 71760042-bbff-11eb-9c4c-0242ac110002
 Date: Mon May 17 22:42:22 2021
 Title: Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com
-Link: https://news.ycombinator.com/item?id=27189288
+Origin: https://news.ycombinator.com/item?id=27189288
 Body: A nice trick to identify people by their SSH keys. Used to apply for jobs
 Category: craftsmanship
 Tags: ssh-key, identification, job-search, job, job-hunt, hack-club, sshtron, tool, trick, imported, hacker-news
@@ -2622,7 +2622,7 @@ Tags: ssh-key, identification, job-search, job, job-hunt, hack-club, sshtron, to
 Id: 91e909d2-bbff-11eb-95c7-0242ac110002
 Date: Sun May  2 02:43:47 2021
 Title: Python vs Common Lisp, workflow and ecosystem (2019)
-Link: https://news.ycombinator.com/item?id=27011942
+Origin: https://news.ycombinator.com/item?id=27011942
 Body: A set of articles comparing Common lisp and python
 Category: craftsmanship
 Tags: common-lisp, cl, clos, python, pip, comparison, imported, hacker-news
@@ -2639,7 +2639,7 @@ Tags: animal, separation, body, care, health, diet, age, aging
 Id: ff3be8e8-c8f1-11eb-9a26-0242ac110002
 Date: Tue Jun  8 08:30:51 2021
 Title: Althttpd: Simple webserver in a single C file
-Link: https://news.ycombinator.com/item?id=27431910
+Origin: https://news.ycombinator.com/item?id=27431910
 Body:
 Category: craftsmanship
 Tags: tool, webserver, isolated, small, simple, c/cpp, sqlite, imported, hacker-news
@@ -2647,7 +2647,7 @@ Tags: tool, webserver, isolated, small, simple, c/cpp, sqlite, imported, hacker-
 Id: 8fdbd50c-c8f2-11eb-bb29-0242ac110002
 Date: Sat Jun  5 23:45:40 2021
 Title: “That Won't Work”
-Link: https://news.ycombinator.com/item?id=27409368
+Origin: https://news.ycombinator.com/item?id=27409368
 Body: A discussion on when to cut work, proactively, based on the intuition or experience that something will or will not work. TWW
 Category: craftsmanship
 Tags: tww, forecast, experience, senior, seniority, management, work-management, architect, imported, hacker-news
@@ -2655,7 +2655,7 @@ Tags: tww, forecast, experience, senior, seniority, management, work-management,
 Id: b1551f68-c8f2-11eb-a02f-0242ac110002
 Date: Wed Jun  2 15:44:42 2021
 Title: Stack Overflow sold to Prosus for .8B
-Link: https://news.ycombinator.com/item?id=27370026
+Origin: https://news.ycombinator.com/item?id=27370026
 Body: News about the sale of StackOverflow to Prosus
 Category: finance
 Tags: sale, investment, exit, prosus, stackoverflow, qa, so, imported, hacker-news
@@ -2680,7 +2680,7 @@ Tags: test-smell, code-smell, tool, github, minitest, test
 Id: d5a4f50c-d1a1-11eb-a146-0242ac110004
 Date: Tue May 11 02:19:00 2021
 Title: Experts suggest AXA’s plan to shun ransomware payouts will set a precedent
-Link: https://news.ycombinator.com/item?id=27113468
+Origin: https://news.ycombinator.com/item?id=27113468
 Body: an article about implications of paying ransom in a ransomware attack
 Category: craftsmanship
 Tags: ransom, ransomware, malware, axa, precedent, justice, law, imported, hacker-news
@@ -2688,7 +2688,7 @@ Tags: ransom, ransomware, malware, axa, precedent, justice, law, imported, hacke
 Id: 002c575c-d1a2-11eb-a0aa-0242ac110004
 Date: Sun May  9 12:58:18 2021
 Title: Show HN: Save, annotate and organize podcasts, blog posts, newsletters, videos
-Link: https://news.ycombinator.com/item?id=27095588
+Origin: https://news.ycombinator.com/item?id=27095588
 Body: a tool to organize your online things (tweets, articles, notes, zettelkasten, etc)
 Category: craftsmanship
 Tags: tool, shelf, online, saas, note, note-management, zettelkasten, tweet, notion, alternative-to, imported, hacker-news
@@ -2696,7 +2696,7 @@ Tags: tool, shelf, online, saas, note, note-management, zettelkasten, tweet, not
 Id: 2b189570-d1a2-11eb-8a72-0242ac110004
 Date: Wed May 26 16:00:27 2021
 Title: Have you ever hurt yourself from your own code?
-Link: https://news.ycombinator.com/item?id=27292219
+Origin: https://news.ycombinator.com/item?id=27292219
 Body: a discussion on wrongful side effects in the real world of your code
 Category: craftsmanship
 Tags: side-effect, in-real-life, harm, danger, imported, hacker-news
@@ -2704,7 +2704,7 @@ Tags: side-effect, in-real-life, harm, danger, imported, hacker-news
 Id: 44fc9d6a-d1a2-11eb-a30f-0242ac110004
 Date: Sun May  9 19:39:41 2021
 Title: Introduction to Security Good Practices
-Link: https://news.ycombinator.com/item?id=27099025
+Origin: https://news.ycombinator.com/item?id=27099025
 Body: Security best practices
 Category: craftsmanship
 Tags: security, best-practice, 27001, iso, password-manager, imported, hacker-news
@@ -2712,7 +2712,7 @@ Tags: security, best-practice, 27001, iso, password-manager, imported, hacker-ne
 Id: 80da07e6-d1a2-11eb-beb3-0242ac110004
 Date: Mon May 10 18:22:45 2021
 Title: Game developers sharing their salaries on Twitter
-Link: https://news.ycombinator.com/item?id=27109142
+Origin: https://news.ycombinator.com/item?id=27109142
 Body: s
 Category: craftsmanship
 Tags: salary, union, faang, career, carer-management, comp, compensation, imported, hacker-news
@@ -2720,7 +2720,7 @@ Tags: salary, union, faang, career, carer-management, comp, compensation, import
 Id: 9e77eed0-d1a2-11eb-ae91-0242ac110004
 Date: Tue May 11 06:00:32 2021
 Title: Babel is used by millions, so why are we running out of money?
-Link: https://news.ycombinator.com/item?id=27114718
+Origin: https://news.ycombinator.com/item?id=27114718
 Body:
 Category: craftsmanship
 Tags: compensation, open-source, monetization, babel, fund, full-time, imported, hacker-news
@@ -2728,7 +2728,7 @@ Tags: compensation, open-source, monetization, babel, fund, full-time, imported,
 Id: e8666404-d1a2-11eb-be1d-0242ac110004
 Date: Sun May 23 17:37:25 2021
 Title: Why I prefer making useless stuff
-Link: https://news.ycombinator.com/item?id=27256867
+Origin: https://news.ycombinator.com/item?id=27256867
 Body: discussion about what's the purpose of building side projects.
 + some people prefer dogfooding their own products, some prefer learning a new language, some prefer something completely different
 Category: craftsmanship
@@ -2737,7 +2737,7 @@ Tags: personal-project, austin-z-henley, austin-henley, useless-stuff, project, 
 Id: 19049478-d1a3-11eb-9fa4-0242ac110004
 Date: Tue May  4 20:35:48 2021
 Title: Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)
-Link: https://news.ycombinator.com/item?id=27042568
+Origin: https://news.ycombinator.com/item?id=27042568
 Body:
 Category: craftsmanship
 Tags: paxos, overhead, consensus-algorithm, network-ordering, cap-theorem, efficiency, imported, hacker-news
@@ -2745,7 +2745,7 @@ Tags: paxos, overhead, consensus-algorithm, network-ordering, cap-theorem, effic
 Id: 56713d0c-d1a3-11eb-914f-0242ac110004
 Date: Sun May 30 02:12:14 2021
 Title: All the best engineering advice I stole from non-technical people (2019)
-Link: https://news.ycombinator.com/item?id=27330031
+Origin: https://news.ycombinator.com/item?id=27330031
 Body:
 Category: craftsmanship
 Tags: advice, technical, imported, hacker-news
@@ -2753,7 +2753,7 @@ Tags: advice, technical, imported, hacker-news
 Id: 7e01f1ea-d1a3-11eb-8bb3-0242ac110004
 Date: Sun May 30 02:12:14 2021
 Title: All the best engineering advice I stole from non-technical people (2019)
-Link: https://news.ycombinator.com/item?id=27330031
+Origin: https://news.ycombinator.com/item?id=27330031
 Body:
 Category: psychology
 Tags: cancel-culture, weapon, past, history, free-speech, vigilante, imported, hacker-news
@@ -2761,7 +2761,7 @@ Tags: cancel-culture, weapon, past, history, free-speech, vigilante, imported, h
 Id: 97de9956-d1a3-11eb-acd0-0242ac110004
 Date: Mon May 31 18:49:31 2021
 Title: Small B Blogging (2018)
-Link: https://news.ycombinator.com/item?id=27347026
+Origin: https://news.ycombinator.com/item?id=27347026
 Body:
 Category: craftsmanship
 Tags: blogging, walled-garden, analogy, imported, hacker-news
@@ -2769,7 +2769,7 @@ Tags: blogging, walled-garden, analogy, imported, hacker-news
 Id: 4e59c8e4-fe87-11eb-bec5-0242ac110002
 Date: Mon May  3 14:10:32 2021
 Title: Programming in Z3 by learning to think like a compiler
-Link: https://news.ycombinator.com/item?id=27025289
+Origin: https://news.ycombinator.com/item?id=27025289
 Body:
 Category: craftsmanship
 Tags: z3, compiler, testing, python, tool, imported, hacker-news
@@ -2777,7 +2777,7 @@ Tags: z3, compiler, testing, python, tool, imported, hacker-news
 Id: 84773c22-fe87-11eb-99af-0242ac110002
 Date: Sat May  8 17:34:31 2021
 Title: ABI Mistakes
-Link: https://news.ycombinator.com/item?id=27089184
+Origin: https://news.ycombinator.com/item?id=27089184
 Body:
 Category: craftsmanship
 Tags: abi, application-binary-interface, binary, c, library, ffi, foreign-function-interface, imported, hacker-news
@@ -2785,7 +2785,7 @@ Tags: abi, application-binary-interface, binary, c, library, ffi, foreign-functi
 Id: 9974ac5e-fe87-11eb-92d2-0242ac110002
 Date: Tue Jun  8 08:30:51 2021
 Title: Althttpd: Simple webserver in a single C file
-Link: https://news.ycombinator.com/item?id=27431910
+Origin: https://news.ycombinator.com/item?id=27431910
 Body:
 Category: craftsmanship
 Tags: http, httpd, c, sample, project, sqlite, web-server, apache, nginx, imported, hacker-news
@@ -2793,7 +2793,7 @@ Tags: http, httpd, c, sample, project, sqlite, web-server, apache, nginx, import
 Id: a6897ca8-fe87-11eb-9227-0242ac110002
 Date: Sat Jan 30 21:29:22 2021
 Title: Software Verification and Analysis Using Z3
-Link: https://news.ycombinator.com/item?id=25973194
+Origin: https://news.ycombinator.com/item?id=25973194
 Body:
 Category: craftsmanship
 Tags: z3, verification, tool, compiler, imported, hacker-news
@@ -2809,7 +2809,7 @@ Tags: repl, hotload, python, tool, dependency
 Id: 04a3eeae-fe88-11eb-ab46-0242ac110002
 Date: Mon Aug 16 06:21:19 2021
 Title: Classical Data Structures That Can Outperform Learned Indexes (2018)
-Link: https://news.ycombinator.com/item?id=28195439
+Origin: https://news.ycombinator.com/item?id=28195439
 Body:
 Category: craftsmanship
 Tags: hashing, cuckoo-hashing, chained-hashing, data-structure, hash-table, performance, imported, hacker-news
@@ -2817,7 +2817,7 @@ Tags: hashing, cuckoo-hashing, chained-hashing, data-structure, hash-table, perf
 Id: 1c208416-fe88-11eb-841b-0242ac110002
 Date: Sun Jun 27 07:14:23 2021
 Title: The free lunch is over: a fundamental turn toward concurrency in software (2005)
-Link: https://news.ycombinator.com/item?id=27649343
+Origin: https://news.ycombinator.com/item?id=27649343
 Body:
 Category: craftsmanship
 Tags: concurrency, performance, parallelism, optimization, imported, hacker-news
@@ -2825,7 +2825,7 @@ Tags: concurrency, performance, parallelism, optimization, imported, hacker-news
 Id: 31ec4924-fe88-11eb-99c4-0242ac110002
 Date: Sun Jun 27 07:14:23 2021
 Title: The free lunch is over: a fundamental turn toward concurrency in software (2005)
-Link: https://news.ycombinator.com/item?id=27649343
+Origin: https://news.ycombinator.com/item?id=27649343
 Body:
 Category: finance
 Tags: status, wealth, income, imported, hacker-news
@@ -2841,7 +2841,7 @@ Tags: basic, guide, stock, price, equity, intern
 Id: e1197be2-fe88-11eb-9136-0242ac110002
 Date: Tue Jun 15 14:00:49 2021
 Title: Finish Your Stuff (2015)
-Link: https://news.ycombinator.com/item?id=27515645
+Origin: https://news.ycombinator.com/item?id=27515645
 Body:
 Category: craftsmanship
 Tags: programming, procrastination, finish, motivation, project, imported, hacker-news
@@ -2849,7 +2849,7 @@ Tags: programming, procrastination, finish, motivation, project, imported, hacke
 Id: 066e0822-fe89-11eb-b1b2-0242ac110002
 Date: Tue Jun 22 23:01:23 2021
 Title: Learn C and build your own Lisp (2014)
-Link: https://news.ycombinator.com/item?id=27598424
+Origin: https://news.ycombinator.com/item?id=27598424
 Body:
 Category: craftsmanship
 Tags: lisp, c, project, your-own-lisp, transpilation, imported, hacker-news
@@ -2873,7 +2873,7 @@ Tags: diet, fitness, myfitnesspal, restricted-calory-diet, high-protein, 1200-ca
 Id: ef998e4c-0a3f-11ec-9cce-0242ac110002
 Date: Mon Aug 30 19:53:24 2021
 Title: A quick and simple editor for cron schedule expressions
-Link: https://news.ycombinator.com/item?id=28360139
+Origin: https://news.ycombinator.com/item?id=28360139
 Body:
 Category: craftsmanship
 Tags: tool, crontab, systemd, periodic, time, scheduling, guru, schedule, imported, hacker-news
@@ -2881,7 +2881,7 @@ Tags: tool, crontab, systemd, periodic, time, scheduling, guru, schedule, import
 Id: 2fd44c7c-0e4b-11ec-85fd-0242ac110002
 Date: Sun Sep  5 03:46:00 2021
 Title: Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate
-Link: https://news.ycombinator.com/item?id=28421477
+Origin: https://news.ycombinator.com/item?id=28421477
 Body:
 Category: craftsmanship
 Tags: sci-hub, alexandra-elbakyan, library, open-access, aaron-swartz, imported, hacker-news
@@ -2889,7 +2889,7 @@ Tags: sci-hub, alexandra-elbakyan, library, open-access, aaron-swartz, imported,
 Id: f43e873a-0e4b-11ec-a6d9-0242ac110002
 Date: Sat Sep  4 23:53:56 2021
 Title: Object-Oriented Programming in C (2019) [pdf]
-Link: https://news.ycombinator.com/item?id=28420506
+Origin: https://news.ycombinator.com/item?id=28420506
 Body:
 Category: craftsmanship
 Tags: oop, c, pointer, technique, imported, hacker-news
@@ -2915,7 +2915,7 @@ Tags: tool, plain-text-accounting, double-entry-accounting, fava, ledger, hledge
 Id: 1374f814-1397-11ec-9445-0242ac110002
 Date: Fri Feb 26 13:21:55 2021
 Title: GNU poke 1.0
-Link: https://news.ycombinator.com/item?id=26274466
+Origin: https://news.ycombinator.com/item?id=26274466
 Body:
 Category: craftsmanship
 Tags: tool, gnu, poke, hex-editor, programming-language, language, imported, hacker-news
@@ -2949,7 +2949,7 @@ Tags: pvs-studio, static-analysis, c, openssl, defect, bug, comparison
 Id: 43efd0aa-13c8-11ec-8b52-0242ac110002
 Date: Mon Sep  6 16:53:54 2021
 Title: Show HN: Age 1.0 – Simple, modern and secure file encryption
-Link: https://news.ycombinator.com/item?id=28435613
+Origin: https://news.ycombinator.com/item?id=28435613
 Body: Filo Sottile has created a tool called age, for transparent file encryption.
 Category: craftsmanship
 Tags: gpg, encryption, cryptography, cli, tool, filo-sottile, mkcert, alternative, imported, hacker-news
@@ -2957,7 +2957,7 @@ Tags: gpg, encryption, cryptography, cli, tool, filo-sottile, mkcert, alternativ
 Id: f82bd9d0-ebf2-11ec-a47b-0242ac110003
 Date: Sat Jun 11 17:31:03 2022
 Title: AirPlay and Touch Bar = Network Disaster
-Link: https://news.ycombinator.com/item?id=31706283
+Origin: https://news.ycombinator.com/item?id=31706283
 Body: An account of the interaction between AirPlay and Touch Bar (in mac)
 Category: craftsmanship
 Tags: airplay, debugging, touch-bar, mac-os, imported, hacker-news
@@ -2998,7 +2998,7 @@ Tags: cython, struct, integration, generate-kat-core, python, binding
 Id: 5017abd4-fb79-11ec-ad8c-0242ac110003
 Date: Sun Jul  3 18:38:57 2022
 Title: Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten
-Link: https://news.ycombinator.com/item?id=31969931
+Origin: https://news.ycombinator.com/item?id=31969931
 Body: Zettelkasten notes implemented as a library with a set of CLI utils
 Category: craftsmanship
 Tags: zettelkasten, software, personal-knowledge, application, tool, cli, fzf, search, wiki, imported, hacker-news
@@ -3030,7 +3030,7 @@ Tags: closure, javascript, higher-order-function, partial-application, functiona
 Id: c93acb66-13db-11ed-9c8a-0242ac110003
 Date: Wed Jul 13 03:30:52 2022
 Title: Rolling your own crypto: Everything you need to build AES from scratch
-Link: https://news.ycombinator.com/item?id=32078749
+Origin: https://news.ycombinator.com/item?id=32078749
 Body: A guide to understand AES in depth
 Category: craftsmanship
 Tags: aes, cryptography, tutorial, guide, imported, hacker-news
@@ -3058,7 +3058,7 @@ Tags: quote, jideofor-onwugbenu, isaac-watts, hyperactivity, focus, social-media
 Id: 4352df2c-16e5-11ed-abbc-0242ac110003
 Date: Sun Aug  7 06:08:09 2022
 Title: Let's Talk SkipList
-Link: https://news.ycombinator.com/item?id=32374278
+Origin: https://news.ycombinator.com/item?id=32374278
 Body: A guide on how to implement a SkipList data structure
 Category: craftsmanship
 Tags: skiplist, data-structure, zip-tree, isomorphism, dsa, algorithm, binary-tree, imported, hacker-news
@@ -3066,7 +3066,7 @@ Tags: skiplist, data-structure, zip-tree, isomorphism, dsa, algorithm, binary-tr
 Id: 8e1e992e-16e5-11ed-85fc-0242ac110003
 Date: Fri Aug  5 09:01:57 2022
 Title: Documenting software architecture with arc42
-Link: https://news.ycombinator.com/item?id=32353500
+Origin: https://news.ycombinator.com/item?id=32353500
 Body:
 Category: craftsmanship
 Tags: documentation, architecture, arc42, c4-model, system-thinking, imported, hacker-news
@@ -3074,7 +3074,7 @@ Tags: documentation, architecture, arc42, c4-model, system-thinking, imported, h
 Id: bcbf73ca-16e5-11ed-a7fd-0242ac110003
 Date: Fri Aug  5 11:13:25 2022
 Title: Ask HN: What are some good resources to learn safety-critical C/C++ coding from?
-Link: https://news.ycombinator.com/item?id=32354471
+Origin: https://news.ycombinator.com/item?id=32354471
 Body:
 Category: craftsmanship
 Tags: safety-critical, c, misra, resource, standard, bug, imported, hacker-news
@@ -3082,7 +3082,7 @@ Tags: safety-critical, c, misra, resource, standard, bug, imported, hacker-news
 Id: fa4d5126-16e5-11ed-bc8f-0242ac110003
 Date: Mon Aug  8 01:20:41 2022
 Title: I 10x'd a TI-84 emulator's speed by replacing a switch-case
-Link: https://news.ycombinator.com/item?id=32381550
+Origin: https://news.ycombinator.com/item?id=32381550
 Body: Increasing the performance by helping the compiler to optimize switch statements.
 + > @LGB actually in V8 (JS engine used by google chrome) you need to jump through a lot of hoops to get switch case optimized: All the cases must be of same type. All the cases must either be string literals or 31-bit signed integer literals. And there must be less than 128 cases. And even after all those hoops, all you get is what you would have gotten with if-elses anyway (I.E. no jump tables or sth like that)
 + 
@@ -3092,7 +3092,7 @@ Tags: emulator, calculator, optimization, switch-statement, jump-table, javascri
 Id: b57e0cec-17d6-11ed-ac65-0242ac110003
 Date: Mon Aug  8 15:47:45 2022
 Title: The Reluctant Prophet of Effective Altruism
-Link: https://news.ycombinator.com/item?id=32386984
+Origin: https://news.ycombinator.com/item?id=32386984
 Body: An article about Effective Altruism, its founder (MacAskill), other people involved (Bankman-Fried).
 Body: x
 Category: philosophy
@@ -3101,7 +3101,7 @@ Tags: effective-altruism, earn-to-give, charity, altruism, philosophy, imported,
 Id: 2e5f6d24-17da-11ed-9b75-0242ac110003
 Date: Mon Aug  8 11:02:10 2022
 Title: De-anonymizing programmers from binaries (2017)
-Link: https://news.ycombinator.com/item?id=32384147
+Origin: https://news.ycombinator.com/item?id=32384147
 Body: How to identify (de-anonymize) programmers (code authors) from its binaries
 Category: craftsmanship
 Tags: arxiv, privacy, paper, imported, hacker-news
@@ -3109,7 +3109,7 @@ Tags: arxiv, privacy, paper, imported, hacker-news
 Id: 6ffdee10-17dd-11ed-950f-0242ac110003
 Date: Thu Jun 23 13:05:47 2022
 Title: Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20
-Link: https://news.ycombinator.com/item?id=31848499
+Origin: https://news.ycombinator.com/item?id=31848499
 Body:
 Category: craftsmanship
 Tags: rust, linux, kernel, programming-language, imported, hacker-news
@@ -3133,7 +3133,7 @@ Tags: java, performance, statistics, statistically-relevant, confidence-interval
 Id: ba6208f8-188a-11ed-883f-0242ac110003
 Date: Wed Aug 10 03:03:32 2022
 Title: JNumPy: Writing high-performance C extensions for Python in minutes
-Link: https://news.ycombinator.com/item?id=32407451
+Origin: https://news.ycombinator.com/item?id=32407451
 Body: A way of writing modules in Julia, then compile them to C, then connect them to Python
 Category: craftsmanship
 Tags: julia, ffi, foreign-function-interface, cffi, python, connecting-languages, connection, integration, library, imported, hacker-news
@@ -3157,7 +3157,7 @@ Tags: chess, cheating, computer-peripheral, ken-thompson, john-von-neumann
 Id: 1aa7394c-2e7d-11ed-8b14-0242ac110003
 Date: Tue Sep  6 13:00:36 2022
 Title: Show HN: Simulate dollar-cost averaging in any mix of stocks
-Link: https://news.ycombinator.com/item?id=32736497
+Origin: https://news.ycombinator.com/item?id=32736497
 Body: A tool to perform Dollar-Cost Averaging (DCA) simulations
 Category: finance
 Tags: dollar-cost-averaging, dca, investing, finance, index-funds, funds, imported, hacker-news
@@ -3165,7 +3165,7 @@ Tags: dollar-cost-averaging, dca, investing, finance, index-funds, funds, import
 Id: ccd87ac0-44dc-11ed-8ca3-0242ac110003
 Date: Wed Oct  5 12:50:44 2022
 Title: Watchman: Execute a command when something changes
-Link: https://news.ycombinator.com/item?id=33094829
+Origin: https://news.ycombinator.com/item?id=33094829
 Body:
 Category: craftsmanship
 Tags: watch, tool, watchman, ionotify, file, file-system, imported, hacker-news
@@ -3173,7 +3173,7 @@ Tags: watch, tool, watchman, ionotify, file, file-system, imported, hacker-news
 Id: ee27b5ba-44dc-11ed-9907-0242ac110003
 Date: Thu Sep 22 19:58:20 2022
 Title: 'Soleus pushup' fuels metabolism for hours while sitting
-Link: https://news.ycombinator.com/item?id=32943890
+Origin: https://news.ycombinator.com/item?id=32943890
 Body:
 Category: fitness
 Tags: soleus, fat, fat-burning, metabolism, glucose, imported, hacker-news
@@ -3181,7 +3181,7 @@ Tags: soleus, fat, fat-burning, metabolism, glucose, imported, hacker-news
 Id: 1a9acdee-44dd-11ed-9efb-0242ac110003
 Date: Wed Oct  5 12:44:18 2022
 Title: X64 Cheat Sheet (2019) [pdf]
-Link: https://news.ycombinator.com/item?id=33094744
+Origin: https://news.ycombinator.com/item?id=33094744
 Body: X64 Cheat Sheet
 Category: craftsmanship
 Tags: x64, cheat-sheet, assembly, intel, optimization, imported, hacker-news
@@ -3189,7 +3189,7 @@ Tags: x64, cheat-sheet, assembly, intel, optimization, imported, hacker-news
 Id: 2778a07c-44dd-11ed-a764-0242ac110003
 Date: Wed Oct  5 08:33:21 2022
 Title: The Balto/Togo theory of scientific development
-Link: https://news.ycombinator.com/item?id=33092809
+Origin: https://news.ycombinator.com/item?id=33092809
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3197,7 +3197,7 @@ Tags: imported, hacker-news
 Id: 47cae02e-44dd-11ed-8353-0242ac110003
 Date: Fri Sep 30 10:12:53 2022
 Title: Get things done with Emacs
-Link: https://news.ycombinator.com/item?id=33033017
+Origin: https://news.ycombinator.com/item?id=33033017
 Body:
 Category: craftsmanship
 Tags: getting-things-done, gtd, david-allen, productivity, inbox-zero, management, time-management, imported, hacker-news
@@ -3205,7 +3205,7 @@ Tags: getting-things-done, gtd, david-allen, productivity, inbox-zero, managemen
 Id: c2f04014-44dd-11ed-8da1-0242ac110003
 Date: Sun Sep 18 10:08:29 2022
 Title: Steps to designing an embedded software architecture, Step 1
-Link: https://news.ycombinator.com/item?id=32886122
+Origin: https://news.ycombinator.com/item?id=32886122
 Body:
 Category: craftsmanship
 Tags: architecture, embedded-software, separation, layer, architecture-pattern, solid, solid-principles, imported, hacker-news
@@ -3213,7 +3213,7 @@ Tags: architecture, embedded-software, separation, layer, architecture-pattern, 
 Id: f2dad5d2-44dd-11ed-a7c1-0242ac110003
 Date: Tue Sep 20 13:03:46 2022
 Title: Ask HN: How does your company handle late running projects?
-Link: https://news.ycombinator.com/item?id=32911083
+Origin: https://news.ycombinator.com/item?id=32911083
 Body:
 Category: craftsmanship
 Tags: time-management, project, late-project, brooks-law, imported, hacker-news
@@ -3221,7 +3221,7 @@ Tags: time-management, project, late-project, brooks-law, imported, hacker-news
 Id: 29d46594-44de-11ed-a79f-0242ac110003
 Date: Sun Sep 11 11:47:07 2022
 Title: Teaching C (2016)
-Link: https://news.ycombinator.com/item?id=32798826
+Origin: https://news.ycombinator.com/item?id=32798826
 Body:
 Category: craftsmanship
 Tags: teaching, programming-language, c, imported, hacker-news
@@ -3229,7 +3229,7 @@ Tags: teaching, programming-language, c, imported, hacker-news
 Id: 409c09a8-44de-11ed-8670-0242ac110003
 Date: Sat Sep 10 22:28:07 2022
 Title: Fabrice Bellard: Portrait of a Super-Productive Programmer (2011)
-Link: https://news.ycombinator.com/item?id=32795067
+Origin: https://news.ycombinator.com/item?id=32795067
 Body:
 Category: craftsmanship
 Tags: hagiography, fabrice-bellard, 10x-programmer, ffmpeg, carmack, productivity, imported, hacker-news
@@ -3237,7 +3237,7 @@ Tags: hagiography, fabrice-bellard, 10x-programmer, ffmpeg, carmack, productivit
 Id: 959e4b0a-44de-11ed-92c7-0242ac110003
 Date: Fri Sep 30 23:26:48 2022
 Title: GitHub's Missing Merge Option
-Link: https://news.ycombinator.com/item?id=33042018
+Origin: https://news.ycombinator.com/item?id=33042018
 Body: A way of merging feature branches to obtain cleaner history
 Category: craftsmanship
 Tags: git, branch, merge, merge-conflict, rebase, github, feature-branch, imported, hacker-news
@@ -3245,7 +3245,7 @@ Tags: git, branch, merge, merge-conflict, rebase, github, feature-branch, import
 Id: cc12f3de-44de-11ed-b1dc-0242ac110003
 Date: Mon Oct  3 16:14:25 2022
 Title: Have lots of AWS accounts
-Link: https://news.ycombinator.com/item?id=33069547
+Origin: https://news.ycombinator.com/item?id=33069547
 Body: Using the physical separation of your AWS accounts as a way to isolate the data and services
 Category: craftsmanship
 Tags: aws, aws-account, physical-isolation, isolation, data-isolation, risk-management, imported, hacker-news
@@ -3253,7 +3253,7 @@ Tags: aws, aws-account, physical-isolation, isolation, data-isolation, risk-mana
 Id: 12687de0-44df-11ed-a221-0242ac110003
 Date: Sat Sep 24 12:17:53 2022
 Title: Lessons from a Professional Password Cracker
-Link: https://news.ycombinator.com/item?id=32961815
+Origin: https://news.ycombinator.com/item?id=32961815
 Body: Some common tricks to avoid password cracking. Mostly by bruteforce or social engineering.
 Category: craftsmanship
 Tags: social-engineering, password-cracker, password, bruteforce, rainbow-table, hash, cryptography, windows, imported, hacker-news
@@ -3261,7 +3261,7 @@ Tags: social-engineering, password-cracker, password, bruteforce, rainbow-table,
 Id: 8761d632-454d-11ed-9b11-0242ac110003
 Date: Wed Oct  5 21:24:14 2022
 Title: What does the ??!??! operator do in C?
-Link: https://news.ycombinator.com/item?id=33101401
+Origin: https://news.ycombinator.com/item?id=33101401
 Body: Using digraphs and trigraphs in C
 Category: craftsmanship
 Tags: digraph, trigraph, c, c-programming-language, quirk, operator, imported, hacker-news
@@ -3269,7 +3269,7 @@ Tags: digraph, trigraph, c, c-programming-language, quirk, operator, imported, h
 Id: 36408278-504f-11ed-a730-0242ac110003
 Date: Wed Oct 19 19:02:09 2022
 Title: EasyList is in trouble and so are many ad blockers
-Link: https://news.ycombinator.com/item?id=33266471
+Origin: https://news.ycombinator.com/item?id=33266471
 Body:
 Category: craftsmanship
 Tags: cloudflare, html-content, cdn, content-delivery-network, free-tier, free, non-html-content, imported, hacker-news
@@ -3277,7 +3277,7 @@ Tags: cloudflare, html-content, cdn, content-delivery-network, free-tier, free, 
 Id: 53200508-504f-11ed-8cea-0242ac110003
 Date: Thu Oct 20 00:45:32 2022
 Title: PostgresML is 8-40x faster than Python HTTP microservices
-Link: https://news.ycombinator.com/item?id=33269615
+Origin: https://news.ycombinator.com/item?id=33269615
 Body:
 Category: craftsmanship
 Tags: comparison, postgresml, python, redis, microservice, imported, hacker-news
@@ -3285,7 +3285,7 @@ Tags: comparison, postgresml, python, redis, microservice, imported, hacker-news
 Id: 18ac7b02-5448-11ed-a9ad-0242ac110002
 Date: Mon Oct 24 22:06:34 2022
 Title: Asdf – language tool version manager
-Link: https://news.ycombinator.com/item?id=33323261
+Origin: https://news.ycombinator.com/item?id=33323261
 Body: A tool to manage local (i.e., not docker) installation of tools.
 Category: craftsmanship
 Tags: docker, local, installation, asdf, configuration, shell, tool, bash, setup, dev-environment, imported, hacker-news
@@ -3293,7 +3293,7 @@ Tags: docker, local, installation, asdf, configuration, shell, tool, bash, setup
 Id: 2c89ff6e-5448-11ed-b6ae-0242ac110002
 Date: Mon Oct 24 23:06:36 2022
 Title: Salary Transparency
-Link: https://news.ycombinator.com/item?id=33323826
+Origin: https://news.ycombinator.com/item?id=33323826
 Body:
 Category: craftsmanship
 Tags: salary-transparency, salary, employment, career, career-management, imported, hacker-news
@@ -3309,7 +3309,7 @@ Tags: unix, shell, tips, tricks, tactic, tool, safety
 Id: 86ea8190-5448-11ed-bc66-0242ac110002
 Date: Thu Oct 20 02:47:19 2022
 Title: A large scale non-linear optimization library
-Link: https://news.ycombinator.com/item?id=33270268
+Origin: https://news.ycombinator.com/item?id=33270268
 Body:
 Category: craftsmanship
 Tags: non-linear-optimization, optimization-library, ceres, c++, imported, hacker-news
@@ -3317,7 +3317,7 @@ Tags: non-linear-optimization, optimization-library, ceres, c++, imported, hacke
 Id: bb4dda54-5448-11ed-9dd0-0242ac110002
 Date: Mon Oct 24 01:24:29 2022
 Title: Debugging C with Cosmopolitan Libc
-Link: https://news.ycombinator.com/item?id=33312012
+Origin: https://news.ycombinator.com/item?id=33312012
 Body: Cosmopolitan Libc allows you to log every function call over the program’s execution – just pass --ftrace at the end of your program
 Category: craftsmanship
 Tags: cosmopolitan-libc, libc, debugging, c, c-language, stacktrace, imported, hacker-news
@@ -3325,7 +3325,7 @@ Tags: cosmopolitan-libc, libc, debugging, c, c-language, stacktrace, imported, h
 Id: 50273116-5854-11ed-9d7e-0242ac110003
 Date: Sat Oct 29 02:45:23 2022
 Title: Patch OpenSSL on November 1 to avoid “critical” security vulnerability
-Link: https://news.ycombinator.com/item?id=33380500
+Origin: https://news.ycombinator.com/item?id=33380500
 Body:
 Category: craftsmanship
 Tags: openssl, patch, vulnerability, cryptography, imported, hacker-news
@@ -3333,7 +3333,7 @@ Tags: openssl, patch, vulnerability, cryptography, imported, hacker-news
 Id: 8209895e-5854-11ed-a49f-0242ac110003
 Date: Fri Oct 28 17:21:28 2022
 Title: SQLite in the browser with WASM/JS
-Link: https://news.ycombinator.com/item?id=33374402
+Origin: https://news.ycombinator.com/item?id=33374402
 Body:
 Category: craftsmanship
 Tags: wasm, js, javascript, sqlite, crosscompilation, transpilation, electric-sql, crdt, synchronization, imported, hacker-news
@@ -3383,7 +3383,7 @@ Tags: training, weightlifting
 Id: 75bb21ac-6f07-11ed-891a-0242ac110003
 Date: Fri Nov 25 16:40:01 2022
 Title: Hurl: Run and test HTTP requests with plain text
-Link: https://news.ycombinator.com/item?id=33744106
+Origin: https://news.ycombinator.com/item?id=33744106
 Body:
 Category: craftsmanship
 Tags: rust, http, bdd, testing, plain-text, curl, tool, end-to-end-testing, imported, hacker-news
@@ -3391,7 +3391,7 @@ Tags: rust, http, bdd, testing, plain-text, curl, tool, end-to-end-testing, impo
 Id: a8da1a9a-6f4b-11ed-93aa-0242ac110003
 Date: Mon Nov 28 12:58:42 2022
 Title: Everything I wish I knew when learning C
-Link: https://news.ycombinator.com/item?id=33773043
+Origin: https://news.ycombinator.com/item?id=33773043
 Body: Some comments on C, by someone right after learning it
 Category: craftsmanship
 Tags: c-language, c, learning, tom-mewett, imported, hacker-news
@@ -3399,7 +3399,7 @@ Tags: c-language, c, learning, tom-mewett, imported, hacker-news
 Id: a82f2dea-6fed-11ed-892f-0242ac110003
 Date: Tue Nov 29 02:28:47 2022
 Title: A Poor Man's API
-Link: https://news.ycombinator.com/item?id=33782946
+Origin: https://news.ycombinator.com/item?id=33782946
 Body: A discussion about APISIX, a tool to automatically generate HTTP responses by defining a database
 Category: craftsmanship
 Tags: tool, apisix, auth, postgresql, sql, pgsql, postgrest, mvp, proof-of-concept, minimum-viable-product, poc, imported, hacker-news
@@ -3415,7 +3415,7 @@ Tags: tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, c
 Id: 027d6f8a-714e-11ed-869a-0242ac110003
 Date: Wed Nov 23 06:37:43 2022
 Title: Ccache – a fast C/C++ compiler cache
-Link: https://news.ycombinator.com/item?id=33715945
+Origin: https://news.ycombinator.com/item?id=33715945
 Body: Related to f2423a38-714d-11ed-92b4-0242ac110003
 Category: craftsmanship
 Tags: imported, hacker-news, tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, clang
@@ -3423,7 +3423,7 @@ Tags: imported, hacker-news, tool, cache, compilation-cache, optimization, speed
 Id: 3372b974-714e-11ed-a7d2-0242ac110003
 Date: Tue Nov 29 17:08:04 2022
 Title: WebTorrent
-Link: https://news.ycombinator.com/item?id=33790186
+Origin: https://news.ycombinator.com/item?id=33790186
 Body:
 Category: craftsmanship
 Tags: webrtc, torrent, tool, distribution, download, webtorrent, imported, hacker-news
@@ -3431,7 +3431,7 @@ Tags: webrtc, torrent, tool, distribution, download, webtorrent, imported, hacke
 Id: 6b0ed07a-714e-11ed-8562-0242ac110003
 Date: Wed Nov 30 21:36:05 2022
 Title:
-Link: https://news.ycombinator.com/item?id=33808096
+Origin: https://news.ycombinator.com/item?id=33808096
 Body: How to use statistics to reason about a significant (i.e., non-outlier) improvement in the performance of your code. I have done similar (although much less refined or extracted in this [repo](https://github.com/alvarogarcia7/sudoku-solver-python), with the "Compute statistical tests (mean, standard deviation). Assume a measurement is relevant if improves three sigmas (see code)." to verify that the improvements are not due to measurement eerror or noise. The actual link is https://github.com/bheisler/criterion.rs
 Category: craftsmanship
 Tags: tool, performance, measurement, rust, statistics, imported, hacker-news
@@ -3455,7 +3455,7 @@ Tags: cats, github-api, github, fuzz-test, openapi, test-tool
 Id: e511548e-761b-11ed-9ab0-0242ac110003
 Date: Sun Dec  4 13:11:59 2022
 Title: Leaving the Basement
-Link: https://news.ycombinator.com/item?id=33853390
+Origin: https://news.ycombinator.com/item?id=33853390
 Body: Ugly systems are under production usage
 + Beautiful systems have never been useful to production 
 + Idea that longer usage makes warts appear
@@ -3465,7 +3465,7 @@ Tags: idea, adaptation, software, production, beauty, craftsmanship, elegance, t
 Id: c928f90e-761e-11ed-bdf0-0242ac110003
 Date: Tue Dec  6 07:01:09 2022
 Title: Avoid Temptation
-Link: https://news.ycombinator.com/item?id=33876693
+Origin: https://news.ycombinator.com/item?id=33876693
 Body: Matt Might explains his model of willpower, willenergy: procrastination, energy, productivity
 Category: craftsmanship
 Tags: matt-might, procrastination, akrasia, willpower, willenergy, zone, danger, safe, model, temptation, physics, gravity, field, self-control, roy-baumeister, book, imported, hacker-news
@@ -3473,7 +3473,7 @@ Tags: matt-might, procrastination, akrasia, willpower, willenergy, zone, danger,
 Id: baf0fdd0-7fa8-11ed-b3cf-0242ac110004
 Date: Mon Dec 19 13:15:40 2022
 Title: Digitally sign PDF files from your commandline – open-pdf-sign
-Link: https://news.ycombinator.com/item?id=34051652
+Origin: https://news.ycombinator.com/item?id=34051652
 Body: Tool to sign PDFs from the command line
 Category: craftsmanship
 Tags: signature, certificate, private-key, tool, command-line, cli, application, java, github, imported, hacker-news
@@ -3481,7 +3481,7 @@ Tags: signature, certificate, private-key, tool, command-line, cli, application,
 Id: 0fb5be84-8b37-11ed-b09f-0242ac110003
 Date: Mon Jan  2 15:14:13 2023
 Title: Show HN: I built Haystack – your own google for scattered workplace knowledge
-Link: https://news.ycombinator.com/item?id=34218724
+Origin: https://news.ycombinator.com/item?id=34218724
 Body:
 Category: craftsmanship
 Tags: tool, index, note, knowledge-base, haystack, privacy, neural-network, imported, hacker-news
@@ -3497,7 +3497,7 @@ Tags: binding, rust, ffi, foreign-function-interface, tool, rumpy, tool
 Id: 34d551c0-8b37-11ed-9b3e-0242ac110003
 Date: Wed Dec 14 14:47:23 2022
 Title: What I do when I feel like giving up (2015)
-Link: https://news.ycombinator.com/item?id=33984138
+Origin: https://news.ycombinator.com/item?id=33984138
 Body:
 Category: craftsmanship
 Tags: atomic-habits, james-clear, giving-up, psychology, habit, grit, stubbornness, imported, hacker-news
@@ -3505,7 +3505,7 @@ Tags: atomic-habits, james-clear, giving-up, psychology, habit, grit, stubbornne
 Id: 43ad20ec-8b37-11ed-87a3-0242ac110003
 Date: Sat Nov 26 22:35:17 2022
 Title: SSHGuard
-Link: https://news.ycombinator.com/item?id=33757545
+Origin: https://news.ycombinator.com/item?id=33757545
 Body:
 Category: craftsmanship
 Tags: ssh, openssh, sshguard, wireguard, tool, protection, internet, hosting, imported, hacker-news
@@ -3513,7 +3513,7 @@ Tags: ssh, openssh, sshguard, wireguard, tool, protection, internet, hosting, im
 Id: 606dfd46-8b37-11ed-96b9-0242ac110003
 Date: Mon Nov 21 15:48:23 2022
 Title: Why CVE-2022-3602 was not detected by fuzz testing
-Link: https://news.ycombinator.com/item?id=33693873
+Origin: https://news.ycombinator.com/item?id=33693873
 Body: Why CVE-2022-3602 was not detected by fuzz testing
 Category: craftsmanship
 Tags: openssl, fuzzing, fuzz-testing, testing, open-source, c, cve, parser, imported, hacker-news
@@ -3537,7 +3537,7 @@ Tags: reification, mimicry, language-feature, terminology, term, dictionary
 Id: bca9e98a-8b37-11ed-9b9d-0242ac110003
 Date: Mon Nov  7 11:57:29 2022
 Title: Why would anyone need JavaScript generator functions?
-Link: https://news.ycombinator.com/item?id=33504700
+Origin: https://news.ycombinator.com/item?id=33504700
 Body:
 Category: craftsmanship
 Tags: javascript, generator-function, programming, python, yield, comparison, imported, hacker-news
@@ -3545,7 +3545,7 @@ Tags: javascript, generator-function, programming, python, yield, comparison, im
 Id: c70a14c2-8b37-11ed-8913-0242ac110003
 Date: Thu Oct 27 07:18:25 2022
 Title: Shell script best practices, from a decade of scripting things
-Link: https://news.ycombinator.com/item?id=33354286
+Origin: https://news.ycombinator.com/item?id=33354286
 Body:
 Category: craftsmanship
 Tags: bash, shellcheck, bash-boilerplate, tool, scripting, programming, glue, shell, imported, hacker-news
@@ -3553,7 +3553,7 @@ Tags: bash, shellcheck, bash-boilerplate, tool, scripting, programming, glue, sh
 Id: d0413282-8b37-11ed-9257-0242ac110003
 Date: Thu Oct 27 18:48:18 2022
 Title: One-Time Programs
-Link: https://news.ycombinator.com/item?id=33362170
+Origin: https://news.ycombinator.com/item?id=33362170
 Body:
 Category: craftsmanship
 Tags: zkp, zero-knowledge-proof, cryptography, imported, hacker-news
@@ -3561,7 +3561,7 @@ Tags: zkp, zero-knowledge-proof, cryptography, imported, hacker-news
 Id: d847f330-8b37-11ed-9e98-0242ac110003
 Date: Tue Oct 25 06:08:19 2022
 Title: Ssss: Shamir's Secret Sharing Scheme (2006)
-Link: https://news.ycombinator.com/item?id=33326846
+Origin: https://news.ycombinator.com/item?id=33326846
 Body:
 Category: craftsmanship
 Tags: shamir-secret-sharing, cryptography, tool, ssss, shard, horocrux, imported, hacker-news
@@ -3578,7 +3578,7 @@ Tags: systemd, command, guide, linux, daemon, tool, unix
 Id: b6f380b8-97c2-11ed-8db6-0242ac110002
 Date: Tue Jan 17 16:06:09 2023
 Title: Software testing, and why I'm unhappy about it
-Link: https://news.ycombinator.com/item?id=34414193
+Origin: https://news.ycombinator.com/item?id=34414193
 Body: Testing software when the tests are separate from the main production code (test bench vs library).
 Category: craftsmanship
 Tags: test-bench, repository, testing, acceptance-testing, behavior-driven-development, bdd, cucumber, gherkin, automated-testing, test-suite, continuous-integration, ci, imported, hacker-news
@@ -3586,7 +3586,7 @@ Tags: test-bench, repository, testing, acceptance-testing, behavior-driven-devel
 Id: 62a714e2-97cd-11ed-9cab-0242ac110002
 Date: Wed Jan 18 00:48:46 2023
 Title: How to Swim Against the Stream: On Diogenes
-Link: https://news.ycombinator.com/item?id=34421804
+Origin: https://news.ycombinator.com/item?id=34421804
 Body: Review of books about Diogenes of Sinope, aka Diogenes the Cynic
 Category: philosophy
 Tags: diogenes, diogenes-the-cynic, cynics, cynicism, stoicism, imported, hacker-news
@@ -3594,7 +3594,7 @@ Tags: diogenes, diogenes-the-cynic, cynics, cynicism, stoicism, imported, hacker
 Id: 9104f4ee-97cd-11ed-b9bf-0242ac110002
 Date: Thu, 19 Jan 2023 07:47:47 +0000
 Title: Books about Diogenes
-Link: https://news.ycombinator.com/item?id=34436250
+Origin: https://news.ycombinator.com/item?id=34436250
 Body: Two excellent books on Diogenes and other Cynics;
 + 1) Diogenes the Cynic: Sayings and Anecdotes translated by Robin Hard.
 + 2) The Cynic Philosophers: From Diogenes to Julian translated by Robert Dobbin.
@@ -3621,7 +3621,7 @@ Tags: japan, concept, loan-word, stoicism, greek, philosopy-of-life, podcast, ma
 Id: 66656e74-a846-11ed-bf91-0242ac110002
 Date: Wed Feb  8 10:34:37 2023
 Title: The digital pound: A new form of money for households and businesses?
-Link: https://news.ycombinator.com/item?id=34706390
+Origin: https://news.ycombinator.com/item?id=34706390
 Body:
 Category: finance
 Tags: cbdc, digital-pound, pound, british-pound, gbp, bank-of-england, digital-money, imported, hacker-news
@@ -3629,7 +3629,7 @@ Tags: cbdc, digital-pound, pound, british-pound, gbp, bank-of-england, digital-m
 Id: bbe38520-a846-11ed-957a-0242ac110002
 Date: Wed Feb  8 01:46:40 2023
 Title: CBMC: The C Bounded Model Checker
-Link: https://news.ycombinator.com/item?id=34703004
+Origin: https://news.ycombinator.com/item?id=34703004
 Body: CBMC on GitHub:
 + https://github.com/diffblue/cbmc
 + Some usage examples:
@@ -3648,7 +3648,7 @@ Tags: bare-metal, firmware, testing, nubix, reini-urban, tool, crashdump, testin
 Id: 03d88f06-c197-11ed-a96e-0242ac110004
 Date: Sat Mar 11 12:37:03 2023
 Title: Emacs is not just an editor (2015)
-Link: https://news.ycombinator.com/item?id=35107806
+Origin: https://news.ycombinator.com/item?id=35107806
 Body: An overview of Emacs as compared to vim (just an editor).
 Category: craftsmanship
 Tags: emacs, vim, editor, operating-system, platform, lisp, ide, macro, doom-emacs, doom, imported, hacker-news
@@ -3656,7 +3656,7 @@ Tags: emacs, vim, editor, operating-system, platform, lisp, ide, macro, doom-ema
 Id: 19890060-c197-11ed-b449-0242ac110004
 Date: Mon Mar 13 04:14:38 2023
 Title: CS 6120: Advanced Compilers: The Self-Guided Online Course
-Link: https://news.ycombinator.com/item?id=35130975
+Origin: https://news.ycombinator.com/item?id=35130975
 Body: An interesting course from Cornell about Compilers. Self-paced.
 Category: craftsmanship
 Tags: cornell, education, university, self-paced, compiler, mooc, mit, imported, hacker-news
@@ -3672,7 +3672,7 @@ Tags: type-system, philip-wadler, rust, linear-type, programming-type, memory-sa
 Id: 6231a818-c19b-11ed-9e37-0242ac110004
 Date: Fri Sep  9 14:42:37 2022
 Title: Why you might want a domain-specific database like TigerBeetleDB
-Link: https://news.ycombinator.com/item?id=32779851
+Origin: https://news.ycombinator.com/item?id=32779851
 Body:
 Category: craftsmanship
 Tags: domain-specific, database, accounting, rules, business-rules, imported, hacker-news
@@ -3680,7 +3680,7 @@ Tags: domain-specific, database, accounting, rules, business-rules, imported, ha
 Id: 4ca532b2-c1a0-11ed-8343-0242ac110004
 Date: Wed Mar  2 17:10:32 2022
 Title: Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out
-Link: https://news.ycombinator.com/item?id=30529727
+Origin: https://news.ycombinator.com/item?id=30529727
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3688,7 +3688,7 @@ Tags: imported, hacker-news
 Id: 759a178c-c1a0-11ed-be9f-0242ac110004
 Date: Wed Mar  2 17:10:32 2022
 Title: Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out
-Link: https://news.ycombinator.com/item?id=30529727
+Origin: https://news.ycombinator.com/item?id=30529727
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3696,7 +3696,7 @@ Tags: imported, hacker-news
 Id: 762d7b26-c1a0-11ed-bb0c-0242ac110004
 Date: Mon Mar 14 16:07:03 2022
 Title: Programming Languages and Learning
-Link: https://news.ycombinator.com/item?id=30674130
+Origin: https://news.ycombinator.com/item?id=30674130
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3704,7 +3704,7 @@ Tags: imported, hacker-news
 Id: 8f7db8ca-c1a0-11ed-a571-0242ac110004
 Date: Fri Mar 11 16:58:34 2022
 Title: Minimal Viable Product is old and busted
-Link: https://news.ycombinator.com/item?id=30642452
+Origin: https://news.ycombinator.com/item?id=30642452
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3712,7 +3712,7 @@ Tags: imported, hacker-news
 Id: 9210a1a6-c1a0-11ed-a323-0242ac110004
 Date: Tue Apr 12 06:29:35 2022
 Title: Hexagonal Architecture and Domain Driven Design
-Link: https://news.ycombinator.com/item?id=30999322
+Origin: https://news.ycombinator.com/item?id=30999322
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3720,7 +3720,7 @@ Tags: imported, hacker-news
 Id: 946cb19c-c1a0-11ed-9794-0242ac110004
 Date: Sun May 22 00:00:29 2022
 Title: Trunk – Build, bundle and ship your rust WASM application to the web
-Link: https://news.ycombinator.com/item?id=31463454
+Origin: https://news.ycombinator.com/item?id=31463454
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3728,7 +3728,7 @@ Tags: imported, hacker-news
 Id: 96b84628-c1a0-11ed-b3f2-0242ac110004
 Date: Sun Jun  5 01:42:05 2022
 Title: Meet developers 1:1 every week and team up on projects
-Link: https://news.ycombinator.com/item?id=31627089
+Origin: https://news.ycombinator.com/item?id=31627089
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3736,7 +3736,7 @@ Tags: imported, hacker-news
 Id: 98fd7b9c-c1a0-11ed-a0b4-0242ac110004
 Date: Tue Jul 12 06:34:16 2022
 Title: Formally Verifying Industry Cryptography
-Link: https://news.ycombinator.com/item?id=32066370
+Origin: https://news.ycombinator.com/item?id=32066370
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3744,7 +3744,7 @@ Tags: imported, hacker-news
 Id: 9b457f58-c1a0-11ed-9849-0242ac110004
 Date: Thu Jul 21 22:50:29 2022
 Title: Ask HN: What are some cool but obscure data structures you know about?
-Link: https://news.ycombinator.com/item?id=32186203
+Origin: https://news.ycombinator.com/item?id=32186203
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3752,7 +3752,7 @@ Tags: imported, hacker-news
 Id: 9d9617ae-c1a0-11ed-9bee-0242ac110004
 Date: Wed Jul 27 00:03:04 2022
 Title: How to Stop Procrastinating on Your Goals by Using the “Seinfeld Strategy”
-Link: https://news.ycombinator.com/item?id=32245545
+Origin: https://news.ycombinator.com/item?id=32245545
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3760,7 +3760,7 @@ Tags: imported, hacker-news
 Id: 9fe13d68-c1a0-11ed-a2c3-0242ac110004
 Date: Thu Jul 28 00:06:31 2022
 Title: How to create a Python package in 2022
-Link: https://news.ycombinator.com/item?id=32258783
+Origin: https://news.ycombinator.com/item?id=32258783
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3768,7 +3768,7 @@ Tags: imported, hacker-news
 Id: a23a4924-c1a0-11ed-a585-0242ac110004
 Date: Mon Aug  1 13:57:25 2022
 Title: Software engineering books
-Link: https://news.ycombinator.com/item?id=32305997
+Origin: https://news.ycombinator.com/item?id=32305997
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3776,7 +3776,7 @@ Tags: imported, hacker-news
 Id: a4860376-c1a0-11ed-ae57-0242ac110004
 Date: Mon Aug  1 07:43:01 2022
 Title: A Tutorial on Portable Makefiles (2017)
-Link: https://news.ycombinator.com/item?id=32303193
+Origin: https://news.ycombinator.com/item?id=32303193
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3784,7 +3784,7 @@ Tags: imported, hacker-news
 Id: a6dab644-c1a0-11ed-b024-0242ac110004
 Date: Mon Aug  1 21:42:53 2022
 Title: Show HN: Emery – Personal productivity workspace
-Link: https://news.ycombinator.com/item?id=32312413
+Origin: https://news.ycombinator.com/item?id=32312413
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3792,7 +3792,7 @@ Tags: imported, hacker-news
 Id: a94d30aa-c1a0-11ed-bb01-0242ac110004
 Date: Wed Aug  3 17:42:44 2022
 Title: Minify your container
-Link: https://news.ycombinator.com/item?id=32334741
+Origin: https://news.ycombinator.com/item?id=32334741
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3800,7 +3800,7 @@ Tags: imported, hacker-news
 Id: abb54828-c1a0-11ed-b0ed-0242ac110004
 Date: Mon Aug  8 22:56:18 2022
 Title: The case against a C alternative
-Link: https://news.ycombinator.com/item?id=32392161
+Origin: https://news.ycombinator.com/item?id=32392161
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3808,7 +3808,7 @@ Tags: imported, hacker-news
 Id: ae0f6900-c1a0-11ed-b21b-0242ac110004
 Date: Mon Aug  8 20:18:05 2022
 Title: The productivity tax you pay for context switching
-Link: https://news.ycombinator.com/item?id=32390499
+Origin: https://news.ycombinator.com/item?id=32390499
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3816,7 +3816,7 @@ Tags: imported, hacker-news
 Id: b065e346-c1a0-11ed-a41d-0242ac110004
 Date: Mon Aug  8 10:00:08 2022
 Title: Uses for an old Android device
-Link: https://news.ycombinator.com/item?id=32383835
+Origin: https://news.ycombinator.com/item?id=32383835
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3824,7 +3824,7 @@ Tags: imported, hacker-news
 Id: b2c3a9d4-c1a0-11ed-89f9-0242ac110004
 Date: Mon Aug  8 20:29:30 2022
 Title: Doomed to repeat history? Lessons from the crypto wars of the 1990s (2015) [pdf]
-Link: https://news.ycombinator.com/item?id=32390605
+Origin: https://news.ycombinator.com/item?id=32390605
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3832,7 +3832,7 @@ Tags: imported, hacker-news
 Id: b50f356e-c1a0-11ed-b09a-0242ac110004
 Date: Fri Aug  5 11:35:48 2022
 Title: Decentralized Identifiers (DIDs) v1.0 Becomes a W3C Recommendation
-Link: https://news.ycombinator.com/item?id=32354669
+Origin: https://news.ycombinator.com/item?id=32354669
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3840,7 +3840,7 @@ Tags: imported, hacker-news
 Id: b75adb2a-c1a0-11ed-83cd-0242ac110004
 Date: Tue Sep  6 10:11:28 2022
 Title: Conference Presentation Judo
-Link: https://news.ycombinator.com/item?id=32735066
+Origin: https://news.ycombinator.com/item?id=32735066
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3848,7 +3848,7 @@ Tags: imported, hacker-news
 Id: b9a52ce6-c1a0-11ed-9923-0242ac110004
 Date: Tue Sep  6 09:59:25 2022
 Title: You can never have too many backups
-Link: https://news.ycombinator.com/item?id=32735001
+Origin: https://news.ycombinator.com/item?id=32735001
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3856,7 +3856,7 @@ Tags: imported, hacker-news
 Id: bbed4f92-c1a0-11ed-b829-0242ac110004
 Date: Wed Sep  7 04:06:31 2022
 Title: Open Knowledge Movement: Personal Reflections
-Link: https://news.ycombinator.com/item?id=32746192
+Origin: https://news.ycombinator.com/item?id=32746192
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3864,7 +3864,7 @@ Tags: imported, hacker-news
 Id: be3b2c10-c1a0-11ed-b94e-0242ac110004
 Date: Wed Sep  7 03:49:38 2022
 Title: Campus College of Letters and Science plans to limit high-demand majors
-Link: https://news.ycombinator.com/item?id=32746119
+Origin: https://news.ycombinator.com/item?id=32746119
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3872,7 +3872,7 @@ Tags: imported, hacker-news
 Id: c084a438-c1a0-11ed-86f1-0242ac110004
 Date: Wed Sep  7 05:09:41 2022
 Title: Yak Shaving: A Short Lesson on Staying Focused (2018)
-Link: https://news.ycombinator.com/item?id=32746563
+Origin: https://news.ycombinator.com/item?id=32746563
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3880,7 +3880,7 @@ Tags: imported, hacker-news
 Id: c2dde0c8-c1a0-11ed-bdd9-0242ac110004
 Date: Wed Sep  7 04:20:00 2022
 Title: Difftastic, the fantastic diff
-Link: https://news.ycombinator.com/item?id=32746258
+Origin: https://news.ycombinator.com/item?id=32746258
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3888,7 +3888,7 @@ Tags: imported, hacker-news
 Id: c52968ca-c1a0-11ed-8a1c-0242ac110004
 Date: Fri Sep  9 15:33:57 2022
 Title: Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes
-Link: https://news.ycombinator.com/item?id=32780472
+Origin: https://news.ycombinator.com/item?id=32780472
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3896,7 +3896,7 @@ Tags: imported, hacker-news
 Id: c773fd52-c1a0-11ed-8478-0242ac110004
 Date: Fri Sep  9 15:12:27 2022
 Title: Ask HN: What happened to vanilla HTML/CSS/JS development?
-Link: https://news.ycombinator.com/item?id=32780191
+Origin: https://news.ycombinator.com/item?id=32780191
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3904,7 +3904,7 @@ Tags: imported, hacker-news
 Id: c9c35058-c1a0-11ed-b0d9-0242ac110004
 Date: Fri Sep  9 13:23:33 2022
 Title: How should we handle an over-productive employee?
-Link: https://news.ycombinator.com/item?id=32778899
+Origin: https://news.ycombinator.com/item?id=32778899
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3912,7 +3912,7 @@ Tags: imported, hacker-news
 Id: cc721352-c1a0-11ed-aaab-0242ac110004
 Date: Sat Sep 10 21:07:26 2022
 Title: Living Like Nothing Matters
-Link: https://news.ycombinator.com/item?id=32794585
+Origin: https://news.ycombinator.com/item?id=32794585
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3920,7 +3920,7 @@ Tags: imported, hacker-news
 Id: cebc056e-c1a0-11ed-b6f3-0242ac110004
 Date: Mon Sep 12 00:10:15 2022
 Title: Choosing happiness
-Link: https://news.ycombinator.com/item?id=32804468
+Origin: https://news.ycombinator.com/item?id=32804468
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3928,7 +3928,7 @@ Tags: imported, hacker-news
 Id: d108d086-c1a0-11ed-b287-0242ac110004
 Date: Sun Sep 11 10:12:31 2022
 Title: We secretly love meetings (2010)
-Link: https://news.ycombinator.com/item?id=32798385
+Origin: https://news.ycombinator.com/item?id=32798385
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3936,7 +3936,7 @@ Tags: imported, hacker-news
 Id: d352f1d2-c1a0-11ed-bba3-0242ac110004
 Date: Mon Sep 12 13:24:25 2022
 Title: What makes a senior engineer? Writing software vs. building systems
-Link: https://news.ycombinator.com/item?id=32809817
+Origin: https://news.ycombinator.com/item?id=32809817
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3944,7 +3944,7 @@ Tags: imported, hacker-news
 Id: d5ac4cda-c1a0-11ed-a752-0242ac110004
 Date: Mon Sep 12 21:08:33 2022
 Title: A development process to ship features fast
-Link: https://news.ycombinator.com/item?id=32816990
+Origin: https://news.ycombinator.com/item?id=32816990
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3952,7 +3952,7 @@ Tags: imported, hacker-news
 Id: d7fe77b0-c1a0-11ed-a69f-0242ac110004
 Date: Sat Sep 17 21:52:05 2022
 Title: Show HN: A virtual Yubikey device for 2FA/WebAuthN
-Link: https://news.ycombinator.com/item?id=32881956
+Origin: https://news.ycombinator.com/item?id=32881956
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3960,7 +3960,7 @@ Tags: imported, hacker-news
 Id: da50c9aa-c1a0-11ed-b3e4-0242ac110004
 Date: Sat Sep 17 14:47:33 2022
 Title: How to disagree with someone more powerful than you (2016)
-Link: https://news.ycombinator.com/item?id=32877942
+Origin: https://news.ycombinator.com/item?id=32877942
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3968,7 +3968,7 @@ Tags: imported, hacker-news
 Id: dcbf9540-c1a0-11ed-8ff3-0242ac110004
 Date: Sat Sep 17 12:00:36 2022
 Title: How to run an event that doesn't suck
-Link: https://news.ycombinator.com/item?id=32876804
+Origin: https://news.ycombinator.com/item?id=32876804
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3976,7 +3976,7 @@ Tags: imported, hacker-news
 Id: df0dd5be-c1a0-11ed-a6f4-0242ac110004
 Date: Sat Sep 17 07:00:34 2022
 Title: Introduction to Algorithms (2020)
-Link: https://news.ycombinator.com/item?id=32875396
+Origin: https://news.ycombinator.com/item?id=32875396
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3984,7 +3984,7 @@ Tags: imported, hacker-news
 Id: e1652e0c-c1a0-11ed-8c3e-0242ac110004
 Date: Sat Sep 17 16:39:25 2022
 Title: Adele is an open source repository of design systems and pattern libraries
-Link: https://news.ycombinator.com/item?id=32878855
+Origin: https://news.ycombinator.com/item?id=32878855
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -3992,7 +3992,7 @@ Tags: imported, hacker-news
 Id: e3b748a2-c1a0-11ed-9508-0242ac110004
 Date: Sun Sep 18 10:37:26 2022
 Title: My productivity system
-Link: https://news.ycombinator.com/item?id=32886288
+Origin: https://news.ycombinator.com/item?id=32886288
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4000,7 +4000,7 @@ Tags: imported, hacker-news
 Id: e6021646-c1a0-11ed-8561-0242ac110004
 Date: Sun Sep 18 01:51:13 2022
 Title: Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?
-Link: https://news.ycombinator.com/item?id=32883596
+Origin: https://news.ycombinator.com/item?id=32883596
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4008,7 +4008,7 @@ Tags: imported, hacker-news
 Id: e84ccce8-c1a0-11ed-9a62-0242ac110004
 Date: Sun Sep 18 01:27:24 2022
 Title: What will you do with the stories entrusted to you?
-Link: https://news.ycombinator.com/item?id=32883471
+Origin: https://news.ycombinator.com/item?id=32883471
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4016,7 +4016,7 @@ Tags: imported, hacker-news
 Id: ea9b3e12-c1a0-11ed-86a5-0242ac110004
 Date: Sun Sep 18 12:54:33 2022
 Title: How James Clear is writing his next book (2021)
-Link: https://news.ycombinator.com/item?id=32887140
+Origin: https://news.ycombinator.com/item?id=32887140
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4024,7 +4024,7 @@ Tags: imported, hacker-news
 Id: eced54fc-c1a0-11ed-bf2d-0242ac110004
 Date: Sun Sep 18 15:47:03 2022
 Title: GCC's new fortification level: The gains and costs
-Link: https://news.ycombinator.com/item?id=32888516
+Origin: https://news.ycombinator.com/item?id=32888516
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4032,7 +4032,7 @@ Tags: imported, hacker-news
 Id: ef3e62f0-c1a0-11ed-8cf2-0242ac110004
 Date: Sun Sep 18 12:48:40 2022
 Title: The future of documentation at Canonical (2021)
-Link: https://news.ycombinator.com/item?id=32887092
+Origin: https://news.ycombinator.com/item?id=32887092
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4040,7 +4040,7 @@ Tags: imported, hacker-news
 Id: f1874d6a-c1a0-11ed-8d1e-0242ac110004
 Date: Mon Sep 19 07:27:31 2022
 Title: Algorithms for competitive programming
-Link: https://news.ycombinator.com/item?id=32895354
+Origin: https://news.ycombinator.com/item?id=32895354
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4048,7 +4048,7 @@ Tags: imported, hacker-news
 Id: f4a204ae-c1a0-11ed-97d8-0242ac110004
 Date: Wed Sep 21 11:11:52 2022
 Title: Ask HN: A math study program?
-Link: https://news.ycombinator.com/item?id=32923390
+Origin: https://news.ycombinator.com/item?id=32923390
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4056,7 +4056,7 @@ Tags: imported, hacker-news
 Id: f6f0a800-c1a0-11ed-80cf-0242ac110004
 Date: Wed Sep 21 15:57:02 2022
 Title: Your work matters – Build your schedule accordingly
-Link: https://news.ycombinator.com/item?id=32927033
+Origin: https://news.ycombinator.com/item?id=32927033
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4064,7 +4064,7 @@ Tags: imported, hacker-news
 Id: f93d5d24-c1a0-11ed-b720-0242ac110004
 Date: Wed Sep 21 17:30:18 2022
 Title:
-Link: https://news.ycombinator.com/item?id=32928411
+Origin: https://news.ycombinator.com/item?id=32928411
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4072,7 +4072,7 @@ Tags: imported, hacker-news
 Id: fb951404-c1a0-11ed-b6b0-0242ac110004
 Date: Thu Sep 22 06:31:44 2022
 Title: Ask HN: Which books you have read till now that were worth investing time in?
-Link: https://news.ycombinator.com/item?id=32935412
+Origin: https://news.ycombinator.com/item?id=32935412
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4080,7 +4080,7 @@ Tags: imported, hacker-news
 Id: fddbbef2-c1a0-11ed-977f-0242ac110004
 Date: Tue Sep 20 09:01:43 2022
 Title: I spent two years trying to do what Backstage does for free
-Link: https://news.ycombinator.com/item?id=32909343
+Origin: https://news.ycombinator.com/item?id=32909343
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4088,7 +4088,7 @@ Tags: imported, hacker-news
 Id: 002897d4-c1a1-11ed-9f68-0242ac110004
 Date: Fri Sep 23 20:03:12 2022
 Title: Algorithms and data structures implemented in many programming languages
-Link: https://news.ycombinator.com/item?id=32956401
+Origin: https://news.ycombinator.com/item?id=32956401
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4096,7 +4096,7 @@ Tags: imported, hacker-news
 Id: 02a22390-c1a1-11ed-b61a-0242ac110004
 Date: Sun Oct  2 10:42:15 2022
 Title: The Art of Logging
-Link: https://news.ycombinator.com/item?id=33054741
+Origin: https://news.ycombinator.com/item?id=33054741
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4104,7 +4104,7 @@ Tags: imported, hacker-news
 Id: 04ec0a4e-c1a1-11ed-9a6e-0242ac110004
 Date: Wed Oct  5 14:12:31 2022
 Title: Ask HN: How can a total beginner start with self-hosting?
-Link: https://news.ycombinator.com/item?id=33095823
+Origin: https://news.ycombinator.com/item?id=33095823
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4112,7 +4112,7 @@ Tags: imported, hacker-news
 Id: 073bf7aa-c1a1-11ed-83b8-0242ac110004
 Date: Thu Oct  6 19:34:06 2022
 Title: Staff Engineer Archetypes (2020)
-Link: https://news.ycombinator.com/item?id=33112915
+Origin: https://news.ycombinator.com/item?id=33112915
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4120,7 +4120,7 @@ Tags: imported, hacker-news
 Id: 098cfe64-c1a1-11ed-b147-0242ac110004
 Date: Tue Oct 25 18:01:16 2022
 Title: Startup engineering hiring anti-patterns (2021)
-Link: https://news.ycombinator.com/item?id=33334062
+Origin: https://news.ycombinator.com/item?id=33334062
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4128,7 +4128,7 @@ Tags: imported, hacker-news
 Id: 0be0af76-c1a1-11ed-92ce-0242ac110004
 Date: Tue Oct 25 16:00:08 2022
 Title: How to maintain engineering velocity as you scale
-Link: https://news.ycombinator.com/item?id=33332388
+Origin: https://news.ycombinator.com/item?id=33332388
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4136,7 +4136,7 @@ Tags: imported, hacker-news
 Id: 0e29a490-c1a1-11ed-a182-0242ac110004
 Date: Fri Nov  4 15:20:50 2022
 Title: Markdown, Asciidoc, or reStructuredText – a tale of docs-as-code
-Link: https://news.ycombinator.com/item?id=33468213
+Origin: https://news.ycombinator.com/item?id=33468213
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4144,7 +4144,7 @@ Tags: imported, hacker-news
 Id: 10832932-c1a1-11ed-a57b-0242ac110004
 Date: Sun Jan  8 17:13:46 2023
 Title: Ask HN: How to learn business being a software engineer?
-Link: https://news.ycombinator.com/item?id=34300896
+Origin: https://news.ycombinator.com/item?id=34300896
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4152,7 +4152,7 @@ Tags: imported, hacker-news
 Id: 12cc4b06-c1a1-11ed-9bf8-0242ac110004
 Date: Sat Jan 21 18:53:12 2023
 Title: Vikunja – Open-source, self-hostable to-do app
-Link: https://news.ycombinator.com/item?id=34469078
+Origin: https://news.ycombinator.com/item?id=34469078
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4160,7 +4160,7 @@ Tags: imported, hacker-news
 Id: 152e7630-c1a1-11ed-b3b7-0242ac110004
 Date: Mon Jan 30 21:47:07 2023
 Title: Ask HN: What is your retirement plan? After retirement, what?
-Link: https://news.ycombinator.com/item?id=34586903
+Origin: https://news.ycombinator.com/item?id=34586903
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4168,7 +4168,7 @@ Tags: imported, hacker-news
 Id: 178b0f06-c1a1-11ed-8c43-0242ac110004
 Date: Mon Feb 13 08:41:06 2023
 Title: Ask HN: What is your system for learning new things?
-Link: https://news.ycombinator.com/item?id=34771415
+Origin: https://news.ycombinator.com/item?id=34771415
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4176,7 +4176,7 @@ Tags: imported, hacker-news
 Id: 9b4e5ef4-c1a3-11ed-9cd1-0242ac110004
 Date: Fri Apr 12 23:45:23 2019
 Title: Ask HN: What are good resources for life advice?
-Link: https://news.ycombinator.com/item?id=19650044
+Origin: https://news.ycombinator.com/item?id=19650044
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4184,7 +4184,7 @@ Tags: imported, hacker-news
 Id: 9da27b04-c1a3-11ed-a3bd-0242ac110004
 Date: Wed Oct 16 01:40:21 2019
 Title: Beating Decades of Optimized C with 80 Lines of Haskell
-Link: https://news.ycombinator.com/item?id=21266201
+Origin: https://news.ycombinator.com/item?id=21266201
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4192,7 +4192,7 @@ Tags: imported, hacker-news
 Id: 9ffa8be4-c1a3-11ed-a070-0242ac110004
 Date: Sun Mar  8 19:08:37 2020
 Title: Ask HN: How do I learn C properly?
-Link: https://news.ycombinator.com/item?id=22519876
+Origin: https://news.ycombinator.com/item?id=22519876
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4200,7 +4200,7 @@ Tags: imported, hacker-news
 Id: a243d43c-c1a3-11ed-87e9-0242ac110004
 Date: Fri Oct  4 15:22:32 2019
 Title:
-Link: https://news.ycombinator.com/item?id=21158546
+Origin: https://news.ycombinator.com/item?id=21158546
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4208,7 +4208,7 @@ Tags: imported, hacker-news
 Id: a4a134ea-c1a3-11ed-9a53-0242ac110004
 Date: Mon Apr 13 08:37:04 2020
 Title: Saving money on international payments as a remote freelancer
-Link: https://news.ycombinator.com/item?id=22854120
+Origin: https://news.ycombinator.com/item?id=22854120
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4216,7 +4216,7 @@ Tags: imported, hacker-news
 Id: a6edcfd8-c1a3-11ed-b36a-0242ac110004
 Date: Fri Apr 17 14:06:57 2020
 Title: Show HN: Create apps from GraphQL APIs without writing code
-Link: https://news.ycombinator.com/item?id=22899065
+Origin: https://news.ycombinator.com/item?id=22899065
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4224,7 +4224,7 @@ Tags: imported, hacker-news
 Id: a93f09f0-c1a3-11ed-9271-0242ac110004
 Date: Fri Apr 17 13:52:05 2020
 Title:
-Link: https://news.ycombinator.com/item?id=22898962
+Origin: https://news.ycombinator.com/item?id=22898962
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4232,7 +4232,7 @@ Tags: imported, hacker-news
 Id: ab8af444-c1a3-11ed-9999-0242ac110004
 Date: Sun Apr 19 00:08:21 2020
 Title: When did I run that command? Update your Bash prompt with the command start time
-Link: https://news.ycombinator.com/item?id=22912226
+Origin: https://news.ycombinator.com/item?id=22912226
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4240,7 +4240,7 @@ Tags: imported, hacker-news
 Id: adf009a4-c1a3-11ed-a9d8-0242ac110004
 Date: Sun Apr 19 23:30:57 2020
 Title: Ask HN: How do I overcome mental laziness?
-Link: https://news.ycombinator.com/item?id=22919697
+Origin: https://news.ycombinator.com/item?id=22919697
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4248,7 +4248,7 @@ Tags: imported, hacker-news
 Id: b03a5976-c1a3-11ed-9332-0242ac110004
 Date: Sun Apr 26 00:45:57 2020
 Title:
-Link: https://news.ycombinator.com/item?id=22983130
+Origin: https://news.ycombinator.com/item?id=22983130
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4256,7 +4256,7 @@ Tags: imported, hacker-news
 Id: b2857814-c1a3-11ed-99c1-0242ac110004
 Date: Mon Apr  6 17:25:54 2020
 Title:
-Link: https://news.ycombinator.com/item?id=22795690
+Origin: https://news.ycombinator.com/item?id=22795690
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4264,7 +4264,7 @@ Tags: imported, hacker-news
 Id: b4dba340-c1a3-11ed-9ed7-0242ac110004
 Date: Tue Mar 17 17:35:39 2020
 Title: The Philosophy of Computer Science (2017)
-Link: https://news.ycombinator.com/item?id=22607568
+Origin: https://news.ycombinator.com/item?id=22607568
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4272,7 +4272,7 @@ Tags: imported, hacker-news
 Id: b728ab16-c1a3-11ed-83ee-0242ac110004
 Date: Sun Feb 23 23:31:22 2020
 Title: Reflections on Software Performance
-Link: https://news.ycombinator.com/item?id=22400329
+Origin: https://news.ycombinator.com/item?id=22400329
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4280,7 +4280,7 @@ Tags: imported, hacker-news
 Id: b973349a-c1a3-11ed-a2ac-0242ac110004
 Date: Thu Feb  6 06:31:29 2020
 Title: Improving my productivity as a working programmer (2017)
-Link: https://news.ycombinator.com/item?id=22253893
+Origin: https://news.ycombinator.com/item?id=22253893
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4288,7 +4288,7 @@ Tags: imported, hacker-news
 Id: bbd03c88-c1a3-11ed-8021-0242ac110004
 Date: Mon Jan 13 08:01:48 2020
 Title: Reusable vs. Re-editable Code (2018) [pdf]
-Link: https://news.ycombinator.com/item?id=22032676
+Origin: https://news.ycombinator.com/item?id=22032676
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4296,7 +4296,7 @@ Tags: imported, hacker-news
 Id: be2fcb24-c1a3-11ed-b032-0242ac110004
 Date: Wed Jun 10 05:01:02 2020
 Title:
-Link: https://news.ycombinator.com/item?id=23474104
+Origin: https://news.ycombinator.com/item?id=23474104
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4304,7 +4304,7 @@ Tags: imported, hacker-news
 Id: c0884f2c-c1a3-11ed-925b-0242ac110004
 Date: Sat Jul 25 14:44:48 2020
 Title: Noprocrast (2010)
-Link: https://news.ycombinator.com/item?id=23949566
+Origin: https://news.ycombinator.com/item?id=23949566
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4312,7 +4312,7 @@ Tags: imported, hacker-news
 Id: c2e7349a-c1a3-11ed-8eed-0242ac110004
 Date: Sat Jul 25 10:57:55 2020
 Title: Show HN: Textdb.dev – simple data sharing for fun projects
-Link: https://news.ycombinator.com/item?id=23948234
+Origin: https://news.ycombinator.com/item?id=23948234
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4320,7 +4320,7 @@ Tags: imported, hacker-news
 Id: c53c7a98-c1a3-11ed-aff7-0242ac110004
 Date: Sat Jul 25 13:30:28 2020
 Title: Ansible-Defined Homelab
-Link: https://news.ycombinator.com/item?id=23949030
+Origin: https://news.ycombinator.com/item?id=23949030
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4328,7 +4328,7 @@ Tags: imported, hacker-news
 Id: c792b744-c1a3-11ed-b3ec-0242ac110004
 Date: Sat Jul 25 10:53:31 2020
 Title: Banks are slow to increase rates on savings accounts, but quick to reduce them
-Link: https://news.ycombinator.com/item?id=23948206
+Origin: https://news.ycombinator.com/item?id=23948206
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4336,7 +4336,7 @@ Tags: imported, hacker-news
 Id: c9e06f50-c1a3-11ed-ab20-0242ac110004
 Date: Sat Sep 12 18:29:06 2020
 Title: C’s Biggest Mistake (2009)
-Link: https://news.ycombinator.com/item?id=24454369
+Origin: https://news.ycombinator.com/item?id=24454369
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4344,7 +4344,7 @@ Tags: imported, hacker-news
 Id: cc2e7a90-c1a3-11ed-97ec-0242ac110004
 Date: Sat Jan 30 21:29:22 2021
 Title: Software Verification and Analysis Using Z3
-Link: https://news.ycombinator.com/item?id=25973194
+Origin: https://news.ycombinator.com/item?id=25973194
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4352,7 +4352,7 @@ Tags: imported, hacker-news
 Id: ce8bdc10-c1a3-11ed-a0a5-0242ac110004
 Date: Fri Mar 19 13:28:17 2021
 Title: Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't
-Link: https://news.ycombinator.com/item?id=26513040
+Origin: https://news.ycombinator.com/item?id=26513040
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4360,7 +4360,7 @@ Tags: imported, hacker-news
 Id: d130aaea-c1a3-11ed-b2b5-0242ac110004
 Date: Wed Mar 24 11:52:57 2021
 Title: The Python Package Index is now a GitHub secret scanning integrator
-Link: https://news.ycombinator.com/item?id=26565970
+Origin: https://news.ycombinator.com/item?id=26565970
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4368,7 +4368,7 @@ Tags: imported, hacker-news
 Id: d38eeff4-c1a3-11ed-b143-0242ac110004
 Date: Fri Mar 26 08:01:33 2021
 Title:
-Link: https://news.ycombinator.com/item?id=26589750
+Origin: https://news.ycombinator.com/item?id=26589750
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4376,7 +4376,7 @@ Tags: imported, hacker-news
 Id: d5df78a0-c1a3-11ed-842a-0242ac110004
 Date: Mon Mar 29 09:04:58 2021
 Title: GNU Autotools: A Tutorial [pdf]
-Link: https://news.ycombinator.com/item?id=26619051
+Origin: https://news.ycombinator.com/item?id=26619051
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4384,7 +4384,7 @@ Tags: imported, hacker-news
 Id: d831597a-c1a3-11ed-87ae-0242ac110004
 Date: Fri Apr  2 12:00:57 2021
 Title: Get Started with Tmux
-Link: https://news.ycombinator.com/item?id=26670708
+Origin: https://news.ycombinator.com/item?id=26670708
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4392,7 +4392,7 @@ Tags: imported, hacker-news
 Id: da7f68de-c1a3-11ed-971a-0242ac110004
 Date: Fri Apr  9 14:38:52 2021
 Title: A Year in the Life of a Compiler Fuzzing Campaign
-Link: https://news.ycombinator.com/item?id=26751130
+Origin: https://news.ycombinator.com/item?id=26751130
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4400,7 +4400,7 @@ Tags: imported, hacker-news
 Id: dce49a72-c1a3-11ed-b470-0242ac110004
 Date: Sat May  1 15:35:36 2021
 Title: Why programmers don’t write documentation
-Link: https://news.ycombinator.com/item?id=27007105
+Origin: https://news.ycombinator.com/item?id=27007105
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4408,7 +4408,7 @@ Tags: imported, hacker-news
 Id: df39039e-c1a3-11ed-93f4-0242ac110004
 Date: Sun Apr 25 13:24:01 2021
 Title: Modern C++ Won't Save Us (2019)
-Link: https://news.ycombinator.com/item?id=26932505
+Origin: https://news.ycombinator.com/item?id=26932505
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4416,7 +4416,7 @@ Tags: imported, hacker-news
 Id: e19913b8-c1a3-11ed-8abf-0242ac110004
 Date: Sun May  2 11:35:54 2021
 Title: C++ Constructors, Memory, and Lifetimes
-Link: https://news.ycombinator.com/item?id=27014311
+Origin: https://news.ycombinator.com/item?id=27014311
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4424,7 +4424,7 @@ Tags: imported, hacker-news
 Id: e3ea2b34-c1a3-11ed-9408-0242ac110004
 Date: Sat May 15 15:38:43 2021
 Title: Parsix: Parse Don't Validate
-Link: https://news.ycombinator.com/item?id=27166162
+Origin: https://news.ycombinator.com/item?id=27166162
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4432,7 +4432,7 @@ Tags: imported, hacker-news
 Id: e63959fa-c1a3-11ed-bc37-0242ac110004
 Date: Tue May 25 22:25:14 2021
 Title: Technical documentation that just works
-Link: https://news.ycombinator.com/item?id=27283521
+Origin: https://news.ycombinator.com/item?id=27283521
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4440,7 +4440,7 @@ Tags: imported, hacker-news
 Id: e88661e4-c1a3-11ed-98d7-0242ac110004
 Date: Thu May 27 12:29:09 2021
 Title: Ask HN: Favorite Blogs by Individuals?
-Link: https://news.ycombinator.com/item?id=27302195
+Origin: https://news.ycombinator.com/item?id=27302195
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4448,7 +4448,7 @@ Tags: imported, hacker-news
 Id: eadb2e8e-c1a3-11ed-9224-0242ac110004
 Date: Thu May 27 11:23:55 2021
 Title: Elliptic Curve Cryptography Explained (2019)
-Link: https://news.ycombinator.com/item?id=27301651
+Origin: https://news.ycombinator.com/item?id=27301651
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4456,7 +4456,7 @@ Tags: imported, hacker-news
 Id: ed2e2024-c1a3-11ed-80b4-0242ac110004
 Date: Mon Jun 14 02:17:57 2021
 Title: Up for Grabs
-Link: https://news.ycombinator.com/item?id=27498602
+Origin: https://news.ycombinator.com/item?id=27498602
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4464,7 +4464,7 @@ Tags: imported, hacker-news
 Id: ef7eaaba-c1a3-11ed-9e56-0242ac110004
 Date: Sun Jul 18 06:01:02 2021
 Title: Habits of Expert Software Designers (2019)
-Link: https://news.ycombinator.com/item?id=27871043
+Origin: https://news.ycombinator.com/item?id=27871043
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4472,7 +4472,7 @@ Tags: imported, hacker-news
 Id: f1d12676-c1a3-11ed-9be9-0242ac110004
 Date: Thu Aug 12 18:30:26 2021
 Title:
-Link: https://news.ycombinator.com/item?id=28159761
+Origin: https://news.ycombinator.com/item?id=28159761
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4480,7 +4480,7 @@ Tags: imported, hacker-news
 Id: f4242266-c1a3-11ed-a0c1-0242ac110004
 Date: Sun Aug 22 16:11:40 2021
 Title: How to deliver constructive feedback in difficult situations (2019)
-Link: https://news.ycombinator.com/item?id=28266658
+Origin: https://news.ycombinator.com/item?id=28266658
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4488,7 +4488,7 @@ Tags: imported, hacker-news
 Id: f676cbd6-c1a3-11ed-a276-0242ac110004
 Date: Wed Aug 25 20:48:05 2021
 Title: Burning out and quitting
-Link: https://news.ycombinator.com/item?id=28306750
+Origin: https://news.ycombinator.com/item?id=28306750
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4496,7 +4496,7 @@ Tags: imported, hacker-news
 Id: f8c2165c-c1a3-11ed-87c4-0242ac110004
 Date: Thu Aug 26 06:15:31 2021
 Title: Unit testing a TCP stack (2015)
-Link: https://news.ycombinator.com/item?id=28311288
+Origin: https://news.ycombinator.com/item?id=28311288
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4504,7 +4504,7 @@ Tags: imported, hacker-news
 Id: fb10287c-c1a3-11ed-8e86-0242ac110004
 Date: Fri Nov 12 07:20:55 2021
 Title:
-Link: https://news.ycombinator.com/item?id=29197054
+Origin: https://news.ycombinator.com/item?id=29197054
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4512,7 +4512,7 @@ Tags: imported, hacker-news
 Id: fd69711e-c1a3-11ed-a56d-0242ac110004
 Date: Thu Nov 18 11:43:39 2021
 Title: Ask HN: What are you using for public documentation these days?
-Link: https://news.ycombinator.com/item?id=29264374
+Origin: https://news.ycombinator.com/item?id=29264374
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4520,7 +4520,7 @@ Tags: imported, hacker-news
 Id: ffb60d42-c1a3-11ed-a2fb-0242ac110004
 Date: Fri Nov 19 10:20:54 2021
 Title: Tasking developers with creating detailed estimates is a waste of time (2020)
-Link: https://news.ycombinator.com/item?id=29275659
+Origin: https://news.ycombinator.com/item?id=29275659
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4528,7 +4528,7 @@ Tags: imported, hacker-news
 Id: 020cfede-c1a4-11ed-9e4d-0242ac110004
 Date: Sat Jan  1 00:48:08 2022
 Title: Ask HN: How do you take care of yourself?
-Link: https://news.ycombinator.com/item?id=29754211
+Origin: https://news.ycombinator.com/item?id=29754211
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4536,7 +4536,7 @@ Tags: imported, hacker-news
 Id: 045e1c22-c1a4-11ed-9424-0242ac110004
 Date: Mon Jan  3 18:25:10 2022
 Title: Dura is a background process that watches your Git repositories
-Link: https://news.ycombinator.com/item?id=29784238
+Origin: https://news.ycombinator.com/item?id=29784238
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4544,7 +4544,7 @@ Tags: imported, hacker-news
 Id: 06b11a42-c1a4-11ed-8526-0242ac110004
 Date: Fri Sep 23 15:20:34 2022
 Title: Be critical or be corrupted
-Link: https://news.ycombinator.com/item?id=32953111
+Origin: https://news.ycombinator.com/item?id=32953111
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4552,7 +4552,7 @@ Tags: imported, hacker-news
 Id: 09027aca-c1a4-11ed-bfe6-0242ac110004
 Date: Sat Sep 24 14:39:58 2022
 Title: Want cleaner code? Use the rule of six
-Link: https://news.ycombinator.com/item?id=32963021
+Origin: https://news.ycombinator.com/item?id=32963021
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4560,7 +4560,7 @@ Tags: imported, hacker-news
 Id: 0b500130-c1a4-11ed-945d-0242ac110004
 Date: Sat Sep 24 16:32:15 2022
 Title: Software engineering changed my life
-Link: https://news.ycombinator.com/item?id=32964192
+Origin: https://news.ycombinator.com/item?id=32964192
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4568,7 +4568,7 @@ Tags: imported, hacker-news
 Id: 0d9e223c-c1a4-11ed-a96d-0242ac110004
 Date: Sat Sep 24 12:35:22 2022
 Title: Aging programmer
-Link: https://news.ycombinator.com/item?id=32961933
+Origin: https://news.ycombinator.com/item?id=32961933
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4576,7 +4576,7 @@ Tags: imported, hacker-news
 Id: 0ff728c6-c1a4-11ed-b796-0242ac110004
 Date: Thu Sep 29 22:41:10 2022
 Title: Why modern software is slow
-Link: https://news.ycombinator.com/item?id=33028300
+Origin: https://news.ycombinator.com/item?id=33028300
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4584,7 +4584,7 @@ Tags: imported, hacker-news
 Id: 12483f20-c1a4-11ed-84be-0242ac110004
 Date: Sun Oct  2 14:20:21 2022
 Title: “Rust is safe” is not some kind of absolute guarantee of code safety
-Link: https://news.ycombinator.com/item?id=33056077
+Origin: https://news.ycombinator.com/item?id=33056077
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4592,7 +4592,7 @@ Tags: imported, hacker-news
 Id: 14a9f088-c1a4-11ed-8e71-0242ac110004
 Date: Tue Oct  4 12:49:11 2022
 Title: Why is it so hard to write a scaffolding tool? (2019)
-Link: https://news.ycombinator.com/item?id=33079544
+Origin: https://news.ycombinator.com/item?id=33079544
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4600,7 +4600,7 @@ Tags: imported, hacker-news
 Id: 1704b340-c1a4-11ed-b617-0242ac110004
 Date: Fri Oct  7 01:09:14 2022
 Title: Ask HN: What content/knowledge is most important?
-Link: https://news.ycombinator.com/item?id=33116230
+Origin: https://news.ycombinator.com/item?id=33116230
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4608,7 +4608,7 @@ Tags: imported, hacker-news
 Id: 1951ec80-c1a4-11ed-95d3-0242ac110004
 Date: Sat Oct  8 07:37:00 2022
 Title: Ask HN: Best book to learn C in 2022?
-Link: https://news.ycombinator.com/item?id=33130533
+Origin: https://news.ycombinator.com/item?id=33130533
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4616,7 +4616,7 @@ Tags: imported, hacker-news
 Id: 1b9ae474-c1a4-11ed-be5e-0242ac110004
 Date: Sat Oct  8 00:11:29 2022
 Title: C Programming on System 6
-Link: https://news.ycombinator.com/item?id=33128523
+Origin: https://news.ycombinator.com/item?id=33128523
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4624,7 +4624,7 @@ Tags: imported, hacker-news
 Id: 1dec8fac-c1a4-11ed-8f17-0242ac110004
 Date: Tue Oct 11 13:15:41 2022
 Title: The Little Typer (2018)
-Link: https://news.ycombinator.com/item?id=33162971
+Origin: https://news.ycombinator.com/item?id=33162971
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4632,7 +4632,7 @@ Tags: imported, hacker-news
 Id: 2036ec9e-c1a4-11ed-b1fb-0242ac110004
 Date: Tue Oct 11 16:58:37 2022
 Title: Show HN: A beginner’s guide to finding user needs
-Link: https://news.ycombinator.com/item?id=33165747
+Origin: https://news.ycombinator.com/item?id=33165747
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4640,7 +4640,7 @@ Tags: imported, hacker-news
 Id: 22fd687c-c1a4-11ed-bbb8-0242ac110004
 Date: Tue Oct 11 15:55:09 2022
 Title: Show HN: Open-Sourcing InboxSDK (YC S11) – Build Apps in Gmail
-Link: https://news.ycombinator.com/item?id=33164922
+Origin: https://news.ycombinator.com/item?id=33164922
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4648,7 +4648,7 @@ Tags: imported, hacker-news
 Id: 2547ef26-c1a4-11ed-94ff-0242ac110004
 Date: Fri Oct 14 19:59:11 2022
 Title: A Chinese American gangster transformed money laundering for drug cartels
-Link: https://news.ycombinator.com/item?id=33208164
+Origin: https://news.ycombinator.com/item?id=33208164
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4656,7 +4656,7 @@ Tags: imported, hacker-news
 Id: 2795260e-c1a4-11ed-82fb-0242ac110004
 Date: Fri Oct 14 13:41:55 2022
 Title: Postgres Full Text Search vs. the Rest
-Link: https://news.ycombinator.com/item?id=33203370
+Origin: https://news.ycombinator.com/item?id=33203370
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4664,7 +4664,7 @@ Tags: imported, hacker-news
 Id: 29e6f22a-c1a4-11ed-b50c-0242ac110004
 Date: Fri Oct 14 12:23:06 2022
 Title: Uniform eXchange Format (UXF) – plain text human readable typed storage format
-Link: https://news.ycombinator.com/item?id=33202550
+Origin: https://news.ycombinator.com/item?id=33202550
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4672,7 +4672,7 @@ Tags: imported, hacker-news
 Id: 2c3bc316-c1a4-11ed-a25d-0242ac110004
 Date: Sat Oct 15 11:10:32 2022
 Title: Digital Gardening
-Link: https://news.ycombinator.com/item?id=33213753
+Origin: https://news.ycombinator.com/item?id=33213753
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4680,7 +4680,7 @@ Tags: imported, hacker-news
 Id: 2eae3f34-c1a4-11ed-80be-0242ac110004
 Date: Sun Oct 16 12:54:01 2022
 Title: OneRNG – Open Hardware Random Number Generator
-Link: https://news.ycombinator.com/item?id=33223232
+Origin: https://news.ycombinator.com/item?id=33223232
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4688,7 +4688,7 @@ Tags: imported, hacker-news
 Id: 310df120-c1a4-11ed-bb78-0242ac110004
 Date: Sun Oct 16 02:43:22 2022
 Title: Show HN: An Express-inspired web framework for Rust
-Link: https://news.ycombinator.com/item?id=33220606
+Origin: https://news.ycombinator.com/item?id=33220606
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4696,7 +4696,7 @@ Tags: imported, hacker-news
 Id: 33636964-c1a4-11ed-a631-0242ac110004
 Date: Sat Oct 15 20:00:39 2022
 Title: Bocker: Docker implemented in around 100 lines of Bash (2015)
-Link: https://news.ycombinator.com/item?id=33218094
+Origin: https://news.ycombinator.com/item?id=33218094
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4704,7 +4704,7 @@ Tags: imported, hacker-news
 Id: 3615f85c-c1a4-11ed-944f-0242ac110004
 Date: Sun Oct 16 09:29:16 2022
 Title: What If LaTeX Had Instant Preview?
-Link: https://news.ycombinator.com/item?id=33222356
+Origin: https://news.ycombinator.com/item?id=33222356
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4712,7 +4712,7 @@ Tags: imported, hacker-news
 Id: 3864c278-c1a4-11ed-8cc9-0242ac110004
 Date: Mon Oct 17 01:24:12 2022
 Title: Wasm-service: Htmx, WebAssembly, Rust, ServiceWorker proof of concept
-Link: https://news.ycombinator.com/item?id=33228891
+Origin: https://news.ycombinator.com/item?id=33228891
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4720,7 +4720,7 @@ Tags: imported, hacker-news
 Id: 3ac21642-c1a4-11ed-afdc-0242ac110004
 Date: Thu Oct 20 13:49:28 2022
 Title: Show HN: Record voice memo, receive transcription in email
-Link: https://news.ycombinator.com/item?id=33274661
+Origin: https://news.ycombinator.com/item?id=33274661
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4728,7 +4728,7 @@ Tags: imported, hacker-news
 Id: 3d1015a2-c1a4-11ed-bc82-0242ac110004
 Date: Wed Oct 19 06:10:53 2022
 Title: How we use binary search to find compiler bugs
-Link: https://news.ycombinator.com/item?id=33258356
+Origin: https://news.ycombinator.com/item?id=33258356
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4736,7 +4736,7 @@ Tags: imported, hacker-news
 Id: 3f646f56-c1a4-11ed-bd95-0242ac110004
 Date: Mon Oct 24 14:32:43 2022
 Title: The first rule of Microsoft Excel: Don’t tell anyone you’re good at it
-Link: https://news.ycombinator.com/item?id=33317169
+Origin: https://news.ycombinator.com/item?id=33317169
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4744,7 +4744,7 @@ Tags: imported, hacker-news
 Id: 41b863fc-c1a4-11ed-97a8-0242ac110004
 Date: Tue Oct 25 00:44:03 2022
 Title: The cult of dd (2017)
-Link: https://news.ycombinator.com/item?id=33324704
+Origin: https://news.ycombinator.com/item?id=33324704
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4752,7 +4752,7 @@ Tags: imported, hacker-news
 Id: 440652a4-c1a4-11ed-bdc1-0242ac110004
 Date: Mon Oct 24 22:50:23 2022
 Title: The Surreal Horror of PAM (2021)
-Link: https://news.ycombinator.com/item?id=33323683
+Origin: https://news.ycombinator.com/item?id=33323683
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4760,7 +4760,7 @@ Tags: imported, hacker-news
 Id: 4652a49a-c1a4-11ed-8460-0242ac110004
 Date: Wed Oct 26 03:45:38 2022
 Title: Building software to last forever
-Link: https://news.ycombinator.com/item?id=33339582
+Origin: https://news.ycombinator.com/item?id=33339582
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4768,7 +4768,7 @@ Tags: imported, hacker-news
 Id: 497d1e7a-c1a4-11ed-ab6a-0242ac110004
 Date: Fri Oct 28 13:04:38 2022
 Title: How to communicate effectively as a developer
-Link: https://news.ycombinator.com/item?id=33370870
+Origin: https://news.ycombinator.com/item?id=33370870
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4776,7 +4776,7 @@ Tags: imported, hacker-news
 Id: 4bf29536-c1a4-11ed-b1e6-0242ac110004
 Date: Fri Oct 28 18:38:29 2022
 Title: Show HN: Checksum.sh verify every install script
-Link: https://news.ycombinator.com/item?id=33375554
+Origin: https://news.ycombinator.com/item?id=33375554
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4784,7 +4784,7 @@ Tags: imported, hacker-news
 Id: 4e4bc622-c1a4-11ed-ac45-0242ac110004
 Date: Fri Oct 28 22:03:55 2022
 Title: Reminiscing: The retreat to comforting work
-Link: https://news.ycombinator.com/item?id=33378547
+Origin: https://news.ycombinator.com/item?id=33378547
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4792,7 +4792,7 @@ Tags: imported, hacker-news
 Id: 509ce49c-c1a4-11ed-afdd-0242ac110004
 Date: Wed Nov  2 12:01:16 2022
 Title: Doing what you love when the money won’t follow
-Link: https://news.ycombinator.com/item?id=33434326
+Origin: https://news.ycombinator.com/item?id=33434326
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4800,7 +4800,7 @@ Tags: imported, hacker-news
 Id: 52f6012e-c1a4-11ed-b778-0242ac110004
 Date: Wed Nov  2 12:38:33 2022
 Title: Ask HN: How to deal with burnout and its consequences?
-Link: https://news.ycombinator.com/item?id=33434742
+Origin: https://news.ycombinator.com/item?id=33434742
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4808,7 +4808,7 @@ Tags: imported, hacker-news
 Id: 554f865c-c1a4-11ed-a17f-0242ac110004
 Date: Fri Nov  4 21:46:21 2022
 Title: Solving Common Problems with Kubernetes
-Link: https://news.ycombinator.com/item?id=33474275
+Origin: https://news.ycombinator.com/item?id=33474275
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4816,7 +4816,7 @@ Tags: imported, hacker-news
 Id: 579aefe6-c1a4-11ed-a909-0242ac110004
 Date: Fri Nov  4 11:36:46 2022
 Title: Ask HN: How to regain focus when you feel overwhelmed?
-Link: https://news.ycombinator.com/item?id=33464989
+Origin: https://news.ycombinator.com/item?id=33464989
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4824,7 +4824,7 @@ Tags: imported, hacker-news
 Id: 59ea8176-c1a4-11ed-9922-0242ac110004
 Date: Thu Nov  3 13:24:05 2022
 Title: Embedded programming is like web development
-Link: https://news.ycombinator.com/item?id=33450575
+Origin: https://news.ycombinator.com/item?id=33450575
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4832,7 +4832,7 @@ Tags: imported, hacker-news
 Id: 5c3785dc-c1a4-11ed-8190-0242ac110004
 Date: Sat Nov  5 11:49:03 2022
 Title: The type system is a programmer's best friend
-Link: https://news.ycombinator.com/item?id=33480571
+Origin: https://news.ycombinator.com/item?id=33480571
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4840,7 +4840,7 @@ Tags: imported, hacker-news
 Id: 5e85513e-c1a4-11ed-aedd-0242ac110004
 Date: Sun Nov  6 05:46:33 2022
 Title:
-Link: https://news.ycombinator.com/item?id=33489520
+Origin: https://news.ycombinator.com/item?id=33489520
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4848,7 +4848,7 @@ Tags: imported, hacker-news
 Id: 60d42f82-c1a4-11ed-bfbb-0242ac110004
 Date: Mon Nov  7 14:25:42 2022
 Title: Blessed.rs – An unofficial guide to the Rust ecosystem
-Link: https://news.ycombinator.com/item?id=33506132
+Origin: https://news.ycombinator.com/item?id=33506132
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4856,7 +4856,7 @@ Tags: imported, hacker-news
 Id: 632a1d64-c1a4-11ed-980c-0242ac110004
 Date: Mon Nov  7 10:49:18 2022
 Title: Nvidia Security Team: “What if we just stopped using C?”
-Link: https://news.ycombinator.com/item?id=33504206
+Origin: https://news.ycombinator.com/item?id=33504206
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4864,7 +4864,7 @@ Tags: imported, hacker-news
 Id: 6575c7e4-c1a4-11ed-a693-0242ac110004
 Date: Fri Nov 11 12:59:15 2022
 Title: Resolving the great undo-redo quandary
-Link: https://news.ycombinator.com/item?id=33560275
+Origin: https://news.ycombinator.com/item?id=33560275
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4872,7 +4872,7 @@ Tags: imported, hacker-news
 Id: 67cbf5a4-c1a4-11ed-aab6-0242ac110004
 Date: Fri Nov 11 04:35:05 2022
 Title: Ask HN: How do you focus on work for long periods of time?
-Link: https://news.ycombinator.com/item?id=33557338
+Origin: https://news.ycombinator.com/item?id=33557338
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4880,7 +4880,7 @@ Tags: imported, hacker-news
 Id: 6a21ad6c-c1a4-11ed-9e63-0242ac110004
 Date: Fri Nov 11 14:38:26 2022
 Title: How stdbuf works
-Link: https://news.ycombinator.com/item?id=33561319
+Origin: https://news.ycombinator.com/item?id=33561319
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4888,7 +4888,7 @@ Tags: imported, hacker-news
 Id: 6c716ada-c1a4-11ed-87b7-0242ac110004
 Date: Thu Nov 17 17:40:07 2022
 Title: Zotero 7 for Developers
-Link: https://news.ycombinator.com/item?id=33642584
+Origin: https://news.ycombinator.com/item?id=33642584
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4896,7 +4896,7 @@ Tags: imported, hacker-news
 Id: 6ec1393c-c1a4-11ed-8849-0242ac110004
 Date: Thu Nov 17 22:03:38 2022
 Title: Improving code review time
-Link: https://news.ycombinator.com/item?id=33646504
+Origin: https://news.ycombinator.com/item?id=33646504
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4904,7 +4904,7 @@ Tags: imported, hacker-news
 Id: 7113c8b2-c1a4-11ed-9207-0242ac110004
 Date: Wed Dec  7 08:30:59 2022
 Title: A crash course in Python “comprehensions” and “generators”
-Link: https://news.ycombinator.com/item?id=33892017
+Origin: https://news.ycombinator.com/item?id=33892017
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4912,7 +4912,7 @@ Tags: imported, hacker-news
 Id: 73627cb2-c1a4-11ed-ac3c-0242ac110004
 Date: Fri Dec  9 16:28:10 2022
 Title: Ask HN: What is the best income stream you have created till date?
-Link: https://news.ycombinator.com/item?id=33923137
+Origin: https://news.ycombinator.com/item?id=33923137
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4920,7 +4920,7 @@ Tags: imported, hacker-news
 Id: 75b79934-c1a4-11ed-8d3e-0242ac110004
 Date: Thu Dec  8 22:32:08 2022
 Title: Why don’t software development methodologies work? (2014)
-Link: https://news.ycombinator.com/item?id=33914672
+Origin: https://news.ycombinator.com/item?id=33914672
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4928,7 +4928,7 @@ Tags: imported, hacker-news
 Id: 780b80c4-c1a4-11ed-80b1-0242ac110004
 Date: Thu Dec  8 16:11:31 2022
 Title: Hash-based digital signatures (almost) from scratch
-Link: https://news.ycombinator.com/item?id=33909503
+Origin: https://news.ycombinator.com/item?id=33909503
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4936,7 +4936,7 @@ Tags: imported, hacker-news
 Id: 7a59c0ac-c1a4-11ed-87de-0242ac110004
 Date: Wed Dec  7 19:23:43 2022
 Title: The code that ChatGPT can't write
-Link: https://news.ycombinator.com/item?id=33898946
+Origin: https://news.ycombinator.com/item?id=33898946
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4944,7 +4944,7 @@ Tags: imported, hacker-news
 Id: 7cab2a08-c1a4-11ed-ab68-0242ac110004
 Date: Fri Dec 16 20:15:23 2022
 Title: Writing good performance self reviews
-Link: https://news.ycombinator.com/item?id=34019693
+Origin: https://news.ycombinator.com/item?id=34019693
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4952,7 +4952,7 @@ Tags: imported, hacker-news
 Id: 7efd8102-c1a4-11ed-aeab-0242ac110004
 Date: Fri Dec 16 09:41:51 2022
 Title: Digital work and exploitation
-Link: https://news.ycombinator.com/item?id=34012659
+Origin: https://news.ycombinator.com/item?id=34012659
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4960,7 +4960,7 @@ Tags: imported, hacker-news
 Id: 81503d6e-c1a4-11ed-8e3b-0242ac110004
 Date: Wed Dec 28 15:21:29 2022
 Title: Hard truths I learned when I got laid off from my SWE job
-Link: https://news.ycombinator.com/item?id=34161822
+Origin: https://news.ycombinator.com/item?id=34161822
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4968,7 +4968,7 @@ Tags: imported, hacker-news
 Id: 83c0b09c-c1a4-11ed-8803-0242ac110004
 Date: Fri Dec 30 13:55:10 2022
 Title: TreeSheets: Open Source Free Form Data Organizer
-Link: https://news.ycombinator.com/item?id=34184993
+Origin: https://news.ycombinator.com/item?id=34184993
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4976,7 +4976,7 @@ Tags: imported, hacker-news
 Id: 86138338-c1a4-11ed-a4b1-0242ac110004
 Date: Fri Dec 30 21:18:03 2022
 Title: Ask HN: What's the best free course in your area of expertise?
-Link: https://news.ycombinator.com/item?id=34190219
+Origin: https://news.ycombinator.com/item?id=34190219
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4984,7 +4984,7 @@ Tags: imported, hacker-news
 Id: cf69d690-c1a4-11ed-8acd-0242ac110004
 Date: Fri Aug  5 11:13:25 2022
 Title: Ask HN: What are some good resources to learn safety-critical C/C++ coding from?
-Link: https://news.ycombinator.com/item?id=32354471
+Origin: https://news.ycombinator.com/item?id=32354471
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -4992,7 +4992,7 @@ Tags: imported, hacker-news
 Id: d1b56a18-c1a4-11ed-8c56-0242ac110004
 Date: Wed Jun 22 07:31:04 2022
 Title: Schluss – A secure vault for personal data
-Link: https://news.ycombinator.com/item?id=31833026
+Origin: https://news.ycombinator.com/item?id=31833026
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5000,7 +5000,7 @@ Tags: imported, hacker-news
 Id: d411469c-c1a4-11ed-b68f-0242ac110004
 Date: Sat Jun 25 10:06:57 2022
 Title: Becoming a Better Engineering Team
-Link: https://news.ycombinator.com/item?id=31873967
+Origin: https://news.ycombinator.com/item?id=31873967
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5008,7 +5008,7 @@ Tags: imported, hacker-news
 Id: d665c1c0-c1a4-11ed-a153-0242ac110004
 Date: Wed Jul  6 19:31:01 2022
 Title: Show HN: C3 – A C alternative that looks like C
-Link: https://news.ycombinator.com/item?id=32005678
+Origin: https://news.ycombinator.com/item?id=32005678
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5016,7 +5016,7 @@ Tags: imported, hacker-news
 Id: d8ec98f6-c1a4-11ed-aa3b-0242ac110004
 Date: Thu Aug  4 08:56:08 2022
 Title: Against Discipline
-Link: https://news.ycombinator.com/item?id=32340703
+Origin: https://news.ycombinator.com/item?id=32340703
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5024,7 +5024,7 @@ Tags: imported, hacker-news
 Id: db443992-c1a4-11ed-ae4b-0242ac110004
 Date: Sun Aug  7 12:28:43 2022
 Title: Learning algebra in my 60s
-Link: https://news.ycombinator.com/item?id=32375955
+Origin: https://news.ycombinator.com/item?id=32375955
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5032,7 +5032,7 @@ Tags: imported, hacker-news
 Id: dd93cb7c-c1a4-11ed-adf1-0242ac110004
 Date: Wed Aug 10 08:35:01 2022
 Title: Electric Vehicles Are Going to Suck; Here's Why [video]
-Link: https://news.ycombinator.com/item?id=32409272
+Origin: https://news.ycombinator.com/item?id=32409272
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5040,7 +5040,7 @@ Tags: imported, hacker-news
 Id: dfec522c-c1a4-11ed-8f09-0242ac110004
 Date: Fri Aug 12 11:51:30 2022
 Title: Tell HN: Unpaid home assignments are not ok
-Link: https://news.ycombinator.com/item?id=32437078
+Origin: https://news.ycombinator.com/item?id=32437078
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5048,7 +5048,7 @@ Tags: imported, hacker-news
 Id: e23d7fb0-c1a4-11ed-a032-0242ac110004
 Date: Fri Sep  2 13:55:12 2022
 Title: The forty-year programmer
-Link: https://news.ycombinator.com/item?id=32690892
+Origin: https://news.ycombinator.com/item?id=32690892
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5056,7 +5056,7 @@ Tags: imported, hacker-news
 Id: e489c7ce-c1a4-11ed-b44b-0242ac110004
 Date: Mon Sep  5 20:34:15 2022
 Title: Cheating at chess with a computer for my shoes
-Link: https://news.ycombinator.com/item?id=32729105
+Origin: https://news.ycombinator.com/item?id=32729105
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5064,7 +5064,7 @@ Tags: imported, hacker-news
 Id: e6de13ea-c1a4-11ed-a15e-0242ac110004
 Date: Wed Sep  7 04:32:00 2022
 Title: Citibank may lock bank accounts for 45 days if breach suspected
-Link: https://news.ycombinator.com/item?id=32746334
+Origin: https://news.ycombinator.com/item?id=32746334
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5072,7 +5072,7 @@ Tags: imported, hacker-news
 Id: e995e0ae-c1a4-11ed-a816-0242ac110004
 Date: Thu Sep  8 01:20:32 2022
 Title: I tracked everything I read on the internet for a year
-Link: https://news.ycombinator.com/item?id=32759786
+Origin: https://news.ycombinator.com/item?id=32759786
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5080,7 +5080,7 @@ Tags: imported, hacker-news
 Id: ebe685de-c1a4-11ed-a9ba-0242ac110004
 Date: Sun Sep 11 02:26:48 2022
 Title: Brickit scans your pile of bricks and gives you ideas, with instructions
-Link: https://news.ycombinator.com/item?id=32796324
+Origin: https://news.ycombinator.com/item?id=32796324
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5088,7 +5088,7 @@ Tags: imported, hacker-news
 Id: ee528728-c1a4-11ed-bec4-0242ac110004
 Date: Mon Sep 12 06:36:31 2022
 Title: One-on-ones with executives
-Link: https://news.ycombinator.com/item?id=32806761
+Origin: https://news.ycombinator.com/item?id=32806761
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5096,7 +5096,7 @@ Tags: imported, hacker-news
 Id: f0a10248-c1a4-11ed-8727-0242ac110004
 Date: Tue Sep 13 14:40:27 2022
 Title: Senior engineers are living in the future
-Link: https://news.ycombinator.com/item?id=32824872
+Origin: https://news.ycombinator.com/item?id=32824872
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5104,7 +5104,7 @@ Tags: imported, hacker-news
 Id: f2f5e270-c1a4-11ed-93ec-0242ac110004
 Date: Mon Sep 26 06:21:24 2022
 Title: Traffic cameras expose your location through parking apps
-Link: https://news.ycombinator.com/item?id=32980040
+Origin: https://news.ycombinator.com/item?id=32980040
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5112,7 +5112,7 @@ Tags: imported, hacker-news
 Id: f543b732-c1a4-11ed-91db-0242ac110004
 Date: Tue Sep 27 12:42:24 2022
 Title: Making Python fast – Adventures with mypyc
-Link: https://news.ycombinator.com/item?id=32994584
+Origin: https://news.ycombinator.com/item?id=32994584
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5120,7 +5120,7 @@ Tags: imported, hacker-news
 Id: f7aa6a5c-c1a4-11ed-a0e5-0242ac110004
 Date: Mon Oct 17 05:53:35 2022
 Title: Product vs. Engineering
-Link: https://news.ycombinator.com/item?id=33230158
+Origin: https://news.ycombinator.com/item?id=33230158
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5128,7 +5128,7 @@ Tags: imported, hacker-news
 Id: f9fb118a-c1a4-11ed-815e-0242ac110004
 Date: Tue Oct 18 11:20:13 2022
 Title: Alien Truth
-Link: https://news.ycombinator.com/item?id=33245641
+Origin: https://news.ycombinator.com/item?id=33245641
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5136,7 +5136,7 @@ Tags: imported, hacker-news
 Id: fc4c5520-c1a4-11ed-99ad-0242ac110004
 Date: Wed Oct 19 18:53:56 2022
 Title: Wait vs. Interrupt Culture
-Link: https://news.ycombinator.com/item?id=33266372
+Origin: https://news.ycombinator.com/item?id=33266372
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5144,7 +5144,7 @@ Tags: imported, hacker-news
 Id: fe9a546c-c1a4-11ed-98cf-0242ac110004
 Date: Wed Oct 19 23:26:13 2022
 Title: We are still early with the cloud
-Link: https://news.ycombinator.com/item?id=33269092
+Origin: https://news.ycombinator.com/item?id=33269092
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5152,7 +5152,7 @@ Tags: imported, hacker-news
 Id: 00ff2f0c-c1a5-11ed-9fbc-0242ac110004
 Date: Mon Oct 24 02:52:53 2022
 Title: Buffers on the Edge: Python and Rust
-Link: https://news.ycombinator.com/item?id=33312508
+Origin: https://news.ycombinator.com/item?id=33312508
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5160,7 +5160,7 @@ Tags: imported, hacker-news
 Id: 0360cbfc-c1a5-11ed-92fb-0242ac110004
 Date: Mon Oct 24 01:24:29 2022
 Title: Debugging C with Cosmopolitan Libc
-Link: https://news.ycombinator.com/item?id=33312012
+Origin: https://news.ycombinator.com/item?id=33312012
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5168,7 +5168,7 @@ Tags: imported, hacker-news
 Id: 05ba5bca-c1a5-11ed-b47b-0242ac110004
 Date: Tue Nov  8 19:16:20 2022
 Title: Only solve one new problem at a time
-Link: https://news.ycombinator.com/item?id=33523032
+Origin: https://news.ycombinator.com/item?id=33523032
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5176,7 +5176,7 @@ Tags: imported, hacker-news
 Id: 0807581a-c1a5-11ed-990f-0242ac110004
 Date: Sat Nov 19 20:49:41 2022
 Title: How can you not be romantic about programming? (2020)
-Link: https://news.ycombinator.com/item?id=33674516
+Origin: https://news.ycombinator.com/item?id=33674516
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5184,7 +5184,7 @@ Tags: imported, hacker-news
 Id: 0a4f53b6-c1a5-11ed-8844-0242ac110004
 Date: Tue Nov 22 10:05:26 2022
 Title: Considering C99 for Curl
-Link: https://news.ycombinator.com/item?id=33704054
+Origin: https://news.ycombinator.com/item?id=33704054
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5192,7 +5192,7 @@ Tags: imported, hacker-news
 Id: 0ca864f4-c1a5-11ed-be07-0242ac110004
 Date: Sun Nov 27 12:12:56 2022
 Title: Coping strategies for the serial project hoarder
-Link: https://news.ycombinator.com/item?id=33762438
+Origin: https://news.ycombinator.com/item?id=33762438
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5200,7 +5200,7 @@ Tags: imported, hacker-news
 Id: 0ef9464c-c1a5-11ed-9e38-0242ac110004
 Date: Mon Nov 28 21:11:26 2022
 Title: The Buy and Hold Mindset
-Link: https://news.ycombinator.com/item?id=33779720
+Origin: https://news.ycombinator.com/item?id=33779720
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5208,7 +5208,7 @@ Tags: imported, hacker-news
 Id: 115ad4d2-c1a5-11ed-a604-0242ac110004
 Date: Thu Dec  1 08:30:12 2022
 Title: Company, Team, Self
-Link: https://news.ycombinator.com/item?id=33813754
+Origin: https://news.ycombinator.com/item?id=33813754
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5216,7 +5216,7 @@ Tags: imported, hacker-news
 Id: 13bca7be-c1a5-11ed-a010-0242ac110004
 Date: Mon Dec  5 00:37:12 2022
 Title: Ask HN: Can you recommend me a book to (re)learn math?
-Link: https://news.ycombinator.com/item?id=33859823
+Origin: https://news.ycombinator.com/item?id=33859823
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5224,7 +5224,7 @@ Tags: imported, hacker-news
 Id: 160a4e4a-c1a5-11ed-a564-0242ac110004
 Date: Mon Dec  5 05:19:25 2022
 Title: Be Less Scared of Overconfidence
-Link: https://news.ycombinator.com/item?id=33861773
+Origin: https://news.ycombinator.com/item?id=33861773
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5232,7 +5232,7 @@ Tags: imported, hacker-news
 Id: 18619144-c1a5-11ed-93e6-0242ac110004
 Date: Sat Dec 10 22:40:10 2022
 Title: Disputing a Parking Fine with ChatGPT
-Link: https://news.ycombinator.com/item?id=33937753
+Origin: https://news.ycombinator.com/item?id=33937753
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5240,7 +5240,7 @@ Tags: imported, hacker-news
 Id: 1ab0efb2-c1a5-11ed-99bc-0242ac110004
 Date: Wed Dec 28 17:49:06 2022
 Title: Ask HN: What's a build vs. buy decision that you got wrong?
-Link: https://news.ycombinator.com/item?id=34163624
+Origin: https://news.ycombinator.com/item?id=34163624
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5248,7 +5248,7 @@ Tags: imported, hacker-news
 Id: 1d09f790-c1a5-11ed-9cc0-0242ac110004
 Date: Tue Jan  3 10:13:40 2023
 Title: LearnCPP: Website devoted to teaching you how to program in C++
-Link: https://news.ycombinator.com/item?id=34229802
+Origin: https://news.ycombinator.com/item?id=34229802
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5256,7 +5256,7 @@ Tags: imported, hacker-news
 Id: 1f633be6-c1a5-11ed-8e32-0242ac110004
 Date: Tue Jan 10 17:13:06 2023
 Title: Theory-building and why employee churn is lethal to software companies
-Link: https://news.ycombinator.com/item?id=34328069
+Origin: https://news.ycombinator.com/item?id=34328069
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5264,7 +5264,7 @@ Tags: imported, hacker-news
 Id: 21b658ce-c1a5-11ed-9fcc-0242ac110004
 Date: Tue Jan 10 08:51:34 2023
 Title: Architecture diagrams should be code
-Link: https://news.ycombinator.com/item?id=34322130
+Origin: https://news.ycombinator.com/item?id=34322130
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5272,7 +5272,7 @@ Tags: imported, hacker-news
 Id: 24036806-c1a5-11ed-8ad4-0242ac110004
 Date: Fri Jan 13 03:32:52 2023
 Title: Write admin tools from day one (2022)
-Link: https://news.ycombinator.com/item?id=34363642
+Origin: https://news.ycombinator.com/item?id=34363642
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5280,7 +5280,7 @@ Tags: imported, hacker-news
 Id: 26ee7da8-c1a5-11ed-bfd5-0242ac110004
 Date: Wed Jan 18 00:48:46 2023
 Title: How to Swim Against the Stream: On Diogenes
-Link: https://news.ycombinator.com/item?id=34421804
+Origin: https://news.ycombinator.com/item?id=34421804
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5288,7 +5288,7 @@ Tags: imported, hacker-news
 Id: 29498a52-c1a5-11ed-97d9-0242ac110004
 Date: Wed Jan 18 23:27:22 2023
 Title: Things I’ve learned in my years as a software engineer (2021)
-Link: https://news.ycombinator.com/item?id=34434636
+Origin: https://news.ycombinator.com/item?id=34434636
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5296,7 +5296,7 @@ Tags: imported, hacker-news
 Id: 2b9ba696-c1a5-11ed-9b25-0242ac110004
 Date: Fri Feb 17 00:41:32 2023
 Title: Modern SPAs without bundlers, CDNs, or Node.js
-Link: https://news.ycombinator.com/item?id=34829039
+Origin: https://news.ycombinator.com/item?id=34829039
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5304,7 +5304,7 @@ Tags: imported, hacker-news
 Id: 2df54898-c1a5-11ed-b307-0242ac110004
 Date: Sun Feb 12 16:50:04 2023
 Title: Leonardo noted link between gravity and acceleration centuries before Einstein
-Link: https://news.ycombinator.com/item?id=34764318
+Origin: https://news.ycombinator.com/item?id=34764318
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5312,7 +5312,7 @@ Tags: imported, hacker-news
 Id: 3047e6d2-c1a5-11ed-a78a-0242ac110004
 Date: Sun Feb 19 17:53:48 2023
 Title: Writing an engineering strategy
-Link: https://news.ycombinator.com/item?id=34859979
+Origin: https://news.ycombinator.com/item?id=34859979
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5320,7 +5320,7 @@ Tags: imported, hacker-news
 Id: 32a62146-c1a5-11ed-a013-0242ac110004
 Date: Mon Feb 20 01:12:27 2023
 Title: C-rusted: The advantages of Rust, in C, without the disadvantages
-Link: https://news.ycombinator.com/item?id=34863784
+Origin: https://news.ycombinator.com/item?id=34863784
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5328,7 +5328,7 @@ Tags: imported, hacker-news
 Id: 34f89942-c1a5-11ed-9393-0242ac110004
 Date: Sun Feb 19 07:27:49 2023
 Title: Lesser known tricks, quirks and features of C
-Link: https://news.ycombinator.com/item?id=34855331
+Origin: https://news.ycombinator.com/item?id=34855331
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5336,7 +5336,7 @@ Tags: imported, hacker-news
 Id: 3746398e-c1a5-11ed-b7d4-0242ac110004
 Date: Wed Feb 22 02:27:16 2023
 Title: The usability of advanced type systems: Rust as a case study
-Link: https://news.ycombinator.com/item?id=34890787
+Origin: https://news.ycombinator.com/item?id=34890787
 Body:
 Category: craftsmanship
 Tags: imported, hacker-news
@@ -5344,7 +5344,7 @@ Tags: imported, hacker-news
 Id: 41419550-46fc-11ee-bfbe-0242ac110002
 Date: Tue Aug 29 08:30:52 2023
 Title: Elixir saves Pinterest M a year in server costs
-Link: https://news.ycombinator.com/item?id=37304851
+Origin: https://news.ycombinator.com/item?id=37304851
 Body: An example of how rewriting a microservice from AWS Lambda to elixir can save 97% of server costs. From 150 servers to 5.
 Category: craftsmanship
 Tags: imported, hacker-news, elixir, rewrite, jose-valim, aws, cost, aws-gateway, serverless, lambda, microservice
@@ -5352,7 +5352,7 @@ Tags: imported, hacker-news, elixir, rewrite, jose-valim, aws, cost, aws-gateway
 Id: 84577b0a-fe37-11ee-abb1-0242ac110003
 Date: Fri Apr 19 01:00:49 2024
 Title: Setting up PostgreSQL for running integration tests
-Link: https://news.ycombinator.com/item?id=40082409
+Origin: https://news.ycombinator.com/item?id=40082409
 Body: Setting up PostgreSQL for running integration tests
 Category: craftsmanship
 Tags: imported, hacker-news, postgresql, testing, tdd, nodejs, javascript, sqlite, database, db
@@ -5360,7 +5360,7 @@ Tags: imported, hacker-news, postgresql, testing, tdd, nodejs, javascript, sqlit
 Id: 38e9c55c-1cea-11ef-b78f-0242ac110003
 Date: Mon May 27 15:31:24 2024
 Title: Should I use JWTs for authentication tokens?
-Link: https://news.ycombinator.com/item?id=40491694
+Origin: https://news.ycombinator.com/item?id=40491694
 Body: Do not use JWT (json Web Tokens) for authentication unless you are a Google/FAANG scale company
 Category: craftsmanship
 Tags: imported, hacker-news, json-web-token, jwt, faang, google, authentication, authentication-token, refresh-token, session-token, session-management
