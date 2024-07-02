@@ -5434,3 +5434,12 @@ Body: book about GNU Make, with recipes and going into detail about how to use i
 Category: craftsmanship
 Tags: book, make, gnu-make, project, skeleton, ci, continuous-integration
 
+Id: 4fc53bae-d81c-45b4-9f6b-995ec5d4df6a
+Date: Tue, 02 Jul 2024 07:26:08 +0000
+Link: https://github.com/vslavik/diff-pdf
+Title: Diff-pdf: tool to visually compare two PDFs
+Body: a tool to diff pdfs visually
+Category: craftsmanship
+Tags: hackernews, imported, olshansky, testing, test, diff-pdf, pdf, diff, git, e2e-testing, end-to-end-testing, tool
+Origin: https://news.ycombinator.com/item?id=40854319
+
