@@ -5468,3 +5468,11 @@ Body: Guide on how to write tests
 Category: craftsmanship
 Tags: rust, learning, test, programming
 
+Id: f5b3afaf-86cb-401d-956c-e588879f4ce9
+Date: Tue, 02 Jul 2024 16:16:36 +0000
+Link: https://doc.rust-lang.org/rust-by-example/macros/variadics.html
+Title: Rust by example: variadics
+Body: Variadics in rust
+Category: craftsmanship
+Tags: rust, programming, variadic, argument, triple-dot
+
