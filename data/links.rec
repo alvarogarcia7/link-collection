@@ -5476,3 +5476,11 @@ Body: Variadics in rust
 Category: craftsmanship
 Tags: rust, programming, variadic, argument, triple-dot
 
+Id: 31c985a0-fbe8-4819-aff7-2ce9fa844f50
+Date: Tue, 02 Jul 2024 16:18:11 +0000
+Link: https://docs.rs/clap/latest/clap/
+Title: Clap: Command Line Argument Parser for Rust
+Body: Command Line Argument Parser for Rust
+Category: craftsmanship
+Tags: rust, programming, argument, parser, derive, git, cookbook
+
