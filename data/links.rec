@@ -5549,11 +5549,20 @@ Tags: hackernews, imported, cacher, eudaimonia, arete, phronesis, kleos, xenia, 
 Origin: https://news.ycombinator.com/item?id=35867935
 
 Id: 3b2e9382-1144-4cfe-bdaf-72b30e8c3712
+Date: Sat, 1 Jun 2024 09:14:25 +0000
+Link: https://compilers.iecc.com/crenshaw/
+Title: Let's Build a Compiler, by Jack Crenshaw
+Body: Crenshaw's tutorial on building a compiler
+Category: craftsmanship
+Tags: hackernews, imported, synack, compiler, crenshaw, brian-kernighan, rob-pike, programming, programming-language
+Origin: https://news.ycombinator.com/item?id=36054416
+
+Id: 3b2e9382-1144-4cfe-bdaf-72b30e8c3712
 Date: Wed, 24 May 2023 05:28:25 +0000
 Link: https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html
 Title: Let's Build a Compiler (1988)
-Body: Crenshaw's tutorial on building a compiler
+Body: building a compiler
 Category: craftsmanship
-Tags: hackernews, imported, synack, compiler, crenshaw, brian-kernighan, rob-pike
+Tags: hackernews, imported, synack, compiler, brian-kernighan, rob-pike, programming, programming-language
 Origin: https://news.ycombinator.com/item?id=36054416
 
