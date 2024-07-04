@@ -5674,3 +5674,12 @@ Category: craftsmanship
 Tags: hackernews, imported, asicsp, lock-free-data-structure, data-structure, temper, tool, rust, loom, cpp, property-based-testing, concurrency, parallellism
 Origin: https://news.ycombinator.com/item?id=40890035
 
+Id: c027f63e-c4d0-46de-8532-867647d9a4c1
+Date: Thu, 04 Jul 2024 03:05:36 +0000
+Link: https://www.firezone.dev/blog/sans-io
+Title: Sans-IO: The secret to effective Rust for network services
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, wh33zle, imperative-shell, functional-core, testing, architectural-pattern, ports-and-adapters, hexagonal-architecture
+Origin: https://news.ycombinator.com/item?id=40872020
+
