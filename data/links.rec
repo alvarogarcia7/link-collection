@@ -5665,3 +5665,12 @@ Category: craftsmanship
 Tags: hackernews, imported, oskar_dudycz, database, mongodb, postgresql, sql, driver
 Origin: https://news.ycombinator.com/item?id=40897518
 
+Id: a35b8485-365c-4edf-a542-3dea4a77645e
+Date: Sat, 06 Jul 2024 12:29:18 +0000
+Link: https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html
+Title: Properly testing concurrent data structures
+Body: There’s a fascinating Rust library, loom, which can be used to thoroughly test lock-free data structures. I always wanted to learn how it works. I still do! But recently I accidentally implemented a small toy which, I think, contains some of the loom’s ideas, and it seems worthwhile to write about that
+Category: craftsmanship
+Tags: hackernews, imported, asicsp, lock-free-data-structure, data-structure, temper, tool, rust, loom, cpp, property-based-testing, concurrency, parallellism
+Origin: https://news.ycombinator.com/item?id=40890035
+
