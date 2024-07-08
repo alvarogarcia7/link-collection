@@ -5800,3 +5800,12 @@ Category: craftsmanship
 Tags: hackernews, imported, miki123211, ticketmaster, cryptography, barcode, ticket, concert, festival
 Origin: https://news.ycombinator.com/item?id=40906148
 
+Id: a221ad53-88cd-42d6-bda5-62dbe6f78920
+Date: Mon, 08 Jul 2024 18:58:56 +0000
+Link: https://arxiv.org/abs/2309.04259
+Title: C++ patterns for low-latency applications including high-frequency trading
+Body: Fairly trivial base introduction to the subject.
+Category: craftsmanship
+Tags: hackernews, imported, chris_overseas, programming, high-frequency-trading, performance, cpp, language
+Origin: https://news.ycombinator.com/item?id=40908273
+
