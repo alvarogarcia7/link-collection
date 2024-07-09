@@ -5841,3 +5841,12 @@ Category: craftsmanship
 Tags: hackernews, imported, zdw, youtube, brian-kernighan, practice-of-programming, book
 Origin: https://news.ycombinator.com/item?id=40927481
 
+Id: b1610775-0a9c-4326-9b6b-a461c0ecad52
+Date: Tue, 09 Jul 2024 03:24:22 +0000
+Link: http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing
+Title: Real-time audio programming 101: time waits for nothing (2011)
+Body: a couple of basic facts: (1) You do not want your software’s audio to glitch, and (2) real-time waits for nothing.
+Category: craftsmanship
+Tags: hackernews, imported, ssfrr, audio, audio-processing, realtime, programming, mutex, lock, low-level-programming, rt
+Origin: https://news.ycombinator.com/item?id=40912271
+
