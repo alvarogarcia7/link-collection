@@ -5809,3 +5809,12 @@ Category: craftsmanship
 Tags: hackernews, imported, chris_overseas, programming, high-frequency-trading, performance, cpp, language
 Origin: https://news.ycombinator.com/item?id=40908273
 
+Id: 6532c138-49b0-4410-8bca-d6edfd2d6deb
+Date: Tue, 09 Jul 2024 12:05:43 +0000
+Link: https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack
+Title: Radius/UDP. How legacy protocols need to keep up with modern cryptography
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, emot, cryptography, device, udp, md5, collision, hash-collision, vulnerability, cloudflare
+Origin: https://news.ycombinator.com/item?id=40915112
+
