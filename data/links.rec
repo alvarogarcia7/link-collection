@@ -5818,3 +5818,17 @@ Category: craftsmanship
 Tags: hackernews, imported, emot, cryptography, device, udp, md5, collision, hash-collision, vulnerability, cloudflare
 Origin: https://news.ycombinator.com/item?id=40915112
 
+Id: d9f2a8e9-fcea-49c0-90e3-78a1189be491
+Date: Thu, 11 Jul 2024 01:47:46 +0000
+Link: https://substack.wasteman.codes/p/engineering-principles-and-best-practices
+Title: Engineering principles for building financial systems
+Body: Engineering principles for building financial systems
+Introducing: sub ledger, general ledger, Financial Record, Material
+Goals: Accurate, Auditable, Timely
+Principles: Immutability and Durability of data; Data should be represented at the smallest grain; Code should be Idempotent
+Engineering principles: Use integers to represent financial amounts. Makes arithmetic much easier. Avoid floats at all costs; Granularity of your financial amounts should support currency conversions with minimal loss of precision; Use consistent rounding methodologies; Delay currency conversion as long as you can; Use integer representations of time.
+
+Category: craftsmanship
+Tags: hackernews, imported, kothuroti, finance, programming, domain, money
+Origin: https://news.ycombinator.com/item?id=40933110
+
