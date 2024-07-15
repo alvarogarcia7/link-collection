@@ -5883,8 +5883,8 @@ Date: Sat, 13 Jul 2024 00:05:23 +0000
 Link: https://fev.al/posts/work-journal/
 Title: Use a work journal
 Body: Using a worklog to keep track of work between sessions.
-Recover the context faster, keep track of what you searched / investigated / tried. And the outcomes.
-Helps with the documentation, reasoning, ADR.
++ Recover the context faster, keep track of what you searched / investigated / tried. And the outcomes.
++ Helps with the documentation, reasoning, ADR.
 Category: craftsmanship
 Tags: hackernews, imported, charles_f, adr, worklog, technique, programming, debugging, architecture-decisional-record, writing
 Origin: https://news.ycombinator.com/item?id=40950584
