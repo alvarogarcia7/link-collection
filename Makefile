@@ -42,10 +42,16 @@ categories:
 .PHONY: select
 select: categories
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
-	cat data/links.rec|grep "^%" > data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jun 2024' && Date << '30 Jun 2024' && Category = '${CATEGORY}'" > data/selection.rec
+	rm -f data/selection.rec
+	cat data/links.rec|grep "^%" >> data/selection.rec
+	wc -l data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jun 2024' && Date << '30 Jun 2024' && Category = '${CATEGORY}'" >> data/selection.rec
+	wc -l data/selection.rec
 	dos2unix data/selection.rec
-	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec > data/tags.txt
+	wc -l data/selection.rec
+	rm -f data/tags.txt
+	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash ./bin/process-tags.sh < data/selection.rec >> data/tags.txt
+	wc -l data/tags.txt
 
 .PHONY: convert
 convert:
