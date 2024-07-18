@@ -5907,3 +5907,13 @@ Category: craftsmanship
 Tags: hackernews, imported, popcalc, dark-pattern, cancellation, ux, ui
 Origin: https://news.ycombinator.com/item?id=41004113
 
+Id: 92982287-2c40-4b73-80d7-500b128571dd
+Date: Thu, 18 Jul 2024 14:36:58 +0000
+Link: https://research.swtch.com/bisect
+Title: Hash-based bisect debugging in compilers and runtimes
+Body: An interesting article with techniques for debugging when using tests.
+Mentions: git bisect, its predecessors, hash-based techniques
+Category: craftmanship
+Tags: hackernews, imported, rsc, debugging, hash, git, git-bisect, bisect, technique
+Origin: https://news.ycombinator.com/item?id=40995982
+
