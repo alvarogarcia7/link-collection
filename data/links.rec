@@ -5990,3 +5990,23 @@ Category: craftsmanship
 Tags: hackernews, imported, azeemba, compiler, pattern, popcnt, transpilation, gcc, clang
 Origin: https://news.ycombinator.com/item?id=40987123
 
+Id: 75bc0452-a720-4329-bc77-0d2e0c962b56
+Date: Sun, 21 Jul 2024 07:53:25 +0000
+Link: https://www.zettlr.com
+Title: Zettlr: One-Stop Publication Workbench
+Body: markdown-based Obsidian/Logseq zettelkasten with built-in support for
++ 1. interfacing with reference managers
++ 2. exporting/publishing with LaTeX/pandoc.
++ 
++ https://docs.zettlr.com/en/core/user-interface/
++ 
++ Supports:
++ - inline markdown preview
+
+- VIM Keybinds (with some issues, as many implementations have)
+
+- mermaid and LaTeX math support built in
+Category: craftsmanship
+Tags: hackernews, imported, hgyjnbdet, zotero, research, tool, personal-knowledge-base, pkb, zettlr, obsidian, tiddlywiki
+Origin: https://news.ycombinator.com/item?id=41023319
+
