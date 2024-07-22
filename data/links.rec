@@ -5952,3 +5952,14 @@ Category: craftsmanship
 Tags: hackernews, imported, 8organicbits, blogging, blog, personal-projects, irl, in-real-life
 Origin: https://news.ycombinator.com/item?id=41041537
 
+Id: 3b05ca32-cbf4-4ac8-950e-f2e0cee5aedf
+Date: Mon, 22 Jul 2024 01:31:15 +0000
+Link: https://martinfowler.com/articles/data-fetch-spa.html
+Title: Data Fetching for Single-Page Apps
+Body: An interesting article in Martin Fowler's site about loading data in a Single Page Application (SPA).
++ 
++ By Juntao QIU.
+Category: craftsmanship
+Tags: hackernews, imported, fagnerbrack, juntao-qiu, martin-fowler, spa, single-page-application, react, serial, parallel, pattern
+Origin: https://news.ycombinator.com/item?id=41030073
+
