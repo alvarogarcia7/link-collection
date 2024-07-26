@@ -6027,3 +6027,13 @@ Category: craftsmanship
 Tags: hackernews, imported, b20000, interview, hiring, coding-interview, assessment, exercise
 Origin: https://news.ycombinator.com/item?id=41075594
 
+Id: 3cb3a865-8c21-41c0-905d-2042d4fed1c4
+Date: Fri, 26 Jul 2024 08:42:04 +0000
+Link: https://www.vortexa.com/product-blog/using-rust-to-corrode-insane-python-run-times/
+Title: Using Rust to corrode insane Python run-times (2021)
+Body: Using rust as the underlying library behind python modules.
++ This is about points, bounding boxes; numpy, matlab
+Category: craftsmanship
+Tags: hackernews, imported, fanf2, rust, pyo3, python, c-ffi, point, bounding-box, numpy, matlab, speedup, performance, optimization
+Origin: https://news.ycombinator.com/item?id=41076905
+
