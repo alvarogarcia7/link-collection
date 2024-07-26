@@ -6090,3 +6090,12 @@ Body: Introductory video to Emacs, Org Mode and Org Agenda
 Category: craftsmanship
 Tags: org-mode, org-agenda, emacs, doom-emacs, productivity, cli, tool
 
+Id: 4fb9318a-ea18-4c58-af3e-681bbaa7a902
+Date: Fri, 26 Jul 2024 18:55:16 +0000
+Link: https://tobeva.com/articles/beyond/
+Title: Beyond Clean Code
+Body: A discussion in detail of what is clean code; the new meaning it acquired with time and why reject it.
+Category: craftsmanship
+Tags: hackernews, imported, pbw, clean-code, clean-architecture, robert-c-martin, book, performance, polysemy
+Origin: https://news.ycombinator.com/item?id=41081237
+
