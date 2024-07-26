@@ -6166,3 +6166,12 @@ Category: craftsmanship
 Tags: hackernews, imported, thunderbong, shared-secret, cryptography, deepfake, phishing, attack, malware, ferrari, book, executive
 Origin: https://news.ycombinator.com/item?id=41100551
 
+Id: d911bd80-555e-44be-a9ee-44611db59119
+Date: Fri, 26 Jul 2024 00:00:52 +0000
+Link: https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html
+Title: How to build highly-debuggable C++ binaries
+Body: how to use python to create printers for gdb
+Category: craftmanship
+Tags: hackernews, imported, synergy20, printer, gdb, debug, debugging, python, c-language
+Origin: https://news.ycombinator.com/item?id=41074703
+
