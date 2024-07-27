@@ -6110,3 +6110,12 @@ Category: craftsmanship
 Tags: hackernews, imported, teleforce, architecture, risk, risk-management, handover, company-culture, complexity, tradeoff
 Origin: https://news.ycombinator.com/item?id=40691929
 
+Id: caadfd40-c907-4e60-8d50-e038fe69be4d
+Date: Sat, 27 Jul 2024 09:10:29 +0000
+Link: https://sqlite.org/fasterthanfs.html
+Title: SQLite: 35% Faster Than the Filesystem
+Body: Comparing the performance of the file system and of SQLite
+Category: craftsmanship
+Tags: hackernews, imported, yla92, sqlite, performance, comparison, filesystem, fs, file
+Origin: https://news.ycombinator.com/item?id=41085376
+
