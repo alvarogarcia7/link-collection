@@ -6139,3 +6139,12 @@ Category: craftsmanship
 Tags: hackernews, imported, steveklabnik, programming, rust, c-language, tractor, darpa, project, initiative, rewrite
 Origin: https://news.ycombinator.com/item?id=41110269
 
+Id: 0069cf0e-e50f-4313-8a61-65c6196e1349
+Date: Tue, 30 Jul 2024 12:29:27 +0000
+Link: https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html
+Title: OpenSSL bug exposed up to 255 bytes of client heap and existed since 2011
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, belter, openssl, bug, defect, stack, cryptography
+Origin: https://news.ycombinator.com/item?id=41108465
+
