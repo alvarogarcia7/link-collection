@@ -6238,3 +6238,12 @@ Category: craftsmanship
 Tags: hackernews, imported, surprisetalk, kartik-agaram, freewheeling-app, technology-readiness-level, trl, nasa, durable-app, app, maturity-scale, maturity-level, tool, personal-project
 Origin: https://news.ycombinator.com/item?id=41157494
 
+Id: 0afc3e71-74f1-444f-96a0-72271b63a876
+Date: Fri, 02 Aug 2024 15:23:18 +0000
+Link: https://github.com/RustPython/RustPython
+Title: RustPython: A Python Interpreter Written in Rust
+Body: A new python interpreter, written in rust
+Category: craftsmanship
+Tags: hackernews, imported, bovem, rust, python, cpython, interpreter, project
+Origin: https://news.ycombinator.com/item?id=41139595
+
