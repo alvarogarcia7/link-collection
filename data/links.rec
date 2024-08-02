@@ -6193,3 +6193,12 @@ Category: craftsmanship
 Tags: hackernews, imported, omnibrain, laser, injury, quanta-ray, eye-protection, eye-hazard
 Origin: https://news.ycombinator.com/item?id=41127706
 
+Id: 69af00e4-d269-40f0-ae5b-0e07e286cda6
+Date: Fri, 02 Aug 2024 08:02:52 +0000
+Link: https://bugs.openjdk.org/browse/JDK-8303099
+Title: JVM/Java: Null-Restricted and Nullable Types
+Body: the markers ?, !, (default) for nullability in Java
+Category: craftsmanship
+Tags: hackernews, imported, lichtenberger, java, programming, null, nullability, language, syntax, jep, java-enhancement-proposal
+Origin: https://news.ycombinator.com/item?id=41136974
+
