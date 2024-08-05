@@ -6220,3 +6220,12 @@ Category: craftsmanship
 Tags: hackernews, imported, otoolep, sqlite, rqlite, philip-o'toole, bug, defect
 Origin: https://news.ycombinator.com/item?id=33945115
 
+Id: 302b2fa8-de81-4fe6-a97a-2a3627eab0e6
+Date: Mon, 05 Aug 2024 14:18:13 +0000
+Link: https://www.codethink.co.uk/articles/2024/secure_bootloader/
+Title: A cryptographically secure bootloader for RISC-V in Rust
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, fork-bomber, risc-v, bootloader, secure-boot, rust, cryptography
+Origin: https://news.ycombinator.com/item?id=41161580
+
