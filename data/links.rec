@@ -6202,3 +6202,12 @@ Category: craftsmanship
 Tags: hackernews, imported, lichtenberger, java, programming, null, nullability, language, syntax, jep, java-enhancement-proposal
 Origin: https://news.ycombinator.com/item?id=41136974
 
+Id: 9467d17b-a3cd-42d5-ad00-02a752e443f1
+Date: Tue, 06 Aug 2024 01:20:22 +0000
+Link: https://www.philipotoole.com/building-rqlite-9-0-cutting-disk-usage-by-half/
+Title: Building rqlite 9.0: Cutting disk usage by half
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, otoolep, tool, rqlite, sqlite, go, wal, distributed-database
+Origin: https://news.ycombinator.com/item?id=41167060
+
