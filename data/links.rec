@@ -6256,3 +6256,12 @@ Category: craftsmanship
 Tags: hackernews, imported, igitur, mathematics, math, prime-number, prime
 Origin: https://news.ycombinator.com/item?id=41126944
 
+Id: 81aa40c2-8258-466d-9b1b-807568f02e6b
+Date: Wed, 07 Aug 2024 16:48:42 +0000
+Link: https://icode4.coffee/?p=954
+Title: Tony Hawk's Pro Strcpy
+Body: A story about using strcpy to hack a hole into Xbox's Tony Hawk
+Category: craftsmanship
+Tags: hackernews, imported, ndiddy, strcpy, xbox, strcpy, remote-code-execution, rce, ida-pro, debug, exploit, rop-chain, game
+Origin: https://news.ycombinator.com/item?id=41183115
+
