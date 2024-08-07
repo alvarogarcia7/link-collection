@@ -6384,3 +6384,20 @@ Category: craftsmanship
 Tags: hackernews, imported, tdrhq, novel, persistance, database, in-memory, storage, high-availability
 Origin: https://news.ycombinator.com/item?id=41206908
 
+Id: d4d0984b-609d-4483-9b9c-225b57827b61
+Date: Wed, 07 Aug 2024 18:06:44 +0000
+Link: https://www.joshcanhelp.com/personal-data-pipeline/
+Title: Imagining a personal data pipeline
+Body: A personal data pipeline: a tool to import all your data to.
++ 
++ Provides privacy, data independence to your data.
++ 
++ You can run queries on top, to extract insights from your data.
++ 
++ What is the point of said tool if you don't know which data to extract?
++ 
++ This blog creates nice charts, programatically, using d2lang
+Category: craftsmanship
+Tags: hackernews, imported, surprisetalk, data-pipeline, privacy, tool, data-independence, insight, personal-data-pipeline, d2lang, chart
+Origin: https://news.ycombinator.com/item?id=41183795
+
