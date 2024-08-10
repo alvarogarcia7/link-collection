@@ -6373,3 +6373,14 @@ Category: craftsmanship
 Tags: hackernews, imported, zdw, process, goal, quest, planning, david-cain, raptitude.com
 Origin: https://news.ycombinator.com/item?id=41194431
 
+Id: 61fa43f4-966d-4eea-89c3-91534637084b
+Date: Sat, 10 Aug 2024 02:37:55 +0000
+Link: https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/
+Title: Building a highly-available web service without a database
+Body: A way of running processes with persistent in-memory storage (from one run to another).
++ 
++ A way of skipping the persistance to database, for a quick proof of concept
+Category: craftsmanship
+Tags: hackernews, imported, tdrhq, novel, persistance, database, in-memory, storage, high-availability
+Origin: https://news.ycombinator.com/item?id=41206908
+
