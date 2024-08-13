@@ -6401,3 +6401,14 @@ Category: craftsmanship
 Tags: hackernews, imported, surprisetalk, data-pipeline, privacy, tool, data-independence, insight, personal-data-pipeline, d2lang, chart
 Origin: https://news.ycombinator.com/item?id=41183795
 
+Id: c23c15f4-69e0-488a-9c29-11b6653e1a9b
+Date: Tue, 13 Aug 2024 01:03:12 +0000
+Link: http://radio-weblogs.com/0100490/2003/01/28.html
+Title: 0xCAFEBABE & 0xFEEDFACE (2003)
+Body: About the constants used for finding them quickly in memory dumps
++ 
++ Interesting that the rust-compiler does not allow some magic numbers like 0xCAFEBABE
+Category: craftsmanship
+Tags: hackernews, imported, diggan, censorship, compiler, rust-compiler, pointer, memory-address
+Origin: https://news.ycombinator.com/item?id=41231141
+
