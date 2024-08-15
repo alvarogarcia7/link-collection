@@ -6292,3 +6292,11 @@ Category: philosophy
 Tags: hackernews, imported, looky1173, information, information-overload, junk, diet, analogy
 Origin: https://news.ycombinator.com/item?id=41189946
 
+Id: 510201fb-f642-443d-a476-a07e3365ab8f
+Date: Thu, 15 Aug 2024 08:32:08 +0000
+Link: https://javamoods.blogspot.com/2009/03/size-of-java-objects.html
+Title: Size of Java Objects
+Body: How to compute the size of a java object
+Category: craftsmanship
+Tags: programming, java, language, java-tip, tip, memory-allocation, memory-usage, memory, heap, stack, garbage-collection
+
