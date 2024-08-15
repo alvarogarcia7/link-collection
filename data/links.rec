@@ -6300,3 +6300,11 @@ Body: How to compute the size of a java object
 Category: craftsmanship
 Tags: programming, java, language, java-tip, tip, memory-allocation, memory-usage, memory, heap, stack, garbage-collection
 
+Id: dd40f89f-284c-4b53-b8d1-289e36d3fa2d
+Date: Thu, 15 Aug 2024 08:33:08 +0000
+Link: https://www.javaspecialists.eu/archive/Issue142-Instrumentation-Memory-Counter.html
+Title: Instrumentation Memory Counter
+Body: How to instrument the JVM to measure data usage
+Category: craftsmanship
+Tags: programming, java, instrumentation, agent, language, memory-allocation, memory-usage, heinz-kabutz, heap, stack, garbage-collection
+
