@@ -6308,3 +6308,12 @@ Body: How to instrument the JVM to measure data usage
 Category: craftsmanship
 Tags: programming, java, instrumentation, agent, language, memory-allocation, memory-usage, heinz-kabutz, heap, stack, garbage-collection
 
+Id: e3c8fffe-98f0-4ed0-9383-16461d1aa36c
+Date: Sun, 18 Aug 2024 18:37:10 +0000
+Link: https://stevedylan.dev/posts/leaving-neovim-for-zed/
+Title: Leaving Neovim for Zed
+Body: Steve Dylan explains his change from Neovim to Zed, both CLI editors
+Category: craftsmanship
+Tags: hackernews, imported, mxstbr, zed, neovim, vim, vi, editor, git, plugin, tool
+Origin: https://news.ycombinator.com/item?id=41284322
+
