@@ -6492,3 +6492,12 @@ Category: craftsmanship
 Tags: hackernews, imported, larsdu88, security, privacy, ai, llm, copilot, ollama, model
 Origin: https://news.ycombinator.com/item?id=41301150
 
+Id: a727e2ce-3b47-46fa-bb29-cca968228234
+Date: Tue, 20 Aug 2024 18:27:45 +0000
+Link: https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via
+Title: Data Exfiltration from Slack AI via indirect prompt injection
+Body: Showing an attack against slack, via its AI
+Category: craftsmanship
+Tags: hackernews, imported, tprow50, security, slack, exfiltration, leak, llm, ai, prompt
+Origin: https://news.ycombinator.com/item?id=41302597
+
