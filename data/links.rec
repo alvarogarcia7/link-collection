@@ -6541,3 +6541,14 @@ Category: craftsmanship
 Tags: hackernews, imported, surprisetalk, alan-kay, rich-hickey, lisp, expression-problem, gdpr, dogsheep, datasette
 Origin: https://news.ycombinator.com/item?id=41290189
 
+Id: 74ec45c3-430b-43ed-bed9-5db943d402c6
+Date: Wed, 21 Aug 2024 23:16:21 +0000
+Link: https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb
+Title: I'm tired of fixing customers' AI generated code
+Body: AI has lowered the bar for creating small scripts and tools. That makes the population that can use an API/SaaS/Interface larger, therefore creating more issues.
++ 
++ This user highlights that somebody that has read the documentation or can program won't make those mistakes
+Category: craftsmanship
+Tags: hackernews, imported, bitwisevibe, ai, llm, api, interface, saas, usage, ux, ui, dx
+Origin: https://news.ycombinator.com/item?id=41315138
+
