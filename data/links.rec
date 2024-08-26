@@ -6597,3 +6597,12 @@ Category: craftsmanship
 Tags: hackernews, imported, ranebo, reverse-engineering, smali, java, jaxe, decompiler, air-conditioning, ac, heatpump, programming
 Origin: https://news.ycombinator.com/item?id=41386319
 
+Id: 59ba381e-a893-4357-8cf9-9346bb396e2d
+Date: Mon, 26 Aug 2024 08:20:42 +0000
+Link: https://twitter.com/karpathy/status/1827810695658029262
+Title: A little utility that auto-generates Git commit message based on the Git diff
+Body: Using a local LLM to generate git commits based on the contents
+Category: craftsmanship
+Tags: hackernews, imported, tosh, llm, ai, inference, local, ollama, git-commit, git, commit, karpathy
+Origin: https://news.ycombinator.com/item?id=41355050
+
