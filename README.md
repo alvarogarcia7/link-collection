@@ -2,7 +2,7 @@
 
 Data repository for links.
 
-Previously, this repository contained a suite of Perl tools to CRUD data. As of 2024-08, they have been removed (see commit 365b8374).
+Previously, this repository contained a suite of Perl tools to CRUD data. As of 2024-08, they have been removed (see commit [365b8374](https://github.com/alvarogarcia7/link-collection/commit/365b837406a12e884f31ba62d5b222960c1ed56f)).
 
 ## Installation
 
