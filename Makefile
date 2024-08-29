@@ -48,8 +48,9 @@ select: categories
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	rm -f data/selection.rec
 	cat data/links.rec|grep "^%" >> data/selection.rec
+	echo "" >> data/selection.rec # needs a newline
 	wc -l data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 ${YEAR_MONTH}' && Date << '31 ${YEAR_MONTH}' && Category = '${CATEGORY}'" >> data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 ${YEAR_MONTH}' && Date << '30 ${YEAR_MONTH}' && Category = '${CATEGORY}'" >> data/selection.rec
 	wc -l data/selection.rec
 	dos2unix data/selection.rec
 	wc -l data/selection.rec
@@ -72,6 +73,7 @@ put-together:
 	ls -lah *.markdown | wc -l
 
 generate-all:
+	make CATEGORY=craftsmanship YEAR_MONTH="May 2023" select convert put-together
 	$(eval YEAR:=2024)
 	#make CATEGORY=craftsmanship YEAR_MONTH="Jan ${YEAR}" select convert put-together
 	#make CATEGORY=craftsmanship YEAR_MONTH="Feb ${YEAR}" select convert put-together
@@ -80,7 +82,7 @@ generate-all:
 	#make CATEGORY=craftsmanship YEAR_MONTH="May ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Jun ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Jul ${YEAR}" select convert put-together
-	make  CATEGORY=craftsmanship YEAR_MONTH="Aug ${YEAR}" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Aug ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Sep ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov ${YEAR}" select convert put-together
