@@ -1,5 +1,7 @@
 # Link Collection
 
+Data repository for links.
+
 ## Installation
 
 ```
