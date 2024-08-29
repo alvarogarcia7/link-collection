@@ -2,6 +2,8 @@
 
 Data repository for links.
 
+Previously, this repository contained a suite of Perl tools to CRUD data. As of 2024-08, they have been removed (see commit 365b8374).
+
 ## Installation
 
 ```
