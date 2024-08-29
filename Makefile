@@ -6,6 +6,8 @@ build:
 run-generic:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils /bin/bash
 
+bash: run-generic
+
 .PHONY: run-crafts
 run-crafts:
 	docker run --rm -it -v ${PWD}:/recs derecerca/recutils ./bin/insert-generic.pl "craftsmanship"
