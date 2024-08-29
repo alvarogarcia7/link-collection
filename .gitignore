@@ -2,6 +2,3 @@
 
 .idea/
 
-# Link-Collection Rust binary
-bin/lc
-
