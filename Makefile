@@ -71,6 +71,48 @@ put-together:
 	python3 ./data/generate-blog.py "${YEAR_MONTH}"
 	ls -lah *.markdown | wc -l
 
+generate-all:
+#	last that exists: 2021-01-01-self-study.markdown
+# 	first that exists: 2024-06-01-self-study.markdown
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="May 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jun 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jul 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Aug 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Sep 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Oct 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Nov 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Dec 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jan 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="May 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jun 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jul 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Aug 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Sep 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Oct 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Nov 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Dec 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jan 2024" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb 2024" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar 2024" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr 2024" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="May 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Jun 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Jul 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Aug 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Sep 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov 2024" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Dec 2022" select convert put-together
+
+
+
+
 .PHONY: cleanup
 cleanup:
 	rm -f data/selection.md data/selection.rec data/tags.txt
