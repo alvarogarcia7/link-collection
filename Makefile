@@ -44,11 +44,12 @@ categories:
 .PHONY: select
 select: categories
 	@if [ -z "${CATEGORY}" ]; then echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make select ... CATEGORY=...."; exit 1; fi
+	@if [ -z "${YEAR_MONTH}" ]; then echo "Parameter YEAR_MONTH ${YEAR_MONTH} is mandatory. Note make select ... YEAR_MONTH=...."; exit 1; fi
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	rm -f data/selection.rec
 	cat data/links.rec|grep "^%" >> data/selection.rec
 	wc -l data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 Jun 2024' && Date << '30 Jun 2024' && Category = '${CATEGORY}'" >> data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 ${YEAR_MONTH}' && Date << '31 ${YEAR_MONTH}' && Category = '${CATEGORY}'" >> data/selection.rec
 	wc -l data/selection.rec
 	dos2unix data/selection.rec
 	wc -l data/selection.rec
