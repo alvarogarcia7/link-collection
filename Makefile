@@ -56,11 +56,13 @@ select: categories
 
 .PHONY: convert
 convert:
-	@echo "This is a manual step"
-	@echo "make run-generic"
-	@echo "copy-paste the following line inside docker:"
-	echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md" > /dev/null
-	$(MAKE) run-generic
+#	@echo "This is a manual step"
+#	@echo "make run-generic"
+#	@echo "copy-paste the following line inside docker:"
+	#echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md" > /dev/null
+	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash -c "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
+	diff -q data/selection_expected.md data/selection.md
+	@echo "Tests passed"
 
 .PHONY: cleanup
 cleanup:
