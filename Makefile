@@ -66,6 +66,11 @@ convert:
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash -c "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
 	@echo "Tests passed"
 
+put-together:
+	@if [ -z "${YEAR_MONTH}" ]; then echo "Parameter YEAR_MONTH ${YEAR_MONTH} is mandatory. Note make select ... YEAR_MONTH=...."; exit 1; fi
+	python3 ./data/generate-blog.py "${YEAR_MONTH}"
+	ls -lah *.markdown | wc -l
+
 .PHONY: cleanup
 cleanup:
 	rm -f data/selection.md data/selection.rec data/tags.txt
