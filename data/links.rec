@@ -5608,7 +5608,7 @@ Date: Sun, 02 Jun 2024 23:31:00 +0000
 Link: https://notes.eatonphil.com/eight-years-of-tech-meetups.html
 Title: Eight years of organizing tech meetups (2023)
 Body: Discusses learnings after organizing tech meetups
-Category: craftmanship
+Category: craftsmanship
 Tags: hackernews, imported, luu, tech-meetup, meetup, organizing, organizing-meetup, meetup-organization, sustained-effort, community, engagement, eaton-phil
 Origin: https://news.ycombinator.com/item?id=40557969
 
@@ -5913,7 +5913,7 @@ Link: https://research.swtch.com/bisect
 Title: Hash-based bisect debugging in compilers and runtimes
 Body: An interesting article with techniques for debugging when using tests.
 Mentions: git bisect, its predecessors, hash-based techniques
-Category: craftmanship
+Category: craftsmanship
 Tags: hackernews, imported, rsc, debugging, hash, git, git-bisect, bisect, technique
 Origin: https://news.ycombinator.com/item?id=40995982
 
@@ -6171,7 +6171,7 @@ Date: Fri, 26 Jul 2024 00:00:52 +0000
 Link: https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html
 Title: How to build highly-debuggable C++ binaries
 Body: how to use python to create printers for gdb
-Category: craftmanship
+Category: craftsmanship
 Tags: hackernews, imported, synergy20, printer, gdb, debug, debugging, python, c-language
 Origin: https://news.ycombinator.com/item?id=41074703
 
