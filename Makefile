@@ -85,9 +85,7 @@ generate-all:
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Dec ${YEAR}" select convert put-together
-
-
-
+	$(MAKE) cleanup
 
 .PHONY: cleanup
 cleanup:
