@@ -50,6 +50,8 @@ https://www.gnu.org/software/recutils/manual/recutils.html
 
 use `make select`, see 'tags.txt' file
 
+Remember that the tags are automatically generated when you `generate-all`.
+
 ## Massive import
 
 Use something like
