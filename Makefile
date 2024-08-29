@@ -79,7 +79,7 @@ generate-all:
 	#make CATEGORY=craftsmanship YEAR_MONTH="May 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Jun 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Jul 2024" select convert put-together
-	#make  CATEGORY=craftsmanship YEAR_MONTH="Aug 2024" select convert put-together
+	make  CATEGORY=craftsmanship YEAR_MONTH="Aug 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Sep 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov 2024" select convert put-together
