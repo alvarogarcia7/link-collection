@@ -68,7 +68,7 @@ convert:
 
 put-together:
 	@if [ -z "${YEAR_MONTH}" ]; then echo "Parameter YEAR_MONTH ${YEAR_MONTH} is mandatory. Note make select ... YEAR_MONTH=...."; exit 1; fi
-	python3 ./data/generate-blog.py "${YEAR_MONTH}"
+	python3 ./bin/generate-blog.py "${YEAR_MONTH}"
 	ls -lah *.markdown | wc -l
 
 generate-all:
