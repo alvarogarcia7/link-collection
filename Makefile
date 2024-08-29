@@ -41,6 +41,7 @@ categories:
 
 .PHONY: select
 select: categories
+	@if [ -z "${CATEGORY}" ]; then echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make select ... CATEGORY=...."; exit 1; fi
 	echo "Parameter CATEGORY ${CATEGORY} is mandatory. Note make CATEGORY=.... select"
 	rm -f data/selection.rec
 	cat data/links.rec|grep "^%" >> data/selection.rec
