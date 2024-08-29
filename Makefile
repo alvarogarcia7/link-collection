@@ -108,7 +108,7 @@ generate-all:
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Sep 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct 2024" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov 2024" select convert put-together
-	#make  CATEGORY=craftsmanship YEAR_MONTH="Dec 2022" select convert put-together
+	#make  CATEGORY=craftsmanship YEAR_MONTH="Dec 2024" select convert put-together
 
 
 
