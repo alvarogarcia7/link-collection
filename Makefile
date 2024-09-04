@@ -50,7 +50,7 @@ select: categories
 	cat data/links.rec|grep "^%" >> data/selection.rec
 	echo "" >> data/selection.rec # needs a newline
 	wc -l data/selection.rec
-	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 ${YEAR_MONTH}' && Date << '30 ${YEAR_MONTH}' && Category = '${CATEGORY}'" >> data/selection.rec
+	docker run --rm -it -v ${PWD}:/recs derecerca/recutils recsel -t Link data/links.rec -e "Date >> '01 ${YEAR_MONTH}' && Date << '$(shell python3 ./bin/next-month.py "${YEAR_MONTH}")' && Category = '${CATEGORY}'" >> data/selection.rec
 	wc -l data/selection.rec
 	dos2unix data/selection.rec
 	wc -l data/selection.rec
