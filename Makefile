@@ -73,6 +73,23 @@ put-together:
 	ls -lah *.markdown | wc -l
 
 generate-all:
+#	last that exists: 2021-01-01-self-study.markdown
+# 	first that exists: 2024-06-01-self-study.markdown
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="May 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jun 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jul 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Aug 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Sep 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Oct 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Nov 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Dec 2022" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jan 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar 2023" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr 2023" select convert put-together
 	make CATEGORY=craftsmanship YEAR_MONTH="May 2023" select convert put-together
 	$(eval YEAR:=2024)
 	#make CATEGORY=craftsmanship YEAR_MONTH="Jan ${YEAR}" select convert put-together
