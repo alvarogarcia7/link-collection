@@ -99,14 +99,14 @@ generate-all:
 	make CATEGORY=craftsmanship YEAR_MONTH="Nov 2023" select convert put-together
 	make CATEGORY=craftsmanship YEAR_MONTH="Dec 2023" select convert put-together
 	$(eval YEAR:=2024)
-	#make CATEGORY=craftsmanship YEAR_MONTH="Jan ${YEAR}" select convert put-together
-	#make CATEGORY=craftsmanship YEAR_MONTH="Feb ${YEAR}" select convert put-together
-	#make CATEGORY=craftsmanship YEAR_MONTH="Mar ${YEAR}" select convert put-together
-	#make CATEGORY=craftsmanship YEAR_MONTH="Apr ${YEAR}" select convert put-together
-	#make CATEGORY=craftsmanship YEAR_MONTH="May ${YEAR}" select convert put-together
-	#make  CATEGORY=craftsmanship YEAR_MONTH="Jun ${YEAR}" select convert put-together
-	#make  CATEGORY=craftsmanship YEAR_MONTH="Jul ${YEAR}" select convert put-together
-	#make  CATEGORY=craftsmanship YEAR_MONTH="Aug ${YEAR}" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Jan ${YEAR}" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Feb ${YEAR}" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Mar ${YEAR}" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="Apr ${YEAR}" select convert put-together
+	make CATEGORY=craftsmanship YEAR_MONTH="May ${YEAR}" select convert put-together
+	make  CATEGORY=craftsmanship YEAR_MONTH="Jun ${YEAR}" select convert put-together
+	make  CATEGORY=craftsmanship YEAR_MONTH="Jul ${YEAR}" select convert put-together
+	make  CATEGORY=craftsmanship YEAR_MONTH="Aug ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Sep ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Oct ${YEAR}" select convert put-together
 	#make  CATEGORY=craftsmanship YEAR_MONTH="Nov ${YEAR}" select convert put-together
