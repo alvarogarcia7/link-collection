@@ -65,7 +65,7 @@ convert:
 #	@echo "copy-paste the following line inside docker:"
 	#echo "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md" > /dev/null
 	docker run --rm -i -v ${PWD}:/recs derecerca/recutils bash -c "recfmt -f data/markdown.templ < data/selection.rec | perl -p -e 's/\\n/\n/g' > data/selection.md"
-	@echo "Tests passed"
+	@echo "Processed finished successfully"
 
 put-together:
 	@if [ -z "${YEAR_MONTH}" ]; then echo "Parameter YEAR_MONTH ${YEAR_MONTH} is mandatory. Note make select ... YEAR_MONTH=...."; exit 1; fi
