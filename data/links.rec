@@ -6756,3 +6756,12 @@ Category: craftsmanship
 Tags: hackernews, imported, tosh, cli, tool, sqlite, fzf, tui
 Origin: https://news.ycombinator.com/item?id=41479017
 
+Id: 5c90a1e6-a9f5-4000-a2b1-89f50b5a18e2
+Date: Thu, 05 Sep 2024 17:02:40 +0000
+Link: https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html
+Title: Deploying Rust in existing firmware codebases
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, pjmlp, rust, firmware, low-level, programming-languag
+Origin: https://news.ycombinator.com/item?id=41458508
+
