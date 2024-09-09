@@ -6711,3 +6711,12 @@ Category: craftsmanship
 Tags: hackernews, imported, mesaoptimizer, haskell, programming-language, side-effect, functional-programming, comparison
 Origin: https://news.ycombinator.com/item?id=41518600
 
+Id: f066ad3a-cdf8-4ada-9297-8e9558312b71
+Date: Mon, 09 Sep 2024 14:49:05 +0000
+Link: https://blog.spiraldb.com/compressing-strings-with-fsst/
+Title: Random access string compression with FSST and Rust
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, aduffy, fsst, rust, compression, optimization
+Origin: https://news.ycombinator.com/item?id=41489047
+
