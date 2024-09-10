@@ -6729,3 +6729,12 @@ Category: craftsmanship
 Tags: hackernews, imported, breckognize, end-to-end, testing, correctness, hypothesis, rust, property-based-testing
 Origin: https://news.ycombinator.com/item?id=41512270
 
+Id: 75f57909-fa4c-4c4b-be56-336aa2b38e60
+Date: Tue, 10 Sep 2024 00:52:12 +0000
+Link: https://github.com/lakehq/sail
+Title: Sail – Unify stream processing, batch processing and compute-intensive workloads
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, chenxi9649, alternative-to, spark, batch-processing, batch, rust
+Origin: https://news.ycombinator.com/item?id=41496033
+
