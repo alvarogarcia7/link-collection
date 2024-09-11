@@ -6720,3 +6720,12 @@ Category: craftsmanship
 Tags: hackernews, imported, aduffy, fsst, rust, compression, optimization
 Origin: https://news.ycombinator.com/item?id=41489047
 
+Id: 1ccaf6c9-5bf1-46bf-bed6-0bfdc3167d63
+Date: Wed, 11 Sep 2024 15:25:51 +0000
+Link: https://rowzero.io/blog/property-based-testing
+Title: We verify the correctness of a spreadsheet engine
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, breckognize, end-to-end, testing, correctness, hypothesis, rust, property-based-testing
+Origin: https://news.ycombinator.com/item?id=41512270
+
