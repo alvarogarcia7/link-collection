@@ -7332,3 +7332,12 @@ Category: craftsmanship
 Tags: hackernews, imported, fzliu, data-structure, bloom-filter, kalman-filter, algorithm, data-fusion, pdf
 Origin: https://news.ycombinator.com/item?id=43029314
 
+Id: c8885596-d9c7-4a14-822b-8d4b384e89dd
+Date: Mon, 17 Feb 2025 21:59:14 +0000
+Link: https://previnder.com/tls-ca-linux/
+Title: Setting up a trusted, self-signed SSL/TLS certificate authority in Linux
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, previnder, ca, certificate-authority, ssl, tls, domain, certificate, tutorial, smallstep, xca, mkcert
+Origin: https://news.ycombinator.com/item?id=43083687
+
