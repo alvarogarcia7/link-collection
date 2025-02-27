@@ -7503,3 +7503,12 @@ Category: craftsmanship
 Tags: hackernews, imported, hello12343214, project, scroll-bar, proof-of-concept, poc
 Origin: https://news.ycombinator.com/item?id=43237581
 
+Id: 2d81bb73-14ef-4825-9ae9-fe791b1d8a89
+Date: Thu, 27 Feb 2025 10:47:31 +0000
+Link: https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873
+Title: API design note: Beware of adding an "Other" enum value
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, luu, design, api, enum, language
+Origin: https://news.ycombinator.com/item?id=43193160
+
