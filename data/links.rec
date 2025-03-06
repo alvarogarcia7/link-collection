@@ -7772,3 +7772,12 @@ Category: craftsmanship
 Tags: hackernews, imported, el_duderino, bluetooth, esp32, esp, espressif, backdoor, security, iot
 Origin: https://news.ycombinator.com/item?id=43301369
 
+Id: 7bdee189-cc04-4a0e-885b-e096550c915d
+Date: Thu, 06 Mar 2025 14:23:24 +0000
+Link: https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/
+Title: Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, dreampeppers99, object-oriented, polymorphism, c-language, linux, ffmpeg, driver, oop
+Origin: https://news.ycombinator.com/item?id=43280517
+
