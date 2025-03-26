@@ -7844,3 +7844,12 @@ Category: craftsmanship
 Tags: hackernews, imported, ea-3167, quantum-computer, hard-problem, p-vs-np, np-vs-p, algorithm
 Origin: https://news.ycombinator.com/item?id=43392950
 
+Id: 806ddbd9-8ff4-48ec-a9c8-f6481a88ed3a
+Date: Wed, 26 Mar 2025 17:08:56 +0000
+Link: https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md
+Title: A love letter to the CSV format
+Body: A discussion on the CSV exchange format, along with a comparison with other ones: XML, JSON, Parquet
+Category: craftsmanship
+Tags: hackernews, imported, yomguithereal, exchange-format, data-type, xml, csv, json, parquet, excel, data-format, file, legacy
+Origin: https://news.ycombinator.com/item?id=43484382
+
