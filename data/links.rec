@@ -7925,3 +7925,13 @@ Category: craftsmanship
 Tags: hackernews, imported, luu, database, migration, code, function, haskell, function-call, type
 Origin: https://news.ycombinator.com/item?id=43497506
 
+Id: 3b9a9b59-c3e5-4696-a7a3-3faeb02331ce
+Date: Thu, 27 Mar 2025 02:02:40 +0000
+Link: https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563
+Title: It's five grand a day to miss our S3 exit
+Body: using the 60-day window of free exiting from S3, they will remove the data from S3 into another service.
++ The costs of storage are 1.5M/year, hence ~5000 USD/day of staying there.
+Category: craftsmanship
+Tags: hackernews, imported, ksec, s3, aws, dhh, hey, storage, exit, deadline
+Origin: https://news.ycombinator.com/item?id=43489698
+
