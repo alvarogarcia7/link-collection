@@ -7907,3 +7907,12 @@ Category: craftsmanship
 Tags: hackernews, imported, tantalor, honey, plugin, browser, paypal, funnel, sales
 Origin: https://news.ycombinator.com/item?id=43538113
 
+Id: bfa7b8a2-e2d1-41d3-bb11-1a23712f4470
+Date: Sun, 30 Mar 2025 17:51:42 +0000
+Link: https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html
+Title: Why is this site built with C
+Body: A blog post about why to generate the static site in C using a tool called md4c
+Category: craftsmanship
+Tags: hackernews, imported, todsacerdoti, md4c, blog, static-site, github-pages, personal-blog
+Origin: https://news.ycombinator.com/item?id=43526058
+
