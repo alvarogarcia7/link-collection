@@ -7964,3 +7964,14 @@ Category: craftsmanship
 Tags: hackernews, imported, yamrzou, negotiation, salary, career, career-management
 Origin: https://news.ycombinator.com/item?id=43596864
 
+Id: 61079f68-6e62-43ad-bc64-4a446753f9f0
+Date: Sun, 06 Apr 2025 21:14:09 +0000
+Link: https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/
+Title: Rsync replaced with openrsync on macOS Sequoia
+Body: Apple has replaced the rsync tool with openrsync. Mostly to solve issues with the GPL terms.
++ 
++ This brings a break in API, as some arguments are no longer supported
+Category: craftsmanship
+Tags: hackernews, imported, zdw, apple, rsync, openrsync, gpl, license, isc, isc-license, gnu, argument, replacement, os, sync
+Origin: https://news.ycombinator.com/item?id=43605003
+
