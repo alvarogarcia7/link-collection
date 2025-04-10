@@ -8221,3 +8221,12 @@ Category: craftsmanship
 Tags: hackernews, imported, splimeproject, monetization, open-source, app, money, personal-project, code, programming
 Origin: https://news.ycombinator.com/item?id=43667887
 
+Id: daca9ffa-f8b4-443e-a3be-3c2b96d1b5fe
+Date: Thu, 10 Apr 2025 20:10:14 +0000
+Link: https://github.com/sourcefrog/cargo-mutants
+Title: Cargo-mutants:zombie: Inject bugs and see if your tests catch them
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, todsacerdoti, mutation-testing, rust, library, test
+Origin: https://news.ycombinator.com/item?id=43647605
+
