@@ -8248,3 +8248,12 @@ Category: craftsmanship
 Tags: hackernews, imported, ericvolp12, radiofrequency, rf, boiler, appliance, replay-attack, security, domotic, home-automation, automation, alexa, hackrf, sdr, software-defined-radio
 Origin: https://news.ycombinator.com/item?id=43759073
 
+Id: 0fb402e4-22ea-4b13-82c5-c43fee9ca13b
+Date: Sun, 20 Apr 2025 19:38:29 +0000
+Link: https://github.com/secure-foundations/verus
+Title: Verus: Verified Rust for low-level systems code
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, mmcloughlin, verus, tool, rust, verification, ada, contract, prerequisite, precondition, postcondition, prusti, creusot
+Origin: https://news.ycombinator.com/item?id=43745987
+
