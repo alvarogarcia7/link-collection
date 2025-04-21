@@ -8295,3 +8295,12 @@ Category: craftsmanship
 Tags: hackernews, imported, motiejus, synology, vendor-lock-in, lock-in, hard-drive, nas, san
 Origin: https://news.ycombinator.com/item?id=43734706
 
+Id: e731ab94-096c-4d4f-ac9d-cc078a71ea59
+Date: Mon, 21 Apr 2025 12:16:16 +0000
+Link: https://herecomesthemoon.net/2025/04/pipelining/
+Title: Pipelining might be my favorite programming language feature
+Body: the syntaax of `thing | map | filter` rather than `filter(map(thing))`
+Category: craftsmanship
+Tags: hackernews, imported, mond_, filter, map, f-sharp, haskell, pointfree, python, lambda, programming-language
+Origin: https://news.ycombinator.com/item?id=43751076
+
