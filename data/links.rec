@@ -8383,3 +8383,12 @@ Category: craftsmanship
 Tags: hackernews, imported, antirez, redis, open-source, license, antirez
 Origin: https://news.ycombinator.com/item?id=43859446
 
+Id: c2430b29-5f45-4938-b876-08867ded74af
+Date: Fri, 25 Apr 2025 13:48:30 +0000
+Link: https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack
+Title: Writing "/etc/hosts" breaks the Substack editor
+Body: Some forbidden words are captured in an unexpected layer of the application deployment
+Category: craftsmanship
+Tags: hackernews, imported, scalewithlee, cloudflare, cdn, unexpected, error, forbidden, censorship, failure, etc-hosts
+Origin: https://news.ycombinator.com/item?id=43793526
+
