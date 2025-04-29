@@ -8419,3 +8419,12 @@ Category: craftsmanship
 Tags: hackernews, imported, shakna, zork, adventure, dungeon, game, text-game, text-adventure, 1976, colossal-cave-adventure
 Origin: https://news.ycombinator.com/item?id=43800222
 
+Id: 85d78f5a-caac-461f-98dc-8e30831c7429
+Date: Tue, 29 Apr 2025 14:30:11 +0000
+Link: https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4
+Title: Jepsen: Amazon RDS for PostgreSQL 17.4
+Body: Jepsen report for Amazon's RDS for PostgreSQL
+Category: craftsmanship
+Tags: hackernews, imported, aphyr, jepsen, aphyr, report, postgres, postgresql, amazon-rds, amazon, aws, rds, db, database
+Origin: https://news.ycombinator.com/item?id=43833195
+
