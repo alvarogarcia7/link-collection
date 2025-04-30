@@ -8473,3 +8473,12 @@ Category: craftsmanship
 Tags: hackernews, imported, mfrw, bloom-filter, data-structure, probabilistic-data-structure, burton-howard-bloom, hash, double-hash
 Origin: https://news.ycombinator.com/item?id=43866001
 
+Id: 7a8ed341-3929-4a5f-98e4-533be4f822e9
+Date: Wed, 30 Apr 2025 21:56:34 +0000
+Link: https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/
+Title: RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, mmastrac, llm, ai, rust, compiler, developer-mistake, compilation-error
+Origin: https://news.ycombinator.com/item?id=43851143
+
