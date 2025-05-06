@@ -8708,3 +8708,17 @@ Category: craftsmanship
 Tags: hackernews, imported, fjk, tool, audiobook, podcast, server, self-hosted, android
 Origin: https://news.ycombinator.com/item?id=43933248
 
+Id: 46aac230-34ff-4e36-98d4-5bf08631681a
+Date: Tue, 06 May 2025 13:54:23 +0000
+Link: https://www.sung.codes/blog/2017/throwaway-code-dont-recycle-throw-away
+Title: Throwaway Code: Don't recycle, throw it away (2017)
+Body: In my experience, if you have a medium sized task with multiple unknowns, it is best to prototype aggressively without a thought about quality, and then start a second iteration with quality in mind. The purpose of the prototyping is learning.
+It’s faster (yes) than prototype-then-fixup. Why? Because the ”live refactor” is harder than the greenfield writing phase. The new knowledge often makes the impl straightforward.
+
+It’s also better quality than design-then-build. The optimal architecture and modularization change with knowledge increase, which is best to get via experience. You can design fully upfront but it’s riddled with analysis paralysis - it’s notoriously hard (and slow) to predict unknowns.
+
+Sounds like good advice? Well, the hardest part isn’t to follow it – it’s to know upfront what size of task it is. If it turns out to be easier, you waste a bit of work (prototype-fixup is faster). However, if it’s bigger than you thought – you’re in the best possible position to break down the new problem into subtasks, with no wasted work.
+Category: craftsmanship
+Tags: hackernews, imported, sails, sacrificial-architecture, learning, curve, throwaway, architecture, code, exercise
+Origin: https://news.ycombinator.com/item?id=43905153
+
