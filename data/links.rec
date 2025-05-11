@@ -8654,3 +8654,12 @@ Category: craftsmanship
 Tags: hackernews, imported, todsacerdoti, reverse-engineering, wsc, proxy, mitm, windows-security-center
 Origin: https://news.ycombinator.com/item?id=43959403
 
+Id: 919871f8-71bd-411e-9dda-c2670a728b7e
+Date: Sun, 11 May 2025 17:38:38 +0000
+Link: https://vlaaad.github.io/lsp-client-in-200-lines-of-code
+Title: LSP client in Clojure in 200 lines of code
+Body: 
+Category: craftsmanship
+Tags: hackernews, imported, vlaaad, clojure, wasm, lsp, m+n-problem, ide
+Origin: https://news.ycombinator.com/item?id=43955397
+
