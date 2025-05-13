@@ -8504,3 +8504,18 @@ Category: craftsmanship
 Tags: hackernews, imported, lunar5227, psychology, meditations, marcus-aurelius, stoicism, quote, curse, dichotomy-of-control, analogy
 Origin: https://news.ycombinator.com/item?id=43902212
 
+Id: 2766b6cc-2320-4873-9349-a212a428f4b6
+Date: Tue, 13 May 2025 22:25:29 +0000
+Link: https://corrode.dev/blog/flattening-rusts-learning-curve/
+Title: Flattening Rust’s learning curve
+Body: Tips and tricks to learn rust faster.
++ 
++ Stay away from AI/LLM
++ * Trust the compiler as pair, not as an enemy
++ * Create new intuitions
++ * Build knowledge (on top of what already know, by analogies)
++ 
+Category: craftsmanship
+Tags: hackernews, imported, birdculture, rust, learning-curve, tips-and-tricks, programming-language, learning, learning-curve
+Origin: https://news.ycombinator.com/item?id=43978435
+
