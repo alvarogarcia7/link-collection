@@ -8870,3 +8870,14 @@ Category: craftsmanship
 Tags: hackernews, imported, ingve, simonwillison, notes, note-app, application, app, github-issues, markdown, org-mode
 Origin: https://news.ycombinator.com/item?id=44094980
 
+Id: 7131f687-f3b2-42f1-b2c5-86104d00f10f
+Date: Fri, 30 May 2025 03:55:37 +0000
+Link: https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
+Title: The radix 2^51 trick (2017)
+Body: An interesting article explaining the concept of 'limbs' in cryptography or in big number computation.
++ 
++ By splitting the number into more variables, the overflows are less often and carries need to be computed less often, hence improving performance.
+Category: craftsmanship
+Tags: hackernews, imported, blobcode, limb, cryptography, low-level, implementation, add, advc, adc, uop, cpu, architecture, microarchitecture, processor, compiler, c-language
+Origin: https://news.ycombinator.com/item?id=44132673
+
