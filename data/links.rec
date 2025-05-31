@@ -8944,3 +8944,12 @@ Category: mathematics
 Tags: hackernews, imported, surprisetalk, logarithm, estimation, neperian-logarithm
 Origin: https://news.ycombinator.com/item?id=44142251
 
+Id: 6c5d9609-bf55-40ab-8311-2ac4bbe165ac
+Date: Sat, 31 May 2025 07:05:57 +0000
+Link: https://simonbyrne.github.io/notes/fastmath/
+Title: Beware of Fast-Math
+Body: A deep research on the implications of fast-math optimization on the compiler (both GCC and clang)
+Category: craftsmanship
+Tags: hackernews, imported, blobcode, gc, gcc, clang, fast-math, ofast, optimization, optimization-flag, compiler, c-language
+Origin: https://news.ycombinator.com/item?id=44142472
+
