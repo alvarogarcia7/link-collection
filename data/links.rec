@@ -8908,3 +8908,12 @@ Category: craftsmanship
 Tags: hackernews, imported, todsacerdoti, kotlin, lsp, editor, java, visual-studio, code
 Origin: https://news.ycombinator.com/item?id=44058299
 
+Id: 683d49bd-acbe-44fd-b1c6-97937e151087
+Date: Sun, 01 Jun 2025 00:58:00 +0000
+Link: https://overreacted.io/progressive-json/
+Title: Progressive JSON
+Body: An interesting idea to create references in JSON to allow for progressive loading of data, also allowing cyclical references in the document, also allowing compression of data by using refereces to shared data.
+Category: craftsmanship
+Tags: hackernews, imported, kacesensitive, progressive-jpg, progressive-json, progressive-data, progressive-loading, jpg, technique, cyclical, cyclical-reference, json, data, proposal
+Origin: https://news.ycombinator.com/item?id=44147945
+
